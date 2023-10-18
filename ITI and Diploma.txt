@@ -7,54 +7,85 @@ Computer Science and Information Technology (IT):
 6. ITI in Computer Hardware and Networking
 7. ITI in Information Technology
 8. ITI in Mobile Repair and Maintenance
+9. Vocational Training in Data Entry and Office Automation
+10. Vocational Training in Computer Programming
+11. Vocational Training in Mobile App Development
+12. Vocational Training in Web Development
+13. Vocational Training in Computer Hardware and Networking
+14. Vocational Training in Mobile Phone Repair Technician
 
 Mechanical and Electrical:
-9. Diploma in Mechanical Engineering
-10. Diploma in Civil Engineering
-11. Diploma in Electrical Engineering
-12. Diploma in Automobile Engineering
-13. Diploma in Chemical Engineering
-14. Diploma in Mechatronics
-15. ITI in Mechanical
-16. ITI in Automotive Technology
-17. ITI in Welding and Fabrication
-18. ITI in Fitter and Turner
-19. ITI in Machinist
-20. ITI in Foundry and Pattern Making
-21. ITI in CNC Operator
+1. Diploma in Mechanical Engineering
+2. Diploma in Civil Engineering
+3. Diploma in Electrical Engineering
+4. Diploma in Automobile Engineering
+5. Diploma in Chemical Engineering
+6. Diploma in Mechatronics
+7. ITI in Mechanical
+8. ITI in Automotive Technology
+9. ITI in Welding and Fabrication
+10. ITI in Fitter and Turner
+11. ITI in Machinist
+12. ITI in Foundry and Pattern Making
+13. ITI in CNC Operator
+14. Vocational Training in Welding Technician
+15. Vocational Training in Automotive Technician
+16. Vocational Training in Electrician
+17. Vocational Training in AutoCAD and Drafting Certification
+18. Vocational Training in Robotics and Automation Workshop
+19. Vocational Training in Machinist and CNC Operator
+20. Vocational Training in HVAC Technician
 
 Electronics and Communication:
-22. Diploma in Electronics and Communication
-23. ITI in Electronics and Communication
-24. ITI in Instrumentation and Control
+1. Diploma in Electronics and Communication
+2. ITI in Electronics and Communication
+3. ITI in Instrumentation and Control
 
 Construction and Design:
-25. Diploma in Architecture
-26. Diploma in Interior Design
-27. ITI in Plumbing and Pipefitting
-28. ITI in Carpentry and Woodworking
+1. Diploma in Architecture
+2. Diploma in Interior Design
+3. ITI in Plumbing and Pipefitting
+4. ITI in Carpentry and Woodworking
+5. Vocational Training in Welding Technician
+6. Vocational Training in Plumbing and Pipefitting
+7. Vocational Training in Carpentry and Woodworking
 
 Hospitality and Event Management:
-29. Diploma in Hotel Management
-30. Diploma in Event Management
-31. Diploma in Aviation and Hospitality Management
+1. Diploma in Hotel Management
+2. Diploma in Event Management
+3. Diploma in Aviation and Hospitality Management
+4. Vocational Training in Hospitality and Customer Service
+5. Vocational Training in Healthcare Assistant Training
+6. Vocational Training in Basic First Aid and Safety Training
+7. Vocational Training in Retail Sales and Customer Service
 
 Life Sciences and Environment:
-32. Diploma in Biotechnology
-33. Diploma in Environmental Science
-34. Diploma in Veterinary Science
+1. Diploma in Biotechnology
+2. Diploma in Environmental Science
+3. Diploma in Veterinary Science
 
 Arts and Media:
-35. Diploma in Animation and Multimedia
-36. Diploma in Film Making and Direction
-37. Diploma in Photography
+1. Diploma in Animation and Multimedia
+2. Diploma in Film Making and Direction
+3. Diploma in Photography
+4. Vocational Training in Graphic design Essentials
+5. Vocational Training in Digital Marketing Certification
+6. Vocational Training in Photography and Videography Course
+7. Vocational Training in Fashion Design and Tailoring
+8. Vocational Training in Language Proficiency Course
 
 Physical Education and Wellness:
-38. Diploma in Early Childhood Education
-39. Diploma in Yoga and Wellness
-40. ITI in Beauty and Wellness
+1. Diploma in Early Childhood Education
+2. Diploma in Yoga and Wellness
+3. ITI in Beauty and Wellness
+4. Vocational Training in Beauty and Makeup Artistry
 
-Finance and Accounting:
-41. Diploma in Financial Accounting
+Finance, Business and Marketing:
+1. Diploma in Financial Accounting
+2. Vocational Training in Digital Marketing Certification
+3. Vocational Training in Entrepreneurship and Business Skills
 
-
+Culinary Studies and Cooking
+1. Vocational Training in Culinary arts and Cooking
+2. Vocational Training in Baking and Pastry Arts
+3. Vocational Training in Food Safety and Hygiene Certification
