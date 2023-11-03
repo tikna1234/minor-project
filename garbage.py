@@ -1,4 +1,4 @@
-import csv
+'''import csv
 import random
 
 subjects = ["English", "Mathematics", "Science", "Social Studies", "Logical Reasoning", "Computer Awareness"]
@@ -25,4 +25,31 @@ with open("garbage.csv", mode='w', newline='') as file:
         if row_count >= 4000:  # Check if the row count has reached 4000
             break
 
+print("CSV dataset created successfully")'''
+import csv
+import random
+
+subjects = ["English", "Mathematics", "Science", "Social Studies", "Logical Reasoning", "Computer Awareness"]
+
+with open("garbage.csv", mode='w', newline='') as file:
+    writer = csv.writer(file)
+    row_count = 0  # Initialize a counter for the rows
+
+    for student_id in range(1, 4001):  # Adjust the range to iterate 4000 times
+        for a in range(6):
+            marks = [random.randint(0, 39) for _ in subjects]
+            # Choose one subject randomly and set its value between 50 and 80
+            random_subject_index = random.randint(0, len(subjects) - 1)
+            marks[random_subject_index] = random.randint(50, 80)
+
+            writer.writerow([student_id] + marks)
+            row_count += 1  # Increment the counter
+
+            if row_count >= 4000:  # Check if the row count has reached 4000
+                break
+
+        if row_count >= 4000:  # Check if the row count has reached 4000
+            break
+
 print("CSV dataset created successfully")
+
