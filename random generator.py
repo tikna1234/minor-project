@@ -28,7 +28,7 @@ with open("Vocational_marks.csv", mode='w', newline='') as file:
 
 print("CSV dataset generated successfully.")'''
 
-import csv
+'''import csv
 import random
 
 # Define the subjects and their corresponding criteria
@@ -57,4 +57,4 @@ with open("iti_marks1.csv", "w", newline="") as csvfile:
             marks = {subject: random.randint(criterion[subject][0], criterion[subject][1]) for subject in subjects}
             writer.writerow([student_id] + list(marks.values()))
 
-print("CSV dataset generated successfully.")
+print("CSV dataset generated successfully.")'''
