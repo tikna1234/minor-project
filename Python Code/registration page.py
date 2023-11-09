@@ -9,10 +9,12 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
+import sqlite3
+con = sqlite3.connect("G:\reps\minor-project\Database\Career_Recommedation_System.db")
 
-
-class Ui_MainWindow(object):
+class Registration(object):
     def setupUi(self, MainWindow):
+        self.cur = con.cursor()
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(339, 496)
         font = QtGui.QFont()
@@ -36,35 +38,36 @@ class Ui_MainWindow(object):
         self.label_5 = QtWidgets.QLabel(self.centralwidget)
         self.label_5.setObjectName("label_5")
         self.verticalLayout.addWidget(self.label_5)
-        self.lineEdit_7 = QtWidgets.QLineEdit(self.centralwidget)
-        self.lineEdit_7.setObjectName("lineEdit_7")
-        self.verticalLayout.addWidget(self.lineEdit_7)
+        self.FirstNameLineEdit = QtWidgets.QLineEdit(self.centralwidget)
+        self.FirstNameLineEdit.setObjectName("FirstNameLineEdit")
+        self.verticalLayout.addWidget(self.FirstNameLineEdit)
         self.label_6 = QtWidgets.QLabel(self.centralwidget)
         self.label_6.setObjectName("label_6")
         self.verticalLayout.addWidget(self.label_6)
-        self.lineEdit_6 = QtWidgets.QLineEdit(self.centralwidget)
-        self.lineEdit_6.setObjectName("lineEdit_6")
-        self.verticalLayout.addWidget(self.lineEdit_6)
+        self.LastNameLineEdit = QtWidgets.QLineEdit(self.centralwidget)
+        self.LastNameLineEdit.setObjectName("LastNameLineEdit")
+        self.verticalLayout.addWidget(self.LastNameLineEdit)
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
         self.label_2.setLayoutDirection(QtCore.Qt.LeftToRight)
         self.label_2.setAlignment(QtCore.Qt.AlignLeading|QtCore.Qt.AlignLeft|QtCore.Qt.AlignVCenter)
         self.label_2.setObjectName("label_2")
         self.verticalLayout.addWidget(self.label_2)
-        self.lineEdit_4 = QtWidgets.QLineEdit(self.centralwidget)
-        self.lineEdit_4.setObjectName("lineEdit_4")
-        self.verticalLayout.addWidget(self.lineEdit_4)
+        self.UserIdLineEdit = QtWidgets.QLineEdit(self.centralwidget)
+        self.UserIdLineEdit.setObjectName("UserIdLineEdit")
+        self.verticalLayout.addWidget(self.UserIdLineEdit)
         self.label = QtWidgets.QLabel(self.centralwidget)
         self.label.setEnabled(True)
         self.label.setObjectName("label")
         self.verticalLayout.addWidget(self.label)
-        self.lineEdit_5 = QtWidgets.QLineEdit(self.centralwidget)
-        self.lineEdit_5.setObjectName("lineEdit_5")
-        self.verticalLayout.addWidget(self.lineEdit_5)
+        self.PasswordLineEdit = QtWidgets.QLineEdit(self.centralwidget)
+        self.PasswordLineEdit.setObjectName("PasswordLineEdit")
+        self.verticalLayout.addWidget(self.PasswordLineEdit)
         spacerItem = QtWidgets.QSpacerItem(20, 20, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Fixed)
         self.verticalLayout.addItem(spacerItem)
-        self.pushButton = QtWidgets.QPushButton(self.centralwidget)
-        self.pushButton.setObjectName("pushButton")
-        self.verticalLayout.addWidget(self.pushButton)
+        self.registerButton = QtWidgets.QPushButton(self.centralwidget)
+        self.registerButton.setObjectName("registerButton")
+        self.registerButton.clicked.connect(self.Register)
+        self.verticalLayout.addWidget(self.registerButton)
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 339, 32))
@@ -79,20 +82,30 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Registration Form"))
         self.label_3.setText(_translate("MainWindow", "Registration"))
         self.label_5.setText(_translate("MainWindow", "First Name"))
         self.label_6.setText(_translate("MainWindow", "Last Name"))
-        self.label_2.setText(_translate("MainWindow", "ID"))
+        self.label_2.setText(_translate("MainWindow", "User Id"))
         self.label.setText(_translate("MainWindow", "Password"))
-        self.pushButton.setText(_translate("MainWindow", "Register"))
+        self.registerButton.setText(_translate("MainWindow", "Register"))
 
+    def Register(self):
+        firstname=self.FirstNameLineEdit.text()
+        lastname=self.LastNameLineEdit.text()
+        userid=self.UserIdLineEdit.text()
+        password=self.PasswordLineEdit.text()
+        statement= f"INSERT INTO user_info VALUES('{userid}', '{firstname}', '{lastname}', '{password}')"
+        self.cur.execute(statement)
+        con.commit()
+        
 
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
     MainWindow = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow()
+    ui = Registration()
     ui.setupUi(MainWindow)
     MainWindow.show()
     sys.exit(app.exec_())
+
