@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>MainWindow</class>
- <widget class="QMainWindow" name="MainWindow">
+ <class>TakeTestWindow</class>
+ <widget class="QMainWindow" name="TakeTestWindow">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -11,10 +11,10 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Test_Page</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QRadioButton" name="radioButton_2">
+   <widget class="QRadioButton" name="Option2Button">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -26,6 +26,9 @@
     <property name="text">
      <string>Option2</string>
     </property>
+    <attribute name="buttonGroup">
+     <string notr="true">AnswerbuttonGroup</string>
+    </attribute>
    </widget>
    <widget class="QLabel" name="label_2">
     <property name="geometry">
@@ -36,11 +39,16 @@
       <height>21</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>9</pointsize>
+     </font>
+    </property>
     <property name="text">
      <string>Question</string>
     </property>
    </widget>
-   <widget class="QRadioButton" name="radioButton_4">
+   <widget class="QRadioButton" name="Option4Button">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -52,8 +60,11 @@
     <property name="text">
      <string>Option4</string>
     </property>
+    <attribute name="buttonGroup">
+     <string notr="true">AnswerbuttonGroup</string>
+    </attribute>
    </widget>
-   <widget class="QRadioButton" name="radioButton">
+   <widget class="QRadioButton" name="Option1Button">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -65,6 +76,9 @@
     <property name="text">
      <string>Option1</string>
     </property>
+    <attribute name="buttonGroup">
+     <string notr="true">AnswerbuttonGroup</string>
+    </attribute>
    </widget>
    <widget class="QLabel" name="label">
     <property name="geometry">
@@ -75,11 +89,18 @@
       <height>31</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
     <property name="text">
-     <string>Question No. 2</string>
+     <string>Question NO. 0</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="NextButton">
     <property name="geometry">
      <rect>
       <x>620</x>
@@ -92,7 +113,7 @@
      <string>Next</string>
     </property>
    </widget>
-   <widget class="QRadioButton" name="radioButton_3">
+   <widget class="QRadioButton" name="Option3Button">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -104,8 +125,11 @@
     <property name="text">
      <string>Option3</string>
     </property>
+    <attribute name="buttonGroup">
+     <string notr="true">AnswerbuttonGroup</string>
+    </attribute>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="BackButton">
     <property name="geometry">
      <rect>
       <x>80</x>
@@ -133,4 +157,7 @@
  </widget>
  <resources/>
  <connections/>
+ <buttongroups>
+  <buttongroup name="AnswerbuttonGroup"/>
+ </buttongroups>
 </ui>

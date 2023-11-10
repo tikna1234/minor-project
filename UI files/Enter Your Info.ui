@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>MainWindow</class>
- <widget class="QMainWindow" name="MainWindow">
+ <class>EnterInfoWindow</class>
+ <widget class="QMainWindow" name="EnterInfoWindow">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -11,10 +11,10 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Information_Page</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="EnterInfoButton">
     <property name="geometry">
      <rect>
       <x>150</x>
@@ -27,7 +27,7 @@
      <string>ENTER INFO</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton_2">
+   <widget class="QPushButton" name="BackButton">
     <property name="geometry">
      <rect>
       <x>390</x>
@@ -73,7 +73,7 @@
      <string>English:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit">
+   <widget class="QLineEdit" name="EnglishLineEdit">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -96,7 +96,7 @@
      <string>Mathematics:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_2">
+   <widget class="QLineEdit" name="MathsLineEdit">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -119,7 +119,7 @@
      <string>Social Studies:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_3">
+   <widget class="QLineEdit" name="SstLineEdit">
     <property name="geometry">
      <rect>
       <x>190</x>
@@ -142,7 +142,7 @@
      <string>Science:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_4">
+   <widget class="QLineEdit" name="ScienceLineEdit">
     <property name="geometry">
      <rect>
       <x>560</x>
@@ -165,7 +165,7 @@
      <string>Computer:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_5">
+   <widget class="QLineEdit" name="ComputerLineEdit">
     <property name="geometry">
      <rect>
       <x>560</x>
@@ -206,7 +206,7 @@
      <string>Enter your class 10 marks below:</string>
     </property>
    </widget>
-   <widget class="QComboBox" name="comboBox">
+   <widget class="QComboBox" name="InterestsCB">
     <property name="geometry">
      <rect>
       <x>280</x>
