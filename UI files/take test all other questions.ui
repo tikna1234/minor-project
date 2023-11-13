@@ -14,7 +14,7 @@
    <string>Test_Page</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QRadioButton" name="Option2Button">
+   <widget class="QRadioButton" name="Option2RButton">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -30,7 +30,7 @@
      <string notr="true">AnswerbuttonGroup</string>
     </attribute>
    </widget>
-   <widget class="QLabel" name="label_2">
+   <widget class="QLabel" name="QuestionLbl">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -48,7 +48,7 @@
      <string>Question</string>
     </property>
    </widget>
-   <widget class="QRadioButton" name="Option4Button">
+   <widget class="QRadioButton" name="Option4RButton">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -64,7 +64,7 @@
      <string notr="true">AnswerbuttonGroup</string>
     </attribute>
    </widget>
-   <widget class="QRadioButton" name="Option1Button">
+   <widget class="QRadioButton" name="Option1RButton">
     <property name="geometry">
      <rect>
       <x>40</x>
@@ -80,7 +80,7 @@
      <string notr="true">AnswerbuttonGroup</string>
     </attribute>
    </widget>
-   <widget class="QLabel" name="label">
+   <widget class="QLabel" name="QuestionNumLbl">
     <property name="geometry">
      <rect>
       <x>20</x>
@@ -113,7 +113,7 @@
      <string>Next</string>
     </property>
    </widget>
-   <widget class="QRadioButton" name="Option3Button">
+   <widget class="QRadioButton" name="Option3RButton">
     <property name="geometry">
      <rect>
       <x>40</x>
