@@ -24,6 +24,10 @@ Classification is a type of supervised learning where the algorithm learns to as
 ##Content based filtering##
 
 
+Content-based filtering is a machine learning approach used in recommendation systems to suggest items to users based on the characteristics of the items and the preferences of the users. Instead of relying on the collaborative behavior of users (as seen in collaborative filtering), content-based filtering considers the features or attributes of items and recommends new items that are similar to those a user has liked or interacted with in the past.
+In machine learning applications, content-based filtering finds its use in various recommendation systems, such as suggesting movies, music, articles, or products to users based on their historical preferences or explicit feedback.
+Using content based filtering in machine learning models can recommend new items that align with users' tastes, making the recommendation process more personalized and potentially increasing user satisfaction and engagement.
+
 ##KNN##
 
 K-Nearest Neighbours is one of the most basic yet essential classification algorithms in Machine Learning. It belongs to the supervised learning domain and finds intense application in pattern recognition, data mining, and intrusion detection.It can also handle both numerical and categorical data, making it a flexible choice for various types of datasets in classification and regression tasks. It is a non-parametric method that makes predictions based on the similarity of data points in a given dataset. K-NN is less sensitive to outliers compared to other algorithms.The applications of KNN are data preprocessing, pattern recognition, Recommendation Engines. 
