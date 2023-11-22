@@ -9,7 +9,6 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-
 import sqlite3
 con = sqlite3.connect("G:\minorproject\Database\Career_Recommedation_System.db")
 
@@ -21,19 +20,17 @@ class Ui_loginWindow(object):
         self.ui.setupUi(self.window)
         self.window.show()
         loginWindow.hide()
-
     def setupUi(self, loginWindow):
-        self.cur = con.cursor()
         loginWindow.setObjectName("loginWindow")
         loginWindow.resize(422, 343)
         self.centralwidget = QtWidgets.QWidget(loginWindow)
         self.centralwidget.setObjectName("centralwidget")
-        self.UserNameLbl = QtWidgets.QLabel(self.centralwidget)
-        self.UserNameLbl.setGeometry(QtCore.QRect(70, 90, 71, 16))
-        self.UserNameLbl.setObjectName("UserNameLbl")
-        self.UserNameLineEdit = QtWidgets.QLineEdit(self.centralwidget)
-        self.UserNameLineEdit.setGeometry(QtCore.QRect(150, 85, 113, 22))
-        self.UserNameLineEdit.setObjectName("UserNameLineEdit")
+        self.UserIDLbl = QtWidgets.QLabel(self.centralwidget)
+        self.UserIDLbl.setGeometry(QtCore.QRect(70, 90, 71, 16))
+        self.UserIDLbl.setObjectName("UserIDLbl")
+        self.UserIDLineEdit = QtWidgets.QLineEdit(self.centralwidget)
+        self.UserIDLineEdit.setGeometry(QtCore.QRect(150, 85, 113, 22))
+        self.UserIDLineEdit.setObjectName("UserIDLineEdit")
         self.LoginButton = QtWidgets.QPushButton(self.centralwidget)
         self.LoginButton.setGeometry(QtCore.QRect(30, 200, 93, 28))
         self.LoginButton.setObjectName("LoginButton")
@@ -57,7 +54,7 @@ class Ui_loginWindow(object):
     def retranslateUi(self, loginWindow):
         _translate = QtCore.QCoreApplication.translate
         loginWindow.setWindowTitle(_translate("loginWindow", "Login_Page"))
-        self.UserNameLbl.setText(_translate("loginWindow", "Username:"))
+        self.UserIDLbl.setText(_translate("loginWindow", "User ID:"))
         self.LoginButton.setText(_translate("loginWindow", "Login"))
         self.RegisterButton.setText(_translate("loginWindow", "Register"))
 
@@ -87,7 +84,7 @@ class Ui_loginWindow(object):
         return name
 
     def Login(self, loginWindow):
-        user_id = self.UserNameLineEdit.text()
+        user_id = self.UserIDLineEdit.text()
         statement = f"SELECT User_id from user_info WHERE User_id='{user_id}';"
         self.cur.execute(statement)
         if not self.cur.fetchone():
@@ -95,6 +92,7 @@ class Ui_loginWindow(object):
         else:
             name = self.fetchname(user_id)
             self.gotomenu(loginWindow, f"Welcome, {name}. Please enter your information here:")
+
 
 if __name__ == "__main__":
     import sys
@@ -104,4 +102,3 @@ if __name__ == "__main__":
     ui.setupUi(loginWindow)
     loginWindow.show()
     sys.exit(app.exec_())
-

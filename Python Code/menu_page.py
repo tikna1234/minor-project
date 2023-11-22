@@ -58,6 +58,7 @@ class Ui_MenuWindow(object):
         font.setWeight(50)
         self.EnterButton.setFont(font)
         self.EnterButton.setObjectName("EnterButton")
+        self.EnterButton.clicked.connect(lambda: self.infopage(MenuWindow))
         self.verticalLayout.addWidget(self.splitter_2)
         spacerItem1 = QtWidgets.QSpacerItem(269, 6, QtWidgets.QSizePolicy.Minimum, QtWidgets.QSizePolicy.Expanding)
         self.verticalLayout.addItem(spacerItem1)
@@ -72,6 +73,7 @@ class Ui_MenuWindow(object):
         font.setWeight(50)
         self.TakeTestButton.setFont(font)
         self.TakeTestButton.setObjectName("TakeTestButton")
+        self.TakeTestButton.clicked.connect(lambda: self.TakeTestPage(MenuWindow))
         self.GenerateReportButton = QtWidgets.QPushButton(self.splitter)
         font = QtGui.QFont()
         font.setFamily("MS Shell Dlg 2")
@@ -102,6 +104,22 @@ class Ui_MenuWindow(object):
         self.EnterButton.setText(_translate("MenuWindow", "Enter"))
         self.TakeTestButton.setText(_translate("MenuWindow", "Take Test"))
         self.GenerateReportButton.setText(_translate("MenuWindow", "Generate Report"))
+
+    def infopage(self, MenuWindow):
+        from Enter_Your_Info import Ui_EnterInfoWindow
+        self.window = QtWidgets.QMainWindow()
+        self.ui = Ui_EnterInfoWindow()
+        self.ui.setupUi(self.window)
+        self.window.show()
+        MenuWindow.hide()
+
+    def TakeTestPage(self, MenuWindow):
+        from take_test_all_other_questions import Ui_TakeTestWindow
+        self.window = QtWidgets.QMainWindow()
+        self.ui = Ui_TakeTestWindow()
+        self.ui.setupUi(self.window)
+        self.window.show()
+        MenuWindow.hide()
 
 
 if __name__ == "__main__":
