@@ -1,0 +1,45 @@
+##Machine learning##
+
+Machine Learning is a branch of artificial intelligence that develops algorithms by learning the hidden patterns of the datasets used it to make predictions on new similar type data, without being explicitly programmed for each task.
+
+Machine learning is used in many different applications, from image and speech recognition to natural language processing, recommendation systems, fraud detection, portfolio optimization, automated task, and so on. Machine learning models are also used to power autonomous vehicles, drones, and robots, making them more intelligent and adaptable to changing environments.
+
+A typical machine learning tasks are to provide a recommendation. Recommender systems are a common application of machine learning, and they use historical data to provide personalized recommendations to users.
+
+Types of Machine Learning
+1. Supervised Machine Learning
+2. Unsupervised Machine Learning
+3. Reinforcement Machine Learning
+
+##Supervised learning##
+
+Supervised learning is a type of machine learning in which the algorithm is trained on the labeled dataset. It learns to map input features to targets based on labeled training data. In supervised learning, the algorithm is provided with input features and corresponding output labels, and it learns to generalize from this data to make predictions on new, unseen data.
+
+There are two main types of supervised learning:
+1. Regression
+2. Classification
+
+Classification is a type of supervised learning where the algorithm learns to assign input data to a specific category or class based on input features. The output labels in classification are discrete values. Classification algorithms can be binary, where the output is one of two possible classes, or multiclass, where the output can be one of several classes. The different Classification algorithms in machine learning are: Logistic Regression, Naive Bayes, Decision Tree, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), etc
+
+##Content based filtering##
+
+
+##KNN##
+
+K-Nearest Neighbours is one of the most basic yet essential classification algorithms in Machine Learning. It belongs to the supervised learning domain and finds intense application in pattern recognition, data mining, and intrusion detection.It can also handle both numerical and categorical data, making it a flexible choice for various types of datasets in classification and regression tasks. It is a non-parametric method that makes predictions based on the similarity of data points in a given dataset. K-NN is less sensitive to outliers compared to other algorithms.The applications of KNN are data preprocessing, pattern recognition, Recommendation Engines. 
+
+##SciKit learn##
+
+Scikit-learn is a powerful open-source library in Python used for machine learning tasks such as classification, regression, clustering, and more. It is built on top of other popular scientific computing libraries, such as NumPy, SciPy, and Matplotlib. It offers a wide range of tools for machine learning and statistical modeling, including various algorithms and utilities for data preprocessing, model selection, evaluation, and data visualization.
+In practical terms, scikit-learn serves as a powerful toolbox for tasks such as data preprocessing, model training, and model evaluation. It includes utilities for handling data, implementing feature selection, and assessing model performance through cross-validation and grid search. 
+
+
+##Pandas##
+
+Pandas is an open-source Python library used for data manipulation and analysis. It provides powerful data structures and tools for working with structured data, primarily in the form of DataFrame objects. Pandas is widely utilized in machine learning for its ability to handle various data formats, such as CSV files, Excel sheets, SQL databases, and more. Its main data structure, the DataFrame, allows for easy indexing, slicing, cleaning, transforming, and aggregating data, making it an essential tool for data preprocessing in machine learning workflows.
+
+It enables practitioners to load datasets, handle missing values, perform feature engineering by creating new features or transforming existing ones, encode categorical variables, and split data into training and testing sets. The ability to manipulate and prepare data efficiently using pandas is fundamental for ensuring that machine learning models receive high-quality input, leading to more accurate predictions or classifications.
+
+##Numpy##
+
+NumPy, short for Numerical Python, is a fundamental open-source library in Python for numerical computing. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.In machine learning, NumPy is extensively used for data manipulation and preparation. It plays a central role in handling datasets, transforming features, and performing mathematical operations required during the preprocessing phase. Many machine learning libraries, including scikit-learn, TensorFlow, and PyTorch, leverage NumPy arrays as the underlying data structure. NumPy's efficient implementation of array operations significantly speeds up computations, making it an essential tool for implementing algorithms and models efficiently in machine learning workflows.
