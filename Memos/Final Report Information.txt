@@ -1,0 +1,13 @@
+##System analysis## : which model we are using to develop this application (definition)
+
+##User requirement## : Use Case Diagram
+
+##Methodology## : What are the steps or methods involved in making this project : Ex - Data Collection, Data Cleaning etc (Describe each method)
+
+##Process Involved## : Activity or State Chart Diagram with definition
+
+##Methodology## : Testing Definition and which testing we are using in our project
+
+##Test Report## : Testing screenshot with label
+
+##Input or Output design## : which language or technology we are using to design the frontend and backend(definition and features)
