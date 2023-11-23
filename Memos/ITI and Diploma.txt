@@ -16,7 +16,6 @@ Computer Science and Information Technology (IT):
 
 Mechanical and Electrical:
 1. Diploma in Mechanical Engineering
-2. Diploma in Civil Engineering
 3. Diploma in Electrical Engineering
 4. Diploma in Automobile Engineering
 5. Diploma in Chemical Engineering
@@ -43,6 +42,7 @@ Electronics and Communication:
 
 Construction and Design:
 1. Diploma in Architecture
+2. Diploma in Civil Engineering
 2. Diploma in Interior Design
 3. ITI in Plumbing and Pipefitting
 4. ITI in Carpentry and Woodworking
