@@ -61,6 +61,49 @@ It depicts the external view of the system.
 It recognizes the internal as well as external factors that influence the system.
 It represents the interaction between the actors.
 
+##PERT CHART##
+
+Project Evaluation and Review Technique (PERT) is a procedure through which activities of a project are represented in its appropriate sequence and timing. It is a scheduling technique used to schedule, organize and integrate tasks within a project. PERT is basically a mechanism for management planning and control which provides blueprint for a particular project. All of the primary elements or events of a project have been finally identified by the PERT. In this technique, a PERT Chart is made which represent a schedule for all the specified tasks in the project.
+
+Components of pert chart:
+
+1. Early Start (ES): Early Start refers to the earliest possible point in time when a particular task or activity can begin. It's determined by considering the immediate predecessors of the task—activities that must be completed before it can start.
+
+2. Early Finish (EF): Early Finish denotes the earliest possible point in time when a task or activity can be completed. It is calculated by adding the task duration to its Early Start time.
+
+3. Late Start (LS): Late Start represents the latest point in time when a task can start without delaying the project's overall completion. It considers the project's deadline and the time required for the task.
+
+4. Late Finish (LF): Late Finish indicates the latest allowable completion time for a task without impacting the project's completion date. It is determined by subtracting the task duration from its Late Start time.
+
+5. Slack (or Float): Slack or Float refers to the amount of time a task can be delayed without affecting subsequent tasks or the overall project completion time. It's calculated as the difference between the Late Start and Early Start times (or Late Finish and Early Finish times) for a task.
+
+##ER Diagram##
+
+The Entity Relational Model is a model for identifying entities to be represented in the database and representation of how those entities are related. The ER data model specifies enterprise schema that represents the overall logical structure of a database graphically. 
+
+The Entity Relationship Diagram explains the relationship among the entities present in the database. ER models are used to model real-world objects like a person, a car, or a company and the relation between these real-world objects. In short, the ER Diagram is the structural format of the database. 
+
+Components of ER diagram
+
+1. Entity: An Entity may be an object with a physical existence – a particular person, car, house, or employee – or it may be an object with a conceptual existence – a company, a job, or a university course. 
+
+	1. Strong Entity: A Strong Entity is a type of entity that has a key Attribute. Strong Entity does not depend on other Entity in the Schema. It has a primary key, that helps in identifying it uniquely, and it is represented by a rectangle. These are called Strong Entity Types.
+
+	2. Weak Entity: An Entity type has a key attribute that uniquely identifies each entity in the entity set. But some entity type exists for which key attributes can’t be defined. These are called Weak Entity types. 
+
+2. Attributes: Attributes are the properties that define the entity type. For example, Roll_No, Name, DOB, Age, Address, and Mobile_No are the attributes that define entity type Student. In ER diagram, the attribute is represented by an oval. 
+
+	1. Key Attribute: The attribute which uniquely identifies each entity in the entity set is called the key attribute. For example, Roll_No will be unique for each student. In ER diagram, the key attribute is represented by an oval with underlying lines.
+
+
+	2. Composite Attribute: An attribute composed of many other attributes is called a composite attribute. For example, the Address attribute of the student Entity type consists of Street, City, State, and Country. In ER diagram, the composite attribute is represented by an oval comprising of ovals. 
+
+
+	3. Multivalued Attribute: An attribute consisting of more than one value for a given entity. For example, Phone_No (can be more than one for a given student). In ER diagram, a multivalued attribute is represented by a double oval. 
+
+
+	4. Derived Attribute: An attribute that can be derived from other attributes of the entity type is known as a derived attribute. e.g.; Age (can be derived from DOB). In ER diagram, the derived attribute is represented by a dashed oval.  
+
 ##Iterative model##
 The iterative model in software engineering is an approach where the project is broken down into smaller cycles or iterations. Each iteration goes through the entire software development life cycle (SDLC), encompassing planning, design, implementation, testing, and deployment. Here's a breakdown of the steps in the iterative model:
 
