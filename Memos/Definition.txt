@@ -104,6 +104,42 @@ Components of ER diagram
 
 	4. Derived Attribute: An attribute that can be derived from other attributes of the entity type is known as a derived attribute. e.g.; Age (can be derived from DOB). In ER diagram, the derived attribute is represented by a dashed oval.  
 
+Cardinality
+The number of times an entity of an entity set participates in a relationship set is known as cardinality. Cardinality can be of different types: 
+
+1. One-to-One: When each entity in each entity set can take part only once in the relationship, the cardinality is one-to-one. 
+
+2. One-to-Many: In one-to-many mapping as well where each entity can be related to more than one relationship and the total number of tables that can be used in this is 2. 
+
+3. Many-to-One: When entities in one entity set can take part only once in the relationship set and entities in other entity sets can take part more than once in the relationship set, cardinality is many to one. 
+
+4. Many-to-Many: When entities in all entity sets can take part more than once in the relationship cardinality is many to many. Let us assume that a student can take more than one course and one course can be taken by many students. So the relationship will be many to many. 
+
+##DFD##
+
+DFD is the abbreviation for Data Flow Diagram. The flow of data of a system or a process is represented by DFD. It also gives insight into the inputs and outputs of each entity and the process itself. DFD does not have control flow and no loops or decision rules are present. Specific operations depending on the type of data can be explained by a flowchart. It is a graphical tool, useful for communicating with users ,managers and other personnel. it is useful for analyzing existing as well as proposed system.
+
+Components of DFD:
+ 
+The Data Flow Diagram has 4 components:
+
+Process: Input to output transformation in a system takes place because of process function. The symbols of a process are rectangular with rounded corners, oval, rectangle or a circle. The process is named a short sentence, in one word or a phrase to express its essence.
+
+Data Flow: Data flow describes the information transferring between different parts of the systems. The arrow symbol is the symbol of data flow. A relatable name should be given to the flow to determine the information which is being moved. Data flow also represents material along with information that is being moved. Material shifts are modeled in systems that are not merely informative. A given flow should only transfer a single type of information. The direction of flow is represented by the arrow which can also be bi-directional.
+
+Warehouse: The data is stored in the warehouse for later use. Two horizontal lines represent the symbol of the store. The warehouse is simply not restricted to being a data file rather it can be anything like a folder with documents, an optical disc, a filing cabinet. The data warehouse can be viewed independent of its implementation. When the data flow from the warehouse it is considered as data reading and when data flows to the warehouse it is called data entry or data updating.
+
+Terminator: The Terminator is an external entity that stands outside of the system and communicates with the system. It can be, for example, organizations like banks, groups of people like customers or different departments of the same organization, which is not a part of the model system and is an external entity. Modeled systems also communicate with terminator.
+
+Levels of DFD: 
+
+DFD uses hierarchy to maintain transparency thus multilevel DFD’s can be created. Levels of DFD are as follows:
+
+0-level DFD: It represents the entire system as a single bubble and provides an overall picture of the system.
+1-level DFD: It represents the main functions of the system and how they interact with each other. 
+2-level DFD: It represents the processes within each function of the system and how they interact with each other.
+3-level DFD: It represents the data flow within each process and how the data is transformed and stored.
+
 ##Iterative model##
 The iterative model in software engineering is an approach where the project is broken down into smaller cycles or iterations. Each iteration goes through the entire software development life cycle (SDLC), encompassing planning, design, implementation, testing, and deployment. Here's a breakdown of the steps in the iterative model:
 
