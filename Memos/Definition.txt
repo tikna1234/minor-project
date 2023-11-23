@@ -47,3 +47,158 @@ It enables practitioners to load datasets, handle missing values, perform featur
 ##Numpy##
 
 NumPy, short for Numerical Python, is a fundamental open-source library in Python for numerical computing. It provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays efficiently.In machine learning, NumPy is extensively used for data manipulation and preparation. It plays a central role in handling datasets, transforming features, and performing mathematical operations required during the preprocessing phase. Many machine learning libraries, including scikit-learn, TensorFlow, and PyTorch, leverage NumPy arrays as the underlying data structure. NumPy's efficient implementation of array operations significantly speeds up computations, making it an essential tool for implementing algorithms and models efficiently in machine learning workflows.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+##Use Case Diagram##
+
+A use case diagram is used to represent the dynamic behavior of a system. It encapsulates the system's functionality by incorporating use cases, actors, and their relationships. It models the tasks, services, and functions required by a system/subsystem of an application. It depicts the high-level functionality of a system and also tells how the user handles a system.
+It invokes persons, use cases, and several things that invoke the actors and elements accountable for the implementation of use case diagrams.
+Following are the purposes of a use case diagram given below:
+
+It gathers the system's needs.
+It depicts the external view of the system.
+It recognizes the internal as well as external factors that influence the system.
+It represents the interaction between the actors.
+
+##Iterative model##
+The iterative model in software engineering is an approach where the project is broken down into smaller cycles or iterations. Each iteration goes through the entire software development life cycle (SDLC), encompassing planning, design, implementation, testing, and deployment. Here's a breakdown of the steps in the iterative model:
+
+1. Planning: Define the project scope, objectives, and goals. Identify the features or functionalities to be developed in the current iteration. Plan resources, timelines, and iteration goals.
+
+2. Requirement Analysis: Gather and analyze user requirements specific to the current iteration. Focus on understanding what users need for the features or functionalities planned for this cycle.
+
+3. Design: Create a design based on the gathered requirements. This includes architectural design, system design, and detailed design of individual components or features targeted for the current iteration.
+
+4. Implementation/Coding: Develop the software based on the design specifications. Write code for the identified features or functionalities planned for this iteration.
+
+5. Testing: Perform testing activities such as unit testing, integration testing, and system testing. Ensure that the developed features meet the requirements and function correctly.
+
+6. Evaluation/Review: Evaluate the results of the iteration. Collect feedback from stakeholders, users, and testing. Identify areas for improvement and assess whether the iteration met its goals.
+
+7. Deployment: If the iteration meets the quality standards and requirements, deploy the developed features. This might involve releasing the software to a limited user base or integrating it into the existing system.
+
+8. Feedback/Refinement: Gather feedback from users and stakeholders about the deployed features. Use this feedback to refine and improve the product. This input often feeds back into the planning phase for subsequent iterations.
+
+9. Iterations: Repeat the cycle for the next iteration. Incorporate changes based on feedback and update the plan to address new requirements or modifications.
+
+##Activity Diagram##
+
+A UML Activity diagram is a graphical representation used to model workflows and business processes within a system. It primarily focuses on the flow of activities or actions performed within a system, showcasing the sequence, conditions, and parallelism of these actions. Here are the main components of a UML Activity diagram:
+
+1. Initial Node: Denotes the starting point of the activity diagram. It represents the initiation of the workflow.
+
+2. Activity or Action: Represents a specific task or action within the system. It can be any operation, such as a calculation, decision-making process, or interaction.
+
+3. Control Flow: Indicates the flow or sequence of activities. It's represented by arrows connecting different activities, showing the order in which actions occur.
+
+4. Decision or Merge Node: Represents a branching point in the workflow where a decision is made or where different flows merge back together.
+
+5. Fork and Join Nodes: Fork nodes split the flow into multiple concurrent flows, while join nodes synchronize these concurrent flows back into a single flow.
+
+6. Final Node: Denotes the end of the activity diagram, representing the completion of the workflow.
+
+7. Guard Condition: Represents the condition that determines which path to follow in a decision point. It's often depicted as text near the decision node or control flow arrow.
+
+8.Swimlanes (Partition): Used to group activities performed by different actors or system components. They visually separate actions performed by different entities within the system.
+
+9. Object Nodes: Represent objects or data consumed or produced during activities.
+
+##Testing##
+
+Software Testing is a method to assess the functionality of the software program. The process checks whether the actual software matches the expected requirements and ensures the software is bug-free. The purpose of software testing is to identify the errors, faults, or missing requirements in contrast to actual requirements. It mainly aims at measuring the specification, functionality, and performance of a software program or application. 
+
+Types of software testing:
+
+1. Manual Testing
+2. Automation Testing
+
+##Manual Testing##
+
+Manual testing includes testing software manually, i.e., without using any automation tool or script. In this type, the tester takes over the role of an end-user and tests the software to identify any unexpected behavior or bug. There are different stages for manual testing such as unit testing, integration testing, system testing, and user acceptance testing. Testers use test plans, test cases, or test scenarios to test software to ensure the completeness of testing. Manual testing also includes exploratory testing, as testers explore the software to identify errors in it. 
+
+Types of manual testing:
+
+1. White Box
+2. Black Box
+3. Grey Box
+
+##White Box##
+
+White box testing techniques analyse the internal structures the used data structures, internal design, code structure, and the working of the software rather than just the functionality as in black box testing. It is also called glass box testing or clear box testing or structural testing. White Box Testing is also known as transparent testing or open box testing. 
+
+White box testing is a software testing technique that involves testing the internal structure and workings of a software application. The tester has access to the source code and uses this knowledge to design test cases that can verify the correctness of the software at the code level.
+
+White box testing is also known as structural testing or code-based testing, and it is used to test the software’s internal logic, flow, and structure. The tester creates test cases to examine the code paths and logic flows to ensure they meet the specified requirements.
+
+##Input & Output Screen Design##
+
+#---PyQt5--#
+
+PyQt5 is cross-platform GUI toolkit, a set of python bindings for Qt v5. One can develop an interactive desktop application with so much ease because of the tools and simplicity provided by this library. A GUI application consists of Front-end and Back-end. PyQt5 has provided a tool called ‘QtDesigner’ to design the front-end by drag and drop method so that development can become faster and one can give more time on back-end stuff.
+
+Here are some key aspects of PyQt5:
+
+Cross-platform: Applications developed with PyQt5 can run on various operating systems like Windows, macOS, Linux, etc., without many modifications. This cross-platform capability is due to Qt's nature.
+
+GUI Development: PyQt5 provides tools and classes to design and build graphical user interfaces using Qt Designer or programmatically within Python code. It includes widgets, layouts, dialogs, and more for creating interactive interfaces.
+
+Event Handling: It allows developers to handle user interactions, events, signals, and slots effectively. This enables the creation of responsive applications by linking user actions to specific functions or methods.
+
+Integration with Python: PyQt5 seamlessly integrates with Python, allowing developers to leverage the ease of Python programming while harnessing the power of the Qt framework.
+
+Support for Multimedia: PyQt5 supports multimedia functionalities, such as playing audio and video files, thanks to Qt's multimedia modules.
+
+Database Integration: It provides tools for integrating with databases, allowing developers to create applications that interact with various database systems
+
+
+#--Components of pyqt5--#
+
+PyQt5 offers a range of components and classes that enable developers to create Graphical User Interfaces (GUIs) in Python. Here are some key components commonly used in PyQt5 for GUI creation:
+
+Widgets: PyQt5 provides a variety of widgets that form the building blocks of a GUI. These include:
+
+QPushButton: Button widget for triggering actions.
+QLabel: Display text or an image.
+QLineEdit: Single-line text input field.
+QTextEdit: Multiline text input/editing field.
+QCheckBox and QRadioButton: Checkboxes and radio buttons for user selections.
+QComboBox and QListWidget: Dropdown lists and list widgets for item selection.
+QSlider and QSpinBox: Widgets for selecting numerical values.
+Layout Management: PyQt5 includes layout classes that help in organizing and arranging widgets within a window or container. Common layout classes are:
+
+QVBoxLayout and QHBoxLayout: Vertical and horizontal box layouts.
+QGridLayout: Grid-based layout for arranging widgets in rows and columns.
+QFormLayout: Organizes input fields and their labels in a structured form.
+Dialogs: PyQt5 provides pre-built dialog windows for specific purposes, such as file dialogs, message boxes, input dialogs, and more. These include:
+
+QFileDialog: Dialog for file selection.
+QMessageBox: Dialog for displaying messages or alerts.
+QInputDialog: Dialog for user input.
+Custom Widgets: Developers can create custom widgets by subclassing existing PyQt5 widgets or by creating entirely new ones to suit specific application needs.
+
+Events and Signals: PyQt5 uses a signals and slots mechanism to handle events and inter-widget communication. This allows actions in one widget to trigger specific functions or methods in another widget.
+
+Graphics and Multimedia: PyQt5 includes classes for working with graphics and multimedia elements, allowing developers to incorporate images, videos, and graphics within their applications.
+
+#--Qt Designer--#
+
+Qt Designer is a visual design tool provided by the Qt framework for creating graphical user interfaces (GUIs). It is part of the Qt development environment and is commonly used in conjunction with PyQt, a set of Python bindings for the Qt framework. Here are the key features of Qt Designer:
+
+1. Visual Design: Qt Designer allows developers to design GUIs visually by dragging and dropping UI components onto a form. This provides a WYSIWYG (What You See Is What You Get) environment, allowing designers and developers to see the appearance of the UI as they design it.
+
+2. Widget Box: Qt Designer provides a widget box that contains a variety of standard UI components (widgets) such as buttons, labels, text fields, and more. Developers can easily select and place these widgets on the form.
+
+3. Layout Management: It supports the design of complex layouts through various layout managers, including vertical and horizontal box layouts, grid layouts, and form layouts. This helps in arranging and organizing widgets within a window.
+
+4. Property Editor: Developers can use the property editor to customize the properties of UI components, such as their size, position, text, and appearance. This allows for fine-tuning the visual aspects of the GUI.
+
+5. Signal and Slot Editing: Qt Designer provides an interface for connecting signals and slots, which facilitates event handling and interaction between different UI components. This is a fundamental aspect of Qt's programming model.
+
+6. Integration with Code Editors: While Qt Designer is primarily a visual tool, it seamlessly integrates with code editors. Developers can easily switch between the visual design in Qt Designer and the corresponding code in their preferred integrated development environment (IDE).
+
+7. Custom Widget Integration: Qt Designer allows developers to integrate custom widgets into the design process. This is particularly useful when developers have created their own specialized UI components.
+
+8. Preview Mode: Developers can preview the appearance and behavior of the GUI directly within Qt Designer before generating the code. This helps in identifying any design issues before deploying the application.
+
+9. UI File Generation: Qt Designer saves the designed UI in a .ui file format, which is an XML-based file. This file can be loaded and used by the application code, enabling the separation of UI design and logic.
