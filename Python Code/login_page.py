@@ -9,6 +9,7 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
+
 import sqlite3
 con = sqlite3.connect("G:\minorproject\Database\Career_Recommedation_System.db")
 
@@ -20,17 +21,19 @@ class Ui_loginWindow(object):
         self.ui.setupUi(self.window)
         self.window.show()
         loginWindow.hide()
+
     def setupUi(self, loginWindow):
+        self.cur = con.cursor()
         loginWindow.setObjectName("loginWindow")
         loginWindow.resize(422, 343)
         self.centralwidget = QtWidgets.QWidget(loginWindow)
         self.centralwidget.setObjectName("centralwidget")
-        self.UserIDLbl = QtWidgets.QLabel(self.centralwidget)
-        self.UserIDLbl.setGeometry(QtCore.QRect(70, 90, 71, 16))
-        self.UserIDLbl.setObjectName("UserIDLbl")
-        self.UserIDLineEdit = QtWidgets.QLineEdit(self.centralwidget)
-        self.UserIDLineEdit.setGeometry(QtCore.QRect(150, 85, 113, 22))
-        self.UserIDLineEdit.setObjectName("UserIDLineEdit")
+        self.UserNameLbl = QtWidgets.QLabel(self.centralwidget)
+        self.UserNameLbl.setGeometry(QtCore.QRect(70, 90, 71, 16))
+        self.UserNameLbl.setObjectName("UserNameLbl")
+        self.UserNameLineEdit = QtWidgets.QLineEdit(self.centralwidget)
+        self.UserNameLineEdit.setGeometry(QtCore.QRect(150, 85, 113, 22))
+        self.UserNameLineEdit.setObjectName("UserNameLineEdit")
         self.LoginButton = QtWidgets.QPushButton(self.centralwidget)
         self.LoginButton.setGeometry(QtCore.QRect(30, 200, 93, 28))
         self.LoginButton.setObjectName("LoginButton")
@@ -54,16 +57,17 @@ class Ui_loginWindow(object):
     def retranslateUi(self, loginWindow):
         _translate = QtCore.QCoreApplication.translate
         loginWindow.setWindowTitle(_translate("loginWindow", "Login_Page"))
-        self.UserIDLbl.setText(_translate("loginWindow", "User ID:"))
+        self.UserNameLbl.setText(_translate("loginWindow", "Username:"))
         self.LoginButton.setText(_translate("loginWindow", "Login"))
         self.RegisterButton.setText(_translate("loginWindow", "Register"))
 
-    def gotomenu(self, loginWindow, message):
+    def gotomenu(self, loginWindow, message, name):
         from menu_page import Ui_MenuWindow
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_MenuWindow()
         self.ui.setupUi(self.window)
         self.ui.LoginMsgLbl.setText(message)
+        self.ui.User_id = name
         self.window.show()
         loginWindow.hide()
 
@@ -84,15 +88,14 @@ class Ui_loginWindow(object):
         return name
 
     def Login(self, loginWindow):
-        user_id = self.UserIDLineEdit.text()
+        user_id = self.UserNameLineEdit.text()
         statement = f"SELECT User_id from user_info WHERE User_id='{user_id}';"
         self.cur.execute(statement)
         if not self.cur.fetchone():
             self.LoginMsg(loginWindow, "Login failed")
         else:
             name = self.fetchname(user_id)
-            self.gotomenu(loginWindow, f"Welcome, {name}. Please enter your information here:")
-
+            self.gotomenu(loginWindow, f"Welcome, {name}. Please enter your information here:", user_id)
 
 if __name__ == "__main__":
     import sys
@@ -102,3 +105,4 @@ if __name__ == "__main__":
     ui.setupUi(loginWindow)
     loginWindow.show()
     sys.exit(app.exec_())
+
