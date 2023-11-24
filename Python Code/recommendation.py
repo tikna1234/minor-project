@@ -717,7 +717,7 @@ else:
            
 
 
-select = "Vocational Training in Plumbing and Pipefitting"
+select = "Diploma in Interior Design"
 
 if branch == 0:
     for j in Diploma.keys():

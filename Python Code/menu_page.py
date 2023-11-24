@@ -10,6 +10,7 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMessageBox
+from model import Printpred
 import pandas as pd
 import numpy as np
 import pickle
@@ -18,6 +19,180 @@ career = pd.read_excel(r"G:\reps\minor-project\Datasets\student_marksheet_final1
 con = sqlite3.connect("G:\minorproject\Database\Career_Recommedation_System.db")
 class Ui_MenuWindow(object):
     def setupUi(self, MenuWindow):
+        self.diploma = {
+            "Computer Science and Information Technology":
+
+            ["Diploma in Computer Science",
+            "Diploma in Digital Marketing",
+            "Diploma in Mobile App Development",
+            "Diploma in Cybersecurity",
+            "Diploma in Web Development"
+            ],
+
+            "Mechanical and Electrical":
+
+            ["Diploma in Mechanical Engineering",
+            "Diploma in Electrical Engineering",
+            "Diploma in Automobile Engineering",
+            "Diploma in Chemical Engineering",
+            "Diploma in Mechatronics"
+            ],
+
+            "Electronics and Communication":
+
+            ["Diploma in Electronics and Communication Engineering"
+            ],
+
+            "Construction and Design":
+
+            [
+            "Diploma in Architecture",
+            "Diploma in Civil Engineering",
+            "Diploma in Interior Design"
+            ],
+
+            "Hospitality and Event Management":
+
+            [
+            "Diploma in Hotel Management",
+            "Diploma in Event Management",
+            "Diploma in Aviation and Hospitality Management"
+            ],
+
+            "Life Sciences and Environment":
+            [
+            "Diploma in Biotechnology",
+            "Diploma in Environmental Science",
+            "Diploma in Veterinary Science"
+            ],
+            
+            "Arts and Media":
+            [
+            "Diploma in Animation and Multimedia",
+            "Diploma in Film Making and Direction",
+            "Diploma in Photography"
+            ],
+
+            "Physical Education and Wellness":
+            [
+            "Diploma in Early Childhood Education",
+            "Diploma in Yoga and Wellness"
+            ],
+
+            "Finance, Business and Marketing":
+            [
+            "Diploma in Financial Accounting"
+            ]
+
+            }
+
+
+
+        self.iti = {
+            "Computer Science and Information Technology ":
+
+            [
+            "ITI in Computer Hardware and Networking",
+            "ITI in Information Technology",
+            "ITI in Mobile Repair and Maintenance"
+            ],
+
+            "Mechanical and Electrical":
+            [
+             "ITI in Mechanical",
+            "ITI in Automotive Technology",
+            "ITI in Welding and Fabrication",
+            " ITI in Fitter and Turner",
+            "ITI in Machinist",
+            "ITI in Foundry and Pattern Making",
+            "ITI in CNC Operator"
+            ],
+
+            "Electronics and Communication":
+            [
+            "ITI in Electronics and Communication",
+            "ITI in Instrumentation and Control",
+            ],
+
+            "Construction and Design":
+            [
+            "ITI in Plumbing and Pipefitting",
+            "ITI in Carpentry and Woodworking"
+            ],
+            
+            "Physical Education and Wellness":
+            [
+            "ITI in Beauty and Wellness"
+            ]
+
+            }
+            
+
+
+        self.vocational = {"Computer Science and Information Technology ":
+
+            [
+            "Vocational Training in Data Entry and Office Automation",
+            "Vocational Training in Computer Programming",
+            "Vocational Training in Mobile App Development",
+            "Vocational Training in Web Development",
+            "Vocational Training in Computer Hardware and Networking",
+            "Vocational Training in Mobile Phone Repair Technician"
+            ],
+
+            "Mechanical and Electrical":
+            [
+            "Vocational Training in Welding Technician",
+            "Vocational Training in Automotive Technician",
+            "Vocational Training in Electrician",
+            "Vocational Training in AutoCAD and Drafting Certification",
+            "Vocational Training in Robotics and Automation Workshop",
+            "Vocational Training in Machinist and CNC Operator",
+            " Vocational Training in HVAC Technician"
+            ],
+            
+            "Construction and Design":
+            [
+            "Vocational Training in Welding Technician",
+            "Vocational Training in Plumbing and Pipefitting",
+            "Vocational Training in Carpentry and Woodworking"
+            ],
+
+            "Hospitality and Event Management":
+            [
+            "Vocational Training in Hospitality and Customer Service",
+            "Vocational Training in Healthcare Assistant Training",
+            "Vocational Training in Basic First Aid and Safety Training",
+            "Vocational Training in Retail Sales and Customer Service"
+            ],
+
+            "Arts and Media":
+            [
+            "Vocational Training in Graphic design Essentials",
+            "Vocational Training in Digital Marketing Certification",
+            "Vocational Training in Photography and Videography Course",
+            "Vocational Training in Fashion Design and Tailoring",
+            "Vocational Training in Language Proficiency Course"
+            ],
+            
+            "Physical Education and Wellness":
+            [
+            "Vocational Training in Beauty and Makeup Artistry"
+            ],
+
+            "Finance, Business and Marketing":
+            [
+            "Vocational Training in Digital Marketing Certification",
+            "Vocational Training in Entrepreneurship and Business Skills"
+            ],
+
+            "Culinary Studies and Cooking":
+            [
+            "Vocational Training in Culinary arts and Cooking",
+            "Vocational Training in Baking and Pastry Arts",
+            "Vocational Training in Food Safety and Hygiene Certification"
+            ]
+                 }
         self.cur = con.cursor()
         self.User_id = "Tikna123"
         MenuWindow.setObjectName("MenuWindow")
@@ -51,7 +226,7 @@ class Ui_MenuWindow(object):
         self.LoginMsgLbl = QtWidgets.QLabel(self.splitter_2)
         font = QtGui.QFont()
         font.setFamily("MS Shell Dlg 2")
-        font.setPoinself.User_idtSize(9)
+        font.setPointSize(9)
         font.setBold(False)
         font.setWeight(50)
         self.LoginMsgLbl.setFont(font)
@@ -89,9 +264,10 @@ class Ui_MenuWindow(object):
         font.setWeight(50)
         self.GenerateReportButton.setFont(font)
         self.GenerateReportButton.setObjectName("GenerateReportButton")
+        self.GenerateReportButton.clicked.connect(lambda: self.clicked_generate_report(MenuWindow))
         self.verticalLayout.addWidget(self.splitter)
         self.horizontalLayout.addLayout(self.verticalLayout)
-        MenuWindow.sself.User_idetCentralWidget(self.centralwidget)
+        MenuWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MenuWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 518, 26))
         self.menubar.setObjectName("menubar")
@@ -176,25 +352,115 @@ class Ui_MenuWindow(object):
         name = result[0] if result else ""
         return name
 
+    def clicked_generate_report(self, MenuWindow):
+        recommend = ""
+        courses = []
+        recommend,courses = self.Gencourses()
+        print(recommend)
+        self.GenReport(MenuWindow, recommend, courses)
+    
     def Gencourses(self):
-        english, mathematics, science, social_studies, logical_reasoning, computer, interests = self.fetchsubjects()
-        avg=(english + mathematics + science + social_studies + logical_reasoning + computer)/6
-        cType=""
-        if avg >= 75:
-            cType = "diploma"
-        elif avg >= 55:
-            cType = "iti"
+        english, mathematics, science, social_studies, logical_reasoning, computer, interests = self.fetchallsubjects()
+        avg = (english+mathematics+science+social_studies+logical_reasoning+computer)/6*100
+        if avg>=75:
+            branch = 0
+        elif avg>=55:
+            branch = 1
         else:
-            cType = "vocational"
+            branch = 2
+        recommend = Printpred(english, mathematics, science, social_studies, logical_reasoning, computer, branch)
+        courses = []
+        if branch == 0:
+            if recommend == "Computer Science and Information Technology":
+                for i in diploma['Computer Science and Information Technology']:
+                    courses.append(i)
+                for i in Diploma['Diploma in Computer Science']:
+                    courses.append(i)
+            elif recommend == "Mechanical and Electrical":
+                for i in diploma['Mechanical and Electrical']:
+                    courses.append(i)
+                for i in Diploma['Diploma in Mechanical']:
+                    courses.append(i)
+                for i in Diploma['Diploma in Electrical']:
+                    courses.append(i)
+            elif recommend == "Electronics and Communication":
+                for i in diploma['Electronics and Communication']:
+                    courses.append(i)
+            elif recommend == "Construction and Design":
+                for i in diploma['Construction and Design']:
+                    courses.append(i)
+            elif recommend == "Hospitality and Event Management":
+                for i in diploma['Hospitality and Event Management']:
+                    courses.append(i)
+            elif recommend == "Life Sciences and Environment":
+                for i in diploma['Life Sciences and Environment']:
+                    courses.append(i)
+            elif recommend == "Arts and Media":
+                for i in diploma['Arts and Media']:
+                    courses.append(i)
+            elif recommend == "Physical Education and Wellness":
+                for i in diploma['Physical Education and Wellness']:
+                    courses.append(i)
+            elif recommend == "Finance, Business and Marketing":
+                for i in diploma['Finance, Business and Marketing']:
+                    courses.append(i)
+
+        elif branch == 1:
+            if recommend == "Computer Science and Information Technology":
+                for i in iti['Computer Science and Information Technology']:
+                    courses.append(i)
+            elif recommend == "Mechanical and Electrical":
+                for i in iti['Mechanical and Electrical']:
+                    courses.append(i)
+            elif recommend == "Electronics and Communication":
+                for i in iti['Electronics and Communication']:
+                    courses.append(i)
+            elif recommend == "Construction and Design":
+                for i in iti['Construction and Design']:
+                    courses.append(i)
+            elif recommend == "Physical Education and Wellness":
+                for i in iti['Physical Education and Wellness']:
+                    courses.append(i)
+
+        else:
+            if recommend == "Computer Science and Information Technology":
+                for i in vocational['Computer Science and Information Technology']:
+                    courses.append(i)
+            elif recommend == "Mechanical and Electrical":
+                for i in vocational['Mechanical and Electrical']:
+                    courses.append(i)
+            elif recommend == "Construction and Design":
+                for i in vocational['Construction and Design']:
+                    courses.append(i)
+            elif recommend == "Hospitality and Event Management":
+                for i in vocational['Hospitality and Event Management']:
+                    courses.append(i)
+            elif recommend == "Arts and Media":
+                for i in vocational['Arts and Media']:
+                    courses.append(i)
+            elif recommend == "Physical Education and Wellness":
+                for i in vocational['Physical Education and Wellness']:
+                    courses.append(i)
+            elif recommend == "Finance, Business and Marketing":
+                for i in vocational['Finance, Business and Marketing']:
+                    courses.append(i)
+            elif recommend == "Culinary Studies and Cooking":
+                for i in vocational['Culinary Studies and Cooking']:
+                    courses.append(i)
+                    
+        return str(recommend), courses
         
 
-    def GenReport(self, MenuWindow):
+    def GenReport(self, MenuWindow, recommend, courses):
         from GenerateReport import Ui_ReportWindow
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_ReportWindow()
         self.ui.setupUi(self.window)
         name = self.fetchname(self.User_id)
-        self.ui.StrtMsgLbl.setText("Dear, {name}")
+        self.ui.StrtMsgLbl.setText(f"Dear, {name}")
+        self.ui.RecomendLbl.setText(f"You have been recommended,{recommend}")
+        for i in range(len(courses)):
+            self.ui.RecomCB.setItemText(i+1, _translate("ReportWindow",f"{courses[i]}"))
         self.window.show()
         MenuWindow.hide()
 
