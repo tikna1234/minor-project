@@ -1,5 +1,6 @@
 #import pickle
-from joblib import load
+#from joblib import load
+from model import Printpred
 eng = 57
 math = 60
 sci = 59
@@ -192,8 +193,8 @@ else:
     branch = 2
 
 
-model = load(r'C:\Users\HP\Documents\GitHub\minor-project\jupyter files\model_filename.joblib')    
-recommend = model.predict([[eng,math,sci,sst,logical,cmp,branch]])
+#model = load(r'C:\Users\HP\Documents\GitHub\minor-project\jupyter files\model_filename.joblib')    
+recommend = Printpred(eng, math, sci, sst, logical, cmp, branch)
 
 print(recommend)
 
