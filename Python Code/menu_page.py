@@ -9,10 +9,17 @@
 
 
 from PyQt5 import QtCore, QtGui, QtWidgets
-
-
+from PyQt5.QtWidgets import QMessageBox
+import pandas as pd
+import numpy as np
+import pickle
+import sqlite3
+career = pd.read_excel(r"G:\reps\minor-project\Datasets\student_marksheet_final1.xlsx")
+con = sqlite3.connect("G:\minorproject\Database\Career_Recommedation_System.db")
 class Ui_MenuWindow(object):
     def setupUi(self, MenuWindow):
+        self.cur = con.cursor()
+        self.User_id = "Tikna123"
         MenuWindow.setObjectName("MenuWindow")
         MenuWindow.resize(518, 391)
         font = QtGui.QFont()
@@ -44,7 +51,7 @@ class Ui_MenuWindow(object):
         self.LoginMsgLbl = QtWidgets.QLabel(self.splitter_2)
         font = QtGui.QFont()
         font.setFamily("MS Shell Dlg 2")
-        font.setPointSize(9)
+        font.setPoinself.User_idtSize(9)
         font.setBold(False)
         font.setWeight(50)
         self.LoginMsgLbl.setFont(font)
@@ -73,7 +80,7 @@ class Ui_MenuWindow(object):
         font.setWeight(50)
         self.TakeTestButton.setFont(font)
         self.TakeTestButton.setObjectName("TakeTestButton")
-        self.TakeTestButton.clicked.connect(lambda: self.TakeTestPage(MenuWindow))
+        self.TakeTestButton.clicked.connect(lambda: self.ChooseSub(MenuWindow))
         self.GenerateReportButton = QtWidgets.QPushButton(self.splitter)
         font = QtGui.QFont()
         font.setFamily("MS Shell Dlg 2")
@@ -84,7 +91,7 @@ class Ui_MenuWindow(object):
         self.GenerateReportButton.setObjectName("GenerateReportButton")
         self.verticalLayout.addWidget(self.splitter)
         self.horizontalLayout.addLayout(self.verticalLayout)
-        MenuWindow.setCentralWidget(self.centralwidget)
+        MenuWindow.sself.User_idetCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MenuWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 518, 26))
         self.menubar.setObjectName("menubar")
@@ -105,19 +112,89 @@ class Ui_MenuWindow(object):
         self.TakeTestButton.setText(_translate("MenuWindow", "Take Test"))
         self.GenerateReportButton.setText(_translate("MenuWindow", "Generate Report"))
 
+    def fetchsubjects(self):
+        user_id = self.User_id
+        statement = f"SELECT English, Mathematics, Social_Studies, Science, Computer, Interests from User_Marks WHERE User_id='{user_id}';"
+        try:
+            self.cur.execute(statement)
+            result = self.cur.fetchone()
+            if result:
+                english, mathematics, social_studies, science, computer, interests = result
+            else:
+                english, mathematics, social_studies, science, computer, interests = "0", "0", "0", "0", "0", "Select"
+            return english, mathematics, social_studies, science, computer, interests
+        except sqlite3.Error as e:
+            error_message = f"Database error: {e}"
+            QMessageBox.critical(None, "Error", error_message, QMessageBox.Ok)
+            return "0", "0", "0", "0", "0", "Select"
+        
+    def fetchallsubjects(self):
+        user_id = self.User_id
+        statement = f"SELECT English, Mathematics, Science, Social_Studies, Logical_Reasoning, Computer, Interests from User_Marks WHERE User_id='{user_id}';"
+        try:
+            self.cur.execute(statement)
+            result = self.cur.fetchone()
+            if result:
+                english, mathematics, science, social_studies, logical_reasoning, computer, interests = result
+            else:
+                english, mathematics, science, social_studies, logical_reasoning, computer, interests = 0, 0, 0, 0, 0, 0, "Select"
+            return english, mathematics, science, social_studies, logical_reasoning, computer, interests
+        except sqlite3.Error as e:
+            error_message = f"Database error: {e}"
+            QMessageBox.critical(None, "Error", error_message, QMessageBox.Ok)
+            return 0, 0, 0, 0, 0, 0, "Select"
+        
     def infopage(self, MenuWindow):
         from Enter_Your_Info import Ui_EnterInfoWindow
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_EnterInfoWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
+        english, mathematics, social_studies, science, computer, interests = self.fetchsubjects()
+        self.ui.EnglishLineEdit.setText(english)
+        self.ui.MathsLineEdit.setText(mathematics)
+        self.ui.SstLineEdit.setText(social_studies)
+        self.ui.ScienceLineEdit.setText(science)
+        self.ui.ComputerLineEdit.setText(computer)
+        self.ui.InterestsCB.setCurrentText(interests)
         self.window.show()
         MenuWindow.hide()
 
-    def TakeTestPage(self, MenuWindow):
-        from take_test_all_other_questions import Ui_TakeTestWindow
+    def ChooseSub(self, MenuWindow):
+        from Choose_Subject import Ui_SubjectWindow
         self.window = QtWidgets.QMainWindow()
-        self.ui = Ui_TakeTestWindow()
+        self.ui = Ui_SubjectWindow()
+        self.ui.User_id = self.User_id
         self.ui.setupUi(self.window)
+        self.window.show()
+        MenuWindow.hide()
+
+    def fetchname(self, user_id):
+        statement = f"SELECT First_name from user_info WHERE User_id='{user_id}';"
+        self.cur.execute(statement)
+        result = self.cur.fetchone()
+        name = result[0] if result else ""
+        return name
+
+    def Gencourses(self):
+        english, mathematics, science, social_studies, logical_reasoning, computer, interests = self.fetchsubjects()
+        avg=(english + mathematics + science + social_studies + logical_reasoning + computer)/6
+        cType=""
+        if avg >= 75:
+            cType = "diploma"
+        elif avg >= 55:
+            cType = "iti"
+        else:
+            cType = "vocational"
+        
+
+    def GenReport(self, MenuWindow):
+        from GenerateReport import Ui_ReportWindow
+        self.window = QtWidgets.QMainWindow()
+        self.ui = Ui_ReportWindow()
+        self.ui.setupUi(self.window)
+        name = self.fetchname(self.User_id)
+        self.ui.StrtMsgLbl.setText("Dear, {name}")
         self.window.show()
         MenuWindow.hide()
 
