@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>MainWindow</class>
- <widget class="QMainWindow" name="MainWindow">
+ <class>MsgWindow</class>
+ <widget class="QMainWindow" name="MsgWindow">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Msg_Page</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QWidget" name="layoutWidget">
@@ -19,13 +19,13 @@
      <rect>
       <x>130</x>
       <y>40</y>
-      <width>237</width>
+      <width>283</width>
       <height>90</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout">
      <item>
-      <widget class="QLabel" name="label">
+      <widget class="QLabel" name="RegistrationMsgLbl">
        <property name="font">
         <font>
          <family>Calibri</family>
@@ -33,7 +33,7 @@
         </font>
        </property>
        <property name="text">
-        <string>You are registered successfully</string>
+        <string>Registration message</string>
        </property>
        <property name="alignment">
         <set>Qt::AlignCenter</set>
@@ -54,7 +54,7 @@
       </spacer>
      </item>
      <item>
-      <widget class="QPushButton" name="pushButton">
+      <widget class="QPushButton" name="GotoLoginButton">
        <property name="font">
         <font>
          <family>Calibri</family>
@@ -77,7 +77,7 @@
      <x>0</x>
      <y>0</y>
      <width>500</width>
-     <height>21</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>

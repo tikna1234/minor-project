@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>371</width>
-    <height>347</height>
+    <height>428</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -110,6 +110,19 @@
     </property>
     <property name="text">
      <string>Click the Subject you to Take a Test In</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="BackButton">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>310</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Back</string>
     </property>
    </widget>
   </widget>
