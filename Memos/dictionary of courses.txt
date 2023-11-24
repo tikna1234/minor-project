@@ -11,7 +11,6 @@ diploma = {
 	"Mechanical and Electrical":
 
 	["Diploma in Mechanical Engineering",
-	"Diploma in Civil Engineering",
 	"Diploma in Electrical Engineering",
 	"Diploma in Automobile Engineering",
 	"Diploma in Chemical Engineering",
