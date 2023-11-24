@@ -17,7 +17,7 @@ con = sqlite3.connect("G:\minorproject\Database\Career_Recommedation_System.db")
 class Ui_TakeTestWindow(object):
     def setupUi(self, TakeTestWindow):
         self.cur = con.cursor()
-        User_id = ""
+        self.User_id = ""
         self.marks = 0
         self.finished = False
         self.ans = []
@@ -76,6 +76,7 @@ class Ui_TakeTestWindow(object):
         self.BackButton = QtWidgets.QPushButton(self.centralwidget)
         self.BackButton.setGeometry(QtCore.QRect(80, 460, 93, 28))
         self.BackButton.setObjectName("BackButton")
+        self.BackButton.clicked.connect(lambda: self.back_button_clicked())
         TakeTestWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(TakeTestWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 800, 26))
@@ -106,6 +107,11 @@ class Ui_TakeTestWindow(object):
         self.NextButton.setText(_translate("TakeTestWindow", "Next"))
         self.Option3Button.setText(_translate("TakeTestWindow", "Option3"))
         self.BackButton.setText(_translate("TakeTestWindow", "Back"))
+
+    def back_button_clicked(self):
+        if self.count > 0:
+            self.count -= 2
+            self.RenderQ(self.count)
 
     def get_question_data(self, data, subject_list, count):
         question = data.iloc[subject_list[count], 0]

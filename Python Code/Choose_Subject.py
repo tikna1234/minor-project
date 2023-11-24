@@ -15,6 +15,7 @@ import numpy as np
 
 class Ui_SubjectWindow(object):
     def setupUi(self, SubjectWindow):
+        self.User_id = ""
         SubjectWindow.setObjectName("SubjectWindow")
         SubjectWindow.resize(371, 428)
         self.centralwidget = QtWidgets.QWidget(SubjectWindow)
@@ -103,6 +104,7 @@ class Ui_SubjectWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_TakeTestWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.ui.English = Questions
         self.ui.ans = ans
         self.ui.RenderQ(0)
@@ -125,6 +127,7 @@ class Ui_SubjectWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_TakeTestWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.ui.Mathematics = Questions
         self.ui.ans = ans
         self.ui.RenderQ(0)
@@ -147,6 +150,7 @@ class Ui_SubjectWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_TakeTestWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.ui.Social_Studies = Questions
         self.ui.ans = ans
         self.ui.RenderQ(0)
@@ -169,6 +173,7 @@ class Ui_SubjectWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_TakeTestWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.ui.Science = Questions
         self.ui.ans = ans
         self.ui.RenderQ(0)
@@ -191,6 +196,7 @@ class Ui_SubjectWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_TakeTestWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.ui.Logical_Reasoning = Questions
         self.ui.ans = ans
         self.ui.RenderQ(0)
@@ -213,6 +219,7 @@ class Ui_SubjectWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_TakeTestWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.ui.Computer = Questions
         self.ui.ans = ans
         self.ui.RenderQ(0)
