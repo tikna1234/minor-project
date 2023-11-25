@@ -500,6 +500,7 @@ class Ui_ReportWindow(object):
         self.BackButton = QtWidgets.QPushButton(self.centralwidget)
         self.BackButton.setGeometry(QtCore.QRect(60, 510, 93, 28))
         self.BackButton.setObjectName("BackButton")
+        self.BackButton.clicked.connect(lambda: self.backtomenu(ReportWindow))
         self.RecomendLbl = QtWidgets.QLabel(self.centralwidget)
         self.RecomendLbl.setGeometry(QtCore.QRect(20, 120, 621, 16))
         self.RecomendLbl.setObjectName("RecomendLbl")
@@ -556,7 +557,14 @@ class Ui_ReportWindow(object):
                 if j == select:
                     for i in self.Vocational[j]:
                         self.recomjob.setText(self.Vocational[j])
-        
+
+    def backtomenu(self, ReportWindow):
+        from menu_page import Ui_MenuWindow
+        self.window = QtWidgets.QMainWindow()
+        self.ui = Ui_MenuWindow()
+        self.ui.setupUi(self.window)
+        self.window.show()
+        ResultWindow.hide()
 
 
 if __name__ == "__main__":

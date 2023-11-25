@@ -16,7 +16,7 @@ import numpy as np
 import pickle
 import sqlite3
 career = pd.read_excel(r"G:\reps\minor-project\Datasets\student_marksheet_final1.xlsx")
-con = sqlite3.connect("G:\minorproject\Database\Career_Recommedation_System.db")
+con = sqlite3.connect(r"G:\minorproject\Database\Career_Recommedation_System.db")
 class Ui_MenuWindow(object):
     def setupUi(self, MenuWindow):
         self.diploma = {
@@ -194,7 +194,7 @@ class Ui_MenuWindow(object):
             ]
                  }
         self.cur = con.cursor()
-        self.User_id = "Tikna123"
+        self.User_id = ""
         MenuWindow.setObjectName("MenuWindow")
         MenuWindow.resize(518, 391)
         font = QtGui.QFont()
@@ -327,12 +327,12 @@ class Ui_MenuWindow(object):
         self.ui.setupUi(self.window)
         self.ui.User_id = self.User_id
         english, mathematics, social_studies, science, computer, interests = self.fetchsubjects()
-        self.ui.EnglishLineEdit.setText(english)
-        self.ui.MathsLineEdit.setText(mathematics)
-        self.ui.SstLineEdit.setText(social_studies)
-        self.ui.ScienceLineEdit.setText(science)
-        self.ui.ComputerLineEdit.setText(computer)
-        self.ui.InterestsCB.setCurrentText(interests)
+        self.ui.EnglishLineEdit.setText(f"{english}")
+        self.ui.MathsLineEdit.setText(f"{mathematics}")
+        self.ui.SstLineEdit.setText(f"{social_studies}")
+        self.ui.ScienceLineEdit.setText(f"{science}")
+        self.ui.ComputerLineEdit.setText(f"{computer}")
+        self.ui.InterestsCB.setCurrentText(f"{interests}")
         self.window.show()
         MenuWindow.hide()
 
@@ -355,9 +355,9 @@ class Ui_MenuWindow(object):
     def clicked_generate_report(self, MenuWindow):
         recommend = ""
         courses = []
-        recommend,courses = self.Gencourses()
-        print(recommend)
-        self.GenReport(MenuWindow, recommend, courses)
+        branch = 0
+        recommend, courses, branch = self.Gencourses()
+        self.GenReport(MenuWindow, recommend, courses, branch)
     
     def Gencourses(self):
         english, mathematics, science, social_studies, logical_reasoning, computer, interests = self.fetchallsubjects()
@@ -372,86 +372,80 @@ class Ui_MenuWindow(object):
         courses = []
         if branch == 0:
             if recommend == "Computer Science and Information Technology":
-                for i in diploma['Computer Science and Information Technology']:
-                    courses.append(i)
-                for i in Diploma['Diploma in Computer Science']:
+                for i in self.diploma['Computer Science and Information Technology']:
                     courses.append(i)
             elif recommend == "Mechanical and Electrical":
-                for i in diploma['Mechanical and Electrical']:
-                    courses.append(i)
-                for i in Diploma['Diploma in Mechanical']:
-                    courses.append(i)
-                for i in Diploma['Diploma in Electrical']:
+                for i in self.diploma['Mechanical and Electrical']:
                     courses.append(i)
             elif recommend == "Electronics and Communication":
-                for i in diploma['Electronics and Communication']:
+                for i in self.diploma['Electronics and Communication']:
                     courses.append(i)
             elif recommend == "Construction and Design":
-                for i in diploma['Construction and Design']:
+                for i in self.diploma['Construction and Design']:
                     courses.append(i)
             elif recommend == "Hospitality and Event Management":
-                for i in diploma['Hospitality and Event Management']:
+                for i in self.diploma['Hospitality and Event Management']:
                     courses.append(i)
             elif recommend == "Life Sciences and Environment":
-                for i in diploma['Life Sciences and Environment']:
+                for i in self.diploma['Life Sciences and Environment']:
                     courses.append(i)
             elif recommend == "Arts and Media":
-                for i in diploma['Arts and Media']:
+                for i in self.diploma['Arts and Media']:
                     courses.append(i)
             elif recommend == "Physical Education and Wellness":
-                for i in diploma['Physical Education and Wellness']:
+                for i in self.diploma['Physical Education and Wellness']:
                     courses.append(i)
             elif recommend == "Finance, Business and Marketing":
-                for i in diploma['Finance, Business and Marketing']:
+                for i in self.diploma['Finance, Business and Marketing']:
                     courses.append(i)
 
         elif branch == 1:
             if recommend == "Computer Science and Information Technology":
-                for i in iti['Computer Science and Information Technology']:
+                for i in self.iti['Computer Science and Information Technology']:
                     courses.append(i)
             elif recommend == "Mechanical and Electrical":
-                for i in iti['Mechanical and Electrical']:
+                for i in self.iti['Mechanical and Electrical']:
                     courses.append(i)
             elif recommend == "Electronics and Communication":
-                for i in iti['Electronics and Communication']:
+                for i in self.iti['Electronics and Communication']:
                     courses.append(i)
             elif recommend == "Construction and Design":
-                for i in iti['Construction and Design']:
+                for i in self.iti['Construction and Design']:
                     courses.append(i)
             elif recommend == "Physical Education and Wellness":
-                for i in iti['Physical Education and Wellness']:
+                for i in self.iti['Physical Education and Wellness']:
                     courses.append(i)
 
         else:
             if recommend == "Computer Science and Information Technology":
-                for i in vocational['Computer Science and Information Technology']:
+                for i in self.vocational['Computer Science and Information Technology']:
                     courses.append(i)
             elif recommend == "Mechanical and Electrical":
-                for i in vocational['Mechanical and Electrical']:
+                for i in self.vocational['Mechanical and Electrical']:
                     courses.append(i)
             elif recommend == "Construction and Design":
-                for i in vocational['Construction and Design']:
+                for i in self.vocational['Construction and Design']:
                     courses.append(i)
             elif recommend == "Hospitality and Event Management":
-                for i in vocational['Hospitality and Event Management']:
+                for i in self.vocational['Hospitality and Event Management']:
                     courses.append(i)
             elif recommend == "Arts and Media":
-                for i in vocational['Arts and Media']:
+                for i in self.vocational['Arts and Media']:
                     courses.append(i)
             elif recommend == "Physical Education and Wellness":
-                for i in vocational['Physical Education and Wellness']:
+                for i in self.vocational['Physical Education and Wellness']:
                     courses.append(i)
             elif recommend == "Finance, Business and Marketing":
-                for i in vocational['Finance, Business and Marketing']:
+                for i in self.vocational['Finance, Business and Marketing']:
                     courses.append(i)
             elif recommend == "Culinary Studies and Cooking":
-                for i in vocational['Culinary Studies and Cooking']:
+                for i in self.vocational['Culinary Studies and Cooking']:
                     courses.append(i)
                     
-        return str(recommend), courses
+        return str(recommend), courses, branch
         
 
-    def GenReport(self, MenuWindow, recommend, courses):
+    def GenReport(self, MenuWindow, recommend, courses, branch):
         from GenerateReport import Ui_ReportWindow
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_ReportWindow()
@@ -460,7 +454,8 @@ class Ui_MenuWindow(object):
         self.ui.StrtMsgLbl.setText(f"Dear, {name}")
         self.ui.RecomendLbl.setText(f"You have been recommended,{recommend}")
         for i in range(len(courses)):
-            self.ui.RecomCB.setItemText(i+1, _translate("ReportWindow",f"{courses[i]}"))
+            self.ui.RecomCB.setItemText(i+1,f"{courses[i]}")
+        self.ui.Branch = branch
         self.window.show()
         MenuWindow.hide()
 
