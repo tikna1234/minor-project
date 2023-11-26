@@ -13,12 +13,6 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_ReportWindow(object):
     def setupUi(self, ReportWindow):
-        sites={"English":["British Council: Offers online courses, study materials, and resources to improve English skills.","Grammarly: Provides grammar tips, exercises, and writing enhancement tools.","BBC Learning English: Offers resources for improving English language skills."],
-               "Mathematics":["NCERT Official Website: Provides textbooks and resources aligned with the curriculum.","Khan Academy: Offers video tutorials and practice exercises covering various math topics.","Cuemath: Provides math resources and practice material for students."],
-               "Science":["National Science Digital Library (NSDL): Offers a wide range of educational resources related to science.","TopperLearning: Provides study materials, video lessons, and practice tests for science subjects.","Embibe: Offers study materials, practice questions, and tests for science subjects."],
-               "Social_Studies":["NCERT Official Website: Provides textbooks and resources for social studies subjects.","BYJU'S: Offers study materials, videos, and interactive content for social studies.","Meritnation: Provides study materials and resources for social studies subjects"],
-               "Logical_Reasoning":["TCY Online: Offers practice tests and study material for logical reasoning.","Indiabix: Provides logical reasoning questions and solutions for practice.","Gradeup: Offers practice questions and quizzes for logical reasoning."],
-               "Computer":["Codecademy: Offers coding tutorials and exercises for beginners.","Udemy: Provides various computer-related courses at different levels.","GeeksforGeeks: Offers coding challenges, articles, and tutorials related to computer science."]}
         self.ITI = {
             'ITI in Computer Hardware and Networking': [
                 'Computer Hardware Technician',
@@ -460,7 +454,7 @@ class Ui_ReportWindow(object):
         self.Branch = 0
         self.User_id = ""
         ReportWindow.setObjectName("ReportWindow")
-        ReportWindow.resize(912, 540)
+        ReportWindow.resize(905, 611)
         self.centralwidget = QtWidgets.QWidget(ReportWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.label = QtWidgets.QLabel(self.centralwidget)
@@ -475,25 +469,16 @@ class Ui_ReportWindow(object):
         self.StrtMsgLbl.setGeometry(QtCore.QRect(30, 60, 351, 31))
         self.StrtMsgLbl.setObjectName("StrtMsgLbl")
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
-        self.label_2.setGeometry(QtCore.QRect(20, 200, 331, 16))
-        font = QtGui.QFont()
-        font.setBold(True)
-        font.setWeight(75)
-        self.label_2.setFont(font)
+        self.label_2.setGeometry(QtCore.QRect(20, 200, 281, 16))
         self.label_2.setObjectName("label_2")
         self.recomjob = QtWidgets.QLabel(self.centralwidget)
-        self.recomjob.setGeometry(QtCore.QRect(570, 280, 311, 191))
-        self.recomjob.setStyleSheet("background-color: rgb(255, 255, 255);")
+        self.recomjob.setGeometry(QtCore.QRect(570, 280, 301, 241))
         self.recomjob.setObjectName("recomjob")
         self.label_5 = QtWidgets.QLabel(self.centralwidget)
         self.label_5.setGeometry(QtCore.QRect(490, 290, 55, 16))
-        font = QtGui.QFont()
-        font.setBold(True)
-        font.setWeight(75)
-        self.label_5.setFont(font)
         self.label_5.setObjectName("label_5")
         self.RecomCB = QtWidgets.QComboBox(self.centralwidget)
-        self.RecomCB.setGeometry(QtCore.QRect(400, 200, 331, 22))
+        self.RecomCB.setGeometry(QtCore.QRect(460, 200, 331, 22))
         self.RecomCB.setObjectName("RecomCB")
         self.RecomCB.addItem("")
         self.RecomCB.addItem("")
@@ -509,40 +494,20 @@ class Ui_ReportWindow(object):
         self.RecomCB.currentIndexChanged.connect(self.genjobs)
         self.label_3 = QtWidgets.QLabel(self.centralwidget)
         self.label_3.setGeometry(QtCore.QRect(20, 290, 211, 16))
-        font = QtGui.QFont()
-        font.setBold(True)
-        font.setWeight(75)
-        self.label_3.setFont(font)
         self.label_3.setObjectName("label_3")
+        self.WeakLbl = QtWidgets.QLabel(self.centralwidget)
+        self.WeakLbl.setGeometry(QtCore.QRect(270, 290, 181, 181))
+        self.WeakLbl.setObjectName("WeakLbl")
         self.BackButton = QtWidgets.QPushButton(self.centralwidget)
-        self.BackButton.setGeometry(QtCore.QRect(360, 440, 93, 28))
+        self.BackButton.setGeometry(QtCore.QRect(60, 510, 93, 28))
         self.BackButton.setObjectName("BackButton")
         self.BackButton.clicked.connect(lambda: self.backtomenu(ReportWindow))
         self.RecomendLbl = QtWidgets.QLabel(self.centralwidget)
         self.RecomendLbl.setGeometry(QtCore.QRect(20, 120, 621, 16))
-        font = QtGui.QFont()
-        font.setBold(True)
-        font.setWeight(75)
-        self.RecomendLbl.setFont(font)
         self.RecomendLbl.setObjectName("RecomendLbl")
-        self.WeakButton = QtWidgets.QPushButton(self.centralwidget)
-        self.WeakButton.setGeometry(QtCore.QRect(180, 430, 93, 28))
-        self.WeakButton.setObjectName("WeakButton")
-        self.WeakButton.clicked.connect(lambda: self.Tips(ReportWindow))
-        self.WeakLbl = QtWidgets.QLabel(self.centralwidget)
-        self.WeakLbl.setGeometry(QtCore.QRect(260, 290, 171, 101))
-        self.WeakLbl.setStyleSheet("background-color: rgb(255, 255, 255);")
-        self.WeakLbl.setObjectName("WeakLbl")
-        self.label_4 = QtWidgets.QLabel(self.centralwidget)
-        self.label_4.setGeometry(QtCore.QRect(10, 440, 141, 16))
-        font = QtGui.QFont()
-        font.setBold(True)
-        font.setWeight(75)
-        self.label_4.setFont(font)
-        self.label_4.setObjectName("label_4")
         ReportWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(ReportWindow)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 912, 26))
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 905, 26))
         self.menubar.setObjectName("menubar")
         ReportWindow.setMenuBar(self.menubar)
         self.statusbar = QtWidgets.QStatusBar(ReportWindow)
@@ -560,12 +525,21 @@ class Ui_ReportWindow(object):
         self.label_2.setText(_translate("ReportWindow", "We Recommend that you the following Courses:"))
         self.recomjob.setText(_translate("ReportWindow", "Job List"))
         self.label_5.setText(_translate("ReportWindow", "Jobs:"))
-        self.label_3.setText(_translate("ReportWindow", "Look at your weaknesses here:"))
+        self.label_3.setText(_translate("ReportWindow", "Your Weaknesses lie in these areas:"))
+        self.WeakLbl.setText(_translate("ReportWindow", "TextLabel"))
         self.BackButton.setText(_translate("ReportWindow", "Back To Menu"))
         self.RecomendLbl.setText(_translate("ReportWindow", "You have been recommended, "))
-        self.WeakButton.setText(_translate("ReportWindow", "Go!"))
-        self.WeakLbl.setText(_translate("ReportWindow", "TextLabel"))
-        self.label_4.setText(_translate("ReportWindow", "For tips look here:"))
+        self.RecomCB.setItemText(0, _translate("ReportWindow", "Select"))
+        self.RecomCB.setItemText(1, _translate("ReportWindow", ""))
+        self.RecomCB.setItemText(2, _translate("ReportWindow", ""))
+        self.RecomCB.setItemText(3, _translate("ReportWindow", ""))
+        self.RecomCB.setItemText(4, _translate("ReportWindow", ""))
+        self.RecomCB.setItemText(5, _translate("ReportWindow", ""))
+        self.RecomCB.setItemText(6, _translate("ReportWindow", ""))
+        self.RecomCB.setItemText(7, _translate("ReportWindow", ""))
+        self.RecomCB.setItemText(8, _translate("ReportWindow", ""))
+        self.RecomCB.setItemText(9, _translate("ReportWindow", ""))
+        self.RecomCB.setItemText(10, _translate("ReportWindow", ""))
 
     def genjobs(self):
         select = self.RecomCB.currentText()
@@ -588,15 +562,6 @@ class Ui_ReportWindow(object):
         from menu_page import Ui_MenuWindow
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_MenuWindow()
-        self.ui.setupUi(self.window)
-        self.ui.User_id = self.User_id
-        self.window.show()
-        ReportWindow.hide()
-
-    def Tips(self, ReportWindow):
-        from Tips_Page import Ui_TipsWindow
-        self.window = QtWidgets.QMainWindow()
-        self.ui = Ui_TipsWindow()
         self.ui.setupUi(self.window)
         self.ui.User_id = self.User_id
         self.window.show()

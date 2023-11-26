@@ -193,14 +193,21 @@ class Ui_MenuWindow(object):
             "Vocational Training in Food Safety and Hygiene Certification"
             ]
                  }
-        self.VocationalReq = {"Computer Science and Information Technology":53,
-                        "Mechanical and Electrical":51,
-                        "Construction and Design":49,
-                        "Finance, Business, and Marketing":47,
-                        "Hospitality and Event Management":45,
-                        "Arts and Media":43,
-                        "Physical Education and Wellness":41,
-                        "Culinary Studies and Cooking":0}
+        
+        self.ITIReq = {"Computer Science and Information Technology":[60,70,70,65,70],
+          "Mechanical and Electrical":[60,70,70,65,65],
+          "Electronics and Communication":[60,65,65,65,65],
+          "Construction and Design":[55,60,55,60,55],
+          "Physical Education and Wellness":[55,55,55,55,55]}
+        self.DiplomaReq = {"Computer Science and Information and technology":[75,80,80,75,80,85] ,
+              "Mechanical and Electrical":[75,85,80,75,80,80],
+              "Electronics and Communication":[75,80,80,75,80,85],
+              "Construction and Design":[75,80,75,80,85,80],
+              "Hospitality and Event Management":[85,80,75,80,80,80],
+              "Life Sciences and Environment":[80,80,85,75,80,75],
+              "Arts and Media":[85,75,80,80,80,80],
+              "Physical Education and Wellness":[80,75,85,75,80,80],
+              "Finance, Business and Marketing":[80,80,75,75,85,80]}
         self.cur = con.cursor()
         self.User_id = ""
         MenuWindow.setObjectName("MenuWindow")
@@ -364,8 +371,19 @@ class Ui_MenuWindow(object):
         recommend = ""
         courses = []
         branch = 0
+        ITIsubs = []
+        Diplomasubs = []
+        weaksubs = []
+        english, mathematics, science, social_studies, logical_reasoning, computer, interests = self.fetchallsubjects()
+        ITIsubs = [english,mathematics,science,logical_reasoning,computer]
+        Diplomasubs = [english,mathematics,science,social_studies,logical_reasoning,computer]
         recommend, courses, branch = self.Gencourses()
-        self.GenReport(MenuWindow, recommend, courses, branch)
+        if branch == 0:
+            weaksubs = self.CheckRequirementsDiploma(interests,Diplomasubs)
+        if branch == 1:
+            weaksubs = self.CheckRequirementsITI(interests,ITIsubs)
+        self.GenReport(MenuWindow, recommend, courses, branch, weaksubs)
+        
     
     def Gencourses(self):
         english, mathematics, science, social_studies, logical_reasoning, computer, interests = self.fetchallsubjects()
@@ -452,33 +470,56 @@ class Ui_MenuWindow(object):
                     
         return str(recommend), courses, branch
 
-    '''def getvocCB(self):
-        english, mathematics, science, social_studies, logical_reasoning, computer, interests = self.fetchallsubjects()
-        avg = (english+mathematics+science+social_studies+logical_reasoning+computer)/6*100
-        for key in self.vocational.keys():
-            if avg > self.VocationalReq[key]:
-                self.ui.VocComboBox.addItem(key)'''
+    def CheckRequirementsITI(self,interest,subs):
+        weaksubs = []
+        for i in range(5):
+            if self.ITIreq[interest][i] > subs[i]:
+                if i == 0:
+                    weaksubs.append("English")
+                if i == 1:
+                    weaksubs.append("Mathematics")
+                if i == 2:
+                    weaksubs.append("Science")
+                if i == 3:
+                    weaksubs.append("Logical_Reasoning")
+                if i == 4:
+                    weaksubs.append("Computer")
+        return weaksubs
+
+    def CheckRequirementsDiploma(self,interest,subs):
+        weaksubs = []
+        for i in range(6):
+            if self.DiplomaReq[interest][i] > subs[i]:
+                if i == 0:
+                    weaksubs.append("English")
+                if i == 1:
+                    weaksubs.append("Mathematics")
+                if i == 2:
+                    weaksubs.append("Science")
+                if i == 3:
+                    weaksubs.append("Social_Studies")
+                if i == 4:
+                    weaksubs.append("Logical_Reasoning")
+                if i == 5:
+                    weaksubs.append("Computer")
+        return weaksubs
         
 
-    def GenReport(self, MenuWindow, recommend, courses, branch):
+    def GenReport(self, MenuWindow, recommend, courses, branch, weaksubs):
         from GenerateReport import Ui_ReportWindow
+        temp = ""
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_ReportWindow()
         self.ui.setupUi(self.window)
         self.ui.User_id = self.User_id
         name = self.fetchname(self.User_id)
         self.ui.StrtMsgLbl.setText(f"Dear, {name}")
-        '''if branch == 2:
-            self.ui.VocComboBox = QtWidgets.QComboBox(self.centralwidget)
-            self.ui.VocComboBox.setGeometry(QtCore.QRect(371, 120, 331, 22))
-            self.getvocCB()
-            self.ui.RecomendLbl.setGeometry(QtCore.QRect(20, 120, 321, 16))
-            self.ui.RecomendLbl.setText(f"You have been recommended the following fields: ")
-        else:'''
         self.ui.RecomendLbl.setText(f"You have been recommended,{recommend}")
-        
         for i in range(len(courses)):
             self.ui.RecomCB.setItemText(i+1,f"{courses[i]}")
+        for i in range(len(weaksubs)):
+            temp = "\n".join(weaksubs)
+        self.ui.WeakLbl.setText(temp)
         self.ui.Branch = branch
         self.window.show()
         MenuWindow.hide()

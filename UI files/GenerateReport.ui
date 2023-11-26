@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>905</width>
-    <height>611</height>
+    <width>912</width>
+    <height>540</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -52,9 +52,15 @@
      <rect>
       <x>20</x>
       <y>200</y>
-      <width>281</width>
+      <width>331</width>
       <height>16</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
     </property>
     <property name="text">
      <string>We Recommend that you the following Courses:</string>
@@ -65,9 +71,12 @@
      <rect>
       <x>570</x>
       <y>280</y>
-      <width>301</width>
-      <height>241</height>
+      <width>311</width>
+      <height>191</height>
      </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
      <string>Job List</string>
@@ -82,6 +91,12 @@
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
     <property name="text">
      <string>Jobs:</string>
     </property>
@@ -89,7 +104,7 @@
    <widget class="QComboBox" name="RecomCB">
     <property name="geometry">
      <rect>
-      <x>460</x>
+      <x>400</x>
       <y>200</y>
       <width>331</width>
       <height>22</height>
@@ -105,28 +120,21 @@
       <height>16</height>
      </rect>
     </property>
-    <property name="text">
-     <string>Your Weaknesses lie in these areas:</string>
-    </property>
-   </widget>
-   <widget class="QLabel" name="WeakLbl">
-    <property name="geometry">
-     <rect>
-      <x>270</x>
-      <y>290</y>
-      <width>181</width>
-      <height>181</height>
-     </rect>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
     </property>
     <property name="text">
-     <string>TextLabel</string>
+     <string>Look at your weaknesses here:</string>
     </property>
    </widget>
    <widget class="QPushButton" name="BackButton">
     <property name="geometry">
      <rect>
-      <x>60</x>
-      <y>510</y>
+      <x>360</x>
+      <y>440</y>
       <width>93</width>
       <height>28</height>
      </rect>
@@ -144,8 +152,62 @@
       <height>16</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
     <property name="text">
      <string>You have been recommended, </string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="WeakButton">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>430</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Go!</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="WeakLbl">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>290</y>
+      <width>171</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>TextLabel</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>440</y>
+      <width>141</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>For tips look here:</string>
     </property>
    </widget>
   </widget>
@@ -154,7 +216,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>905</width>
+     <width>912</width>
      <height>26</height>
     </rect>
    </property>
