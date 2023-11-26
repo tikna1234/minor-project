@@ -17,4 +17,3 @@ def Printpred(eng, math, sci, sst, logical, cmp, branch):
     knn.fit(x_train, y_train)
     y_pred = knn.predict([[eng, math, sci, sst, logical, cmp, branch]])
     return y_pred
-

@@ -16,7 +16,7 @@ import numpy as np
 import pickle
 import sqlite3
 career = pd.read_excel(r"G:\reps\minor-project\Datasets\student_marksheet_final1.xlsx")
-con = sqlite3.connect(r"G:\minorproject\Database\Career_Recommedation_System.db")
+con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
 class Ui_MenuWindow(object):
     def setupUi(self, MenuWindow):
         self.diploma = {
@@ -193,6 +193,14 @@ class Ui_MenuWindow(object):
             "Vocational Training in Food Safety and Hygiene Certification"
             ]
                  }
+        self.VocationalReq = {"Computer Science and Information Technology":53,
+                        "Mechanical and Electrical":51,
+                        "Construction and Design":49,
+                        "Finance, Business, and Marketing":47,
+                        "Hospitality and Event Management":45,
+                        "Arts and Media":43,
+                        "Physical Education and Wellness":41,
+                        "Culinary Studies and Cooking":0}
         self.cur = con.cursor()
         self.User_id = ""
         MenuWindow.setObjectName("MenuWindow")
@@ -443,6 +451,13 @@ class Ui_MenuWindow(object):
                     courses.append(i)
                     
         return str(recommend), courses, branch
+
+    '''def getvocCB(self):
+        english, mathematics, science, social_studies, logical_reasoning, computer, interests = self.fetchallsubjects()
+        avg = (english+mathematics+science+social_studies+logical_reasoning+computer)/6*100
+        for key in self.vocational.keys():
+            if avg > self.VocationalReq[key]:
+                self.ui.VocComboBox.addItem(key)'''
         
 
     def GenReport(self, MenuWindow, recommend, courses, branch):
@@ -450,9 +465,18 @@ class Ui_MenuWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_ReportWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         name = self.fetchname(self.User_id)
         self.ui.StrtMsgLbl.setText(f"Dear, {name}")
+        '''if branch == 2:
+            self.ui.VocComboBox = QtWidgets.QComboBox(self.centralwidget)
+            self.ui.VocComboBox.setGeometry(QtCore.QRect(371, 120, 331, 22))
+            self.getvocCB()
+            self.ui.RecomendLbl.setGeometry(QtCore.QRect(20, 120, 321, 16))
+            self.ui.RecomendLbl.setText(f"You have been recommended the following fields: ")
+        else:'''
         self.ui.RecomendLbl.setText(f"You have been recommended,{recommend}")
+        
         for i in range(len(courses)):
             self.ui.RecomCB.setItemText(i+1,f"{courses[i]}")
         self.ui.Branch = branch

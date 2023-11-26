@@ -13,6 +13,7 @@ from menu_page import Ui_MenuWindow
 
 class Ui_ResultWindow(object):
     def setupUi(self, ResultWindow):
+        self.User_id = ""
         ResultWindow.setObjectName("ResultWindow")
         ResultWindow.resize(800, 600)
         self.centralwidget = QtWidgets.QWidget(ResultWindow)
@@ -100,6 +101,7 @@ class Ui_ResultWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_MenuWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.window.show()
         ResultWindow.hide()
 

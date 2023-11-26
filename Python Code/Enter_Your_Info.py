@@ -11,7 +11,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 import sqlite3
-con = sqlite3.connect("G:\minorproject\Database\Career_Recommedation_System.db")
+con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
 class Ui_EnterInfoWindow(object):
     def setupUi(self, EnterInfoWindow):
         self.cur = con.cursor()
@@ -140,6 +140,7 @@ class Ui_EnterInfoWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_MenuWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.window.show()
         EnterInfoWindow.hide()
 

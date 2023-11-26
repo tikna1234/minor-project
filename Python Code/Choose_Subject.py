@@ -85,6 +85,7 @@ class Ui_SubjectWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_MenuWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.window.show()
         SubjectWindow.hide()
 

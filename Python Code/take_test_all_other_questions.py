@@ -13,7 +13,7 @@ import random as rndm
 import pandas as pd
 import numpy as np
 import sqlite3
-con = sqlite3.connect("G:\minorproject\Database\Career_Recommedation_System.db")
+con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
 class Ui_TakeTestWindow(object):
     def setupUi(self, TakeTestWindow):
         self.cur = con.cursor()
@@ -108,10 +108,21 @@ class Ui_TakeTestWindow(object):
         self.Option3Button.setText(_translate("TakeTestWindow", "Option3"))
         self.BackButton.setText(_translate("TakeTestWindow", "Back"))
 
-    def back_button_clicked(self):
-        if self.count > 0:
+    def back_button_clicked(self, TakeTestWindow):
+        if self.count > 1:
             self.count -= 2
             self.RenderQ(self.count)
+        if self.count == 1:
+            self.backtomenu(TakeTestWindow)
+
+    def backtomenu(self, TakeTestWindow):
+        from menu_page import Ui_MenuWindow
+        self.window = QtWidgets.QMainWindow()
+        self.ui = Ui_MenuWindow()
+        self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
+        self.window.show()
+        TakeTestWindow.hide()    
 
     def get_question_data(self, data, subject_list, count):
         question = data.iloc[subject_list[count], 0]
@@ -227,6 +238,7 @@ class Ui_TakeTestWindow(object):
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_ResultWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         if len(self.English) > 0:
             self.ui.EngMarksLbl.setText(f"{result}")
         elif len(self.Mathematics) > 0:

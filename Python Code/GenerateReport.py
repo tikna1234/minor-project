@@ -452,6 +452,7 @@ class Ui_ReportWindow(object):
             ]
         }
         self.Branch = 0
+        self.User_id = ""
         ReportWindow.setObjectName("ReportWindow")
         ReportWindow.resize(905, 611)
         self.centralwidget = QtWidgets.QWidget(ReportWindow)
@@ -542,29 +543,29 @@ class Ui_ReportWindow(object):
 
     def genjobs(self):
         select = self.RecomCB.currentText()
+        recommended_jobs = ""
         if self.Branch == 0:
             for j in self.Diploma.keys():
                 if j == select:
-                    for i in self.Diploma[j]:
-                        self.recomjob.setText(self.Diploma[j])
+                    recommended_jobs = "\n".join(self.Diploma[j])
         elif self.Branch == 1:
             for j in self.ITI.keys():
                 if j == select:
-                    for i in self.ITI[j]:
-                        self.recomjob.setText(self.ITI[j])
+                    recommended_jobs = "\n".join(self.ITI[j])
         elif self.Branch == 2:
             for j in self.Vocational.keys():
                 if j == select:
-                    for i in self.Vocational[j]:
-                        self.recomjob.setText(self.Vocational[j])
+                    recommended_jobs = "\n".join(self.Vocational[j])
+        self.recomjob.setText(recommended_jobs)
 
     def backtomenu(self, ReportWindow):
         from menu_page import Ui_MenuWindow
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_MenuWindow()
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.window.show()
-        ResultWindow.hide()
+        ReportWindow.hide()
 
 
 if __name__ == "__main__":
