@@ -15,6 +15,24 @@ import numpy as np
 
 class Ui_SubjectWindow(object):
     def setupUi(self, SubjectWindow):
+        education_stylesheet = """
+            QWidget {
+                background-color: #FDDC5C; 
+                color: #333333; 
+            }
+            QLabel {
+                font-family: MS Shell Dlg 2;
+                font-size: 14px;
+                font-weight: bold;
+                color: #000000;
+            }
+            QPushButton {
+                background-color: #4CAF50; 
+                color: white;  
+            }
+            
+        """
+        SubjectWindow.setStyleSheet(education_stylesheet)
         self.User_id = ""
         SubjectWindow.setObjectName("SubjectWindow")
         SubjectWindow.resize(371, 428)
@@ -187,7 +205,7 @@ class Ui_SubjectWindow(object):
         Questions = []
         ans=[]
         while(len(Questions)!=25):
-            r = rndm.randint(0,50)
+            r = rndm.randint(0,49)
             if(r not in Questions):
                 Questions.append(r)
             else:

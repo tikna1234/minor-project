@@ -14,8 +14,47 @@ import sqlite3
 con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
 class Ui_EnterInfoWindow(object):
     def setupUi(self, EnterInfoWindow):
+        education_stylesheet = """
+            QWidget {
+                background-color: #FDDC5C; 
+                color: #333333; 
+            }
+            QLabel {
+                font-family: MS Shell Dlg 2;
+                font-size: 14px;
+                color: #000000; 
+            }
+            QLineEdit{
+                background-color: #FFFFFF; 
+                color: #333333; 
+                border: 1px solid #CCCCCC; 
+            }
+            QComboBox {
+                background-color: #FFFFFF; 
+                color: #333333; 
+                border: 1px solid #CCCCCC; 
+            }
+            QComboBox QAbstractItemView {
+                background-color: #FFFFFF; 
+                color: #333333; 
+                border: 1px solid #CCCCCC; 
+            }
+            QComboBox QAbstractItemView::up-arrow, QComboBox QAbstractItemView::down-arrow {
+                background-color: #FFFFFF; 
+            }
+            QComboBox QScrollBar:vertical {
+                background-color: #FFFFFF; 
+            }
+            QPushButton {
+                background-color: #4CAF50; 
+                color: white; 
+            }
+            
+        """
+        EnterInfoWindow.setStyleSheet(education_stylesheet)
         self.cur = con.cursor()
-        User_id = ""
+        self.counter = 0
+        self.User_id = ""
         EnterInfoWindow.setObjectName("EnterInfoWindow")
         EnterInfoWindow.resize(798, 611)
         self.centralwidget = QtWidgets.QWidget(EnterInfoWindow)
@@ -23,13 +62,13 @@ class Ui_EnterInfoWindow(object):
         self.EnterInfoButton = QtWidgets.QPushButton(self.centralwidget)
         self.EnterInfoButton.setGeometry(QtCore.QRect(150, 460, 93, 28))
         self.EnterInfoButton.setObjectName("EnterInfoButton")
-        self.EnterInfoButton.clicked.connect(lambda: self.EnterInfo(User_id))
+        self.EnterInfoButton.clicked.connect(lambda: self.EnterInfo(self.User_id))
         self.BackButton = QtWidgets.QPushButton(self.centralwidget)
         self.BackButton.setGeometry(QtCore.QRect(390, 460, 93, 28))
         self.BackButton.setObjectName("BackButton")
         self.BackButton.clicked.connect(lambda: self.Back(EnterInfoWindow))
         self.label = QtWidgets.QLabel(self.centralwidget)
-        self.label.setGeometry(QtCore.QRect(20, 10, 171, 41))
+        self.label.setGeometry(QtCore.QRect(20, 10, 500, 41))
         font = QtGui.QFont()
         font.setPointSize(10)
         font.setBold(True)
@@ -145,20 +184,25 @@ class Ui_EnterInfoWindow(object):
         EnterInfoWindow.hide()
 
     def EnterInfo(self, User_id):
-        counter=0
         english=self.EnglishLineEdit.text()
         maths=self.MathsLineEdit.text()
         sst=self.SstLineEdit.text()
         science=self.ScienceLineEdit.text()
         comp=self.ComputerLineEdit.text()
         interests=self.InterestsCB.currentText()
-        if counter == 0:
-            counter= counter + 1
-            statement= f"INSERT INTO User_Marks VALUES({english}, {maths}, {sst}, {science}, {comp}, 0, {interests}, {counter})"
+        if self.counter > 0:
+            statement = "UPDATE User_Marks SET English = ?, Mathematics = ?, Social_Studies = ?, Science = ?, Computer = ?, Interests = ?, Counter = ? WHERE User_id = ?"
+            values = (english, maths, sst, science, comp, interests, self.counter, User_id)
         else:
-            statement= f"UPDATE User_Marks SET English = {english}, Mathematics = {maths}, Social_Studies = {sst}, Science = {science}, Computer = {comp} WHERE User_id = {User_id}"
-        self.cur.execute(statement)
-        con.commit()
+            self.counter += 1
+            statement = "INSERT INTO User_Marks VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"
+            values = (User_id, english, maths, science, sst, 0, comp, interests, self.counter)
+        try:
+            self.cur.execute(statement, values)
+            con.commit()
+            self.label.setText("Data inserted successfully!")
+        except sqlite3.Error as e:
+            self.label.setText(f"SQLite error: {e}")
 
 if __name__ == "__main__":
     import sys

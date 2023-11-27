@@ -21,6 +21,24 @@ class Ui_MsgWindow(object):
         MsgWindow.hide()
         
     def setupUi(self, MsgWindow):
+        education_stylesheet = """
+            QWidget {
+                background-color: #FDDC5C; 
+                color: #333333; 
+            }
+            QLabel {
+                font-family: MS Shell Dlg 2;
+                font-size: 15px;
+                font-weight: bold;
+                color: #000000;
+            }
+            QPushButton {
+                background-color: #4CAF50; 
+                color: white;  
+            }
+            
+        """
+        MsgWindow.setStyleSheet(education_stylesheet)
         MsgWindow.setObjectName("MsgWindow")
         MsgWindow.resize(500, 489)
         self.centralwidget = QtWidgets.QWidget(MsgWindow)

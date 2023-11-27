@@ -13,6 +13,44 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_ReportWindow(object):
     def setupUi(self, ReportWindow):
+        education_stylesheet = """
+            QWidget {
+                background-color: #FDDC5C; 
+                color: #333333; 
+            }
+            QLabel {
+                font-family: MS Shell Dlg 2;
+                font-size: 14px;
+                color: #000000; 
+            }
+            QLineEdit{
+                background-color: #FFFFFF; 
+                color: #333333; 
+                border: 1px solid #CCCCCC; 
+            }
+            QComboBox {
+                background-color: #FFFFFF; 
+                color: #333333; 
+                border: 1px solid #CCCCCC; 
+            }
+            QComboBox QAbstractItemView {
+                background-color: #FFFFFF; 
+                color: #333333; 
+                border: 1px solid #CCCCCC; 
+            }
+            QComboBox QAbstractItemView::up-arrow, QComboBox QAbstractItemView::down-arrow {
+                background-color: #FFFFFF; 
+            }
+            QComboBox QScrollBar:vertical {
+                background-color: #FFFFFF; 
+            }
+            QPushButton {
+                background-color: #4CAF50; 
+                color: white; 
+            }
+            
+        """
+        ReportWindow.setStyleSheet(education_stylesheet)
         sites={"English":["British Council: Offers online courses, study materials, and resources to improve English skills.","Grammarly: Provides grammar tips, exercises, and writing enhancement tools.","BBC Learning English: Offers resources for improving English language skills."],
                "Mathematics":["NCERT Official Website: Provides textbooks and resources aligned with the curriculum.","Khan Academy: Offers video tutorials and practice exercises covering various math topics.","Cuemath: Provides math resources and practice material for students."],
                "Science":["National Science Digital Library (NSDL): Offers a wide range of educational resources related to science.","TopperLearning: Provides study materials, video lessons, and practice tests for science subjects.","Embibe: Offers study materials, practice questions, and tests for science subjects."],

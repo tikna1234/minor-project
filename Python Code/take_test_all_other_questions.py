@@ -16,6 +16,30 @@ import sqlite3
 con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
 class Ui_TakeTestWindow(object):
     def setupUi(self, TakeTestWindow):
+        education_stylesheet = """
+            QWidget {
+                background-color: #FDDC5C; 
+                color: #333333; 
+            }
+            QLabel {
+                font-family: MS Shell Dlg 2;
+                font-size: 14px;
+                color: #000000; 
+            }
+            QRadioButton {
+                background-color: #FDDC5C; 
+                color: #333333; 
+            }
+            QPushButton {
+                background-color: #4CAF50; 
+                color: #FFFFFF; 
+            }
+            QPushButton:hover {
+                background-color: #6495ED; 
+            }
+            
+        """
+        TakeTestWindow.setStyleSheet(education_stylesheet)
         self.cur = con.cursor()
         self.User_id = ""
         self.marks = 0
@@ -110,6 +134,7 @@ class Ui_TakeTestWindow(object):
 
     def back_button_clicked(self, TakeTestWindow):
         if self.count > 1:
+            self.marks -= 4
             self.count -= 2
             self.RenderQ(self.count)
         if self.count == 1:
@@ -205,27 +230,27 @@ class Ui_TakeTestWindow(object):
 
     def addmarkstodatabase(self):
         if len(self.English) > 0:
-            statement= f"UPDATE User_Marks SET English = {self.marks}  WHERE User_id = {User_id}"
+            statement= f"UPDATE User_Marks SET English = {self.marks}  WHERE User_id = '{self.User_id}'"
             self.cur.execute(statement)
             con.commit()
         elif len(self.Mathematics) > 0:
-            statement= f"UPDATE User_Marks SET Mathematics = {self.marks}  WHERE User_id = {User_id}"
+            statement= f"UPDATE User_Marks SET Mathematics = {self.marks}  WHERE User_id = '{self.User_id}'"
             self.cur.execute(statement)
             con.commit()
         elif len(self.Social_Studies) > 0:
-            statement= f"UPDATE User_Marks SET Social_Studies = {self.marks} WHERE User_id = {User_id}"
+            statement= f"UPDATE User_Marks SET Social_Studies = {self.marks} WHERE User_id = '{self.User_id}'"
             self.cur.execute(statement)
             con.commit()
         elif len(self.Science) > 0:
-            statement= f"UPDATE User_Marks SET Science = {self.marks}  WHERE User_id = {User_id}"
+            statement= f"UPDATE User_Marks SET Science = {self.marks}  WHERE User_id = '{self.User_id}'"
             self.cur.execute(statement)
             con.commit()
         elif len(self.Logical_Reasoning) > 0:
-            statement= f"UPDATE User_Marks SET Logical_Reasoning = {self.marks}  WHERE User_id = {User_id}"
+            statement= f"UPDATE User_Marks SET Logical_Reasoning = {self.marks}  WHERE User_id = '{self.User_id}'"
             self.cur.execute(statement)
             con.commit()
         elif len(self.Computer) > 0:
-            statement= f"UPDATE User_Marks SET Computer = {self.marks}  WHERE User_id = {User_id}"
+            statement= f"UPDATE User_Marks SET Computer = {self.marks}  WHERE User_id = '{self.User_id}'"
             self.cur.execute(statement)
             con.commit()
         else: self.label_2.setText("error")

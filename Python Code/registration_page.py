@@ -11,10 +11,32 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 from after_registration import Ui_MsgWindow
 import sqlite3
-con = sqlite3.connect("G:\reps\minor-project\Database\Career_Recommedation_System.db")
+con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
 
 class Ui_RegistrationWIndow(object):
     def setupUi(self, RegistrationWIndow):
+        education_stylesheet = """
+            QWidget {
+                background-color: #FDDC5C; 
+                color: #333333; 
+            }
+            QLabel {
+                font-family: MS Shell Dlg 2;
+                font-size: 14px;
+                font-weight: bold;
+                color: #000000;
+            }
+            QPushButton {
+                background-color: #4CAF50;
+                color: white;
+            }
+            QLineEdit {
+                background-color: #FFFFFF; 
+                border: 1px solid #CCCCCC; 
+            }
+           
+        """
+        RegistrationWIndow.setStyleSheet(education_stylesheet)
         self.cur = con.cursor()
         RegistrationWIndow.setObjectName("RegistrationWIndow")
         RegistrationWIndow.resize(339, 440)

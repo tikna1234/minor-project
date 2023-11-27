@@ -23,6 +23,28 @@ class Ui_loginWindow(object):
         loginWindow.hide()
 
     def setupUi(self, loginWindow):
+        education_stylesheet = """
+            QWidget {
+                background-color: #FDDC5C; 
+                color: #333333; 
+            }
+            QLabel {
+                font-family: MS Shell Dlg 2;
+                font-size: 14px;
+                font-weight: bold;
+                color: #000000;
+            }
+            QPushButton {
+                background-color: #4CAF50; 
+                color: white;  
+            }
+            QLineEdit {
+                background-color: #FFFFFF; 
+                border: 1px solid #CCCCCC; 
+            }
+            
+        """
+        loginWindow.setStyleSheet(education_stylesheet)
         self.cur = con.cursor()
         loginWindow.setObjectName("loginWindow")
         loginWindow.resize(422, 343)
@@ -57,7 +79,7 @@ class Ui_loginWindow(object):
     def retranslateUi(self, loginWindow):
         _translate = QtCore.QCoreApplication.translate
         loginWindow.setWindowTitle(_translate("loginWindow", "Login_Page"))
-        self.UserNameLbl.setText(_translate("loginWindow", "Username:"))
+        self.UserNameLbl.setText(_translate("loginWindow", "User_id:"))
         self.LoginButton.setText(_translate("loginWindow", "Login"))
         self.RegisterButton.setText(_translate("loginWindow", "Register"))
 
