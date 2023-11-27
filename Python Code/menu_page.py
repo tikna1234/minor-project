@@ -375,8 +375,8 @@ class Ui_MenuWindow(object):
         from Choose_Subject import Ui_SubjectWindow
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_SubjectWindow()
-        self.ui.User_id = self.User_id
         self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
         self.window.show()
         MenuWindow.hide()
 

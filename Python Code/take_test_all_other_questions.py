@@ -182,6 +182,7 @@ class Ui_TakeTestWindow(object):
             self.selected_answer = self.get_selected_answer()
             self.checkAns()
             self.RenderQ(self.count)
+            self.label.setText(f"User ID: {self.User_id}")
         else:
             self.finish(TakeTestWindow)
         
@@ -230,29 +231,47 @@ class Ui_TakeTestWindow(object):
 
     def addmarkstodatabase(self):
         if len(self.English) > 0:
-            statement= f"UPDATE User_Marks SET English = {self.marks}  WHERE User_id = '{self.User_id}'"
-            self.cur.execute(statement)
-            con.commit()
+            try:
+                statement= f"UPDATE User_Marks SET English = {self.marks}  WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
         elif len(self.Mathematics) > 0:
-            statement= f"UPDATE User_Marks SET Mathematics = {self.marks}  WHERE User_id = '{self.User_id}'"
-            self.cur.execute(statement)
-            con.commit()
+            try:
+                statement= f"UPDATE User_Marks SET Mathematics = {self.marks}  WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
         elif len(self.Social_Studies) > 0:
-            statement= f"UPDATE User_Marks SET Social_Studies = {self.marks} WHERE User_id = '{self.User_id}'"
-            self.cur.execute(statement)
-            con.commit()
+            try:
+                statement= f"UPDATE User_Marks SET Social_Studies = {self.marks} WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
         elif len(self.Science) > 0:
-            statement= f"UPDATE User_Marks SET Science = {self.marks}  WHERE User_id = '{self.User_id}'"
-            self.cur.execute(statement)
-            con.commit()
+            try:
+                statement= f"UPDATE User_Marks SET Science = {self.marks}  WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
         elif len(self.Logical_Reasoning) > 0:
-            statement= f"UPDATE User_Marks SET Logical_Reasoning = {self.marks}  WHERE User_id = '{self.User_id}'"
-            self.cur.execute(statement)
-            con.commit()
+            try:
+                statement= f"UPDATE User_Marks SET Logical_Reasoning = {self.marks}  WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
         elif len(self.Computer) > 0:
-            statement= f"UPDATE User_Marks SET Computer = {self.marks}  WHERE User_id = '{self.User_id}'"
-            self.cur.execute(statement)
-            con.commit()
+            try:
+                statement= f"UPDATE User_Marks SET Computer = {self.marks}  WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
         else: self.label_2.setText("error")
         
             
