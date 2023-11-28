@@ -1,12 +1,12 @@
 #import pickle
 #from joblib import load
 from model import Printpred
-eng = 57
-math = 60
-sci = 59
-sst = 57
-logical = 60
-cmp = 62
+eng = 87
+math = 81
+sci = 79
+sst = 82
+logical = 92
+cmp = 81
 
 diploma = {
 	"Computer Science and Information Technology":
@@ -635,7 +635,7 @@ else:
 #model = load(r'C:\Users\HP\Documents\GitHub\minor-project\jupyter files\model_filename.joblib')    
 recommend = Printpred(eng, math, sci, sst, logical, cmp, branch)
 
-print(recommend)
+#print(recommend)
 
 if branch == 0:
     if recommend == "Computer Science and Information Technology":
@@ -717,7 +717,7 @@ else:
            
 
 
-select = "Diploma in Interior Design"
+'''select = "Diploma in Interior Design"
 
 if branch == 0:
     for j in Diploma.keys():
@@ -730,5 +730,87 @@ elif branch == 1:
 elif branch == 2:
     for j in Vocational.keys():
         if j == select:
-            print(Vocational[j])
+            print(Vocational[j])'''
     
+def Gencourses(english, mathematics, science, social_studies, logical_reasoning, computer):
+    avg = (english+mathematics+science+social_studies+logical_reasoning+computer)/6*100
+    if avg>=75:
+        branch = 0
+    elif avg>=55:
+        branch = 1
+    else:
+        branch = 2
+    recommend = Printpred(english, mathematics, science, social_studies, logical_reasoning, computer, branch)
+    courses = []
+    if branch == 0:
+        if recommend == "Computer Science and Information Technology":
+            for i in diploma['Computer Science and Information Technology']:
+                courses.append(i)
+        elif recommend == "Mechanical and Electrical":
+            for i in diploma['Mechanical and Electrical']:
+                courses.append(i)
+        elif recommend == "Electronics and Communication":
+            courses = str(self.diploma['Electronics and Communication'])
+        elif recommend == "Construction and Design":
+            for i in diploma['Construction and Design']:
+                courses.append(i)
+        elif recommend == "Hospitality and Event Management":
+            for i in diploma['Hospitality and Event Management']:
+                courses.append(i)
+        elif recommend == "Life Sciences and Environment":
+            for i in diploma['Life Sciences and Environment']:
+                courses.append(i)
+        elif recommend == "Arts and Media":
+            for i in diploma['Arts and Media']:
+                courses.append(i)
+        elif recommend == "Physical Education and Wellness":
+            for i in diploma['Physical Education and Wellness']:
+                courses.append(i)
+        elif recommend == "Finance, Business and Marketing":
+            courses = diploma['Finance, Business and Marketing']
+
+    elif branch == 1:
+        if recommend == "Computer Science and Information Technology":
+            for i in iti['Computer Science and Information Technology']:
+                courses.append(i)
+        elif recommend == "Mechanical and Electrical":
+            for i in iti['Mechanical and Electrical']:
+                courses.append(i)
+        elif recommend == "Electronics and Communication":
+            for i in iti['Electronics and Communication']:
+                courses.append(i)
+        elif recommend == "Construction and Design":
+            for i in iti['Construction and Design']:
+                courses.append(i)
+        elif recommend == "Physical Education and Wellness":
+            courses = str(iti['Physical Education and Wellness'])
+
+    else:
+        if recommend == "Computer Science and Information Technology":
+            for i in vocational['Computer Science and Information Technology']:
+                courses.append(i)
+        elif recommend == "Mechanical and Electrical":
+            for i in vocational['Mechanical and Electrical']:
+                courses.append(i)
+        elif recommend == "Construction and Design":
+            for i in vocational['Construction and Design']:
+                courses.append(i)
+        elif recommend == "Hospitality and Event Management":
+            for i in vocational['Hospitality and Event Management']:
+                courses.append(i)
+        elif recommend == "Arts and Media":
+            for i in vocational['Arts and Media']:
+                courses.append(i)
+        elif recommend == "Physical Education and Wellness":
+            courses = str(vocational['Physical Education and Wellness'])
+        elif recommend == "Finance, Business and Marketing":
+            for i in vocational['Finance, Business and Marketing']:
+                courses.append(i)
+        elif recommend == "Culinary Studies and Cooking":
+            for i in vocational['Culinary Studies and Cooking']:
+                courses.append(i)
+    return str(recommend), courses, branch
+rec, courses, branch = Gencourses(eng, math, sci, sst, logical, cmp)
+print(rec)
+print(courses)
+print(branch)

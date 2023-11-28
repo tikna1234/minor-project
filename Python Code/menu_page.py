@@ -40,8 +40,8 @@ class Ui_MenuWindow(object):
 
             "Electronics and Communication":
 
-            ["Diploma in Electronics and Communication Engineering"
-            ],
+            "Diploma in Electronics and Communication Engineering"
+            ,
 
             "Construction and Design":
 
@@ -80,9 +80,9 @@ class Ui_MenuWindow(object):
             ],
 
             "Finance, Business and Marketing":
-            [
+            
             "Diploma in Financial Accounting"
-            ]
+            
 
             }
 
@@ -102,7 +102,7 @@ class Ui_MenuWindow(object):
              "ITI in Mechanical",
             "ITI in Automotive Technology",
             "ITI in Welding and Fabrication",
-            " ITI in Fitter and Turner",
+            "ITI in Fitter and Turner",
             "ITI in Machinist",
             "ITI in Foundry and Pattern Making",
             "ITI in CNC Operator"
@@ -121,9 +121,9 @@ class Ui_MenuWindow(object):
             ],
             
             "Physical Education and Wellness":
-            [
+            
             "ITI in Beauty and Wellness"
-            ]
+            
 
             }
             
@@ -176,9 +176,9 @@ class Ui_MenuWindow(object):
             ],
             
             "Physical Education and Wellness":
-            [
+            
             "Vocational Training in Beauty and Makeup Artistry"
-            ],
+            ,
 
             "Finance, Business and Marketing":
             [
@@ -424,8 +424,7 @@ class Ui_MenuWindow(object):
                 for i in self.diploma['Mechanical and Electrical']:
                     courses.append(i)
             elif recommend == "Electronics and Communication":
-                for i in self.diploma['Electronics and Communication']:
-                    courses.append(i)
+                courses = str(self.diploma['Electronics and Communication'])
             elif recommend == "Construction and Design":
                 for i in self.diploma['Construction and Design']:
                     courses.append(i)
@@ -442,8 +441,7 @@ class Ui_MenuWindow(object):
                 for i in self.diploma['Physical Education and Wellness']:
                     courses.append(i)
             elif recommend == "Finance, Business and Marketing":
-                for i in self.diploma['Finance, Business and Marketing']:
-                    courses.append(i)
+                courses = str(self.diploma['Finance, Business and Marketing'])
 
         elif branch == 1:
             if recommend == "Computer Science and Information Technology":
@@ -459,8 +457,7 @@ class Ui_MenuWindow(object):
                 for i in self.iti['Construction and Design']:
                     courses.append(i)
             elif recommend == "Physical Education and Wellness":
-                for i in self.iti['Physical Education and Wellness']:
-                    courses.append(i)
+                courses = str(self.iti['Physical Education and Wellness'])
 
         else:
             if recommend == "Computer Science and Information Technology":
@@ -479,8 +476,7 @@ class Ui_MenuWindow(object):
                 for i in self.vocational['Arts and Media']:
                     courses.append(i)
             elif recommend == "Physical Education and Wellness":
-                for i in self.vocational['Physical Education and Wellness']:
-                    courses.append(i)
+                courses = str(self.vocational['Physical Education and Wellness'])
             elif recommend == "Finance, Business and Marketing":
                 for i in self.vocational['Finance, Business and Marketing']:
                     courses.append(i)
@@ -535,8 +531,14 @@ class Ui_MenuWindow(object):
         name = self.fetchname(self.User_id)
         self.ui.StrtMsgLbl.setText(f"Dear, {name}")
         self.ui.RecomendLbl.setText(f"You have been recommended,{recommend}")
-        for i in range(len(courses)):
-            self.ui.RecomCB.setItemText(i+1,f"{courses[i]}")
+        '''for i in courses:
+            temp = "\n".join(i)
+        self.ui.label.setText(f"{temp}")'''
+        if type(courses) is list:
+            for i in range(len(courses)):
+                self.ui.RecomCB.setItemText(i+1,f"{courses[i]}")
+        else:
+            self.ui.RecomCB.setItemText(1,f"{courses}")
         for i in range(len(weaksubs)):
             temp = "\n".join(weaksubs)
         self.ui.WeakLbl.setText(temp)

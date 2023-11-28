@@ -100,7 +100,7 @@ class Ui_TakeTestWindow(object):
         self.BackButton = QtWidgets.QPushButton(self.centralwidget)
         self.BackButton.setGeometry(QtCore.QRect(80, 460, 93, 28))
         self.BackButton.setObjectName("BackButton")
-        self.BackButton.clicked.connect(lambda: self.back_button_clicked())
+        self.BackButton.clicked.connect(lambda: self.back_button_clicked(TakeTestWindow))
         TakeTestWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(TakeTestWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 800, 26))
@@ -182,7 +182,6 @@ class Ui_TakeTestWindow(object):
             self.selected_answer = self.get_selected_answer()
             self.checkAns()
             self.RenderQ(self.count)
-            self.label.setText(f"User ID: {self.User_id}")
         else:
             self.finish(TakeTestWindow)
         
@@ -228,6 +227,58 @@ class Ui_TakeTestWindow(object):
         if self.count >= 25:
             self.finished = True
             self.NextButton.setText("Finish")
+
+    def fetchpreviousmarks(self):
+        if len(self.English) > 0:
+            try:
+                statement= f"SELECT English from User_marks WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                previousmarks = self.cur.fetchone()
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
+        elif len(self.Mathematics) > 0:
+            try:
+                statement= f"SELECT Mathematics from User_marks WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                previousmarks = self.cur.fetchone()
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
+        elif len(self.Social_Studies) > 0:
+            try:
+                statement= f"SELECT Social_Studies from User_marks WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                previousmarks = self.cur.fetchone()
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
+        elif len(self.Science) > 0:
+            try:
+                statement= f"SELECT Science from User_marks WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                previousmarks = self.cur.fetchone()
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
+        elif len(self.Logical_Reasoning) > 0:
+            try:
+                statement= f"SELECT Logical_Reasoning from User_marks WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                previousmarks = self.cur.fetchone()
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
+        elif len(self.Computer) > 0:
+            try:
+                statement= f"SELECT Computer from User_marks WHERE User_id = '{self.User_id}'"
+                self.cur.execute(statement)
+                previousmarks = self.cur.fetchone()
+                con.commit()
+            except sqlite3.Error as e:
+                self.label.setText(f"SQLite error: {e}")
+        else: self.label_2.setText("error")
+        return previousmarks
 
     def addmarkstodatabase(self):
         if len(self.English) > 0:
@@ -278,7 +329,10 @@ class Ui_TakeTestWindow(object):
     def finish(self, TakeTestWindow):
         from Results import Ui_ResultWindow
         result=self.marks
-        self.addmarkstodatabase()
+        previousmarks = self.fetchpreviousmarks()
+        previousmarks = int(''.join(map(str,previousmarks)))
+        if previousmarks < result :
+            self.addmarkstodatabase()
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_ResultWindow()
         self.ui.setupUi(self.window)

@@ -16,7 +16,7 @@ class Ui_ReportWindow(object):
         education_stylesheet = """
             QWidget {
                 background-color: #FDDC5C; 
-                color: #333333; 
+                color: #000000; 
             }
             QLabel {
                 font-family: MS Shell Dlg 2;
@@ -25,17 +25,17 @@ class Ui_ReportWindow(object):
             }
             QLineEdit{
                 background-color: #FFFFFF; 
-                color: #333333; 
+                color: #000000; 
                 border: 1px solid #CCCCCC; 
             }
             QComboBox {
                 background-color: #FFFFFF; 
-                color: #333333; 
+                color: #000000; 
                 border: 1px solid #CCCCCC; 
             }
             QComboBox QAbstractItemView {
                 background-color: #FFFFFF; 
-                color: #333333; 
+                color: #000000; 
                 border: 1px solid #CCCCCC; 
             }
             QComboBox QAbstractItemView::up-arrow, QComboBox QAbstractItemView::down-arrow {
@@ -594,6 +594,7 @@ class Ui_ReportWindow(object):
         _translate = QtCore.QCoreApplication.translate
         ReportWindow.setWindowTitle(_translate("ReportWindow", "Career Report"))
         self.label.setText(_translate("ReportWindow", "Career Report"))
+        self.RecomCB.setItemText(0,"Select Your Course")
         self.StrtMsgLbl.setText(_translate("ReportWindow", "Dear, "))
         self.label_2.setText(_translate("ReportWindow", "We Recommend that you the following Courses:"))
         self.recomjob.setText(_translate("ReportWindow", "Job List"))
