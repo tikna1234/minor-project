@@ -1,3 +1,12 @@
+##Features of Python#3
+Easy to Code
+Free and open source
+GUI support
+High level language
+Large Standard Liraries
+Object Oriented Programming lanugage
+Platform Independent
+
 ##Machine learning##
 
 Machine Learning is a branch of artificial intelligence that develops algorithms by learning the hidden patterns of the datasets used it to make predictions on new similar type data, without being explicitly programmed for each task.
@@ -14,10 +23,18 @@ Types of Machine Learning
 ##Supervised learning##
 
 Supervised learning is a type of machine learning in which the algorithm is trained on the labeled dataset. It learns to map input features to targets based on labeled training data. In supervised learning, the algorithm is provided with input features and corresponding output labels, and it learns to generalize from this data to make predictions on new, unseen data.
-
 There are two main types of supervised learning:
 1. Regression
 2. Classification
+
+##Unsupervised Machine Learning##
+
+Unsupervised Learning Unsupervised learning is a type of machine learning technique in which an algorithm discovers patterns and relationships using unlabeled data.The primary goal of Unsupervised learning is often to discover hidden patterns, similarities, or clusters within the data, which can then be used for various purposes, such as data exploration, visualization, dimensionality reduction, and more.
+
+##Reinforcement Machine learning
+Reinforcement Learning (RL) is a type of machine learning paradigm where an agent learns to make decisions by interacting with an environment.In this technique, the model keeps on increasing its performance using Reward Feedback to learn the behavior or pattern. These algorithms are specific to a particular problem e.g. Google Self Driving car, AlphaGo where a bot competes with humans and even itself to get better and better performers in Go Game. Each time we feed in data, they learn and add the data to their knowledge which is training data. So, the more it learns the better it gets trained and hence experienced. 
+
+##Classification##
 
 Classification is a type of supervised learning where the algorithm learns to assign input data to a specific category or class based on input features. The output labels in classification are discrete values. Classification algorithms can be binary, where the output is one of two possible classes, or multiclass, where the output can be one of several classes. The different Classification algorithms in machine learning are: Logistic Regression, Naive Bayes, Decision Tree, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), etc
 
@@ -143,17 +160,17 @@ DFD uses hierarchy to maintain transparency thus multilevel DFD’s can be creat
 ##Iterative model##
 The iterative model in software engineering is an approach where the project is broken down into smaller cycles or iterations. Each iteration goes through the entire software development life cycle (SDLC), encompassing planning, design, implementation, testing, and deployment. Here's a breakdown of the steps in the iterative model:
 
-1. Planning: Define the project scope, objectives, and goals. Identify the features or functionalities to be developed in the current iteration. Plan resources, timelines, and iteration goals.
+1. Planning: Define the project scope, objectives, and goals. Identify the features or functionalities to be developed in the current iteration. Plan resources, timelines, and iteration goals. In this step we use planning to identify how to collect data, education level, machine learning algorithm to be used, number of ui pages.
 
-2. Requirement Analysis: Gather and analyze user requirements specific to the current iteration. Focus on understanding what users need for the features or functionalities planned for this cycle.
+2. Requirement Analysis: Gather and analyze user requirements specific to the current iteration. Focus on understanding what users need for the features or functionalities planned for this cycle. In this step we analyze all the requirement of a user as a student perspective to make this project mor user specefic.
 
-3. Design: Create a design based on the gathered requirements. This includes architectural design, system design, and detailed design of individual components or features targeted for the current iteration.
+3. Design: Create a design based on the gathered requirements. This includes architectural design, system design, and detailed design of individual components or features targeted for the current iteration. Here in this, we have design the architecture of database, user interaction pages and system. 
 
-4. Implementation/Coding: Develop the software based on the design specifications. Write code for the identified features or functionalities planned for this iteration.
+4. Implementation/Coding: Develop the software based on the design specifications. Write code for the identified features or functionalities planned for this iteration. After the successful designing of the components of project, we write code to implement the design and make the every unit of our project functionable such as recommendation model of the project, the button and text label of the user interaction pages.
 
-5. Testing: Perform testing activities such as unit testing, integration testing, and system testing. Ensure that the developed features meet the requirements and function correctly.
+5. Testing: Perform testing activities such as unit testing, integration testing, and system testing. Ensure that the developed features meet the requirements and function correctly. In testing phase, we use manual testing to correct the errors and the bugs encountered every time.
 
-6. Evaluation/Review: Evaluate the results of the iteration. Collect feedback from stakeholders, users, and testing. Identify areas for improvement and assess whether the iteration met its goals.
+6. Evaluation/Review: Evaluate the results of the iteration. Collect feedback from stakeholders, users, and testing. Identify areas for improvement and assess whether the iteration met its goals. In this step we evaluate the result of the system and find areas for imporvement to met the objective of project.
 
 7. Deployment: If the iteration meets the quality standards and requirements, deploy the developed features. This might involve releasing the software to a limited user base or integrating it into the existing system.
 
