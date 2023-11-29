@@ -11,7 +11,13 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 import sqlite3
-con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
+#con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
+import os
+current_directory = os.getcwd()
+file_name = 'Career_Recommedation_System.db'  
+file_path = os.path.abspath(file_name)
+
+con = sqlite3.connect(file_path)
 
 class Ui_loginWindow(object):
     def OpenRegistration(self, loginWindow):
