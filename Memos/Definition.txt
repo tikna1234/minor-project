@@ -49,6 +49,18 @@ Using content based filtering in machine learning models can recommend new items
 
 K-Nearest Neighbours is one of the most basic yet essential classification algorithms in Machine Learning. It belongs to the supervised learning domain and finds intense application in pattern recognition, data mining, and intrusion detection.It can also handle both numerical and categorical data, making it a flexible choice for various types of datasets in classification and regression tasks. It is a non-parametric method that makes predictions based on the similarity of data points in a given dataset. K-NN is less sensitive to outliers compared to other algorithms.The applications of KNN are data preprocessing, pattern recognition, Recommendation Engines. 
 
+##Why do we need a K-NN Algorithm?##
+Suppose there are two categories, i.e., Category A and Category B, and we have a new data point x1, so this data point will lie in which of these categories. To solve this type of problem, we need a K-NN algorithm. With the help of K-NN, we can easily identify the category or class of a particular dataset. Consider the below diagram:
+
+##How does K-NN work?##
+The K-NN working can be explained on the basis of the below algorithm:
+
+Step-1: Select the number K of the neighbors
+Step-2: Calculate the Euclidean distance of K number of neighbors
+Step-3: Take the K nearest neighbors as per the calculated Euclidean distance.
+Step-4: Among these k neighbors, count the number of the data points in each category.
+Step-5: Assign the new data points to that category for which the number of the neighbor is maximum.
+Step-6: Our model is ready
 ##SciKit learn##
 
 Scikit-learn is a powerful open-source library in Python used for machine learning tasks such as classification, regression, clustering, and more. It is built on top of other popular scientific computing libraries, such as NumPy, SciPy, and Matplotlib. It offers a wide range of tools for machine learning and statistical modeling, including various algorithms and utilities for data preprocessing, model selection, evaluation, and data visualization.
@@ -160,21 +172,18 @@ DFD uses hierarchy to maintain transparency thus multilevel DFD’s can be creat
 ##Iterative model##
 The iterative model in software engineering is an approach where the project is broken down into smaller cycles or iterations. Each iteration goes through the entire software development life cycle (SDLC), encompassing planning, design, implementation, testing, and deployment. Here's a breakdown of the steps in the iterative model:
 
-1. Planning: Define the project scope, objectives, and goals. Identify the features or functionalities to be developed in the current iteration. Plan resources, timelines, and iteration goals. In this step we use planning to identify how to collect data, education level, machine learning algorithm to be used, number of ui pages.
+1. Planning: 
+The initial step involved outlining the project's scope and aims. Our primary goal was to develop a career recommendation system catering specifically to secondary students. Defining this scope enabled us to identify crucial functionalities for this iteration, such as data collection methods, considering academic performance as a data source, determining educational levels, and specifying the machine learning algorithm, K-Nearest Neighbors, for personalized career recommendations.
 
-2. Requirement Analysis: Gather and analyze user requirements specific to the current iteration. Focus on understanding what users need for the features or functionalities planned for this cycle. In this step we analyze all the requirement of a user as a student perspective to make this project mor user specefic.
+2. Requirement Analysis: Gather and analyze user requirements specific to the current iteration. Focus on understanding what users need for the features or functionalities planned for this cycle. In this step, we understand the perspectives, aspirations, and academic concerns of a secondary student.Analyzing their needs enabled us to design a system that addressed their academic performance, interests, and potential career paths, making the project more user-specific and relevant.
 
-3. Design: Create a design based on the gathered requirements. This includes architectural design, system design, and detailed design of individual components or features targeted for the current iteration. Here in this, we have design the architecture of database, user interaction pages and system. 
+3. Design: Building upon the gathered requirements, the design phase involved creating a system architecture tailored to 10th-grade students' needs. This encompassed designing a database architecture that integrated academic performance metrics, crafting user interaction pages that were intuitive and accessible, and developing a system that effectively processed and analyzed academic data to generate personalized career recommendations.  
 
-4. Implementation/Coding: Develop the software based on the design specifications. Write code for the identified features or functionalities planned for this iteration. After the successful designing of the components of project, we write code to implement the design and make the every unit of our project functionable such as recommendation model of the project, the button and text label of the user interaction pages.
+4. Implementation/Coding: With the detailed design specifications in place, the project moved into the implementation phase. Here, the focus was on translating the design into functional components. This involved writing code for the identified features, including the recommendation model, user interaction elements like buttons and labels, and the underlying system that processed and utilized academic data to provide best possible career suggestions.
 
-5. Testing: Perform testing activities such as unit testing, integration testing, and system testing. Ensure that the developed features meet the requirements and function correctly. In testing phase, we use manual testing to correct the errors and the bugs encountered every time.
+5. Testing: Perform testing activities such as unit testing, integration testing, and system testing. Ensure that the developed features meet the requirements and function correctly. In testing phase, manual testing was employed to identify and rectify errors and bugs encountered during this phase, ensuring a robust and reliable system.The aim was to ensure that every developed feature not only met the defined requirements but also functioned accurately and seamlessly. 
 
-6. Evaluation/Review: Evaluate the results of the iteration. Collect feedback from stakeholders, users, and testing. Identify areas for improvement and assess whether the iteration met its goals. In this step we evaluate the result of the system and find areas for imporvement to met the objective of project.
-
-7. Deployment: If the iteration meets the quality standards and requirements, deploy the developed features. This might involve releasing the software to a limited user base or integrating it into the existing system.
-
-8. Feedback/Refinement: Gather feedback from users and stakeholders about the deployed features. Use this feedback to refine and improve the product. This input often feeds back into the planning phase for subsequent iterations.
+6. Evaluation/Review: Evaluate the results and identify areas for improvement and assess whether the iteration met its goals. In this step we evaluate the result of the system and find areas for imporvement to met the objective of project.
 
 9. Iterations: Repeat the cycle for the next iteration. Incorporate changes based on feedback and update the plan to address new requirements or modifications.
 
