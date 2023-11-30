@@ -15,14 +15,14 @@ class Ui_ResultWindow(object):
     def setupUi(self, ResultWindow):
         education_stylesheet = """
             QWidget {
-                background-color: #FDDC5C; 
-                color: #333333; 
+                background-color: #C32148; 
+                color: white; 
             }
             QLabel {
                 font-family: MS Shell Dlg 2;
-                font-size: 14px;
+                font-size: 18px;
                 font-weight: bold;
-                color: #000000;
+                color: white;
             }
             QPushButton {
                 background-color: #4CAF50; 
@@ -33,7 +33,7 @@ class Ui_ResultWindow(object):
         ResultWindow.setStyleSheet(education_stylesheet)
         self.User_id = ""
         ResultWindow.setObjectName("ResultWindow")
-        ResultWindow.resize(800, 600)
+        ResultWindow.resize(850, 650)
         self.centralwidget = QtWidgets.QWidget(ResultWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.MenuButton = QtWidgets.QPushButton(self.centralwidget)
@@ -41,50 +41,50 @@ class Ui_ResultWindow(object):
         self.MenuButton.setObjectName("MenuButton")
         self.MenuButton.clicked.connect(lambda: self.backtomenu(ResultWindow))
         self.label = QtWidgets.QLabel(self.centralwidget)
-        self.label.setGeometry(QtCore.QRect(90, 100, 50, 21))
+        self.label.setGeometry(QtCore.QRect(90, 100, 100, 21))
         self.label.setObjectName("label")
         self.EngMarksLbl = QtWidgets.QLabel(self.centralwidget)
-        self.EngMarksLbl.setGeometry(QtCore.QRect(220, 100, 55, 16))
+        self.EngMarksLbl.setGeometry(QtCore.QRect(300, 100, 55, 20))
         self.EngMarksLbl.setText("")
         self.EngMarksLbl.setObjectName("EngMarksLbl")
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
-        self.label_2.setGeometry(QtCore.QRect(90, 170, 95, 20))
+        self.label_2.setGeometry(QtCore.QRect(90, 170, 150, 20))
         self.label_2.setObjectName("label_2")
         self.MathMarksLbl = QtWidgets.QLabel(self.centralwidget)
-        self.MathMarksLbl.setGeometry(QtCore.QRect(220, 170, 55, 16))
+        self.MathMarksLbl.setGeometry(QtCore.QRect(300, 170, 55, 20))
         self.MathMarksLbl.setText("")
         self.MathMarksLbl.setObjectName("MathMarksLbl")
         self.label_3 = QtWidgets.QLabel(self.centralwidget)
-        self.label_3.setGeometry(QtCore.QRect(90, 240, 98, 16))
+        self.label_3.setGeometry(QtCore.QRect(90, 240, 150, 20))
         self.label_3.setObjectName("label_3")
         self.SstMarksLbl = QtWidgets.QLabel(self.centralwidget)
-        self.SstMarksLbl.setGeometry(QtCore.QRect(220, 240, 55, 16))
+        self.SstMarksLbl.setGeometry(QtCore.QRect(300, 240, 55, 20))
         self.SstMarksLbl.setText("")
         self.SstMarksLbl.setObjectName("SstMarksLbl")
         self.label_4 = QtWidgets.QLabel(self.centralwidget)
-        self.label_4.setGeometry(QtCore.QRect(450, 100, 55, 16))
+        self.label_4.setGeometry(QtCore.QRect(450, 100, 100, 20))
         self.label_4.setFrameShape(QtWidgets.QFrame.NoFrame)
         self.label_4.setObjectName("label_4")
         self.SciLbl = QtWidgets.QLabel(self.centralwidget)
-        self.SciLbl.setGeometry(QtCore.QRect(600, 100, 55, 16))
+        self.SciLbl.setGeometry(QtCore.QRect(750, 100, 55, 20))
         self.SciLbl.setText("")
         self.SciLbl.setObjectName("SciLbl")
         self.label_5 = QtWidgets.QLabel(self.centralwidget)
-        self.label_5.setGeometry(QtCore.QRect(450, 170, 130, 16))
+        self.label_5.setGeometry(QtCore.QRect(450, 170, 250, 20))
         self.label_5.setObjectName("label_5")
         self.LgRnLbl = QtWidgets.QLabel(self.centralwidget)
-        self.LgRnLbl.setGeometry(QtCore.QRect(600, 170, 55, 16))
+        self.LgRnLbl.setGeometry(QtCore.QRect(750, 170, 55, 20))
         self.LgRnLbl.setText("")
         self.LgRnLbl.setObjectName("LgRnLbl")
         self.label_7 = QtWidgets.QLabel(self.centralwidget)
-        self.label_7.setGeometry(QtCore.QRect(450, 240, 75, 16))
+        self.label_7.setGeometry(QtCore.QRect(450, 240, 120, 20))
         self.label_7.setObjectName("label_7")
         self.CompLbl = QtWidgets.QLabel(self.centralwidget)
-        self.CompLbl.setGeometry(QtCore.QRect(600, 240, 55, 16))
+        self.CompLbl.setGeometry(QtCore.QRect(750, 240, 55, 20))
         self.CompLbl.setText("")
         self.CompLbl.setObjectName("CompLbl")
         self.label_6 = QtWidgets.QLabel(self.centralwidget)
-        self.label_6.setGeometry(QtCore.QRect(70, 30, 91, 16))
+        self.label_6.setGeometry(QtCore.QRect(70, 30, 91, 20))
         font = QtGui.QFont()
         font.setPointSize(10)
         font.setBold(True)
@@ -110,9 +110,9 @@ class Ui_ResultWindow(object):
         self.label.setText(_translate("ResultWindow", "English:"))
         self.label_2.setText(_translate("ResultWindow", "Mathematics:"))
         self.label_3.setText(_translate("ResultWindow", "Social Studies:"))
-        self.label_4.setText(_translate("ResultWindow", "Science"))
+        self.label_4.setText(_translate("ResultWindow", "Science:"))
         self.label_5.setText(_translate("ResultWindow", "Logical Reasoning:"))
-        self.label_7.setText(_translate("ResultWindow", "Computer"))
+        self.label_7.setText(_translate("ResultWindow", "Computer:"))
         self.label_6.setText(_translate("ResultWindow", "Results:"))
 
     def backtomenu(self, ResultWindow):

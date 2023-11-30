@@ -17,14 +17,14 @@ class Ui_RegistrationWIndow(object):
     def setupUi(self, RegistrationWIndow):
         education_stylesheet = """
             QWidget {
-                background-color: #FDDC5C; 
-                color: #333333; 
+                background-color: #C32148; 
+                color: white; 
             }
             QLabel {
                 font-family: MS Shell Dlg 2;
                 font-size: 14px;
                 font-weight: bold;
-                color: #000000;
+                color: white;
             }
             QPushButton {
                 background-color: #4CAF50;

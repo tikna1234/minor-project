@@ -17,14 +17,14 @@ class Ui_SubjectWindow(object):
     def setupUi(self, SubjectWindow):
         education_stylesheet = """
             QWidget {
-                background-color: #FDDC5C; 
-                color: #333333; 
+                background-color: #C32148; 
+                color: white; 
             }
             QLabel {
                 font-family: MS Shell Dlg 2;
                 font-size: 14px;
                 font-weight: bold;
-                color: #000000;
+                color: white;
             }
             QPushButton {
                 background-color: #4CAF50; 
@@ -159,7 +159,7 @@ class Ui_SubjectWindow(object):
         Questions = []
         ans=[]
         while(len(Questions)!=25):
-            r = rndm.randint(0,51)
+            r = rndm.randint(0,49)
             if(r not in Questions):
                 Questions.append(r)
             else:

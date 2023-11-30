@@ -18,17 +18,17 @@ class Ui_TakeTestWindow(object):
     def setupUi(self, TakeTestWindow):
         education_stylesheet = """
             QWidget {
-                background-color: #FDDC5C; 
-                color: #333333; 
+                background-color: #C32148; 
+                color: white; 
             }
             QLabel {
                 font-family: MS Shell Dlg 2;
                 font-size: 14px;
-                color: #000000; 
+                color: white; 
             }
             QRadioButton {
-                background-color: #FDDC5C; 
-                color: #333333; 
+                background-color: #C32148; 
+                color: white; 
             }
             QPushButton {
                 background-color: #4CAF50; 
@@ -179,6 +179,7 @@ class Ui_TakeTestWindow(object):
     def nextButtonClicked(self, TakeTestWindow):
         if not self.finished:
             self.NextButton.setEnabled(False)
+            self.reset_selection()
             self.selected_answer = self.get_selected_answer()
             self.checkAns()
             self.RenderQ(self.count)
@@ -325,7 +326,12 @@ class Ui_TakeTestWindow(object):
                 self.label.setText(f"SQLite error: {e}")
         else: self.label_2.setText("error")
         
-            
+    def reset_selection(self):
+        self.AnswerbuttonGroup.setExclusive(False)
+        for button in self.AnswerbuttonGroup.buttons():
+            button.setChecked(False)
+        self.AnswerbuttonGroup.setExclusive(True)
+
     def finish(self, TakeTestWindow):
         from Results import Ui_ResultWindow
         result=self.marks

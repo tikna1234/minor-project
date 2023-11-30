@@ -15,13 +15,13 @@ class Ui_ReportWindow(object):
     def setupUi(self, ReportWindow):
         education_stylesheet = """
             QWidget {
-                background-color: #FDDC5C; 
-                color: #000000; 
+                background-color: #C32148; 
+                color: white; 
             }
             QLabel {
                 font-family: MS Shell Dlg 2;
-                font-size: 14px;
-                color: #000000; 
+                font-size: 18px;
+                color: white; 
             }
             QLineEdit{
                 background-color: #FFFFFF; 
@@ -498,7 +498,7 @@ class Ui_ReportWindow(object):
         self.Branch = 0
         self.User_id = ""
         ReportWindow.setObjectName("ReportWindow")
-        ReportWindow.resize(912, 540)
+        ReportWindow.resize(1000, 800)
         self.centralwidget = QtWidgets.QWidget(ReportWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.label = QtWidgets.QLabel(self.centralwidget)
@@ -513,7 +513,7 @@ class Ui_ReportWindow(object):
         self.StrtMsgLbl.setGeometry(QtCore.QRect(30, 60, 351, 31))
         self.StrtMsgLbl.setObjectName("StrtMsgLbl")
         self.label_2 = QtWidgets.QLabel(self.centralwidget)
-        self.label_2.setGeometry(QtCore.QRect(20, 200, 331, 16))
+        self.label_2.setGeometry(QtCore.QRect(20, 200, 500, 16))
         font = QtGui.QFont()
         font.setBold(True)
         font.setWeight(75)
@@ -531,7 +531,7 @@ class Ui_ReportWindow(object):
         self.label_5.setFont(font)
         self.label_5.setObjectName("label_5")
         self.RecomCB = QtWidgets.QComboBox(self.centralwidget)
-        self.RecomCB.setGeometry(QtCore.QRect(400, 200, 331, 22))
+        self.RecomCB.setGeometry(QtCore.QRect(550, 200, 331, 22))
         self.RecomCB.setObjectName("RecomCB")
         self.RecomCB.addItem("")
         self.RecomCB.addItem("")
@@ -566,13 +566,13 @@ class Ui_ReportWindow(object):
         self.WeakButton = QtWidgets.QPushButton(self.centralwidget)
         self.WeakButton.setGeometry(QtCore.QRect(180, 430, 93, 28))
         self.WeakButton.setObjectName("WeakButton")
-        self.WeakButton.clicked.connect(lambda: self.Tips(ReportWindow))
+        self.WeakButton.clicked.connect(lambda: self.Tips_page(ReportWindow))
         self.WeakLbl = QtWidgets.QLabel(self.centralwidget)
         self.WeakLbl.setGeometry(QtCore.QRect(260, 290, 171, 101))
         self.WeakLbl.setStyleSheet("background-color: rgb(255, 255, 255);")
         self.WeakLbl.setObjectName("WeakLbl")
         self.label_4 = QtWidgets.QLabel(self.centralwidget)
-        self.label_4.setGeometry(QtCore.QRect(10, 440, 141, 16))
+        self.label_4.setGeometry(QtCore.QRect(10, 440, 160, 16))
         font = QtGui.QFont()
         font.setBold(True)
         font.setWeight(75)
@@ -599,7 +599,7 @@ class Ui_ReportWindow(object):
         self.label_2.setText(_translate("ReportWindow", "We Recommend that you the following Courses:"))
         self.recomjob.setText(_translate("ReportWindow", "Job List"))
         self.label_5.setText(_translate("ReportWindow", "Jobs:"))
-        self.label_3.setText(_translate("ReportWindow", "Look at your weaknesses here:"))
+        self.label_3.setText(_translate("ReportWindow", "Look at your weakness:"))
         self.BackButton.setText(_translate("ReportWindow", "Back To Menu"))
         self.RecomendLbl.setText(_translate("ReportWindow", "You have been recommended, "))
         self.WeakButton.setText(_translate("ReportWindow", "Go!"))
@@ -632,7 +632,7 @@ class Ui_ReportWindow(object):
         self.window.show()
         ReportWindow.hide()
 
-    def Tips(self, ReportWindow):
+    def Tips_page(self, ReportWindow):
         from Tips_Page import Ui_TipsWindow
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_TipsWindow()

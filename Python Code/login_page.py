@@ -11,13 +11,13 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 import sqlite3
-#con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
-import os
+con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
+'''import os
 current_directory = os.getcwd()
 file_name = 'Career_Recommedation_System.db'  
 file_path = os.path.abspath(file_name)
 
-con = sqlite3.connect(file_path)
+con = sqlite3.connect(file_path)'''
 
 class Ui_loginWindow(object):
     def OpenRegistration(self, loginWindow):
@@ -31,14 +31,14 @@ class Ui_loginWindow(object):
     def setupUi(self, loginWindow):
         education_stylesheet = """
             QWidget {
-                background-color: #FDDC5C; 
-                color: #333333; 
+                background-color: #C32148; 
+                color: white; 
             }
             QLabel {
                 font-family: MS Shell Dlg 2;
                 font-size: 14px;
                 font-weight: bold;
-                color: #000000;
+                color: white;
             }
             QPushButton {
                 background-color: #4CAF50; 
