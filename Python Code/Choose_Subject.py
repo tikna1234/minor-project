@@ -12,6 +12,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import random as rndm
 import pandas as pd
 import numpy as np
+import os
 def find_file_path(file_name):
     for root, dirs, files in os.walk(os.path.abspath(os.sep)):
         if file_name in files:
