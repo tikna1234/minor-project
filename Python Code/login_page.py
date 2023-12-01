@@ -11,13 +11,19 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 
 import sqlite3
-con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
-'''import os
-current_directory = os.getcwd()
-file_name = 'Career_Recommedation_System.db'  
-file_path = os.path.abspath(file_name)
+import os
 
-con = sqlite3.connect(file_path)'''
+def find_file_path(file_name):
+    for root, dirs, files in os.walk(os.path.abspath(os.sep)):
+        if file_name in files:
+            return os.path.join(root, file_name)
+
+    return f"File '{file_name}' not found in the current directory "
+
+file_path = find_file_path('Career_Recommedation_System.db')
+#print(file_path)
+#r"G:\reps\minor-project\Database\Career_Recommedation_System.db"
+con = sqlite3.connect(file_path)
 
 class Ui_loginWindow(object):
     def OpenRegistration(self, loginWindow):

@@ -15,8 +15,18 @@ import pandas as pd
 import numpy as np
 import pickle
 import sqlite3
-career = pd.read_excel(r"G:\reps\minor-project\Datasets\student_marksheet_final1.xlsx")
-con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
+import os
+
+def find_file_path(file_name):
+    for root, dirs, files in os.walk(os.path.abspath(os.sep)):
+        if file_name in files:
+            return os.path.join(root, file_name)
+
+    return f"File '{file_name}' not found in the current directory "
+
+
+career = pd.read_excel(find_file_path('student_marksheet_final1.xlsx'))
+con = sqlite3.connect(find_file_path('Career_Recommedation_System.db'))
 class Ui_MenuWindow(object):
     def setupUi(self, MenuWindow):
         self.diploma = {
