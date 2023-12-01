@@ -31,7 +31,8 @@ class Ui_RegistrationWIndow(object):
                 color: white;
             }
             QLineEdit {
-                background-color: #FFFFFF; 
+                background-color: #FFFFFF;
+                color: black;
                 border: 1px solid #CCCCCC; 
             }
            
