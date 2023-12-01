@@ -23,10 +23,9 @@ def find_file_path(file_name):
             return os.path.join(root, file_name)
 
     return f"File '{file_name}' not found"
-file_to_find = 'student_marksheet_final1.xlsx'
-file_to_find2 = 'Career_Recommedation_System.db'
-career = pd.read_excel(find_file_path(file_to_find))
-con = sqlite3.connect(find_file_path(file_to_find2))
+
+career = pd.read_excel(find_file_path('student_marksheet_final1.xlsx'))
+con = sqlite3.connect(find_file_path('Career_Recommedation_System.db'))
 class Ui_MenuWindow(object):
     def setupUi(self, MenuWindow):
         self.diploma = {
