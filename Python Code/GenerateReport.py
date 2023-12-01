@@ -23,6 +23,16 @@ class Ui_ReportWindow(object):
                 font-size: 18px;
                 color: white; 
             }
+            QLabel#recomjob {
+                font-family: MS Shell Dlg 2;
+                font-size: 18px;
+                color: black; 
+            }
+            QLabel#WeakLbl {
+                font-family: MS Shell Dlg 2;
+                font-size: 18px;
+                color: black; 
+            }
             QLineEdit{
                 background-color: #FFFFFF; 
                 color: #000000; 
@@ -557,7 +567,7 @@ class Ui_ReportWindow(object):
         self.BackButton.setObjectName("BackButton")
         self.BackButton.clicked.connect(lambda: self.backtomenu(ReportWindow))
         self.RecomendLbl = QtWidgets.QLabel(self.centralwidget)
-        self.RecomendLbl.setGeometry(QtCore.QRect(20, 120, 621, 16))
+        self.RecomendLbl.setGeometry(QtCore.QRect(20, 120, 720, 20))
         font = QtGui.QFont()
         font.setBold(True)
         font.setWeight(75)

@@ -334,19 +334,19 @@ class Ui_MenuWindow(object):
 
     def fetchsubjects(self):
         user_id = self.User_id
-        statement = f"SELECT English, Mathematics, Social_Studies, Science, Computer, Interests, counter from User_Marks WHERE User_id='{user_id}';"
+        statement = f"SELECT English, Hindi, Mathematics, Social_Studies, Science, Computer, Interests, counter from User_Marks WHERE User_id='{user_id}';"
         try:
             self.cur.execute(statement)
             result = self.cur.fetchone()
             if result:
-                english, mathematics, social_studies, science, computer, interests, counter = result
+                english, hindi, mathematics, social_studies, science, computer, interests, counter = result
             else:
-                english, mathematics, social_studies, science, computer, interests, counter = 0, 0, 0, 0, 0, "Select", 0
-            return english, mathematics, social_studies, science, computer, interests, counter
+                english, hindi, mathematics, social_studies, science, computer, interests, counter = 0, 0, 0, 0, 0, 0, "Select", 0
+            return english, hindi, mathematics, social_studies, science, computer, interests, counter
         except sqlite3.Error as e:
             error_message = f"Database error: {e}"
             QMessageBox.critical(None, "Error", error_message, QMessageBox.Ok)
-            return 0, 0, 0, 0, 0, "Select", 0
+            return 0, 0, 0, 0, 0, 0, "Select", 0
         
     def fetchallsubjects(self):
         user_id = self.User_id
@@ -370,8 +370,9 @@ class Ui_MenuWindow(object):
         self.ui = Ui_EnterInfoWindow()
         self.ui.setupUi(self.window)
         self.ui.User_id = self.User_id
-        english, mathematics, social_studies, science, computer, interests, counter = self.fetchsubjects()
+        english, hindi, mathematics, social_studies, science, computer, interests, counter = self.fetchsubjects()
         self.ui.EnglishLineEdit.setText(f"{english}")
+        self.ui.HindiLineEdit.setText(f"{hindi}")
         self.ui.MathsLineEdit.setText(f"{mathematics}")
         self.ui.SstLineEdit.setText(f"{social_studies}")
         self.ui.ScienceLineEdit.setText(f"{science}")
