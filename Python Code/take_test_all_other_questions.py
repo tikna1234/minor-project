@@ -188,7 +188,6 @@ class Ui_TakeTestWindow(object):
     def nextButtonClicked(self, TakeTestWindow):
         if not self.finished:
             self.NextButton.setEnabled(False)
-            self.reset_selection()
             self.selected_answer = self.get_selected_answer()
             self.checkAns()
             self.RenderQ(self.count)
@@ -233,6 +232,7 @@ class Ui_TakeTestWindow(object):
             self.Option4Button.setText(str(d))
         else:
             self.label_2.setText("error")
+        self.reset_selection()
         self.NextButton.setEnabled(True)
         if self.count >= 25:
             self.finished = True
