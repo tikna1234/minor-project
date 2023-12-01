@@ -12,6 +12,12 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import random as rndm
 import pandas as pd
 import numpy as np
+def find_file_path(file_name):
+    for root, dirs, files in os.walk(os.path.abspath(os.sep)):
+        if file_name in files:
+            return os.path.join(root, file_name)
+
+    return f"File '{file_name}' not found in the current directory "
 
 class Ui_SubjectWindow(object):
     def setupUi(self, SubjectWindow):
@@ -109,7 +115,7 @@ class Ui_SubjectWindow(object):
 
     def EngTest(self, SubjectWindow):
         from take_test_all_other_questions import Ui_TakeTestWindow
-        data = pd.read_excel(r"G:\reps\minor-project\Datasets\english_questions.xlsx")
+        data = pd.read_excel(find_file_path('english_questions.xlsx'))
         Questions = []
         ans=[]
         while(len(Questions)!=25):
@@ -132,7 +138,7 @@ class Ui_SubjectWindow(object):
 
     def MathTest(self, SubjectWindow):
         from take_test_all_other_questions import Ui_TakeTestWindow
-        data = pd.read_excel(r"G:\reps\minor-project\Datasets\Mathematics_questions.xlsx")
+        data = pd.read_excel(find_file_path('Mathematics_questions.xlsx'))
         Questions = []
         ans=[]
         while(len(Questions)!=25):
@@ -155,7 +161,7 @@ class Ui_SubjectWindow(object):
 
     def SStTest(self, SubjectWindow):
         from take_test_all_other_questions import Ui_TakeTestWindow
-        data = pd.read_excel(r"G:\reps\minor-project\Datasets\Social_Studies_questions.xlsx")
+        data = pd.read_excel(find_file_path('Social_Studies_questions.xlsx'))
         Questions = []
         ans=[]
         while(len(Questions)!=25):
@@ -178,7 +184,7 @@ class Ui_SubjectWindow(object):
 
     def SciTest(self, SubjectWindow):
         from take_test_all_other_questions import Ui_TakeTestWindow
-        data = pd.read_excel(r"G:\reps\minor-project\Datasets\Science_questions.xlsx")
+        data = pd.read_excel(find_file_path('Science_questions.xlsx'))
         Questions = []
         ans=[]
         while(len(Questions)!=25):
@@ -201,7 +207,7 @@ class Ui_SubjectWindow(object):
 
     def LGTest(self, SubjectWindow):
         from take_test_all_other_questions import Ui_TakeTestWindow
-        data = pd.read_excel(r"G:\reps\minor-project\Datasets\Logical_Reasoning_questions.xlsx")
+        data = pd.read_excel(find_file_path('Logical_Reasoning_questions.xlsx'))
         Questions = []
         ans=[]
         while(len(Questions)!=25):
@@ -224,7 +230,7 @@ class Ui_SubjectWindow(object):
 
     def CompTest(self, SubjectWindow):
         from take_test_all_other_questions import Ui_TakeTestWindow
-        data = pd.read_excel(r"G:\reps\minor-project\Datasets\Computer_questions.xlsx")
+        data = pd.read_excel(find_file_path('Computer_questions.xlsx'))
         Questions = []
         ans=[]
         while(len(Questions)!=25):

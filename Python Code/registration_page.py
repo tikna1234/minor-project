@@ -11,7 +11,16 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 from after_registration import Ui_MsgWindow
 import sqlite3
-con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
+import os
+
+def find_file_path(file_name):
+    for root, dirs, files in os.walk(os.path.abspath(os.sep)):
+        if file_name in files:
+            return os.path.join(root, file_name)
+
+    return f"File '{file_name}' not found in the current directory "
+
+con = sqlite3.connect(find_file_path('Career_Recommedation_System.db'))
 
 class Ui_RegistrationWIndow(object):
     def setupUi(self, RegistrationWIndow):

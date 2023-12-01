@@ -13,7 +13,16 @@ import random as rndm
 import pandas as pd
 import numpy as np
 import sqlite3
-con = sqlite3.connect(r"G:\reps\minor-project\Database\Career_Recommedation_System.db")
+import os
+
+def find_file_path(file_name):
+    for root, dirs, files in os.walk(os.path.abspath(os.sep)):
+        if file_name in files:
+            return os.path.join(root, file_name)
+
+    return f"File '{file_name}' not found in the current directory "
+
+con = sqlite3.connect(find_file_path('Career_Recommedation_System.db'))
 class Ui_TakeTestWindow(object):
     def setupUi(self, TakeTestWindow):
         education_stylesheet = """
@@ -187,12 +196,12 @@ class Ui_TakeTestWindow(object):
             self.finish(TakeTestWindow)
         
     def RenderQ(self, count):
-        english_file = r"G:\reps\minor-project\Datasets\english_questions.xlsx"
-        mathematics_file = r"G:\reps\minor-project\Datasets\Mathematics_questions.xlsx"
-        social_studies_file = r"G:\reps\minor-project\Datasets\Social_Studies_questions.xlsx"
-        science_file = r"G:\reps\minor-project\Datasets\Science_questions.xlsx"
-        logical_reasoning_file = r"G:\reps\minor-project\Datasets\Logical_Reasoning_questions.xlsx"
-        computer_file = r"G:\reps\minor-project\Datasets\Computer_questions.xlsx"
+        english_file = find_file_path('english_questions.xlsx')
+        mathematics_file = find_file_path('Mathematics_questions.xlsx')
+        social_studies_file = find_file_path('Social_Studies_questions.xlsx')
+        science_file = find_file_path('Science_questions.xlsx')
+        logical_reasoning_file = find_file_path('Logical_Reasoning_questions.xlsx')
+        computer_file = find_file_path('Computer_questions.xlsx')
         data = None
         question, a, b, c, d = "", "", "", "", ""
         if len(self.English) > 0:
