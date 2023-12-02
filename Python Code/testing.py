@@ -1,4 +1,4 @@
-import os
+'''import os
 import numpy
 import pandas as pd
 
@@ -14,9 +14,9 @@ print(file_path)
 
 career = pd.read_excel(find_file_path('student_marksheet_final1.xlsx'))
 
-print(career)
+print(career)'''
 
-'''import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
