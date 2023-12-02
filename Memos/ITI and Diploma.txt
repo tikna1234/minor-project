@@ -105,3 +105,37 @@ from vocational :
 
 1. Electronics and Communication
 2. Life Sciences and Environment
+
+Computer Science and Information Technology (IT):
+
+Priority Subjects: Maths, Computer, English, Logical Reasoning.
+Reasoning: Strong mathematical and logical skills, coupled with computer proficiency, are crucial in IT-related vocational courses.
+Mechanical and Electrical:
+
+Priority Subjects: Maths, Science, English.
+Reasoning: A strong foundation in mathematics and science is vital for understanding mechanical and electrical concepts in vocational courses.
+Electronics and Communication:
+
+Priority Subjects: Maths, Science, English.
+Reasoning: Mathematics and science form the core for electronics and communication courses.
+Construction and Design:
+
+Priority Subjects: Maths, Science, English, Social Studies.
+Reasoning: Understanding mathematical and scientific principles along with design concepts and social aspects are important.
+Hospitality and Event Management:
+
+Priority Subjects: English, Social Studies.
+Reasoning: Strong communication skills and an understanding of social aspects are crucial in this field.
+Life Sciences and Environment:
+
+Priority Subjects: Science, Maths, English.
+Reasoning: Strong knowledge of biology, environmental sciences, and foundational mathematics is important.
+Physical Education and Wellness:
+
+Priority Subjects: English, Physical Education.
+Reasoning: Knowledge of physical education and wellness concepts are key for vocational courses in this field.
+Finance, Business, and Marketing:
+
+Priority Subjects: English, Maths, Social Studies.
+Reasoning: Strong mathematical skills and an understanding of business principles are important for vocational courses in this domain.
+The emphasis on specific subjects might vary depending on the institution and the exact nature of the vocational course within each field. Checking the requirements from the specific institution offering the vocational course is advisable.
