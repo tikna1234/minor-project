@@ -61,7 +61,7 @@ class Ui_ReportWindow(object):
             
         """
         ReportWindow.setStyleSheet(education_stylesheet)
-        sites={"English":["British Council: Offers online courses, study materials, and resources to improve English skills.","Grammarly: Provides grammar tips, exercises, and writing enhancement tools.","BBC Learning English: Offers resources for improving English language skills."],
+        self.sites={"English":["British Council: Offers online courses, study materials, and resources to improve English skills.","Grammarly: Provides grammar tips, exercises, and writing enhancement tools.","BBC Learning English: Offers resources for improving English language skills."],
                "Mathematics":["NCERT Official Website: Provides textbooks and resources aligned with the curriculum.","Khan Academy: Offers video tutorials and practice exercises covering various math topics.","Cuemath: Provides math resources and practice material for students."],
                "Science":["National Science Digital Library (NSDL): Offers a wide range of educational resources related to science.","TopperLearning: Provides study materials, video lessons, and practice tests for science subjects.","Embibe: Offers study materials, practice questions, and tests for science subjects."],
                "Social_Studies":["NCERT Official Website: Provides textbooks and resources for social studies subjects.","BYJU'S: Offers study materials, videos, and interactive content for social studies.","Meritnation: Provides study materials and resources for social studies subjects"],
@@ -642,6 +642,11 @@ class Ui_ReportWindow(object):
         self.ui.User_id = self.User_id
         self.window.show()
         ReportWindow.hide()
+
+    def GenTips_websites(self):
+        for i in self.weaksubs:
+            if i in self.sites.keys():
+                self.sites[i]
 
     def Tips_page(self, ReportWindow):
         from Guide_page import Ui_GuideWindow
