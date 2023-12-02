@@ -1,6 +1,7 @@
-add garbage values
-add same values
-add job suggestion model and data
-color the gui
-database conectivity
-Weakness analyzer
+Ranking implementation
+Recommendation according to official standards
+Generate report marksheet
+tips
+Index
+References
+Question bank language correction
