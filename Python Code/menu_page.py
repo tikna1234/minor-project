@@ -553,6 +553,7 @@ class Ui_MenuWindow(object):
             temp = "\n".join(weaksubs)
         self.ui.WeakLbl.setText(temp)
         self.ui.Branch = branch
+        self.ui.weaksubs = weaksubs
         self.window.show()
         MenuWindow.hide()
 

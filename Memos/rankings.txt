@@ -1,0 +1,102 @@
+Diploma:
+1. Computer Science and Information and technology:
+rank 1: Computer Awareness
+rank 2: Mathematics
+rank 3: Logical Reasoning
+rank 4: Science
+
+
+2. Mechanical and Electrical:
+rank 1: Mathematics
+rank 2: Science
+rank 3: Computer Awareness
+rank 4: Logical Reasoning
+
+3. Electronics and Communication
+rank 1: Computer Awareness
+rank 2: Science
+rank 3: Logical Reasoning
+rank 4: Mathematics
+
+
+4. Construction and Design
+rank 1: Logical Reasoning
+rank 2: Social Studies
+rank 3: Mathematics
+rank 4: Computer Awareness
+
+
+5. Hospitality and Event Management(modify math and science)
+rank 1: English
+rank 2: Social Studies
+rank 3: Computer Awareness
+rank 4: Logical Reasoning
+
+
+6. Life Sciences and Environment
+rank 1: Science
+rank 2: Logical Reasoning
+rank 3: Mathematics
+rank 4: English
+
+
+7. Arts and Media
+rank 1: English
+rank 2: Social Studies
+rank 3: Computer Awareness
+rank 4: Logical Reasoning
+
+
+8. Physical Education and Wellness
+rank 1: Science
+rank 2: English
+rank 3: Logical Reasoning
+rank 4: Computer Awareness
+
+
+9. Finance, Business and Marketing
+rank 1: Logical Reasoning
+rank 2: Mathematics
+rank 3: English
+rank 4: Computer Awareness
+
+
+    {"English": (75, 80), "Mathematics": (80, 90), "Science": (80, 85),"Social Studies": (75, 80), "Logical Reasoning": (80, 85), "Computer Awareness": (85, 95)},
+    {"English": (75, 80), "Mathematics": (85, 95), "Science": (80, 90),"Social Studies": (75, 80), "Logical Reasoning": (80, 85), "Computer Awareness": (80, 85)},
+    {"English": (75, 80), "Mathematics": (80, 85), "Science": (80, 90),"Social Studies": (75, 80), "Logical Reasoning": (80, 85), "Computer Awareness": (85, 95)},
+    {"English": (75, 80), "Mathematics": (80, 85), "Science": (75, 80),"Social Studies": (80, 90), "Logical Reasoning": (85, 95), "Computer Awareness": (80, 85)},
+    {"English": (85, 95), "Mathematics": (80, 85), "Science": (75, 80),"Social Studies": (80, 90), "Logical Reasoning": (80, 85), "Computer Awareness": (80, 85)},
+    {"English": (80, 85), "Mathematics": (80, 85), "Science": (85, 95),"Social Studies": (75, 80), "Logical Reasoning": (80, 90), "Computer Awareness": (75, 80)},
+    {"English": (85, 95), "Mathematics": (75, 80), "Science": (80, 85),"Social Studies": (80, 90), "Logical Reasoning": (80, 85), "Computer Awareness": (80, 85)},
+    {"English": (80, 90), "Mathematics": (75, 80), "Science": (85, 95),"Social Studies": (75, 80), "Logical Reasoning": (80, 85), "Computer Awareness": (80, 85)},
+    {"English": (80, 85), "Mathematics": (80, 90), "Science": (75, 80),"Social Studies": (75, 80), "Logical Reasoning": (85, 95), "Computer Awareness": (80, 85)},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

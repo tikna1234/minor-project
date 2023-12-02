@@ -507,6 +507,7 @@ class Ui_ReportWindow(object):
         }
         self.Branch = 0
         self.User_id = ""
+        self.weaksubs = []
         ReportWindow.setObjectName("ReportWindow")
         ReportWindow.resize(1000, 800)
         self.centralwidget = QtWidgets.QWidget(ReportWindow)
@@ -643,9 +644,9 @@ class Ui_ReportWindow(object):
         ReportWindow.hide()
 
     def Tips_page(self, ReportWindow):
-        from Tips_Page import Ui_TipsWindow
+        from Guide_page import Ui_GuideWindow
         self.window = QtWidgets.QMainWindow()
-        self.ui = Ui_TipsWindow()
+        self.ui = Ui_GuideWindow()
         self.ui.setupUi(self.window)
         self.ui.User_id = self.User_id
         self.window.show()
