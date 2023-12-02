@@ -13,17 +13,21 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_GuideWindow(object):
     def setupUi(self, GuideWindow):
+        self.User_id = ""
         GuideWindow.setObjectName("GuideWindow")
-        GuideWindow.resize(800, 600)
+        GuideWindow.resize(795, 629)
         self.centralwidget = QtWidgets.QWidget(GuideWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.label = QtWidgets.QLabel(self.centralwidget)
         self.label.setGeometry(QtCore.QRect(20, 20, 751, 511))
         self.label.setStyleSheet("background-color: rgb(255, 255, 255);")
         self.label.setObjectName("label")
+        self.BackButton = QtWidgets.QPushButton(self.centralwidget)
+        self.BackButton.setGeometry(QtCore.QRect(18, 540, 93, 28))
+        self.BackButton.setObjectName("BackButton")
         GuideWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(GuideWindow)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 800, 26))
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 795, 26))
         self.menubar.setObjectName("menubar")
         GuideWindow.setMenuBar(self.menubar)
         self.statusbar = QtWidgets.QStatusBar(GuideWindow)
@@ -37,6 +41,17 @@ class Ui_GuideWindow(object):
         _translate = QtCore.QCoreApplication.translate
         GuideWindow.setWindowTitle(_translate("GuideWindow", "Tips_Page"))
         self.label.setText(_translate("GuideWindow", "TextLabel"))
+        self.BackButton.setText(_translate("GuideWindow", "Back to Report"))
+
+    def backtoreport(self, GuideWindow):
+        from GenerateReport import Ui_ReportWindow
+        self.window = QtWidgets.QMainWindow()
+        self.ui - Ui_ReportWindow()
+        self.ui.setupUi(self.window)
+        self.ui.User_id = self.User_id
+        self.window.show()
+        GuideWindow.hide()
+        
 
 
 if __name__ == "__main__":
