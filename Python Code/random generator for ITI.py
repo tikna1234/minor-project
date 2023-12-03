@@ -32,15 +32,15 @@ import csv
 import random
 
 # Define the subjects and their corresponding criteria
-subjects = ["English", "Mathematics", "Science","Logical Reasoning", "Computer Awareness"]
+subjects = ["English", "Mathematics", "Science","Social Studies","Logical Reasoning", "Computer Awareness"]
 
 # Criteria for each set of marks
 criteria = [
-    {"English": (56, 74), "Mathematics": (70, 74), "Science": (60, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (70, 74)},
-    {"English": (56, 74), "Mathematics": (70, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (60, 74), "Computer Awareness": (65, 74)},
-    {"English": (60, 74), "Mathematics": (70, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (56, 74), "Computer Awareness": (65, 74)},
-    {"English": (60, 74), "Mathematics": (70, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 74)},
-    {"English": (70, 74), "Mathematics": (60, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 74)}
+    {"English": (56, 74), "Mathematics": (70, 74), "Science": (60, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (70, 74),"Course":"ITI in Computer Science and Information Technology"},
+    {"English": (56, 74), "Mathematics": (70, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (60, 74), "Computer Awareness": (65, 74),"Course":"ITI in Mechanical and Electrical"},
+    {"English": (60, 74), "Mathematics": (70, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (56, 74), "Computer Awareness": (65, 74),"Course":"ITI in Electronics and Communication"},
+    {"English": (60, 74), "Mathematics": (70, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 74),"Course":"ITI in Construction and Design"},
+    {"English": (70, 74), "Mathematics": (60, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 74),"Course":"ITI in Physical Education and Wellness"}
 ]
 
 # Create and write data to the CSV file
@@ -48,13 +48,13 @@ with open("iti_marks1.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
     
     # Write the header row with subject names
-    writer.writerow(["Student ID"] + subjects)
+    writer.writerow(["Student ID"] + subjects+["Branch"]+["Course"])
 
     # Generate 20 random records for each criteria
-    for i in range(3501):
+    for i in range(300):
         for criterion in criteria:
             student_id = f"Student_{i+1}_{criteria.index(criterion) + 1}"
             marks = {subject: random.randint(criterion[subject][0], criterion[subject][1]) for subject in subjects}
-            writer.writerow([student_id] + list(marks.values()))
+            writer.writerow([student_id] + list(marks.values())+ ["ITI"] + [criterion['Course']])
 
 print("CSV dataset generated successfully.")
