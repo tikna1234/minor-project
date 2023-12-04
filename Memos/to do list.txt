@@ -12,7 +12,7 @@ Updates by Ruchi Ma'am
 
 Certificate format (from gurshaan)
 Index of whole report: Heading, Sub-heading, starting page no.
-labelling of all figures(labelling)
+#labelling of all figures(labelling)
 Index of images: Ex - 1.1, figure_name, Page No.
-Test Report: Write test cases as Test Case 1, Test Case 2 etc.
-Reference : Name of website
+#Test Report: Write test cases as Test Case 1, Test Case 2 etc.
+#Reference : Name of website
