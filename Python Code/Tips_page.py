@@ -13,6 +13,25 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_TipsWindow(object):
     def setupUi(self, TipsWindow):
+        education_stylesheet = """
+            QWidget {
+                background-color: #C32148; 
+                color: white; 
+            }
+            QLabel {
+                font-family: MS Shell Dlg 2;
+                font-size: 14px;
+                font-weight: bold;
+                color: white;
+            }
+            QPushButton {
+                background-color: #4CAF50;
+                color: white;
+            }
+            
+           
+        """
+        TipsWindow.setStyleSheet(education_stylesheet)
         TipsWindow.setObjectName("TipsWindow")
         TipsWindow.resize(800, 600)
         self.centralwidget = QtWidgets.QWidget(TipsWindow)

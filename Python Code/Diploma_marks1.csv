@@ -1,0 +1,2251 @@
+Student ID,English,Mathematics,Science,Social Studies,Logical Reasoning,Computer Awareness,Branch,Course
+Student_1_1,89,81,76,50,82,92,Diploma,Diploma in Computer Science and Information Technology
+Student_2_1,75,82,88,77,88,87,Diploma,Diploma in Computer Science and Information Technology
+Student_3_1,78,85,85,69,77,87,Diploma,Diploma in Computer Science and Information Technology
+Student_4_1,87,94,82,55,77,89,Diploma,Diploma in Computer Science and Information Technology
+Student_5_1,84,86,84,65,85,89,Diploma,Diploma in Computer Science and Information Technology
+Student_6_1,77,82,85,44,78,95,Diploma,Diploma in Computer Science and Information Technology
+Student_7_1,79,84,76,73,90,91,Diploma,Diploma in Computer Science and Information Technology
+Student_8_1,85,92,82,82,77,91,Diploma,Diploma in Computer Science and Information Technology
+Student_9_1,79,83,75,78,80,94,Diploma,Diploma in Computer Science and Information Technology
+Student_10_1,81,87,86,58,78,81,Diploma,Diploma in Computer Science and Information Technology
+Student_11_1,78,90,77,88,83,84,Diploma,Diploma in Computer Science and Information Technology
+Student_12_1,78,87,80,59,76,92,Diploma,Diploma in Computer Science and Information Technology
+Student_13_1,77,88,79,42,80,85,Diploma,Diploma in Computer Science and Information Technology
+Student_14_1,75,89,81,55,90,81,Diploma,Diploma in Computer Science and Information Technology
+Student_15_1,81,83,76,57,77,83,Diploma,Diploma in Computer Science and Information Technology
+Student_16_1,78,88,81,68,81,90,Diploma,Diploma in Computer Science and Information Technology
+Student_17_1,83,93,85,74,80,92,Diploma,Diploma in Computer Science and Information Technology
+Student_18_1,76,86,79,86,84,82,Diploma,Diploma in Computer Science and Information Technology
+Student_19_1,89,80,85,80,85,93,Diploma,Diploma in Computer Science and Information Technology
+Student_20_1,81,80,76,90,90,92,Diploma,Diploma in Computer Science and Information Technology
+Student_21_1,85,85,78,84,78,82,Diploma,Diploma in Computer Science and Information Technology
+Student_22_1,82,95,84,47,86,84,Diploma,Diploma in Computer Science and Information Technology
+Student_23_1,77,93,75,90,82,87,Diploma,Diploma in Computer Science and Information Technology
+Student_24_1,90,85,76,84,80,89,Diploma,Diploma in Computer Science and Information Technology
+Student_25_1,84,85,79,79,90,86,Diploma,Diploma in Computer Science and Information Technology
+Student_26_1,88,91,78,42,81,86,Diploma,Diploma in Computer Science and Information Technology
+Student_27_1,81,92,84,83,75,80,Diploma,Diploma in Computer Science and Information Technology
+Student_28_1,81,94,87,55,79,95,Diploma,Diploma in Computer Science and Information Technology
+Student_29_1,79,83,75,45,78,82,Diploma,Diploma in Computer Science and Information Technology
+Student_30_1,84,83,79,80,85,84,Diploma,Diploma in Computer Science and Information Technology
+Student_31_1,88,86,83,85,81,94,Diploma,Diploma in Computer Science and Information Technology
+Student_32_1,83,86,83,75,81,85,Diploma,Diploma in Computer Science and Information Technology
+Student_33_1,78,95,84,77,90,95,Diploma,Diploma in Computer Science and Information Technology
+Student_34_1,81,92,79,59,81,93,Diploma,Diploma in Computer Science and Information Technology
+Student_35_1,81,82,90,60,79,83,Diploma,Diploma in Computer Science and Information Technology
+Student_36_1,89,89,84,52,89,86,Diploma,Diploma in Computer Science and Information Technology
+Student_37_1,88,86,82,88,78,95,Diploma,Diploma in Computer Science and Information Technology
+Student_38_1,85,87,78,68,79,84,Diploma,Diploma in Computer Science and Information Technology
+Student_39_1,76,83,83,48,76,85,Diploma,Diploma in Computer Science and Information Technology
+Student_40_1,81,86,89,88,81,85,Diploma,Diploma in Computer Science and Information Technology
+Student_41_1,76,86,87,41,87,81,Diploma,Diploma in Computer Science and Information Technology
+Student_42_1,89,80,78,60,78,94,Diploma,Diploma in Computer Science and Information Technology
+Student_43_1,84,94,88,71,82,80,Diploma,Diploma in Computer Science and Information Technology
+Student_44_1,75,80,77,90,90,91,Diploma,Diploma in Computer Science and Information Technology
+Student_45_1,80,91,81,71,80,84,Diploma,Diploma in Computer Science and Information Technology
+Student_46_1,78,94,88,75,77,88,Diploma,Diploma in Computer Science and Information Technology
+Student_47_1,78,83,75,58,84,89,Diploma,Diploma in Computer Science and Information Technology
+Student_48_1,76,90,85,83,82,94,Diploma,Diploma in Computer Science and Information Technology
+Student_49_1,75,81,84,73,84,81,Diploma,Diploma in Computer Science and Information Technology
+Student_50_1,80,89,81,78,85,86,Diploma,Diploma in Computer Science and Information Technology
+Student_51_1,90,84,81,47,90,81,Diploma,Diploma in Computer Science and Information Technology
+Student_52_1,87,80,88,59,84,88,Diploma,Diploma in Computer Science and Information Technology
+Student_53_1,85,91,85,66,78,92,Diploma,Diploma in Computer Science and Information Technology
+Student_54_1,88,87,81,67,76,86,Diploma,Diploma in Computer Science and Information Technology
+Student_55_1,77,90,87,48,81,87,Diploma,Diploma in Computer Science and Information Technology
+Student_56_1,80,84,79,58,76,92,Diploma,Diploma in Computer Science and Information Technology
+Student_57_1,82,87,78,68,90,94,Diploma,Diploma in Computer Science and Information Technology
+Student_58_1,84,89,89,73,75,85,Diploma,Diploma in Computer Science and Information Technology
+Student_59_1,80,84,81,72,75,85,Diploma,Diploma in Computer Science and Information Technology
+Student_60_1,90,81,79,76,84,88,Diploma,Diploma in Computer Science and Information Technology
+Student_61_1,85,85,83,51,86,85,Diploma,Diploma in Computer Science and Information Technology
+Student_62_1,85,81,84,86,82,83,Diploma,Diploma in Computer Science and Information Technology
+Student_63_1,82,84,83,79,86,95,Diploma,Diploma in Computer Science and Information Technology
+Student_64_1,77,82,83,80,82,95,Diploma,Diploma in Computer Science and Information Technology
+Student_65_1,83,86,77,65,84,80,Diploma,Diploma in Computer Science and Information Technology
+Student_66_1,80,91,75,71,80,93,Diploma,Diploma in Computer Science and Information Technology
+Student_67_1,79,93,81,45,85,81,Diploma,Diploma in Computer Science and Information Technology
+Student_68_1,90,84,85,55,87,87,Diploma,Diploma in Computer Science and Information Technology
+Student_69_1,83,80,77,42,90,85,Diploma,Diploma in Computer Science and Information Technology
+Student_70_1,84,85,77,66,80,80,Diploma,Diploma in Computer Science and Information Technology
+Student_71_1,78,91,80,42,88,88,Diploma,Diploma in Computer Science and Information Technology
+Student_72_1,89,80,89,59,75,93,Diploma,Diploma in Computer Science and Information Technology
+Student_73_1,85,83,80,69,76,83,Diploma,Diploma in Computer Science and Information Technology
+Student_74_1,80,89,77,88,89,90,Diploma,Diploma in Computer Science and Information Technology
+Student_75_1,88,86,81,57,76,81,Diploma,Diploma in Computer Science and Information Technology
+Student_76_1,83,80,78,49,88,90,Diploma,Diploma in Computer Science and Information Technology
+Student_77_1,87,95,84,88,79,84,Diploma,Diploma in Computer Science and Information Technology
+Student_78_1,81,87,79,51,81,90,Diploma,Diploma in Computer Science and Information Technology
+Student_79_1,76,86,79,55,83,84,Diploma,Diploma in Computer Science and Information Technology
+Student_80_1,83,93,84,50,87,94,Diploma,Diploma in Computer Science and Information Technology
+Student_81_1,87,95,75,80,85,89,Diploma,Diploma in Computer Science and Information Technology
+Student_82_1,86,91,78,84,90,90,Diploma,Diploma in Computer Science and Information Technology
+Student_83_1,82,91,82,46,90,80,Diploma,Diploma in Computer Science and Information Technology
+Student_84_1,88,88,85,54,88,86,Diploma,Diploma in Computer Science and Information Technology
+Student_85_1,85,85,78,42,86,83,Diploma,Diploma in Computer Science and Information Technology
+Student_86_1,75,87,81,42,76,94,Diploma,Diploma in Computer Science and Information Technology
+Student_87_1,75,92,81,44,85,80,Diploma,Diploma in Computer Science and Information Technology
+Student_88_1,83,89,80,67,89,90,Diploma,Diploma in Computer Science and Information Technology
+Student_89_1,79,80,87,77,78,84,Diploma,Diploma in Computer Science and Information Technology
+Student_90_1,90,82,88,84,87,92,Diploma,Diploma in Computer Science and Information Technology
+Student_91_1,77,88,90,49,89,85,Diploma,Diploma in Computer Science and Information Technology
+Student_92_1,87,94,78,73,75,89,Diploma,Diploma in Computer Science and Information Technology
+Student_93_1,78,84,78,88,75,92,Diploma,Diploma in Computer Science and Information Technology
+Student_94_1,80,88,78,66,77,80,Diploma,Diploma in Computer Science and Information Technology
+Student_95_1,86,90,85,66,85,85,Diploma,Diploma in Computer Science and Information Technology
+Student_96_1,86,81,80,48,75,92,Diploma,Diploma in Computer Science and Information Technology
+Student_97_1,82,83,89,51,87,85,Diploma,Diploma in Computer Science and Information Technology
+Student_98_1,84,85,87,64,88,81,Diploma,Diploma in Computer Science and Information Technology
+Student_99_1,81,93,76,64,80,92,Diploma,Diploma in Computer Science and Information Technology
+Student_100_1,89,87,90,83,78,85,Diploma,Diploma in Computer Science and Information Technology
+Student_101_1,81,88,78,49,90,94,Diploma,Diploma in Computer Science and Information Technology
+Student_102_1,84,84,79,89,88,80,Diploma,Diploma in Computer Science and Information Technology
+Student_103_1,75,86,86,52,77,84,Diploma,Diploma in Computer Science and Information Technology
+Student_104_1,81,83,87,48,78,95,Diploma,Diploma in Computer Science and Information Technology
+Student_105_1,86,88,84,75,83,87,Diploma,Diploma in Computer Science and Information Technology
+Student_106_1,84,94,88,60,76,95,Diploma,Diploma in Computer Science and Information Technology
+Student_107_1,75,89,89,75,86,94,Diploma,Diploma in Computer Science and Information Technology
+Student_108_1,82,88,85,75,86,81,Diploma,Diploma in Computer Science and Information Technology
+Student_109_1,76,85,81,57,77,84,Diploma,Diploma in Computer Science and Information Technology
+Student_110_1,80,84,76,62,80,95,Diploma,Diploma in Computer Science and Information Technology
+Student_111_1,78,80,83,79,80,84,Diploma,Diploma in Computer Science and Information Technology
+Student_112_1,88,81,86,52,84,82,Diploma,Diploma in Computer Science and Information Technology
+Student_113_1,78,95,78,68,89,84,Diploma,Diploma in Computer Science and Information Technology
+Student_114_1,81,81,84,63,83,82,Diploma,Diploma in Computer Science and Information Technology
+Student_115_1,81,80,84,73,80,93,Diploma,Diploma in Computer Science and Information Technology
+Student_116_1,75,87,84,86,84,84,Diploma,Diploma in Computer Science and Information Technology
+Student_117_1,90,88,86,87,82,92,Diploma,Diploma in Computer Science and Information Technology
+Student_118_1,80,81,84,56,87,89,Diploma,Diploma in Computer Science and Information Technology
+Student_119_1,79,85,85,74,89,95,Diploma,Diploma in Computer Science and Information Technology
+Student_120_1,85,83,81,87,80,83,Diploma,Diploma in Computer Science and Information Technology
+Student_121_1,82,88,81,62,80,85,Diploma,Diploma in Computer Science and Information Technology
+Student_122_1,90,93,90,54,89,82,Diploma,Diploma in Computer Science and Information Technology
+Student_123_1,75,95,84,77,77,82,Diploma,Diploma in Computer Science and Information Technology
+Student_124_1,90,94,89,58,85,83,Diploma,Diploma in Computer Science and Information Technology
+Student_125_1,84,87,89,76,86,82,Diploma,Diploma in Computer Science and Information Technology
+Student_126_1,81,83,76,51,88,94,Diploma,Diploma in Computer Science and Information Technology
+Student_127_1,87,83,89,88,90,92,Diploma,Diploma in Computer Science and Information Technology
+Student_128_1,89,93,85,72,77,89,Diploma,Diploma in Computer Science and Information Technology
+Student_129_1,77,80,89,59,85,82,Diploma,Diploma in Computer Science and Information Technology
+Student_130_1,90,86,78,55,76,82,Diploma,Diploma in Computer Science and Information Technology
+Student_131_1,89,87,83,61,80,80,Diploma,Diploma in Computer Science and Information Technology
+Student_132_1,77,85,76,72,87,86,Diploma,Diploma in Computer Science and Information Technology
+Student_133_1,86,89,77,45,79,86,Diploma,Diploma in Computer Science and Information Technology
+Student_134_1,85,90,80,48,90,82,Diploma,Diploma in Computer Science and Information Technology
+Student_135_1,81,90,76,56,75,91,Diploma,Diploma in Computer Science and Information Technology
+Student_136_1,76,85,86,75,77,81,Diploma,Diploma in Computer Science and Information Technology
+Student_137_1,84,86,79,48,76,80,Diploma,Diploma in Computer Science and Information Technology
+Student_138_1,78,84,90,40,84,80,Diploma,Diploma in Computer Science and Information Technology
+Student_139_1,80,83,81,67,75,85,Diploma,Diploma in Computer Science and Information Technology
+Student_140_1,82,89,75,66,83,83,Diploma,Diploma in Computer Science and Information Technology
+Student_141_1,85,84,79,53,83,91,Diploma,Diploma in Computer Science and Information Technology
+Student_142_1,80,80,76,50,77,82,Diploma,Diploma in Computer Science and Information Technology
+Student_143_1,81,85,78,57,81,95,Diploma,Diploma in Computer Science and Information Technology
+Student_144_1,89,90,90,54,88,89,Diploma,Diploma in Computer Science and Information Technology
+Student_145_1,79,91,89,40,89,94,Diploma,Diploma in Computer Science and Information Technology
+Student_146_1,83,85,82,40,80,82,Diploma,Diploma in Computer Science and Information Technology
+Student_147_1,80,94,81,53,88,88,Diploma,Diploma in Computer Science and Information Technology
+Student_148_1,78,90,88,74,75,95,Diploma,Diploma in Computer Science and Information Technology
+Student_149_1,77,83,84,68,90,82,Diploma,Diploma in Computer Science and Information Technology
+Student_150_1,90,92,83,45,80,81,Diploma,Diploma in Computer Science and Information Technology
+Student_151_1,85,91,77,74,82,86,Diploma,Diploma in Computer Science and Information Technology
+Student_152_1,83,90,82,84,76,92,Diploma,Diploma in Computer Science and Information Technology
+Student_153_1,75,95,79,65,82,88,Diploma,Diploma in Computer Science and Information Technology
+Student_154_1,81,83,88,77,83,94,Diploma,Diploma in Computer Science and Information Technology
+Student_155_1,89,87,78,69,90,84,Diploma,Diploma in Computer Science and Information Technology
+Student_156_1,79,95,81,66,75,87,Diploma,Diploma in Computer Science and Information Technology
+Student_157_1,89,81,75,75,89,95,Diploma,Diploma in Computer Science and Information Technology
+Student_158_1,78,93,83,59,78,92,Diploma,Diploma in Computer Science and Information Technology
+Student_159_1,88,89,89,57,87,89,Diploma,Diploma in Computer Science and Information Technology
+Student_160_1,87,81,76,88,85,88,Diploma,Diploma in Computer Science and Information Technology
+Student_161_1,80,82,82,41,85,90,Diploma,Diploma in Computer Science and Information Technology
+Student_162_1,83,89,88,52,80,85,Diploma,Diploma in Computer Science and Information Technology
+Student_163_1,80,81,87,72,78,89,Diploma,Diploma in Computer Science and Information Technology
+Student_164_1,90,95,77,44,86,87,Diploma,Diploma in Computer Science and Information Technology
+Student_165_1,88,90,75,71,90,84,Diploma,Diploma in Computer Science and Information Technology
+Student_166_1,81,89,79,63,88,92,Diploma,Diploma in Computer Science and Information Technology
+Student_167_1,78,86,78,54,89,89,Diploma,Diploma in Computer Science and Information Technology
+Student_168_1,89,86,77,47,83,90,Diploma,Diploma in Computer Science and Information Technology
+Student_169_1,87,82,80,59,81,85,Diploma,Diploma in Computer Science and Information Technology
+Student_170_1,83,88,79,51,88,88,Diploma,Diploma in Computer Science and Information Technology
+Student_171_1,84,94,89,69,80,90,Diploma,Diploma in Computer Science and Information Technology
+Student_172_1,78,95,81,85,89,89,Diploma,Diploma in Computer Science and Information Technology
+Student_173_1,81,95,90,76,86,93,Diploma,Diploma in Computer Science and Information Technology
+Student_174_1,86,81,90,81,89,87,Diploma,Diploma in Computer Science and Information Technology
+Student_175_1,84,84,83,80,83,88,Diploma,Diploma in Computer Science and Information Technology
+Student_176_1,88,93,82,60,76,85,Diploma,Diploma in Computer Science and Information Technology
+Student_177_1,84,82,89,60,84,95,Diploma,Diploma in Computer Science and Information Technology
+Student_178_1,86,92,85,78,84,87,Diploma,Diploma in Computer Science and Information Technology
+Student_179_1,77,92,84,66,77,94,Diploma,Diploma in Computer Science and Information Technology
+Student_180_1,78,95,89,56,77,93,Diploma,Diploma in Computer Science and Information Technology
+Student_181_1,83,88,89,77,75,89,Diploma,Diploma in Computer Science and Information Technology
+Student_182_1,76,91,87,87,82,95,Diploma,Diploma in Computer Science and Information Technology
+Student_183_1,76,88,78,78,86,87,Diploma,Diploma in Computer Science and Information Technology
+Student_184_1,87,95,83,48,83,85,Diploma,Diploma in Computer Science and Information Technology
+Student_185_1,86,87,77,89,84,93,Diploma,Diploma in Computer Science and Information Technology
+Student_186_1,83,91,75,66,86,90,Diploma,Diploma in Computer Science and Information Technology
+Student_187_1,81,81,79,68,78,82,Diploma,Diploma in Computer Science and Information Technology
+Student_188_1,86,89,82,46,76,81,Diploma,Diploma in Computer Science and Information Technology
+Student_189_1,79,87,88,62,87,94,Diploma,Diploma in Computer Science and Information Technology
+Student_190_1,84,93,86,45,86,85,Diploma,Diploma in Computer Science and Information Technology
+Student_191_1,76,83,88,46,84,93,Diploma,Diploma in Computer Science and Information Technology
+Student_192_1,84,89,85,47,83,84,Diploma,Diploma in Computer Science and Information Technology
+Student_193_1,84,88,86,85,76,93,Diploma,Diploma in Computer Science and Information Technology
+Student_194_1,76,83,85,49,84,81,Diploma,Diploma in Computer Science and Information Technology
+Student_195_1,80,88,88,43,89,88,Diploma,Diploma in Computer Science and Information Technology
+Student_196_1,78,94,85,72,83,88,Diploma,Diploma in Computer Science and Information Technology
+Student_197_1,86,86,80,78,83,83,Diploma,Diploma in Computer Science and Information Technology
+Student_198_1,85,86,85,88,76,88,Diploma,Diploma in Computer Science and Information Technology
+Student_199_1,84,93,85,51,87,81,Diploma,Diploma in Computer Science and Information Technology
+Student_200_1,84,95,84,69,77,82,Diploma,Diploma in Computer Science and Information Technology
+Student_201_1,84,81,85,61,88,81,Diploma,Diploma in Computer Science and Information Technology
+Student_202_1,82,80,76,63,76,89,Diploma,Diploma in Computer Science and Information Technology
+Student_203_1,81,82,88,54,80,82,Diploma,Diploma in Computer Science and Information Technology
+Student_204_1,78,82,90,73,75,95,Diploma,Diploma in Computer Science and Information Technology
+Student_205_1,83,87,85,64,76,82,Diploma,Diploma in Computer Science and Information Technology
+Student_206_1,82,83,84,79,89,81,Diploma,Diploma in Computer Science and Information Technology
+Student_207_1,81,94,75,75,80,85,Diploma,Diploma in Computer Science and Information Technology
+Student_208_1,80,84,87,42,83,92,Diploma,Diploma in Computer Science and Information Technology
+Student_209_1,77,92,87,59,82,90,Diploma,Diploma in Computer Science and Information Technology
+Student_210_1,75,83,77,63,85,94,Diploma,Diploma in Computer Science and Information Technology
+Student_211_1,77,89,79,78,81,95,Diploma,Diploma in Computer Science and Information Technology
+Student_212_1,75,93,82,51,75,94,Diploma,Diploma in Computer Science and Information Technology
+Student_213_1,90,95,81,70,75,82,Diploma,Diploma in Computer Science and Information Technology
+Student_214_1,89,80,85,86,86,94,Diploma,Diploma in Computer Science and Information Technology
+Student_215_1,81,84,90,58,86,89,Diploma,Diploma in Computer Science and Information Technology
+Student_216_1,75,92,87,89,84,90,Diploma,Diploma in Computer Science and Information Technology
+Student_217_1,84,84,84,45,86,82,Diploma,Diploma in Computer Science and Information Technology
+Student_218_1,81,87,85,42,87,82,Diploma,Diploma in Computer Science and Information Technology
+Student_219_1,84,86,81,67,87,91,Diploma,Diploma in Computer Science and Information Technology
+Student_220_1,80,88,83,87,86,90,Diploma,Diploma in Computer Science and Information Technology
+Student_221_1,87,82,86,89,89,87,Diploma,Diploma in Computer Science and Information Technology
+Student_222_1,88,94,77,61,75,80,Diploma,Diploma in Computer Science and Information Technology
+Student_223_1,82,82,75,70,84,88,Diploma,Diploma in Computer Science and Information Technology
+Student_224_1,81,82,76,46,86,89,Diploma,Diploma in Computer Science and Information Technology
+Student_225_1,82,92,81,79,90,83,Diploma,Diploma in Computer Science and Information Technology
+Student_226_1,89,80,84,50,83,87,Diploma,Diploma in Computer Science and Information Technology
+Student_227_1,89,83,81,73,87,85,Diploma,Diploma in Computer Science and Information Technology
+Student_228_1,79,83,80,58,88,84,Diploma,Diploma in Computer Science and Information Technology
+Student_229_1,86,95,78,40,80,80,Diploma,Diploma in Computer Science and Information Technology
+Student_230_1,78,93,89,80,75,93,Diploma,Diploma in Computer Science and Information Technology
+Student_231_1,85,82,87,50,83,92,Diploma,Diploma in Computer Science and Information Technology
+Student_232_1,88,91,90,65,77,95,Diploma,Diploma in Computer Science and Information Technology
+Student_233_1,90,91,81,55,83,85,Diploma,Diploma in Computer Science and Information Technology
+Student_234_1,76,84,82,82,90,93,Diploma,Diploma in Computer Science and Information Technology
+Student_235_1,79,92,88,88,85,95,Diploma,Diploma in Computer Science and Information Technology
+Student_236_1,84,93,88,70,89,87,Diploma,Diploma in Computer Science and Information Technology
+Student_237_1,80,81,84,68,83,84,Diploma,Diploma in Computer Science and Information Technology
+Student_238_1,90,86,87,42,86,80,Diploma,Diploma in Computer Science and Information Technology
+Student_239_1,80,93,89,57,77,94,Diploma,Diploma in Computer Science and Information Technology
+Student_240_1,84,83,87,69,90,92,Diploma,Diploma in Computer Science and Information Technology
+Student_241_1,86,91,75,65,83,92,Diploma,Diploma in Computer Science and Information Technology
+Student_242_1,75,80,85,76,89,83,Diploma,Diploma in Computer Science and Information Technology
+Student_243_1,88,85,89,78,76,93,Diploma,Diploma in Computer Science and Information Technology
+Student_244_1,82,93,88,83,88,87,Diploma,Diploma in Computer Science and Information Technology
+Student_245_1,75,89,76,71,75,90,Diploma,Diploma in Computer Science and Information Technology
+Student_246_1,88,92,79,73,84,90,Diploma,Diploma in Computer Science and Information Technology
+Student_247_1,80,84,82,69,81,84,Diploma,Diploma in Computer Science and Information Technology
+Student_248_1,83,87,87,62,81,95,Diploma,Diploma in Computer Science and Information Technology
+Student_249_1,81,84,85,88,75,94,Diploma,Diploma in Computer Science and Information Technology
+Student_250_1,89,95,80,66,84,91,Diploma,Diploma in Computer Science and Information Technology
+Student_1_1,82,87,93,54,87,75,Diploma,Diploma in Mechanical and Electrical
+Student_2_1,78,87,80,51,82,85,Diploma,Diploma in Mechanical and Electrical
+Student_3_1,79,89,85,59,82,77,Diploma,Diploma in Mechanical and Electrical
+Student_4_1,78,87,90,83,76,78,Diploma,Diploma in Mechanical and Electrical
+Student_5_1,80,92,86,82,80,79,Diploma,Diploma in Mechanical and Electrical
+Student_6_1,77,90,82,83,75,80,Diploma,Diploma in Mechanical and Electrical
+Student_7_1,77,82,90,69,84,76,Diploma,Diploma in Mechanical and Electrical
+Student_8_1,90,94,83,74,80,89,Diploma,Diploma in Mechanical and Electrical
+Student_9_1,78,90,89,82,80,82,Diploma,Diploma in Mechanical and Electrical
+Student_10_1,76,81,95,53,79,85,Diploma,Diploma in Mechanical and Electrical
+Student_11_1,85,81,80,41,75,90,Diploma,Diploma in Mechanical and Electrical
+Student_12_1,79,84,83,70,86,86,Diploma,Diploma in Mechanical and Electrical
+Student_13_1,77,86,86,79,85,80,Diploma,Diploma in Mechanical and Electrical
+Student_14_1,90,91,86,81,85,81,Diploma,Diploma in Mechanical and Electrical
+Student_15_1,84,94,81,54,90,90,Diploma,Diploma in Mechanical and Electrical
+Student_16_1,77,84,89,43,85,83,Diploma,Diploma in Mechanical and Electrical
+Student_17_1,78,91,95,68,88,75,Diploma,Diploma in Mechanical and Electrical
+Student_18_1,90,80,83,82,86,75,Diploma,Diploma in Mechanical and Electrical
+Student_19_1,87,86,90,75,87,76,Diploma,Diploma in Mechanical and Electrical
+Student_20_1,80,82,95,64,90,79,Diploma,Diploma in Mechanical and Electrical
+Student_21_1,80,90,84,73,86,76,Diploma,Diploma in Mechanical and Electrical
+Student_22_1,77,80,83,57,88,86,Diploma,Diploma in Mechanical and Electrical
+Student_23_1,81,87,81,55,82,83,Diploma,Diploma in Mechanical and Electrical
+Student_24_1,81,86,93,67,80,84,Diploma,Diploma in Mechanical and Electrical
+Student_25_1,81,85,81,81,78,88,Diploma,Diploma in Mechanical and Electrical
+Student_26_1,86,86,82,71,77,85,Diploma,Diploma in Mechanical and Electrical
+Student_27_1,88,84,93,80,89,82,Diploma,Diploma in Mechanical and Electrical
+Student_28_1,87,83,91,83,76,83,Diploma,Diploma in Mechanical and Electrical
+Student_29_1,75,87,95,63,83,78,Diploma,Diploma in Mechanical and Electrical
+Student_30_1,77,82,94,65,79,77,Diploma,Diploma in Mechanical and Electrical
+Student_31_1,84,86,92,63,76,89,Diploma,Diploma in Mechanical and Electrical
+Student_32_1,83,86,90,77,75,83,Diploma,Diploma in Mechanical and Electrical
+Student_33_1,80,81,87,53,78,83,Diploma,Diploma in Mechanical and Electrical
+Student_34_1,83,80,94,70,86,84,Diploma,Diploma in Mechanical and Electrical
+Student_35_1,77,92,85,51,85,78,Diploma,Diploma in Mechanical and Electrical
+Student_36_1,80,90,90,78,87,83,Diploma,Diploma in Mechanical and Electrical
+Student_37_1,84,93,89,84,86,76,Diploma,Diploma in Mechanical and Electrical
+Student_38_1,89,83,88,53,76,83,Diploma,Diploma in Mechanical and Electrical
+Student_39_1,82,86,95,59,82,90,Diploma,Diploma in Mechanical and Electrical
+Student_40_1,80,88,91,54,76,77,Diploma,Diploma in Mechanical and Electrical
+Student_41_1,81,91,86,44,78,88,Diploma,Diploma in Mechanical and Electrical
+Student_42_1,80,80,85,54,82,82,Diploma,Diploma in Mechanical and Electrical
+Student_43_1,88,95,81,76,84,90,Diploma,Diploma in Mechanical and Electrical
+Student_44_1,79,94,95,45,80,83,Diploma,Diploma in Mechanical and Electrical
+Student_45_1,77,84,94,63,89,83,Diploma,Diploma in Mechanical and Electrical
+Student_46_1,81,82,86,75,77,76,Diploma,Diploma in Mechanical and Electrical
+Student_47_1,80,95,90,61,84,82,Diploma,Diploma in Mechanical and Electrical
+Student_48_1,82,83,91,59,76,78,Diploma,Diploma in Mechanical and Electrical
+Student_49_1,87,88,92,53,89,81,Diploma,Diploma in Mechanical and Electrical
+Student_50_1,87,86,93,52,88,85,Diploma,Diploma in Mechanical and Electrical
+Student_51_1,81,95,83,50,75,83,Diploma,Diploma in Mechanical and Electrical
+Student_52_1,77,82,93,75,83,83,Diploma,Diploma in Mechanical and Electrical
+Student_53_1,82,81,95,71,81,79,Diploma,Diploma in Mechanical and Electrical
+Student_54_1,77,89,87,50,90,90,Diploma,Diploma in Mechanical and Electrical
+Student_55_1,77,88,88,42,90,83,Diploma,Diploma in Mechanical and Electrical
+Student_56_1,85,81,80,67,85,83,Diploma,Diploma in Mechanical and Electrical
+Student_57_1,82,80,81,40,81,85,Diploma,Diploma in Mechanical and Electrical
+Student_58_1,85,87,89,85,89,77,Diploma,Diploma in Mechanical and Electrical
+Student_59_1,75,92,82,47,79,80,Diploma,Diploma in Mechanical and Electrical
+Student_60_1,89,91,83,70,86,85,Diploma,Diploma in Mechanical and Electrical
+Student_61_1,88,91,91,48,87,87,Diploma,Diploma in Mechanical and Electrical
+Student_62_1,87,91,94,57,77,81,Diploma,Diploma in Mechanical and Electrical
+Student_63_1,81,85,95,62,77,77,Diploma,Diploma in Mechanical and Electrical
+Student_64_1,83,89,84,58,89,81,Diploma,Diploma in Mechanical and Electrical
+Student_65_1,77,84,95,42,80,76,Diploma,Diploma in Mechanical and Electrical
+Student_66_1,77,93,93,62,84,79,Diploma,Diploma in Mechanical and Electrical
+Student_67_1,75,91,82,84,86,77,Diploma,Diploma in Mechanical and Electrical
+Student_68_1,87,85,90,50,90,89,Diploma,Diploma in Mechanical and Electrical
+Student_69_1,77,86,80,52,79,82,Diploma,Diploma in Mechanical and Electrical
+Student_70_1,87,95,94,43,87,87,Diploma,Diploma in Mechanical and Electrical
+Student_71_1,86,94,88,47,82,90,Diploma,Diploma in Mechanical and Electrical
+Student_72_1,75,86,84,82,80,89,Diploma,Diploma in Mechanical and Electrical
+Student_73_1,75,81,90,82,77,88,Diploma,Diploma in Mechanical and Electrical
+Student_74_1,89,89,83,63,77,89,Diploma,Diploma in Mechanical and Electrical
+Student_75_1,75,94,85,52,86,90,Diploma,Diploma in Mechanical and Electrical
+Student_76_1,85,93,89,78,80,83,Diploma,Diploma in Mechanical and Electrical
+Student_77_1,79,87,92,60,84,77,Diploma,Diploma in Mechanical and Electrical
+Student_78_1,83,89,91,56,82,75,Diploma,Diploma in Mechanical and Electrical
+Student_79_1,75,88,84,70,83,76,Diploma,Diploma in Mechanical and Electrical
+Student_80_1,87,87,95,40,87,84,Diploma,Diploma in Mechanical and Electrical
+Student_81_1,79,82,84,79,83,88,Diploma,Diploma in Mechanical and Electrical
+Student_82_1,90,94,91,46,83,81,Diploma,Diploma in Mechanical and Electrical
+Student_83_1,82,80,93,62,89,82,Diploma,Diploma in Mechanical and Electrical
+Student_84_1,77,95,95,66,85,75,Diploma,Diploma in Mechanical and Electrical
+Student_85_1,78,82,92,63,81,85,Diploma,Diploma in Mechanical and Electrical
+Student_86_1,75,94,88,40,82,87,Diploma,Diploma in Mechanical and Electrical
+Student_87_1,81,93,93,80,83,84,Diploma,Diploma in Mechanical and Electrical
+Student_88_1,86,82,84,40,81,84,Diploma,Diploma in Mechanical and Electrical
+Student_89_1,79,91,92,76,84,75,Diploma,Diploma in Mechanical and Electrical
+Student_90_1,76,92,90,62,84,79,Diploma,Diploma in Mechanical and Electrical
+Student_91_1,81,82,80,60,79,75,Diploma,Diploma in Mechanical and Electrical
+Student_92_1,77,92,84,54,86,75,Diploma,Diploma in Mechanical and Electrical
+Student_93_1,85,90,95,56,80,87,Diploma,Diploma in Mechanical and Electrical
+Student_94_1,75,94,88,81,90,83,Diploma,Diploma in Mechanical and Electrical
+Student_95_1,78,91,90,59,90,78,Diploma,Diploma in Mechanical and Electrical
+Student_96_1,89,93,95,78,88,90,Diploma,Diploma in Mechanical and Electrical
+Student_97_1,79,80,85,76,82,78,Diploma,Diploma in Mechanical and Electrical
+Student_98_1,77,82,90,57,84,84,Diploma,Diploma in Mechanical and Electrical
+Student_99_1,86,82,84,75,75,79,Diploma,Diploma in Mechanical and Electrical
+Student_100_1,88,86,82,70,81,83,Diploma,Diploma in Mechanical and Electrical
+Student_101_1,77,89,89,50,87,83,Diploma,Diploma in Mechanical and Electrical
+Student_102_1,81,90,94,53,77,79,Diploma,Diploma in Mechanical and Electrical
+Student_103_1,86,87,85,53,89,89,Diploma,Diploma in Mechanical and Electrical
+Student_104_1,80,89,92,69,85,85,Diploma,Diploma in Mechanical and Electrical
+Student_105_1,86,81,85,62,79,82,Diploma,Diploma in Mechanical and Electrical
+Student_106_1,77,86,92,59,79,84,Diploma,Diploma in Mechanical and Electrical
+Student_107_1,83,84,95,76,83,83,Diploma,Diploma in Mechanical and Electrical
+Student_108_1,76,92,82,57,82,86,Diploma,Diploma in Mechanical and Electrical
+Student_109_1,79,81,94,49,80,76,Diploma,Diploma in Mechanical and Electrical
+Student_110_1,77,93,88,41,75,83,Diploma,Diploma in Mechanical and Electrical
+Student_111_1,82,94,87,51,85,76,Diploma,Diploma in Mechanical and Electrical
+Student_112_1,86,80,82,41,85,79,Diploma,Diploma in Mechanical and Electrical
+Student_113_1,76,90,95,51,81,88,Diploma,Diploma in Mechanical and Electrical
+Student_114_1,85,87,80,41,82,79,Diploma,Diploma in Mechanical and Electrical
+Student_115_1,76,82,89,72,88,82,Diploma,Diploma in Mechanical and Electrical
+Student_116_1,75,91,94,82,75,78,Diploma,Diploma in Mechanical and Electrical
+Student_117_1,85,91,90,49,83,80,Diploma,Diploma in Mechanical and Electrical
+Student_118_1,82,93,92,67,82,78,Diploma,Diploma in Mechanical and Electrical
+Student_119_1,84,84,80,45,87,79,Diploma,Diploma in Mechanical and Electrical
+Student_120_1,81,94,89,70,88,90,Diploma,Diploma in Mechanical and Electrical
+Student_121_1,88,88,86,57,82,82,Diploma,Diploma in Mechanical and Electrical
+Student_122_1,76,92,80,69,84,89,Diploma,Diploma in Mechanical and Electrical
+Student_123_1,75,81,88,44,83,85,Diploma,Diploma in Mechanical and Electrical
+Student_124_1,81,85,82,60,82,83,Diploma,Diploma in Mechanical and Electrical
+Student_125_1,79,95,92,79,89,77,Diploma,Diploma in Mechanical and Electrical
+Student_126_1,80,95,86,85,83,89,Diploma,Diploma in Mechanical and Electrical
+Student_127_1,87,81,87,67,78,86,Diploma,Diploma in Mechanical and Electrical
+Student_128_1,88,85,89,79,81,76,Diploma,Diploma in Mechanical and Electrical
+Student_129_1,83,92,81,50,82,88,Diploma,Diploma in Mechanical and Electrical
+Student_130_1,87,82,94,46,75,77,Diploma,Diploma in Mechanical and Electrical
+Student_131_1,88,94,86,43,89,85,Diploma,Diploma in Mechanical and Electrical
+Student_132_1,86,86,86,41,87,89,Diploma,Diploma in Mechanical and Electrical
+Student_133_1,75,86,91,47,82,83,Diploma,Diploma in Mechanical and Electrical
+Student_134_1,82,87,90,79,86,77,Diploma,Diploma in Mechanical and Electrical
+Student_135_1,79,91,82,51,90,75,Diploma,Diploma in Mechanical and Electrical
+Student_136_1,83,89,85,84,75,80,Diploma,Diploma in Mechanical and Electrical
+Student_137_1,76,91,94,44,80,80,Diploma,Diploma in Mechanical and Electrical
+Student_138_1,87,88,89,71,87,85,Diploma,Diploma in Mechanical and Electrical
+Student_139_1,78,87,86,50,83,80,Diploma,Diploma in Mechanical and Electrical
+Student_140_1,88,94,88,44,78,83,Diploma,Diploma in Mechanical and Electrical
+Student_141_1,76,90,82,85,79,82,Diploma,Diploma in Mechanical and Electrical
+Student_142_1,87,84,91,85,82,90,Diploma,Diploma in Mechanical and Electrical
+Student_143_1,78,85,90,49,90,86,Diploma,Diploma in Mechanical and Electrical
+Student_144_1,77,84,84,83,77,86,Diploma,Diploma in Mechanical and Electrical
+Student_145_1,88,88,84,45,90,76,Diploma,Diploma in Mechanical and Electrical
+Student_146_1,79,89,91,73,79,89,Diploma,Diploma in Mechanical and Electrical
+Student_147_1,75,92,83,45,85,77,Diploma,Diploma in Mechanical and Electrical
+Student_148_1,76,93,80,72,88,85,Diploma,Diploma in Mechanical and Electrical
+Student_149_1,79,93,94,71,78,79,Diploma,Diploma in Mechanical and Electrical
+Student_150_1,88,92,88,40,82,80,Diploma,Diploma in Mechanical and Electrical
+Student_151_1,81,90,95,82,85,81,Diploma,Diploma in Mechanical and Electrical
+Student_152_1,82,91,89,79,81,89,Diploma,Diploma in Mechanical and Electrical
+Student_153_1,90,87,84,85,81,80,Diploma,Diploma in Mechanical and Electrical
+Student_154_1,86,92,92,40,81,90,Diploma,Diploma in Mechanical and Electrical
+Student_155_1,90,84,91,71,81,84,Diploma,Diploma in Mechanical and Electrical
+Student_156_1,89,93,95,72,81,82,Diploma,Diploma in Mechanical and Electrical
+Student_157_1,89,95,90,47,81,76,Diploma,Diploma in Mechanical and Electrical
+Student_158_1,87,87,94,50,84,88,Diploma,Diploma in Mechanical and Electrical
+Student_159_1,84,87,94,72,89,84,Diploma,Diploma in Mechanical and Electrical
+Student_160_1,90,89,81,82,89,88,Diploma,Diploma in Mechanical and Electrical
+Student_161_1,84,91,86,47,89,89,Diploma,Diploma in Mechanical and Electrical
+Student_162_1,79,92,82,83,90,85,Diploma,Diploma in Mechanical and Electrical
+Student_163_1,83,82,87,80,90,81,Diploma,Diploma in Mechanical and Electrical
+Student_164_1,88,85,83,80,79,77,Diploma,Diploma in Mechanical and Electrical
+Student_165_1,90,90,93,64,88,76,Diploma,Diploma in Mechanical and Electrical
+Student_166_1,82,90,88,46,90,76,Diploma,Diploma in Mechanical and Electrical
+Student_167_1,85,83,86,48,76,75,Diploma,Diploma in Mechanical and Electrical
+Student_168_1,76,89,93,62,78,80,Diploma,Diploma in Mechanical and Electrical
+Student_169_1,83,92,85,42,78,80,Diploma,Diploma in Mechanical and Electrical
+Student_170_1,84,89,90,78,75,78,Diploma,Diploma in Mechanical and Electrical
+Student_171_1,89,83,80,69,76,87,Diploma,Diploma in Mechanical and Electrical
+Student_172_1,90,88,80,81,87,85,Diploma,Diploma in Mechanical and Electrical
+Student_173_1,83,86,87,50,86,77,Diploma,Diploma in Mechanical and Electrical
+Student_174_1,85,83,82,83,87,77,Diploma,Diploma in Mechanical and Electrical
+Student_175_1,81,90,83,77,81,80,Diploma,Diploma in Mechanical and Electrical
+Student_176_1,86,94,93,65,76,87,Diploma,Diploma in Mechanical and Electrical
+Student_177_1,80,83,93,59,84,90,Diploma,Diploma in Mechanical and Electrical
+Student_178_1,75,93,80,72,88,86,Diploma,Diploma in Mechanical and Electrical
+Student_179_1,81,95,90,62,78,85,Diploma,Diploma in Mechanical and Electrical
+Student_180_1,87,88,92,79,75,77,Diploma,Diploma in Mechanical and Electrical
+Student_181_1,84,89,94,66,75,89,Diploma,Diploma in Mechanical and Electrical
+Student_182_1,87,93,89,48,84,76,Diploma,Diploma in Mechanical and Electrical
+Student_183_1,81,83,86,72,88,85,Diploma,Diploma in Mechanical and Electrical
+Student_184_1,75,86,89,80,78,85,Diploma,Diploma in Mechanical and Electrical
+Student_185_1,76,83,82,69,90,83,Diploma,Diploma in Mechanical and Electrical
+Student_186_1,89,86,92,67,85,79,Diploma,Diploma in Mechanical and Electrical
+Student_187_1,76,94,82,76,89,81,Diploma,Diploma in Mechanical and Electrical
+Student_188_1,85,81,85,81,88,79,Diploma,Diploma in Mechanical and Electrical
+Student_189_1,77,82,93,65,82,85,Diploma,Diploma in Mechanical and Electrical
+Student_190_1,87,84,93,79,90,75,Diploma,Diploma in Mechanical and Electrical
+Student_191_1,79,93,90,61,88,90,Diploma,Diploma in Mechanical and Electrical
+Student_192_1,81,95,88,83,83,80,Diploma,Diploma in Mechanical and Electrical
+Student_193_1,85,90,81,74,78,83,Diploma,Diploma in Mechanical and Electrical
+Student_194_1,84,88,83,73,82,83,Diploma,Diploma in Mechanical and Electrical
+Student_195_1,89,91,95,75,80,78,Diploma,Diploma in Mechanical and Electrical
+Student_196_1,88,87,92,53,90,86,Diploma,Diploma in Mechanical and Electrical
+Student_197_1,89,87,82,59,78,77,Diploma,Diploma in Mechanical and Electrical
+Student_198_1,87,92,90,65,79,83,Diploma,Diploma in Mechanical and Electrical
+Student_199_1,79,86,89,69,85,83,Diploma,Diploma in Mechanical and Electrical
+Student_200_1,78,80,86,67,89,82,Diploma,Diploma in Mechanical and Electrical
+Student_201_1,90,87,91,63,84,77,Diploma,Diploma in Mechanical and Electrical
+Student_202_1,88,88,89,72,76,85,Diploma,Diploma in Mechanical and Electrical
+Student_203_1,75,89,91,83,75,75,Diploma,Diploma in Mechanical and Electrical
+Student_204_1,89,92,93,52,78,75,Diploma,Diploma in Mechanical and Electrical
+Student_205_1,76,93,94,70,82,87,Diploma,Diploma in Mechanical and Electrical
+Student_206_1,86,80,95,55,80,77,Diploma,Diploma in Mechanical and Electrical
+Student_207_1,86,87,82,65,85,88,Diploma,Diploma in Mechanical and Electrical
+Student_208_1,77,81,91,74,90,80,Diploma,Diploma in Mechanical and Electrical
+Student_209_1,88,84,84,40,87,87,Diploma,Diploma in Mechanical and Electrical
+Student_210_1,76,86,82,66,76,86,Diploma,Diploma in Mechanical and Electrical
+Student_211_1,84,87,84,75,80,84,Diploma,Diploma in Mechanical and Electrical
+Student_212_1,84,92,94,68,75,84,Diploma,Diploma in Mechanical and Electrical
+Student_213_1,85,85,81,67,87,86,Diploma,Diploma in Mechanical and Electrical
+Student_214_1,86,88,84,57,89,89,Diploma,Diploma in Mechanical and Electrical
+Student_215_1,79,85,89,61,84,80,Diploma,Diploma in Mechanical and Electrical
+Student_216_1,89,95,85,49,84,81,Diploma,Diploma in Mechanical and Electrical
+Student_217_1,78,86,89,84,81,90,Diploma,Diploma in Mechanical and Electrical
+Student_218_1,84,92,88,72,81,81,Diploma,Diploma in Mechanical and Electrical
+Student_219_1,84,84,83,50,88,87,Diploma,Diploma in Mechanical and Electrical
+Student_220_1,79,91,80,64,78,86,Diploma,Diploma in Mechanical and Electrical
+Student_221_1,79,84,90,81,85,88,Diploma,Diploma in Mechanical and Electrical
+Student_222_1,89,84,84,78,83,80,Diploma,Diploma in Mechanical and Electrical
+Student_223_1,75,80,89,77,89,88,Diploma,Diploma in Mechanical and Electrical
+Student_224_1,77,93,80,42,89,83,Diploma,Diploma in Mechanical and Electrical
+Student_225_1,76,85,84,64,87,79,Diploma,Diploma in Mechanical and Electrical
+Student_226_1,82,93,89,75,79,81,Diploma,Diploma in Mechanical and Electrical
+Student_227_1,85,93,80,77,79,83,Diploma,Diploma in Mechanical and Electrical
+Student_228_1,78,84,89,62,78,89,Diploma,Diploma in Mechanical and Electrical
+Student_229_1,75,83,82,53,88,77,Diploma,Diploma in Mechanical and Electrical
+Student_230_1,85,84,95,60,85,90,Diploma,Diploma in Mechanical and Electrical
+Student_231_1,86,92,90,45,79,77,Diploma,Diploma in Mechanical and Electrical
+Student_232_1,86,82,91,66,76,77,Diploma,Diploma in Mechanical and Electrical
+Student_233_1,89,92,90,85,83,77,Diploma,Diploma in Mechanical and Electrical
+Student_234_1,89,88,84,40,86,88,Diploma,Diploma in Mechanical and Electrical
+Student_235_1,79,92,93,59,83,80,Diploma,Diploma in Mechanical and Electrical
+Student_236_1,83,83,86,51,89,89,Diploma,Diploma in Mechanical and Electrical
+Student_237_1,82,83,94,41,90,81,Diploma,Diploma in Mechanical and Electrical
+Student_238_1,80,82,85,57,83,75,Diploma,Diploma in Mechanical and Electrical
+Student_239_1,88,94,82,76,78,77,Diploma,Diploma in Mechanical and Electrical
+Student_240_1,88,94,84,43,78,76,Diploma,Diploma in Mechanical and Electrical
+Student_241_1,85,89,88,44,81,84,Diploma,Diploma in Mechanical and Electrical
+Student_242_1,87,87,92,46,84,84,Diploma,Diploma in Mechanical and Electrical
+Student_243_1,80,95,84,40,88,86,Diploma,Diploma in Mechanical and Electrical
+Student_244_1,83,92,92,53,79,82,Diploma,Diploma in Mechanical and Electrical
+Student_245_1,85,88,83,80,84,79,Diploma,Diploma in Mechanical and Electrical
+Student_246_1,78,85,93,73,87,86,Diploma,Diploma in Mechanical and Electrical
+Student_247_1,86,90,91,83,78,83,Diploma,Diploma in Mechanical and Electrical
+Student_248_1,87,82,86,45,75,77,Diploma,Diploma in Mechanical and Electrical
+Student_249_1,88,92,82,68,83,80,Diploma,Diploma in Mechanical and Electrical
+Student_250_1,82,89,84,63,84,85,Diploma,Diploma in Mechanical and Electrical
+Student_1_1,80,82,83,69,88,82,Diploma,Diploma in Electronics and Communication
+Student_2_1,83,82,81,63,85,80,Diploma,Diploma in Electronics and Communication
+Student_3_1,84,88,80,52,80,88,Diploma,Diploma in Electronics and Communication
+Student_4_1,87,78,87,85,76,84,Diploma,Diploma in Electronics and Communication
+Student_5_1,76,84,87,68,75,83,Diploma,Diploma in Electronics and Communication
+Student_6_1,89,79,92,56,75,80,Diploma,Diploma in Electronics and Communication
+Student_7_1,77,78,87,64,84,89,Diploma,Diploma in Electronics and Communication
+Student_8_1,77,87,86,42,78,87,Diploma,Diploma in Electronics and Communication
+Student_9_1,89,87,90,42,87,80,Diploma,Diploma in Electronics and Communication
+Student_10_1,82,88,93,45,80,82,Diploma,Diploma in Electronics and Communication
+Student_11_1,84,81,89,54,76,84,Diploma,Diploma in Electronics and Communication
+Student_12_1,82,76,95,78,82,95,Diploma,Diploma in Electronics and Communication
+Student_13_1,80,83,86,47,78,92,Diploma,Diploma in Electronics and Communication
+Student_14_1,81,77,83,74,87,82,Diploma,Diploma in Electronics and Communication
+Student_15_1,79,78,95,58,85,89,Diploma,Diploma in Electronics and Communication
+Student_16_1,83,83,88,66,83,86,Diploma,Diploma in Electronics and Communication
+Student_17_1,84,81,81,65,89,87,Diploma,Diploma in Electronics and Communication
+Student_18_1,82,76,94,60,75,85,Diploma,Diploma in Electronics and Communication
+Student_19_1,85,88,80,67,77,93,Diploma,Diploma in Electronics and Communication
+Student_20_1,75,88,85,45,89,92,Diploma,Diploma in Electronics and Communication
+Student_21_1,79,88,91,41,85,81,Diploma,Diploma in Electronics and Communication
+Student_22_1,79,82,80,53,88,89,Diploma,Diploma in Electronics and Communication
+Student_23_1,83,78,88,82,88,91,Diploma,Diploma in Electronics and Communication
+Student_24_1,78,79,85,50,89,95,Diploma,Diploma in Electronics and Communication
+Student_25_1,85,80,80,64,87,85,Diploma,Diploma in Electronics and Communication
+Student_26_1,78,80,91,83,75,87,Diploma,Diploma in Electronics and Communication
+Student_27_1,78,82,83,45,88,83,Diploma,Diploma in Electronics and Communication
+Student_28_1,79,90,85,83,89,90,Diploma,Diploma in Electronics and Communication
+Student_29_1,81,84,81,80,86,80,Diploma,Diploma in Electronics and Communication
+Student_30_1,88,79,89,49,77,85,Diploma,Diploma in Electronics and Communication
+Student_31_1,76,80,94,83,86,80,Diploma,Diploma in Electronics and Communication
+Student_32_1,79,82,92,65,86,80,Diploma,Diploma in Electronics and Communication
+Student_33_1,83,82,90,43,80,95,Diploma,Diploma in Electronics and Communication
+Student_34_1,85,82,88,65,83,80,Diploma,Diploma in Electronics and Communication
+Student_35_1,90,90,91,55,84,81,Diploma,Diploma in Electronics and Communication
+Student_36_1,79,77,80,52,76,93,Diploma,Diploma in Electronics and Communication
+Student_37_1,78,84,86,64,90,87,Diploma,Diploma in Electronics and Communication
+Student_38_1,77,83,89,82,80,91,Diploma,Diploma in Electronics and Communication
+Student_39_1,79,78,86,80,90,91,Diploma,Diploma in Electronics and Communication
+Student_40_1,83,79,93,79,86,94,Diploma,Diploma in Electronics and Communication
+Student_41_1,80,84,91,84,83,94,Diploma,Diploma in Electronics and Communication
+Student_42_1,86,79,87,84,88,93,Diploma,Diploma in Electronics and Communication
+Student_43_1,75,77,80,53,79,85,Diploma,Diploma in Electronics and Communication
+Student_44_1,76,77,90,61,84,93,Diploma,Diploma in Electronics and Communication
+Student_45_1,85,85,95,42,87,92,Diploma,Diploma in Electronics and Communication
+Student_46_1,75,84,80,70,76,90,Diploma,Diploma in Electronics and Communication
+Student_47_1,90,89,91,50,83,87,Diploma,Diploma in Electronics and Communication
+Student_48_1,83,82,88,43,85,81,Diploma,Diploma in Electronics and Communication
+Student_49_1,89,90,87,45,83,80,Diploma,Diploma in Electronics and Communication
+Student_50_1,85,89,90,69,75,89,Diploma,Diploma in Electronics and Communication
+Student_51_1,87,79,93,66,82,82,Diploma,Diploma in Electronics and Communication
+Student_52_1,80,76,80,66,76,80,Diploma,Diploma in Electronics and Communication
+Student_53_1,88,87,91,77,81,82,Diploma,Diploma in Electronics and Communication
+Student_54_1,87,88,95,43,76,81,Diploma,Diploma in Electronics and Communication
+Student_55_1,86,77,80,82,84,93,Diploma,Diploma in Electronics and Communication
+Student_56_1,86,78,82,62,90,87,Diploma,Diploma in Electronics and Communication
+Student_57_1,87,82,85,82,86,81,Diploma,Diploma in Electronics and Communication
+Student_58_1,85,83,95,71,81,83,Diploma,Diploma in Electronics and Communication
+Student_59_1,85,88,90,78,81,83,Diploma,Diploma in Electronics and Communication
+Student_60_1,82,87,83,53,82,86,Diploma,Diploma in Electronics and Communication
+Student_61_1,81,90,87,72,83,88,Diploma,Diploma in Electronics and Communication
+Student_62_1,90,78,87,73,76,86,Diploma,Diploma in Electronics and Communication
+Student_63_1,82,87,92,46,84,90,Diploma,Diploma in Electronics and Communication
+Student_64_1,86,88,83,41,79,89,Diploma,Diploma in Electronics and Communication
+Student_65_1,82,83,84,49,85,88,Diploma,Diploma in Electronics and Communication
+Student_66_1,89,78,92,85,80,87,Diploma,Diploma in Electronics and Communication
+Student_67_1,86,76,82,79,76,90,Diploma,Diploma in Electronics and Communication
+Student_68_1,82,89,88,76,78,87,Diploma,Diploma in Electronics and Communication
+Student_69_1,79,80,83,77,87,87,Diploma,Diploma in Electronics and Communication
+Student_70_1,89,85,85,84,80,82,Diploma,Diploma in Electronics and Communication
+Student_71_1,81,88,93,80,89,94,Diploma,Diploma in Electronics and Communication
+Student_72_1,83,78,86,60,87,82,Diploma,Diploma in Electronics and Communication
+Student_73_1,79,87,86,54,89,91,Diploma,Diploma in Electronics and Communication
+Student_74_1,88,88,86,73,80,88,Diploma,Diploma in Electronics and Communication
+Student_75_1,83,88,94,70,87,80,Diploma,Diploma in Electronics and Communication
+Student_76_1,79,89,87,53,79,85,Diploma,Diploma in Electronics and Communication
+Student_77_1,89,76,84,82,81,94,Diploma,Diploma in Electronics and Communication
+Student_78_1,90,82,81,57,90,80,Diploma,Diploma in Electronics and Communication
+Student_79_1,89,78,84,83,76,84,Diploma,Diploma in Electronics and Communication
+Student_80_1,90,78,93,77,75,82,Diploma,Diploma in Electronics and Communication
+Student_81_1,85,79,83,50,88,87,Diploma,Diploma in Electronics and Communication
+Student_82_1,84,79,94,50,89,89,Diploma,Diploma in Electronics and Communication
+Student_83_1,79,85,86,56,86,80,Diploma,Diploma in Electronics and Communication
+Student_84_1,84,83,81,47,77,81,Diploma,Diploma in Electronics and Communication
+Student_85_1,80,81,91,76,76,80,Diploma,Diploma in Electronics and Communication
+Student_86_1,85,82,93,58,80,89,Diploma,Diploma in Electronics and Communication
+Student_87_1,84,78,92,76,85,83,Diploma,Diploma in Electronics and Communication
+Student_88_1,81,80,88,77,78,90,Diploma,Diploma in Electronics and Communication
+Student_89_1,86,75,91,71,84,84,Diploma,Diploma in Electronics and Communication
+Student_90_1,86,76,82,83,84,84,Diploma,Diploma in Electronics and Communication
+Student_91_1,82,75,88,59,88,88,Diploma,Diploma in Electronics and Communication
+Student_92_1,81,82,81,51,88,81,Diploma,Diploma in Electronics and Communication
+Student_93_1,84,78,85,77,84,80,Diploma,Diploma in Electronics and Communication
+Student_94_1,77,81,89,61,83,94,Diploma,Diploma in Electronics and Communication
+Student_95_1,88,83,85,84,84,95,Diploma,Diploma in Electronics and Communication
+Student_96_1,85,83,84,83,76,90,Diploma,Diploma in Electronics and Communication
+Student_97_1,84,78,95,56,88,85,Diploma,Diploma in Electronics and Communication
+Student_98_1,76,79,94,66,75,87,Diploma,Diploma in Electronics and Communication
+Student_99_1,84,85,84,84,85,95,Diploma,Diploma in Electronics and Communication
+Student_100_1,82,80,86,50,89,84,Diploma,Diploma in Electronics and Communication
+Student_101_1,85,78,82,43,84,90,Diploma,Diploma in Electronics and Communication
+Student_102_1,80,77,94,58,85,95,Diploma,Diploma in Electronics and Communication
+Student_103_1,82,89,92,50,85,91,Diploma,Diploma in Electronics and Communication
+Student_104_1,83,85,89,82,77,83,Diploma,Diploma in Electronics and Communication
+Student_105_1,83,88,85,56,83,82,Diploma,Diploma in Electronics and Communication
+Student_106_1,75,89,81,74,89,90,Diploma,Diploma in Electronics and Communication
+Student_107_1,75,78,83,43,77,82,Diploma,Diploma in Electronics and Communication
+Student_108_1,84,75,94,63,84,82,Diploma,Diploma in Electronics and Communication
+Student_109_1,89,89,80,47,77,93,Diploma,Diploma in Electronics and Communication
+Student_110_1,86,78,95,69,79,93,Diploma,Diploma in Electronics and Communication
+Student_111_1,84,76,91,85,88,91,Diploma,Diploma in Electronics and Communication
+Student_112_1,86,90,80,84,79,80,Diploma,Diploma in Electronics and Communication
+Student_113_1,88,86,87,81,83,95,Diploma,Diploma in Electronics and Communication
+Student_114_1,81,89,93,47,81,84,Diploma,Diploma in Electronics and Communication
+Student_115_1,82,86,95,80,79,84,Diploma,Diploma in Electronics and Communication
+Student_116_1,90,89,93,51,90,94,Diploma,Diploma in Electronics and Communication
+Student_117_1,87,81,90,83,79,93,Diploma,Diploma in Electronics and Communication
+Student_118_1,79,75,83,50,87,94,Diploma,Diploma in Electronics and Communication
+Student_119_1,81,77,81,57,84,92,Diploma,Diploma in Electronics and Communication
+Student_120_1,85,81,80,53,80,80,Diploma,Diploma in Electronics and Communication
+Student_121_1,75,80,90,48,90,82,Diploma,Diploma in Electronics and Communication
+Student_122_1,84,80,93,69,85,84,Diploma,Diploma in Electronics and Communication
+Student_123_1,88,87,93,59,82,86,Diploma,Diploma in Electronics and Communication
+Student_124_1,78,90,95,42,84,95,Diploma,Diploma in Electronics and Communication
+Student_125_1,75,84,80,62,79,84,Diploma,Diploma in Electronics and Communication
+Student_126_1,80,85,94,41,76,93,Diploma,Diploma in Electronics and Communication
+Student_127_1,84,85,89,48,86,81,Diploma,Diploma in Electronics and Communication
+Student_128_1,78,83,86,41,79,80,Diploma,Diploma in Electronics and Communication
+Student_129_1,86,86,85,77,80,87,Diploma,Diploma in Electronics and Communication
+Student_130_1,81,86,88,66,79,95,Diploma,Diploma in Electronics and Communication
+Student_131_1,79,83,81,82,75,81,Diploma,Diploma in Electronics and Communication
+Student_132_1,82,90,85,74,76,80,Diploma,Diploma in Electronics and Communication
+Student_133_1,78,77,89,42,78,88,Diploma,Diploma in Electronics and Communication
+Student_134_1,76,77,86,58,87,95,Diploma,Diploma in Electronics and Communication
+Student_135_1,83,87,95,84,86,80,Diploma,Diploma in Electronics and Communication
+Student_136_1,83,88,85,60,86,83,Diploma,Diploma in Electronics and Communication
+Student_137_1,79,87,85,63,88,91,Diploma,Diploma in Electronics and Communication
+Student_138_1,85,83,92,43,90,89,Diploma,Diploma in Electronics and Communication
+Student_139_1,85,76,91,68,89,92,Diploma,Diploma in Electronics and Communication
+Student_140_1,75,84,89,71,81,80,Diploma,Diploma in Electronics and Communication
+Student_141_1,90,85,88,75,89,89,Diploma,Diploma in Electronics and Communication
+Student_142_1,82,81,86,72,76,92,Diploma,Diploma in Electronics and Communication
+Student_143_1,78,76,89,82,82,94,Diploma,Diploma in Electronics and Communication
+Student_144_1,80,89,83,85,77,86,Diploma,Diploma in Electronics and Communication
+Student_145_1,83,78,84,66,90,87,Diploma,Diploma in Electronics and Communication
+Student_146_1,77,81,87,52,75,82,Diploma,Diploma in Electronics and Communication
+Student_147_1,90,79,83,41,89,92,Diploma,Diploma in Electronics and Communication
+Student_148_1,80,89,88,45,82,94,Diploma,Diploma in Electronics and Communication
+Student_149_1,78,80,87,82,85,84,Diploma,Diploma in Electronics and Communication
+Student_150_1,89,89,87,51,85,80,Diploma,Diploma in Electronics and Communication
+Student_151_1,82,77,83,58,81,93,Diploma,Diploma in Electronics and Communication
+Student_152_1,82,83,89,43,87,89,Diploma,Diploma in Electronics and Communication
+Student_153_1,80,90,90,70,80,94,Diploma,Diploma in Electronics and Communication
+Student_154_1,84,79,87,74,82,85,Diploma,Diploma in Electronics and Communication
+Student_155_1,84,79,95,75,82,85,Diploma,Diploma in Electronics and Communication
+Student_156_1,86,75,91,53,78,90,Diploma,Diploma in Electronics and Communication
+Student_157_1,82,90,88,63,83,90,Diploma,Diploma in Electronics and Communication
+Student_158_1,79,90,93,43,90,81,Diploma,Diploma in Electronics and Communication
+Student_159_1,81,77,92,47,78,85,Diploma,Diploma in Electronics and Communication
+Student_160_1,82,83,83,55,85,90,Diploma,Diploma in Electronics and Communication
+Student_161_1,80,86,84,83,90,80,Diploma,Diploma in Electronics and Communication
+Student_162_1,88,79,89,50,79,91,Diploma,Diploma in Electronics and Communication
+Student_163_1,76,86,94,60,84,90,Diploma,Diploma in Electronics and Communication
+Student_164_1,87,84,93,79,87,89,Diploma,Diploma in Electronics and Communication
+Student_165_1,89,80,88,56,89,91,Diploma,Diploma in Electronics and Communication
+Student_166_1,81,79,89,54,90,81,Diploma,Diploma in Electronics and Communication
+Student_167_1,86,77,81,47,86,85,Diploma,Diploma in Electronics and Communication
+Student_168_1,76,88,94,69,86,93,Diploma,Diploma in Electronics and Communication
+Student_169_1,80,89,94,45,78,91,Diploma,Diploma in Electronics and Communication
+Student_170_1,85,90,85,79,80,85,Diploma,Diploma in Electronics and Communication
+Student_171_1,83,78,88,55,83,90,Diploma,Diploma in Electronics and Communication
+Student_172_1,86,75,86,66,84,88,Diploma,Diploma in Electronics and Communication
+Student_173_1,77,90,93,45,78,92,Diploma,Diploma in Electronics and Communication
+Student_174_1,88,82,88,71,89,95,Diploma,Diploma in Electronics and Communication
+Student_175_1,89,88,89,74,86,88,Diploma,Diploma in Electronics and Communication
+Student_176_1,77,76,81,71,80,88,Diploma,Diploma in Electronics and Communication
+Student_177_1,82,77,92,82,82,86,Diploma,Diploma in Electronics and Communication
+Student_178_1,77,82,86,62,83,91,Diploma,Diploma in Electronics and Communication
+Student_179_1,81,75,87,56,87,80,Diploma,Diploma in Electronics and Communication
+Student_180_1,86,90,80,73,90,90,Diploma,Diploma in Electronics and Communication
+Student_181_1,80,78,94,80,81,87,Diploma,Diploma in Electronics and Communication
+Student_182_1,82,83,90,72,76,93,Diploma,Diploma in Electronics and Communication
+Student_183_1,78,77,89,79,80,93,Diploma,Diploma in Electronics and Communication
+Student_184_1,76,88,82,83,82,81,Diploma,Diploma in Electronics and Communication
+Student_185_1,77,88,83,82,89,90,Diploma,Diploma in Electronics and Communication
+Student_186_1,84,87,95,58,90,90,Diploma,Diploma in Electronics and Communication
+Student_187_1,81,85,84,84,87,80,Diploma,Diploma in Electronics and Communication
+Student_188_1,89,80,87,71,87,88,Diploma,Diploma in Electronics and Communication
+Student_189_1,88,82,83,84,90,94,Diploma,Diploma in Electronics and Communication
+Student_190_1,83,79,91,59,84,92,Diploma,Diploma in Electronics and Communication
+Student_191_1,87,86,92,69,86,95,Diploma,Diploma in Electronics and Communication
+Student_192_1,82,82,86,67,79,87,Diploma,Diploma in Electronics and Communication
+Student_193_1,80,81,95,74,79,84,Diploma,Diploma in Electronics and Communication
+Student_194_1,80,80,80,82,89,88,Diploma,Diploma in Electronics and Communication
+Student_195_1,77,90,93,41,87,87,Diploma,Diploma in Electronics and Communication
+Student_196_1,83,78,91,53,80,83,Diploma,Diploma in Electronics and Communication
+Student_197_1,81,76,84,60,80,95,Diploma,Diploma in Electronics and Communication
+Student_198_1,81,90,81,60,81,92,Diploma,Diploma in Electronics and Communication
+Student_199_1,86,82,86,80,80,83,Diploma,Diploma in Electronics and Communication
+Student_200_1,76,79,82,65,85,92,Diploma,Diploma in Electronics and Communication
+Student_201_1,86,75,92,52,81,89,Diploma,Diploma in Electronics and Communication
+Student_202_1,81,89,95,58,87,80,Diploma,Diploma in Electronics and Communication
+Student_203_1,78,83,80,75,88,83,Diploma,Diploma in Electronics and Communication
+Student_204_1,83,83,90,53,78,81,Diploma,Diploma in Electronics and Communication
+Student_205_1,79,77,83,41,75,90,Diploma,Diploma in Electronics and Communication
+Student_206_1,84,75,92,63,86,90,Diploma,Diploma in Electronics and Communication
+Student_207_1,89,80,95,85,86,93,Diploma,Diploma in Electronics and Communication
+Student_208_1,83,89,80,61,88,91,Diploma,Diploma in Electronics and Communication
+Student_209_1,76,84,88,50,82,94,Diploma,Diploma in Electronics and Communication
+Student_210_1,80,78,81,58,86,81,Diploma,Diploma in Electronics and Communication
+Student_211_1,84,76,90,81,89,88,Diploma,Diploma in Electronics and Communication
+Student_212_1,75,82,82,60,88,94,Diploma,Diploma in Electronics and Communication
+Student_213_1,77,79,87,57,81,84,Diploma,Diploma in Electronics and Communication
+Student_214_1,78,76,91,64,80,88,Diploma,Diploma in Electronics and Communication
+Student_215_1,83,90,90,66,77,90,Diploma,Diploma in Electronics and Communication
+Student_216_1,84,81,86,44,76,80,Diploma,Diploma in Electronics and Communication
+Student_217_1,86,75,86,81,83,94,Diploma,Diploma in Electronics and Communication
+Student_218_1,78,87,82,45,88,83,Diploma,Diploma in Electronics and Communication
+Student_219_1,82,85,90,59,81,87,Diploma,Diploma in Electronics and Communication
+Student_220_1,75,90,94,48,79,93,Diploma,Diploma in Electronics and Communication
+Student_221_1,81,84,84,50,75,94,Diploma,Diploma in Electronics and Communication
+Student_222_1,89,75,92,58,83,84,Diploma,Diploma in Electronics and Communication
+Student_223_1,90,82,86,65,78,95,Diploma,Diploma in Electronics and Communication
+Student_224_1,75,90,82,82,88,84,Diploma,Diploma in Electronics and Communication
+Student_225_1,77,76,92,41,85,94,Diploma,Diploma in Electronics and Communication
+Student_226_1,81,87,90,55,83,80,Diploma,Diploma in Electronics and Communication
+Student_227_1,82,85,87,83,82,90,Diploma,Diploma in Electronics and Communication
+Student_228_1,76,87,93,61,86,84,Diploma,Diploma in Electronics and Communication
+Student_229_1,84,76,82,43,87,89,Diploma,Diploma in Electronics and Communication
+Student_230_1,82,78,92,85,80,87,Diploma,Diploma in Electronics and Communication
+Student_231_1,85,87,81,63,87,84,Diploma,Diploma in Electronics and Communication
+Student_232_1,86,89,90,69,81,94,Diploma,Diploma in Electronics and Communication
+Student_233_1,85,84,87,77,77,86,Diploma,Diploma in Electronics and Communication
+Student_234_1,77,86,92,61,81,93,Diploma,Diploma in Electronics and Communication
+Student_235_1,81,85,89,50,84,92,Diploma,Diploma in Electronics and Communication
+Student_236_1,83,78,88,75,87,81,Diploma,Diploma in Electronics and Communication
+Student_237_1,79,83,94,46,84,85,Diploma,Diploma in Electronics and Communication
+Student_238_1,81,89,84,85,90,83,Diploma,Diploma in Electronics and Communication
+Student_239_1,80,84,83,51,79,83,Diploma,Diploma in Electronics and Communication
+Student_240_1,82,82,90,83,78,90,Diploma,Diploma in Electronics and Communication
+Student_241_1,90,77,87,78,88,83,Diploma,Diploma in Electronics and Communication
+Student_242_1,79,77,93,43,88,91,Diploma,Diploma in Electronics and Communication
+Student_243_1,84,76,90,78,75,90,Diploma,Diploma in Electronics and Communication
+Student_244_1,87,82,82,43,75,83,Diploma,Diploma in Electronics and Communication
+Student_245_1,80,86,91,81,86,89,Diploma,Diploma in Electronics and Communication
+Student_246_1,89,75,87,53,86,94,Diploma,Diploma in Electronics and Communication
+Student_247_1,77,82,91,69,83,87,Diploma,Diploma in Electronics and Communication
+Student_248_1,89,87,83,54,83,87,Diploma,Diploma in Electronics and Communication
+Student_249_1,80,88,86,84,86,84,Diploma,Diploma in Electronics and Communication
+Student_250_1,82,82,92,55,82,89,Diploma,Diploma in Electronics and Communication
+Student_1_1,87,82,78,92,89,88,Diploma,Diploma in Construction and Design
+Student_2_1,88,75,76,90,81,90,Diploma,Diploma in Construction and Design
+Student_3_1,80,90,80,90,81,90,Diploma,Diploma in Construction and Design
+Student_4_1,78,77,90,86,83,84,Diploma,Diploma in Construction and Design
+Student_5_1,83,83,82,89,82,84,Diploma,Diploma in Construction and Design
+Student_6_1,76,86,86,85,88,81,Diploma,Diploma in Construction and Design
+Student_7_1,75,76,76,84,86,80,Diploma,Diploma in Construction and Design
+Student_8_1,84,88,83,91,83,87,Diploma,Diploma in Construction and Design
+Student_9_1,90,87,79,91,91,81,Diploma,Diploma in Construction and Design
+Student_10_1,82,75,88,95,81,83,Diploma,Diploma in Construction and Design
+Student_11_1,76,76,77,92,81,82,Diploma,Diploma in Construction and Design
+Student_12_1,90,87,84,93,80,86,Diploma,Diploma in Construction and Design
+Student_13_1,87,76,76,85,91,89,Diploma,Diploma in Construction and Design
+Student_14_1,90,77,84,88,80,75,Diploma,Diploma in Construction and Design
+Student_15_1,79,77,89,86,85,84,Diploma,Diploma in Construction and Design
+Student_16_1,78,87,89,84,88,88,Diploma,Diploma in Construction and Design
+Student_17_1,83,89,78,94,86,78,Diploma,Diploma in Construction and Design
+Student_18_1,85,85,79,87,85,85,Diploma,Diploma in Construction and Design
+Student_19_1,78,84,78,84,81,77,Diploma,Diploma in Construction and Design
+Student_20_1,89,80,87,84,80,76,Diploma,Diploma in Construction and Design
+Student_21_1,83,88,90,90,80,84,Diploma,Diploma in Construction and Design
+Student_22_1,83,80,82,88,86,88,Diploma,Diploma in Construction and Design
+Student_23_1,88,78,86,89,81,87,Diploma,Diploma in Construction and Design
+Student_24_1,89,89,84,83,84,89,Diploma,Diploma in Construction and Design
+Student_25_1,75,84,81,85,93,75,Diploma,Diploma in Construction and Design
+Student_26_1,88,77,81,80,80,77,Diploma,Diploma in Construction and Design
+Student_27_1,89,89,75,89,92,78,Diploma,Diploma in Construction and Design
+Student_28_1,86,77,89,88,81,75,Diploma,Diploma in Construction and Design
+Student_29_1,86,89,75,92,80,84,Diploma,Diploma in Construction and Design
+Student_30_1,87,79,83,91,94,83,Diploma,Diploma in Construction and Design
+Student_31_1,79,75,85,83,90,84,Diploma,Diploma in Construction and Design
+Student_32_1,81,75,87,89,90,84,Diploma,Diploma in Construction and Design
+Student_33_1,78,89,75,90,93,87,Diploma,Diploma in Construction and Design
+Student_34_1,85,84,82,89,95,75,Diploma,Diploma in Construction and Design
+Student_35_1,81,87,82,85,83,90,Diploma,Diploma in Construction and Design
+Student_36_1,83,81,84,85,93,81,Diploma,Diploma in Construction and Design
+Student_37_1,80,76,79,93,86,83,Diploma,Diploma in Construction and Design
+Student_38_1,86,89,85,90,80,78,Diploma,Diploma in Construction and Design
+Student_39_1,86,83,83,92,92,88,Diploma,Diploma in Construction and Design
+Student_40_1,77,90,78,91,85,83,Diploma,Diploma in Construction and Design
+Student_41_1,75,90,83,88,91,78,Diploma,Diploma in Construction and Design
+Student_42_1,78,88,81,92,80,78,Diploma,Diploma in Construction and Design
+Student_43_1,85,77,87,84,87,84,Diploma,Diploma in Construction and Design
+Student_44_1,81,79,80,92,80,89,Diploma,Diploma in Construction and Design
+Student_45_1,75,81,76,92,84,89,Diploma,Diploma in Construction and Design
+Student_46_1,82,85,88,90,81,86,Diploma,Diploma in Construction and Design
+Student_47_1,82,78,81,89,95,79,Diploma,Diploma in Construction and Design
+Student_48_1,87,87,76,84,80,90,Diploma,Diploma in Construction and Design
+Student_49_1,79,85,78,88,82,79,Diploma,Diploma in Construction and Design
+Student_50_1,81,84,79,95,83,76,Diploma,Diploma in Construction and Design
+Student_51_1,86,86,77,87,95,81,Diploma,Diploma in Construction and Design
+Student_52_1,84,89,87,94,95,88,Diploma,Diploma in Construction and Design
+Student_53_1,76,86,87,88,94,84,Diploma,Diploma in Construction and Design
+Student_54_1,88,84,87,80,94,88,Diploma,Diploma in Construction and Design
+Student_55_1,85,84,80,80,87,83,Diploma,Diploma in Construction and Design
+Student_56_1,76,89,83,81,92,78,Diploma,Diploma in Construction and Design
+Student_57_1,87,89,80,80,93,88,Diploma,Diploma in Construction and Design
+Student_58_1,78,76,79,86,87,76,Diploma,Diploma in Construction and Design
+Student_59_1,89,89,84,85,85,76,Diploma,Diploma in Construction and Design
+Student_60_1,86,82,80,84,83,75,Diploma,Diploma in Construction and Design
+Student_61_1,83,89,80,81,83,84,Diploma,Diploma in Construction and Design
+Student_62_1,75,87,75,85,80,88,Diploma,Diploma in Construction and Design
+Student_63_1,90,85,77,84,92,77,Diploma,Diploma in Construction and Design
+Student_64_1,78,89,80,90,90,82,Diploma,Diploma in Construction and Design
+Student_65_1,88,76,81,92,92,87,Diploma,Diploma in Construction and Design
+Student_66_1,87,78,78,86,82,75,Diploma,Diploma in Construction and Design
+Student_67_1,88,87,79,94,93,79,Diploma,Diploma in Construction and Design
+Student_68_1,89,81,81,85,85,80,Diploma,Diploma in Construction and Design
+Student_69_1,82,80,75,85,86,90,Diploma,Diploma in Construction and Design
+Student_70_1,77,79,83,83,80,80,Diploma,Diploma in Construction and Design
+Student_71_1,78,88,75,87,94,87,Diploma,Diploma in Construction and Design
+Student_72_1,89,89,80,87,81,90,Diploma,Diploma in Construction and Design
+Student_73_1,76,87,80,83,82,83,Diploma,Diploma in Construction and Design
+Student_74_1,87,82,86,85,92,75,Diploma,Diploma in Construction and Design
+Student_75_1,82,79,79,80,94,87,Diploma,Diploma in Construction and Design
+Student_76_1,88,81,80,81,86,86,Diploma,Diploma in Construction and Design
+Student_77_1,83,75,88,94,92,83,Diploma,Diploma in Construction and Design
+Student_78_1,86,89,76,90,82,76,Diploma,Diploma in Construction and Design
+Student_79_1,81,80,87,91,90,76,Diploma,Diploma in Construction and Design
+Student_80_1,89,90,78,89,89,77,Diploma,Diploma in Construction and Design
+Student_81_1,86,87,82,83,85,83,Diploma,Diploma in Construction and Design
+Student_82_1,82,90,84,88,92,78,Diploma,Diploma in Construction and Design
+Student_83_1,85,81,77,87,81,77,Diploma,Diploma in Construction and Design
+Student_84_1,77,88,85,86,81,81,Diploma,Diploma in Construction and Design
+Student_85_1,80,81,83,88,84,81,Diploma,Diploma in Construction and Design
+Student_86_1,79,89,77,88,93,77,Diploma,Diploma in Construction and Design
+Student_87_1,90,77,79,92,89,87,Diploma,Diploma in Construction and Design
+Student_88_1,82,89,76,88,82,83,Diploma,Diploma in Construction and Design
+Student_89_1,90,89,90,90,92,88,Diploma,Diploma in Construction and Design
+Student_90_1,76,80,86,94,81,86,Diploma,Diploma in Construction and Design
+Student_91_1,89,82,79,88,83,84,Diploma,Diploma in Construction and Design
+Student_92_1,75,79,85,92,88,80,Diploma,Diploma in Construction and Design
+Student_93_1,79,83,80,82,86,75,Diploma,Diploma in Construction and Design
+Student_94_1,83,75,76,93,95,90,Diploma,Diploma in Construction and Design
+Student_95_1,77,82,87,92,82,86,Diploma,Diploma in Construction and Design
+Student_96_1,82,86,75,89,92,89,Diploma,Diploma in Construction and Design
+Student_97_1,79,88,88,86,87,86,Diploma,Diploma in Construction and Design
+Student_98_1,87,77,76,95,90,78,Diploma,Diploma in Construction and Design
+Student_99_1,84,81,88,91,89,79,Diploma,Diploma in Construction and Design
+Student_100_1,87,75,84,80,80,82,Diploma,Diploma in Construction and Design
+Student_101_1,84,82,84,92,92,81,Diploma,Diploma in Construction and Design
+Student_102_1,86,88,80,83,89,87,Diploma,Diploma in Construction and Design
+Student_103_1,82,77,78,85,80,87,Diploma,Diploma in Construction and Design
+Student_104_1,82,83,86,86,85,84,Diploma,Diploma in Construction and Design
+Student_105_1,86,89,83,93,88,82,Diploma,Diploma in Construction and Design
+Student_106_1,87,76,85,95,93,86,Diploma,Diploma in Construction and Design
+Student_107_1,76,88,90,82,92,90,Diploma,Diploma in Construction and Design
+Student_108_1,77,90,84,90,88,89,Diploma,Diploma in Construction and Design
+Student_109_1,78,83,86,91,85,79,Diploma,Diploma in Construction and Design
+Student_110_1,83,90,82,90,90,88,Diploma,Diploma in Construction and Design
+Student_111_1,83,81,88,83,82,88,Diploma,Diploma in Construction and Design
+Student_112_1,76,80,90,92,86,82,Diploma,Diploma in Construction and Design
+Student_113_1,79,89,81,95,83,83,Diploma,Diploma in Construction and Design
+Student_114_1,79,82,90,83,94,75,Diploma,Diploma in Construction and Design
+Student_115_1,82,90,77,91,86,85,Diploma,Diploma in Construction and Design
+Student_116_1,81,79,85,95,88,84,Diploma,Diploma in Construction and Design
+Student_117_1,81,82,82,88,84,75,Diploma,Diploma in Construction and Design
+Student_118_1,87,81,78,92,83,90,Diploma,Diploma in Construction and Design
+Student_119_1,79,85,86,95,94,83,Diploma,Diploma in Construction and Design
+Student_120_1,90,88,87,95,94,83,Diploma,Diploma in Construction and Design
+Student_121_1,88,81,85,80,87,80,Diploma,Diploma in Construction and Design
+Student_122_1,89,78,81,85,92,81,Diploma,Diploma in Construction and Design
+Student_123_1,86,78,75,84,87,86,Diploma,Diploma in Construction and Design
+Student_124_1,87,80,78,93,95,79,Diploma,Diploma in Construction and Design
+Student_125_1,81,79,90,82,92,85,Diploma,Diploma in Construction and Design
+Student_126_1,80,80,90,94,95,79,Diploma,Diploma in Construction and Design
+Student_127_1,79,83,88,88,93,75,Diploma,Diploma in Construction and Design
+Student_128_1,84,84,78,82,94,77,Diploma,Diploma in Construction and Design
+Student_129_1,77,81,88,94,87,88,Diploma,Diploma in Construction and Design
+Student_130_1,78,76,75,90,94,83,Diploma,Diploma in Construction and Design
+Student_131_1,85,86,76,84,87,90,Diploma,Diploma in Construction and Design
+Student_132_1,75,90,87,91,93,88,Diploma,Diploma in Construction and Design
+Student_133_1,82,76,81,84,83,83,Diploma,Diploma in Construction and Design
+Student_134_1,77,75,80,90,90,87,Diploma,Diploma in Construction and Design
+Student_135_1,75,81,76,89,95,82,Diploma,Diploma in Construction and Design
+Student_136_1,87,82,81,80,82,79,Diploma,Diploma in Construction and Design
+Student_137_1,75,80,84,88,85,86,Diploma,Diploma in Construction and Design
+Student_138_1,83,87,80,80,90,79,Diploma,Diploma in Construction and Design
+Student_139_1,82,88,76,85,86,80,Diploma,Diploma in Construction and Design
+Student_140_1,84,79,85,85,85,84,Diploma,Diploma in Construction and Design
+Student_141_1,86,76,86,83,92,84,Diploma,Diploma in Construction and Design
+Student_142_1,75,86,82,94,93,76,Diploma,Diploma in Construction and Design
+Student_143_1,77,87,78,83,82,82,Diploma,Diploma in Construction and Design
+Student_144_1,86,90,76,86,86,76,Diploma,Diploma in Construction and Design
+Student_145_1,87,88,87,80,90,80,Diploma,Diploma in Construction and Design
+Student_146_1,85,90,80,88,86,84,Diploma,Diploma in Construction and Design
+Student_147_1,81,83,76,85,90,90,Diploma,Diploma in Construction and Design
+Student_148_1,87,82,90,89,80,89,Diploma,Diploma in Construction and Design
+Student_149_1,76,85,83,82,84,86,Diploma,Diploma in Construction and Design
+Student_150_1,87,88,90,92,85,77,Diploma,Diploma in Construction and Design
+Student_151_1,82,87,77,90,93,87,Diploma,Diploma in Construction and Design
+Student_152_1,75,79,79,93,82,82,Diploma,Diploma in Construction and Design
+Student_153_1,86,88,77,89,89,75,Diploma,Diploma in Construction and Design
+Student_154_1,77,89,84,87,92,90,Diploma,Diploma in Construction and Design
+Student_155_1,75,80,75,82,91,77,Diploma,Diploma in Construction and Design
+Student_156_1,78,86,89,92,81,79,Diploma,Diploma in Construction and Design
+Student_157_1,85,77,84,92,81,87,Diploma,Diploma in Construction and Design
+Student_158_1,83,81,82,92,95,81,Diploma,Diploma in Construction and Design
+Student_159_1,75,77,88,95,91,88,Diploma,Diploma in Construction and Design
+Student_160_1,85,90,87,93,86,85,Diploma,Diploma in Construction and Design
+Student_161_1,85,81,83,86,95,84,Diploma,Diploma in Construction and Design
+Student_162_1,88,79,80,89,81,78,Diploma,Diploma in Construction and Design
+Student_163_1,78,90,84,83,95,89,Diploma,Diploma in Construction and Design
+Student_164_1,79,78,82,83,81,88,Diploma,Diploma in Construction and Design
+Student_165_1,84,85,76,92,88,88,Diploma,Diploma in Construction and Design
+Student_166_1,86,76,83,88,90,79,Diploma,Diploma in Construction and Design
+Student_167_1,78,79,88,84,88,79,Diploma,Diploma in Construction and Design
+Student_168_1,83,77,85,90,87,84,Diploma,Diploma in Construction and Design
+Student_169_1,87,86,88,95,83,89,Diploma,Diploma in Construction and Design
+Student_170_1,80,83,83,95,86,85,Diploma,Diploma in Construction and Design
+Student_171_1,87,88,83,95,91,84,Diploma,Diploma in Construction and Design
+Student_172_1,84,90,80,85,80,78,Diploma,Diploma in Construction and Design
+Student_173_1,78,89,89,92,95,80,Diploma,Diploma in Construction and Design
+Student_174_1,83,89,79,94,90,82,Diploma,Diploma in Construction and Design
+Student_175_1,85,84,77,92,95,88,Diploma,Diploma in Construction and Design
+Student_176_1,82,76,77,88,91,88,Diploma,Diploma in Construction and Design
+Student_177_1,81,87,90,91,85,83,Diploma,Diploma in Construction and Design
+Student_178_1,76,75,82,85,89,77,Diploma,Diploma in Construction and Design
+Student_179_1,82,86,82,83,93,77,Diploma,Diploma in Construction and Design
+Student_180_1,75,81,90,87,82,89,Diploma,Diploma in Construction and Design
+Student_181_1,86,83,81,88,92,82,Diploma,Diploma in Construction and Design
+Student_182_1,85,89,82,95,93,88,Diploma,Diploma in Construction and Design
+Student_183_1,84,84,78,90,94,90,Diploma,Diploma in Construction and Design
+Student_184_1,79,80,85,81,94,90,Diploma,Diploma in Construction and Design
+Student_185_1,81,90,80,89,89,78,Diploma,Diploma in Construction and Design
+Student_186_1,78,89,86,87,82,75,Diploma,Diploma in Construction and Design
+Student_187_1,82,84,83,85,88,84,Diploma,Diploma in Construction and Design
+Student_188_1,80,75,80,84,84,88,Diploma,Diploma in Construction and Design
+Student_189_1,76,85,81,90,93,79,Diploma,Diploma in Construction and Design
+Student_190_1,80,82,80,81,80,87,Diploma,Diploma in Construction and Design
+Student_191_1,83,88,80,85,93,80,Diploma,Diploma in Construction and Design
+Student_192_1,81,84,83,88,88,88,Diploma,Diploma in Construction and Design
+Student_193_1,77,89,88,91,80,79,Diploma,Diploma in Construction and Design
+Student_194_1,82,89,81,89,87,80,Diploma,Diploma in Construction and Design
+Student_195_1,77,89,79,95,81,89,Diploma,Diploma in Construction and Design
+Student_196_1,85,85,78,93,83,82,Diploma,Diploma in Construction and Design
+Student_197_1,81,79,75,85,82,84,Diploma,Diploma in Construction and Design
+Student_198_1,76,85,89,86,90,75,Diploma,Diploma in Construction and Design
+Student_199_1,80,82,80,90,87,77,Diploma,Diploma in Construction and Design
+Student_200_1,77,87,78,81,84,81,Diploma,Diploma in Construction and Design
+Student_201_1,81,86,85,88,81,77,Diploma,Diploma in Construction and Design
+Student_202_1,78,82,88,87,81,84,Diploma,Diploma in Construction and Design
+Student_203_1,83,80,76,89,81,85,Diploma,Diploma in Construction and Design
+Student_204_1,84,75,88,83,82,79,Diploma,Diploma in Construction and Design
+Student_205_1,75,78,89,80,88,82,Diploma,Diploma in Construction and Design
+Student_206_1,88,82,84,88,87,76,Diploma,Diploma in Construction and Design
+Student_207_1,88,84,89,94,93,79,Diploma,Diploma in Construction and Design
+Student_208_1,85,82,84,93,85,86,Diploma,Diploma in Construction and Design
+Student_209_1,87,80,84,92,82,75,Diploma,Diploma in Construction and Design
+Student_210_1,85,86,79,91,80,86,Diploma,Diploma in Construction and Design
+Student_211_1,84,88,76,94,85,76,Diploma,Diploma in Construction and Design
+Student_212_1,88,83,86,82,92,77,Diploma,Diploma in Construction and Design
+Student_213_1,90,76,78,95,82,78,Diploma,Diploma in Construction and Design
+Student_214_1,81,77,88,87,83,76,Diploma,Diploma in Construction and Design
+Student_215_1,77,87,90,93,85,89,Diploma,Diploma in Construction and Design
+Student_216_1,75,87,88,92,84,80,Diploma,Diploma in Construction and Design
+Student_217_1,85,88,82,94,81,83,Diploma,Diploma in Construction and Design
+Student_218_1,76,75,78,89,92,78,Diploma,Diploma in Construction and Design
+Student_219_1,87,82,82,92,88,78,Diploma,Diploma in Construction and Design
+Student_220_1,75,76,77,93,91,77,Diploma,Diploma in Construction and Design
+Student_221_1,75,75,77,90,92,79,Diploma,Diploma in Construction and Design
+Student_222_1,86,87,86,93,95,75,Diploma,Diploma in Construction and Design
+Student_223_1,89,80,85,85,86,76,Diploma,Diploma in Construction and Design
+Student_224_1,83,90,76,91,90,80,Diploma,Diploma in Construction and Design
+Student_225_1,78,89,84,90,83,81,Diploma,Diploma in Construction and Design
+Student_226_1,79,88,85,93,90,82,Diploma,Diploma in Construction and Design
+Student_227_1,83,75,76,95,90,78,Diploma,Diploma in Construction and Design
+Student_228_1,88,90,79,81,93,84,Diploma,Diploma in Construction and Design
+Student_229_1,79,90,90,83,90,88,Diploma,Diploma in Construction and Design
+Student_230_1,81,89,75,92,82,81,Diploma,Diploma in Construction and Design
+Student_231_1,76,76,79,90,93,85,Diploma,Diploma in Construction and Design
+Student_232_1,78,85,87,92,92,76,Diploma,Diploma in Construction and Design
+Student_233_1,82,78,90,91,86,81,Diploma,Diploma in Construction and Design
+Student_234_1,82,90,90,89,89,88,Diploma,Diploma in Construction and Design
+Student_235_1,79,83,76,94,88,77,Diploma,Diploma in Construction and Design
+Student_236_1,77,88,86,82,90,86,Diploma,Diploma in Construction and Design
+Student_237_1,79,88,86,80,91,77,Diploma,Diploma in Construction and Design
+Student_238_1,77,90,84,94,94,77,Diploma,Diploma in Construction and Design
+Student_239_1,85,87,77,83,92,77,Diploma,Diploma in Construction and Design
+Student_240_1,83,76,87,93,80,82,Diploma,Diploma in Construction and Design
+Student_241_1,79,87,84,89,88,81,Diploma,Diploma in Construction and Design
+Student_242_1,79,88,89,94,92,86,Diploma,Diploma in Construction and Design
+Student_243_1,86,81,86,82,95,77,Diploma,Diploma in Construction and Design
+Student_244_1,80,89,76,93,89,77,Diploma,Diploma in Construction and Design
+Student_245_1,79,79,86,89,93,78,Diploma,Diploma in Construction and Design
+Student_246_1,79,79,81,92,85,80,Diploma,Diploma in Construction and Design
+Student_247_1,76,88,81,89,93,83,Diploma,Diploma in Construction and Design
+Student_248_1,86,75,76,92,94,89,Diploma,Diploma in Construction and Design
+Student_249_1,84,78,90,90,87,75,Diploma,Diploma in Construction and Design
+Student_250_1,84,75,76,87,81,85,Diploma,Diploma in Construction and Design
+Student_1_1,88,57,48,83,87,89,Diploma,Diploma in Hospitality and Event Management
+Student_2_1,80,67,70,80,77,90,Diploma,Diploma in Hospitality and Event Management
+Student_3_1,91,70,59,92,80,75,Diploma,Diploma in Hospitality and Event Management
+Student_4_1,81,71,56,82,86,77,Diploma,Diploma in Hospitality and Event Management
+Student_5_1,81,40,61,92,84,90,Diploma,Diploma in Hospitality and Event Management
+Student_6_1,84,64,65,85,86,78,Diploma,Diploma in Hospitality and Event Management
+Student_7_1,90,68,60,94,76,75,Diploma,Diploma in Hospitality and Event Management
+Student_8_1,89,48,42,84,76,76,Diploma,Diploma in Hospitality and Event Management
+Student_9_1,90,53,67,90,88,79,Diploma,Diploma in Hospitality and Event Management
+Student_10_1,82,70,63,89,85,75,Diploma,Diploma in Hospitality and Event Management
+Student_11_1,90,49,68,94,85,75,Diploma,Diploma in Hospitality and Event Management
+Student_12_1,81,52,61,88,76,86,Diploma,Diploma in Hospitality and Event Management
+Student_13_1,81,65,79,89,82,82,Diploma,Diploma in Hospitality and Event Management
+Student_14_1,90,74,53,89,80,83,Diploma,Diploma in Hospitality and Event Management
+Student_15_1,87,74,45,93,79,88,Diploma,Diploma in Hospitality and Event Management
+Student_16_1,90,56,69,82,87,76,Diploma,Diploma in Hospitality and Event Management
+Student_17_1,89,61,71,88,83,81,Diploma,Diploma in Hospitality and Event Management
+Student_18_1,88,41,42,80,78,87,Diploma,Diploma in Hospitality and Event Management
+Student_19_1,90,53,49,82,87,82,Diploma,Diploma in Hospitality and Event Management
+Student_20_1,84,72,45,85,77,84,Diploma,Diploma in Hospitality and Event Management
+Student_21_1,86,48,79,82,78,79,Diploma,Diploma in Hospitality and Event Management
+Student_22_1,84,64,77,87,79,85,Diploma,Diploma in Hospitality and Event Management
+Student_23_1,86,52,51,82,75,88,Diploma,Diploma in Hospitality and Event Management
+Student_24_1,88,43,79,85,82,79,Diploma,Diploma in Hospitality and Event Management
+Student_25_1,84,73,76,82,86,76,Diploma,Diploma in Hospitality and Event Management
+Student_26_1,84,44,75,84,82,77,Diploma,Diploma in Hospitality and Event Management
+Student_27_1,87,51,61,92,84,78,Diploma,Diploma in Hospitality and Event Management
+Student_28_1,88,64,61,88,86,83,Diploma,Diploma in Hospitality and Event Management
+Student_29_1,82,40,65,93,83,86,Diploma,Diploma in Hospitality and Event Management
+Student_30_1,82,75,41,89,86,76,Diploma,Diploma in Hospitality and Event Management
+Student_31_1,86,43,46,84,82,78,Diploma,Diploma in Hospitality and Event Management
+Student_32_1,83,54,62,95,81,87,Diploma,Diploma in Hospitality and Event Management
+Student_33_1,83,49,54,80,78,80,Diploma,Diploma in Hospitality and Event Management
+Student_34_1,85,79,68,89,83,83,Diploma,Diploma in Hospitality and Event Management
+Student_35_1,80,67,51,93,78,88,Diploma,Diploma in Hospitality and Event Management
+Student_36_1,81,75,63,90,77,83,Diploma,Diploma in Hospitality and Event Management
+Student_37_1,88,43,64,86,89,81,Diploma,Diploma in Hospitality and Event Management
+Student_38_1,87,51,67,86,87,80,Diploma,Diploma in Hospitality and Event Management
+Student_39_1,87,53,57,89,84,88,Diploma,Diploma in Hospitality and Event Management
+Student_40_1,87,67,48,95,75,89,Diploma,Diploma in Hospitality and Event Management
+Student_41_1,85,50,47,92,75,85,Diploma,Diploma in Hospitality and Event Management
+Student_42_1,85,65,63,92,83,87,Diploma,Diploma in Hospitality and Event Management
+Student_43_1,94,80,43,93,85,81,Diploma,Diploma in Hospitality and Event Management
+Student_44_1,95,44,66,86,78,75,Diploma,Diploma in Hospitality and Event Management
+Student_45_1,81,76,67,89,79,90,Diploma,Diploma in Hospitality and Event Management
+Student_46_1,90,41,76,84,76,77,Diploma,Diploma in Hospitality and Event Management
+Student_47_1,84,51,54,92,80,79,Diploma,Diploma in Hospitality and Event Management
+Student_48_1,90,66,49,84,84,82,Diploma,Diploma in Hospitality and Event Management
+Student_49_1,84,46,48,88,87,90,Diploma,Diploma in Hospitality and Event Management
+Student_50_1,93,50,62,89,84,82,Diploma,Diploma in Hospitality and Event Management
+Student_51_1,90,43,60,90,88,75,Diploma,Diploma in Hospitality and Event Management
+Student_52_1,89,57,51,80,79,89,Diploma,Diploma in Hospitality and Event Management
+Student_53_1,84,55,79,92,76,83,Diploma,Diploma in Hospitality and Event Management
+Student_54_1,94,54,72,91,89,81,Diploma,Diploma in Hospitality and Event Management
+Student_55_1,86,47,44,81,90,83,Diploma,Diploma in Hospitality and Event Management
+Student_56_1,84,44,49,95,84,83,Diploma,Diploma in Hospitality and Event Management
+Student_57_1,92,56,65,81,88,89,Diploma,Diploma in Hospitality and Event Management
+Student_58_1,91,77,45,84,75,75,Diploma,Diploma in Hospitality and Event Management
+Student_59_1,91,80,67,85,86,80,Diploma,Diploma in Hospitality and Event Management
+Student_60_1,95,77,78,91,78,87,Diploma,Diploma in Hospitality and Event Management
+Student_61_1,80,62,73,95,77,82,Diploma,Diploma in Hospitality and Event Management
+Student_62_1,82,73,80,93,77,81,Diploma,Diploma in Hospitality and Event Management
+Student_63_1,83,74,64,87,82,82,Diploma,Diploma in Hospitality and Event Management
+Student_64_1,90,74,64,87,79,77,Diploma,Diploma in Hospitality and Event Management
+Student_65_1,89,46,60,95,87,88,Diploma,Diploma in Hospitality and Event Management
+Student_66_1,86,56,78,85,86,90,Diploma,Diploma in Hospitality and Event Management
+Student_67_1,83,63,76,85,89,82,Diploma,Diploma in Hospitality and Event Management
+Student_68_1,90,80,59,80,81,83,Diploma,Diploma in Hospitality and Event Management
+Student_69_1,91,45,68,93,86,76,Diploma,Diploma in Hospitality and Event Management
+Student_70_1,86,50,67,83,88,75,Diploma,Diploma in Hospitality and Event Management
+Student_71_1,88,54,71,87,85,81,Diploma,Diploma in Hospitality and Event Management
+Student_72_1,89,74,50,86,87,87,Diploma,Diploma in Hospitality and Event Management
+Student_73_1,91,44,48,92,86,87,Diploma,Diploma in Hospitality and Event Management
+Student_74_1,87,45,65,90,75,78,Diploma,Diploma in Hospitality and Event Management
+Student_75_1,90,61,41,83,88,85,Diploma,Diploma in Hospitality and Event Management
+Student_76_1,91,73,50,88,87,81,Diploma,Diploma in Hospitality and Event Management
+Student_77_1,86,58,55,90,76,81,Diploma,Diploma in Hospitality and Event Management
+Student_78_1,94,51,77,91,76,80,Diploma,Diploma in Hospitality and Event Management
+Student_79_1,84,73,69,83,75,81,Diploma,Diploma in Hospitality and Event Management
+Student_80_1,80,64,59,81,85,84,Diploma,Diploma in Hospitality and Event Management
+Student_81_1,83,46,47,82,84,80,Diploma,Diploma in Hospitality and Event Management
+Student_82_1,95,68,68,91,89,82,Diploma,Diploma in Hospitality and Event Management
+Student_83_1,88,63,58,82,75,76,Diploma,Diploma in Hospitality and Event Management
+Student_84_1,89,50,52,88,78,85,Diploma,Diploma in Hospitality and Event Management
+Student_85_1,88,57,61,85,90,76,Diploma,Diploma in Hospitality and Event Management
+Student_86_1,84,55,76,95,86,90,Diploma,Diploma in Hospitality and Event Management
+Student_87_1,89,65,49,90,82,89,Diploma,Diploma in Hospitality and Event Management
+Student_88_1,85,62,56,84,82,89,Diploma,Diploma in Hospitality and Event Management
+Student_89_1,87,67,54,92,88,77,Diploma,Diploma in Hospitality and Event Management
+Student_90_1,87,54,64,93,80,79,Diploma,Diploma in Hospitality and Event Management
+Student_91_1,90,80,75,82,84,79,Diploma,Diploma in Hospitality and Event Management
+Student_92_1,83,47,45,90,85,83,Diploma,Diploma in Hospitality and Event Management
+Student_93_1,89,41,72,93,79,89,Diploma,Diploma in Hospitality and Event Management
+Student_94_1,81,75,42,85,76,90,Diploma,Diploma in Hospitality and Event Management
+Student_95_1,80,46,60,81,83,78,Diploma,Diploma in Hospitality and Event Management
+Student_96_1,92,55,53,92,82,88,Diploma,Diploma in Hospitality and Event Management
+Student_97_1,82,43,49,95,79,83,Diploma,Diploma in Hospitality and Event Management
+Student_98_1,89,65,53,95,82,81,Diploma,Diploma in Hospitality and Event Management
+Student_99_1,80,66,50,81,79,82,Diploma,Diploma in Hospitality and Event Management
+Student_100_1,92,43,71,86,77,76,Diploma,Diploma in Hospitality and Event Management
+Student_101_1,84,49,77,89,81,84,Diploma,Diploma in Hospitality and Event Management
+Student_102_1,86,63,63,90,86,76,Diploma,Diploma in Hospitality and Event Management
+Student_103_1,89,61,76,92,83,81,Diploma,Diploma in Hospitality and Event Management
+Student_104_1,89,44,64,95,88,86,Diploma,Diploma in Hospitality and Event Management
+Student_105_1,87,53,53,88,77,88,Diploma,Diploma in Hospitality and Event Management
+Student_106_1,95,68,46,94,90,77,Diploma,Diploma in Hospitality and Event Management
+Student_107_1,81,74,56,87,81,87,Diploma,Diploma in Hospitality and Event Management
+Student_108_1,95,48,59,81,75,76,Diploma,Diploma in Hospitality and Event Management
+Student_109_1,88,52,78,91,90,82,Diploma,Diploma in Hospitality and Event Management
+Student_110_1,80,47,77,92,81,75,Diploma,Diploma in Hospitality and Event Management
+Student_111_1,92,52,63,91,87,84,Diploma,Diploma in Hospitality and Event Management
+Student_112_1,81,79,44,83,90,81,Diploma,Diploma in Hospitality and Event Management
+Student_113_1,90,73,61,84,85,85,Diploma,Diploma in Hospitality and Event Management
+Student_114_1,88,46,49,92,82,88,Diploma,Diploma in Hospitality and Event Management
+Student_115_1,95,75,78,88,79,79,Diploma,Diploma in Hospitality and Event Management
+Student_116_1,82,67,52,88,75,77,Diploma,Diploma in Hospitality and Event Management
+Student_117_1,95,73,64,90,90,85,Diploma,Diploma in Hospitality and Event Management
+Student_118_1,88,46,58,90,80,83,Diploma,Diploma in Hospitality and Event Management
+Student_119_1,95,78,42,92,75,90,Diploma,Diploma in Hospitality and Event Management
+Student_120_1,80,69,80,94,88,80,Diploma,Diploma in Hospitality and Event Management
+Student_121_1,84,75,69,90,75,75,Diploma,Diploma in Hospitality and Event Management
+Student_122_1,90,63,80,82,82,89,Diploma,Diploma in Hospitality and Event Management
+Student_123_1,90,72,42,81,82,86,Diploma,Diploma in Hospitality and Event Management
+Student_124_1,91,56,50,85,80,87,Diploma,Diploma in Hospitality and Event Management
+Student_125_1,80,50,68,93,77,76,Diploma,Diploma in Hospitality and Event Management
+Student_126_1,86,45,51,89,82,76,Diploma,Diploma in Hospitality and Event Management
+Student_127_1,85,52,40,92,88,82,Diploma,Diploma in Hospitality and Event Management
+Student_128_1,93,49,64,94,82,76,Diploma,Diploma in Hospitality and Event Management
+Student_129_1,88,80,64,82,84,79,Diploma,Diploma in Hospitality and Event Management
+Student_130_1,89,74,56,82,79,89,Diploma,Diploma in Hospitality and Event Management
+Student_131_1,94,62,80,80,76,90,Diploma,Diploma in Hospitality and Event Management
+Student_132_1,92,55,52,88,82,89,Diploma,Diploma in Hospitality and Event Management
+Student_133_1,90,50,75,95,77,88,Diploma,Diploma in Hospitality and Event Management
+Student_134_1,83,52,75,92,84,86,Diploma,Diploma in Hospitality and Event Management
+Student_135_1,90,72,63,85,90,88,Diploma,Diploma in Hospitality and Event Management
+Student_136_1,80,67,40,81,78,85,Diploma,Diploma in Hospitality and Event Management
+Student_137_1,93,45,69,93,80,84,Diploma,Diploma in Hospitality and Event Management
+Student_138_1,93,51,45,92,85,86,Diploma,Diploma in Hospitality and Event Management
+Student_139_1,92,53,80,84,82,79,Diploma,Diploma in Hospitality and Event Management
+Student_140_1,90,62,58,80,80,86,Diploma,Diploma in Hospitality and Event Management
+Student_141_1,86,67,69,90,79,90,Diploma,Diploma in Hospitality and Event Management
+Student_142_1,86,63,72,82,87,82,Diploma,Diploma in Hospitality and Event Management
+Student_143_1,86,46,45,92,89,89,Diploma,Diploma in Hospitality and Event Management
+Student_144_1,90,66,80,94,83,86,Diploma,Diploma in Hospitality and Event Management
+Student_145_1,88,61,66,80,77,75,Diploma,Diploma in Hospitality and Event Management
+Student_146_1,88,62,53,85,76,89,Diploma,Diploma in Hospitality and Event Management
+Student_147_1,85,41,78,82,80,88,Diploma,Diploma in Hospitality and Event Management
+Student_148_1,95,53,52,83,78,77,Diploma,Diploma in Hospitality and Event Management
+Student_149_1,93,60,44,82,89,81,Diploma,Diploma in Hospitality and Event Management
+Student_150_1,92,51,77,90,77,80,Diploma,Diploma in Hospitality and Event Management
+Student_151_1,83,70,63,81,83,80,Diploma,Diploma in Hospitality and Event Management
+Student_152_1,95,60,50,93,75,79,Diploma,Diploma in Hospitality and Event Management
+Student_153_1,85,43,42,87,85,78,Diploma,Diploma in Hospitality and Event Management
+Student_154_1,93,54,79,86,83,79,Diploma,Diploma in Hospitality and Event Management
+Student_155_1,93,48,41,82,89,76,Diploma,Diploma in Hospitality and Event Management
+Student_156_1,95,66,71,87,85,82,Diploma,Diploma in Hospitality and Event Management
+Student_157_1,88,72,43,86,78,88,Diploma,Diploma in Hospitality and Event Management
+Student_158_1,84,41,57,93,75,79,Diploma,Diploma in Hospitality and Event Management
+Student_159_1,83,66,46,85,83,77,Diploma,Diploma in Hospitality and Event Management
+Student_160_1,87,47,58,91,76,84,Diploma,Diploma in Hospitality and Event Management
+Student_161_1,80,50,80,92,75,80,Diploma,Diploma in Hospitality and Event Management
+Student_162_1,94,45,56,83,75,82,Diploma,Diploma in Hospitality and Event Management
+Student_163_1,85,78,61,83,77,83,Diploma,Diploma in Hospitality and Event Management
+Student_164_1,91,57,53,80,79,82,Diploma,Diploma in Hospitality and Event Management
+Student_165_1,81,42,67,92,75,76,Diploma,Diploma in Hospitality and Event Management
+Student_166_1,95,77,71,84,79,89,Diploma,Diploma in Hospitality and Event Management
+Student_167_1,80,62,63,95,89,83,Diploma,Diploma in Hospitality and Event Management
+Student_168_1,85,57,80,94,75,85,Diploma,Diploma in Hospitality and Event Management
+Student_169_1,95,54,45,89,82,86,Diploma,Diploma in Hospitality and Event Management
+Student_170_1,83,53,59,88,76,89,Diploma,Diploma in Hospitality and Event Management
+Student_171_1,91,41,77,88,87,79,Diploma,Diploma in Hospitality and Event Management
+Student_172_1,88,69,75,89,78,77,Diploma,Diploma in Hospitality and Event Management
+Student_173_1,84,73,43,81,78,84,Diploma,Diploma in Hospitality and Event Management
+Student_174_1,93,49,55,88,84,83,Diploma,Diploma in Hospitality and Event Management
+Student_175_1,87,46,70,86,88,82,Diploma,Diploma in Hospitality and Event Management
+Student_176_1,81,61,44,93,82,79,Diploma,Diploma in Hospitality and Event Management
+Student_177_1,80,80,68,80,83,88,Diploma,Diploma in Hospitality and Event Management
+Student_178_1,84,74,48,83,83,80,Diploma,Diploma in Hospitality and Event Management
+Student_179_1,85,54,70,90,81,77,Diploma,Diploma in Hospitality and Event Management
+Student_180_1,81,49,52,81,85,90,Diploma,Diploma in Hospitality and Event Management
+Student_181_1,93,52,56,80,89,77,Diploma,Diploma in Hospitality and Event Management
+Student_182_1,81,79,41,89,87,88,Diploma,Diploma in Hospitality and Event Management
+Student_183_1,87,44,53,88,89,77,Diploma,Diploma in Hospitality and Event Management
+Student_184_1,80,75,65,91,80,86,Diploma,Diploma in Hospitality and Event Management
+Student_185_1,81,78,75,91,77,76,Diploma,Diploma in Hospitality and Event Management
+Student_186_1,82,79,61,85,75,79,Diploma,Diploma in Hospitality and Event Management
+Student_187_1,80,77,61,82,81,82,Diploma,Diploma in Hospitality and Event Management
+Student_188_1,89,51,47,87,89,81,Diploma,Diploma in Hospitality and Event Management
+Student_189_1,91,64,53,95,89,78,Diploma,Diploma in Hospitality and Event Management
+Student_190_1,81,41,76,80,88,89,Diploma,Diploma in Hospitality and Event Management
+Student_191_1,82,63,71,88,90,84,Diploma,Diploma in Hospitality and Event Management
+Student_192_1,91,49,73,85,90,75,Diploma,Diploma in Hospitality and Event Management
+Student_193_1,88,69,59,92,81,80,Diploma,Diploma in Hospitality and Event Management
+Student_194_1,90,64,64,94,75,78,Diploma,Diploma in Hospitality and Event Management
+Student_195_1,81,65,76,83,84,83,Diploma,Diploma in Hospitality and Event Management
+Student_196_1,81,57,47,90,75,77,Diploma,Diploma in Hospitality and Event Management
+Student_197_1,80,47,65,83,86,78,Diploma,Diploma in Hospitality and Event Management
+Student_198_1,84,53,73,82,82,87,Diploma,Diploma in Hospitality and Event Management
+Student_199_1,87,77,65,92,76,82,Diploma,Diploma in Hospitality and Event Management
+Student_200_1,85,64,41,86,88,80,Diploma,Diploma in Hospitality and Event Management
+Student_201_1,84,66,41,92,77,80,Diploma,Diploma in Hospitality and Event Management
+Student_202_1,91,60,53,90,80,76,Diploma,Diploma in Hospitality and Event Management
+Student_203_1,82,40,65,90,82,81,Diploma,Diploma in Hospitality and Event Management
+Student_204_1,91,67,77,81,78,80,Diploma,Diploma in Hospitality and Event Management
+Student_205_1,82,44,62,93,81,82,Diploma,Diploma in Hospitality and Event Management
+Student_206_1,86,56,76,80,87,81,Diploma,Diploma in Hospitality and Event Management
+Student_207_1,90,48,44,84,82,84,Diploma,Diploma in Hospitality and Event Management
+Student_208_1,89,76,42,92,77,88,Diploma,Diploma in Hospitality and Event Management
+Student_209_1,94,50,47,86,83,78,Diploma,Diploma in Hospitality and Event Management
+Student_210_1,84,66,50,85,81,77,Diploma,Diploma in Hospitality and Event Management
+Student_211_1,88,43,80,84,80,90,Diploma,Diploma in Hospitality and Event Management
+Student_212_1,85,66,41,90,84,89,Diploma,Diploma in Hospitality and Event Management
+Student_213_1,86,69,54,92,79,81,Diploma,Diploma in Hospitality and Event Management
+Student_214_1,86,71,59,91,88,81,Diploma,Diploma in Hospitality and Event Management
+Student_215_1,80,77,50,85,86,80,Diploma,Diploma in Hospitality and Event Management
+Student_216_1,82,65,52,87,82,82,Diploma,Diploma in Hospitality and Event Management
+Student_217_1,86,63,63,89,82,77,Diploma,Diploma in Hospitality and Event Management
+Student_218_1,91,56,68,89,88,78,Diploma,Diploma in Hospitality and Event Management
+Student_219_1,92,70,47,89,87,80,Diploma,Diploma in Hospitality and Event Management
+Student_220_1,88,45,67,91,75,80,Diploma,Diploma in Hospitality and Event Management
+Student_221_1,87,44,50,80,90,78,Diploma,Diploma in Hospitality and Event Management
+Student_222_1,80,55,70,92,81,82,Diploma,Diploma in Hospitality and Event Management
+Student_223_1,93,51,62,81,90,77,Diploma,Diploma in Hospitality and Event Management
+Student_224_1,91,46,65,83,82,77,Diploma,Diploma in Hospitality and Event Management
+Student_225_1,90,46,47,91,76,83,Diploma,Diploma in Hospitality and Event Management
+Student_226_1,87,49,50,89,84,84,Diploma,Diploma in Hospitality and Event Management
+Student_227_1,80,80,76,82,85,77,Diploma,Diploma in Hospitality and Event Management
+Student_228_1,86,56,78,82,79,80,Diploma,Diploma in Hospitality and Event Management
+Student_229_1,88,56,63,82,87,79,Diploma,Diploma in Hospitality and Event Management
+Student_230_1,94,79,69,94,75,76,Diploma,Diploma in Hospitality and Event Management
+Student_231_1,89,78,51,84,75,90,Diploma,Diploma in Hospitality and Event Management
+Student_232_1,93,52,71,80,79,82,Diploma,Diploma in Hospitality and Event Management
+Student_233_1,87,72,74,84,89,77,Diploma,Diploma in Hospitality and Event Management
+Student_234_1,91,67,47,89,88,90,Diploma,Diploma in Hospitality and Event Management
+Student_235_1,80,45,46,94,88,83,Diploma,Diploma in Hospitality and Event Management
+Student_236_1,84,75,48,88,83,85,Diploma,Diploma in Hospitality and Event Management
+Student_237_1,90,57,51,94,84,81,Diploma,Diploma in Hospitality and Event Management
+Student_238_1,92,59,75,86,82,83,Diploma,Diploma in Hospitality and Event Management
+Student_239_1,83,57,43,90,77,81,Diploma,Diploma in Hospitality and Event Management
+Student_240_1,80,67,75,82,82,88,Diploma,Diploma in Hospitality and Event Management
+Student_241_1,90,78,54,81,79,90,Diploma,Diploma in Hospitality and Event Management
+Student_242_1,95,64,42,94,81,76,Diploma,Diploma in Hospitality and Event Management
+Student_243_1,80,74,76,82,80,79,Diploma,Diploma in Hospitality and Event Management
+Student_244_1,90,49,48,90,79,77,Diploma,Diploma in Hospitality and Event Management
+Student_245_1,88,62,53,94,89,86,Diploma,Diploma in Hospitality and Event Management
+Student_246_1,92,42,58,80,77,88,Diploma,Diploma in Hospitality and Event Management
+Student_247_1,93,59,41,81,76,76,Diploma,Diploma in Hospitality and Event Management
+Student_248_1,87,73,42,91,76,87,Diploma,Diploma in Hospitality and Event Management
+Student_249_1,84,59,52,81,85,82,Diploma,Diploma in Hospitality and Event Management
+Student_250_1,94,80,62,80,89,75,Diploma,Diploma in Hospitality and Event Management
+Student_1_1,79,83,93,44,50,45,Diploma,Diploma in Life Sciences and Environment
+Student_2_1,86,75,80,62,60,79,Diploma,Diploma in Life Sciences and Environment
+Student_3_1,82,77,85,51,47,77,Diploma,Diploma in Life Sciences and Environment
+Student_4_1,78,78,83,78,70,42,Diploma,Diploma in Life Sciences and Environment
+Student_5_1,77,82,91,40,72,58,Diploma,Diploma in Life Sciences and Environment
+Student_6_1,77,83,86,50,50,64,Diploma,Diploma in Life Sciences and Environment
+Student_7_1,89,77,84,77,58,77,Diploma,Diploma in Life Sciences and Environment
+Student_8_1,83,76,88,73,52,70,Diploma,Diploma in Life Sciences and Environment
+Student_9_1,80,80,85,67,69,78,Diploma,Diploma in Life Sciences and Environment
+Student_10_1,77,82,89,73,73,64,Diploma,Diploma in Life Sciences and Environment
+Student_11_1,76,76,95,43,68,58,Diploma,Diploma in Life Sciences and Environment
+Student_12_1,77,76,94,78,56,74,Diploma,Diploma in Life Sciences and Environment
+Student_13_1,75,78,92,43,52,43,Diploma,Diploma in Life Sciences and Environment
+Student_14_1,88,82,81,40,71,75,Diploma,Diploma in Life Sciences and Environment
+Student_15_1,86,79,90,73,67,45,Diploma,Diploma in Life Sciences and Environment
+Student_16_1,81,77,92,77,64,40,Diploma,Diploma in Life Sciences and Environment
+Student_17_1,84,82,85,43,47,76,Diploma,Diploma in Life Sciences and Environment
+Student_18_1,78,82,90,64,59,72,Diploma,Diploma in Life Sciences and Environment
+Student_19_1,82,75,81,79,75,74,Diploma,Diploma in Life Sciences and Environment
+Student_20_1,81,85,89,58,69,44,Diploma,Diploma in Life Sciences and Environment
+Student_21_1,81,82,81,42,62,45,Diploma,Diploma in Life Sciences and Environment
+Student_22_1,89,81,83,45,44,61,Diploma,Diploma in Life Sciences and Environment
+Student_23_1,78,85,90,52,53,56,Diploma,Diploma in Life Sciences and Environment
+Student_24_1,85,85,94,54,41,72,Diploma,Diploma in Life Sciences and Environment
+Student_25_1,86,79,85,56,67,74,Diploma,Diploma in Life Sciences and Environment
+Student_26_1,81,78,80,77,75,67,Diploma,Diploma in Life Sciences and Environment
+Student_27_1,80,84,90,50,60,76,Diploma,Diploma in Life Sciences and Environment
+Student_28_1,88,76,80,52,70,65,Diploma,Diploma in Life Sciences and Environment
+Student_29_1,83,83,85,58,69,46,Diploma,Diploma in Life Sciences and Environment
+Student_30_1,77,76,81,44,41,48,Diploma,Diploma in Life Sciences and Environment
+Student_31_1,77,75,95,60,52,65,Diploma,Diploma in Life Sciences and Environment
+Student_32_1,79,81,86,61,53,45,Diploma,Diploma in Life Sciences and Environment
+Student_33_1,82,77,92,44,57,40,Diploma,Diploma in Life Sciences and Environment
+Student_34_1,89,77,95,76,54,69,Diploma,Diploma in Life Sciences and Environment
+Student_35_1,82,76,80,59,63,40,Diploma,Diploma in Life Sciences and Environment
+Student_36_1,84,82,84,68,77,57,Diploma,Diploma in Life Sciences and Environment
+Student_37_1,88,83,81,46,45,65,Diploma,Diploma in Life Sciences and Environment
+Student_38_1,80,83,94,50,67,64,Diploma,Diploma in Life Sciences and Environment
+Student_39_1,77,84,93,45,67,54,Diploma,Diploma in Life Sciences and Environment
+Student_40_1,81,79,95,47,69,60,Diploma,Diploma in Life Sciences and Environment
+Student_41_1,80,79,88,58,64,59,Diploma,Diploma in Life Sciences and Environment
+Student_42_1,86,84,95,57,52,46,Diploma,Diploma in Life Sciences and Environment
+Student_43_1,89,75,92,48,67,64,Diploma,Diploma in Life Sciences and Environment
+Student_44_1,80,75,89,75,66,73,Diploma,Diploma in Life Sciences and Environment
+Student_45_1,77,76,94,76,44,79,Diploma,Diploma in Life Sciences and Environment
+Student_46_1,78,80,87,77,42,65,Diploma,Diploma in Life Sciences and Environment
+Student_47_1,87,76,84,52,58,68,Diploma,Diploma in Life Sciences and Environment
+Student_48_1,85,85,81,57,79,43,Diploma,Diploma in Life Sciences and Environment
+Student_49_1,88,80,89,73,66,50,Diploma,Diploma in Life Sciences and Environment
+Student_50_1,87,79,92,73,41,53,Diploma,Diploma in Life Sciences and Environment
+Student_51_1,77,78,88,40,72,55,Diploma,Diploma in Life Sciences and Environment
+Student_52_1,79,80,92,61,56,70,Diploma,Diploma in Life Sciences and Environment
+Student_53_1,89,75,85,61,71,43,Diploma,Diploma in Life Sciences and Environment
+Student_54_1,77,85,85,75,42,49,Diploma,Diploma in Life Sciences and Environment
+Student_55_1,82,80,91,49,45,80,Diploma,Diploma in Life Sciences and Environment
+Student_56_1,78,76,89,77,66,56,Diploma,Diploma in Life Sciences and Environment
+Student_57_1,87,84,94,78,57,75,Diploma,Diploma in Life Sciences and Environment
+Student_58_1,89,75,80,63,56,45,Diploma,Diploma in Life Sciences and Environment
+Student_59_1,82,76,94,48,58,40,Diploma,Diploma in Life Sciences and Environment
+Student_60_1,84,85,90,55,60,57,Diploma,Diploma in Life Sciences and Environment
+Student_61_1,86,83,94,70,43,44,Diploma,Diploma in Life Sciences and Environment
+Student_62_1,85,79,84,52,48,79,Diploma,Diploma in Life Sciences and Environment
+Student_63_1,85,82,95,78,77,55,Diploma,Diploma in Life Sciences and Environment
+Student_64_1,88,78,92,75,54,48,Diploma,Diploma in Life Sciences and Environment
+Student_65_1,77,76,95,59,46,63,Diploma,Diploma in Life Sciences and Environment
+Student_66_1,85,76,81,80,76,80,Diploma,Diploma in Life Sciences and Environment
+Student_67_1,86,75,94,59,59,75,Diploma,Diploma in Life Sciences and Environment
+Student_68_1,79,82,80,45,43,70,Diploma,Diploma in Life Sciences and Environment
+Student_69_1,90,80,90,51,54,50,Diploma,Diploma in Life Sciences and Environment
+Student_70_1,87,75,86,72,54,64,Diploma,Diploma in Life Sciences and Environment
+Student_71_1,86,83,95,60,71,72,Diploma,Diploma in Life Sciences and Environment
+Student_72_1,88,76,92,66,45,56,Diploma,Diploma in Life Sciences and Environment
+Student_73_1,79,79,86,66,57,73,Diploma,Diploma in Life Sciences and Environment
+Student_74_1,85,82,90,72,76,54,Diploma,Diploma in Life Sciences and Environment
+Student_75_1,76,84,92,63,73,56,Diploma,Diploma in Life Sciences and Environment
+Student_76_1,78,84,86,72,78,51,Diploma,Diploma in Life Sciences and Environment
+Student_77_1,86,75,90,74,54,43,Diploma,Diploma in Life Sciences and Environment
+Student_78_1,88,78,93,46,64,64,Diploma,Diploma in Life Sciences and Environment
+Student_79_1,85,80,92,56,47,65,Diploma,Diploma in Life Sciences and Environment
+Student_80_1,84,81,89,67,79,74,Diploma,Diploma in Life Sciences and Environment
+Student_81_1,84,83,80,76,41,74,Diploma,Diploma in Life Sciences and Environment
+Student_82_1,77,82,87,48,73,49,Diploma,Diploma in Life Sciences and Environment
+Student_83_1,83,78,91,72,46,74,Diploma,Diploma in Life Sciences and Environment
+Student_84_1,86,85,91,64,45,58,Diploma,Diploma in Life Sciences and Environment
+Student_85_1,79,81,95,76,51,47,Diploma,Diploma in Life Sciences and Environment
+Student_86_1,76,83,90,47,59,68,Diploma,Diploma in Life Sciences and Environment
+Student_87_1,75,82,81,71,75,49,Diploma,Diploma in Life Sciences and Environment
+Student_88_1,90,84,93,55,68,67,Diploma,Diploma in Life Sciences and Environment
+Student_89_1,75,77,88,75,68,68,Diploma,Diploma in Life Sciences and Environment
+Student_90_1,76,79,94,60,67,69,Diploma,Diploma in Life Sciences and Environment
+Student_91_1,75,75,81,45,47,50,Diploma,Diploma in Life Sciences and Environment
+Student_92_1,79,81,89,61,53,46,Diploma,Diploma in Life Sciences and Environment
+Student_93_1,79,78,83,45,67,57,Diploma,Diploma in Life Sciences and Environment
+Student_94_1,77,80,88,48,42,66,Diploma,Diploma in Life Sciences and Environment
+Student_95_1,76,78,81,56,49,56,Diploma,Diploma in Life Sciences and Environment
+Student_96_1,87,81,88,72,78,75,Diploma,Diploma in Life Sciences and Environment
+Student_97_1,89,80,92,63,63,74,Diploma,Diploma in Life Sciences and Environment
+Student_98_1,77,79,82,76,74,64,Diploma,Diploma in Life Sciences and Environment
+Student_99_1,90,76,90,50,49,72,Diploma,Diploma in Life Sciences and Environment
+Student_100_1,88,85,89,80,80,45,Diploma,Diploma in Life Sciences and Environment
+Student_101_1,83,82,84,45,57,72,Diploma,Diploma in Life Sciences and Environment
+Student_102_1,87,78,81,74,72,61,Diploma,Diploma in Life Sciences and Environment
+Student_103_1,88,82,91,67,66,66,Diploma,Diploma in Life Sciences and Environment
+Student_104_1,83,79,92,42,44,45,Diploma,Diploma in Life Sciences and Environment
+Student_105_1,87,79,94,47,68,55,Diploma,Diploma in Life Sciences and Environment
+Student_106_1,87,77,90,70,72,40,Diploma,Diploma in Life Sciences and Environment
+Student_107_1,81,82,84,75,79,76,Diploma,Diploma in Life Sciences and Environment
+Student_108_1,77,78,91,54,56,69,Diploma,Diploma in Life Sciences and Environment
+Student_109_1,77,81,84,70,64,58,Diploma,Diploma in Life Sciences and Environment
+Student_110_1,83,80,95,46,46,60,Diploma,Diploma in Life Sciences and Environment
+Student_111_1,87,78,80,70,71,77,Diploma,Diploma in Life Sciences and Environment
+Student_112_1,76,77,87,46,75,69,Diploma,Diploma in Life Sciences and Environment
+Student_113_1,77,81,93,73,57,40,Diploma,Diploma in Life Sciences and Environment
+Student_114_1,87,81,84,60,50,66,Diploma,Diploma in Life Sciences and Environment
+Student_115_1,86,83,92,58,49,77,Diploma,Diploma in Life Sciences and Environment
+Student_116_1,75,78,85,43,57,45,Diploma,Diploma in Life Sciences and Environment
+Student_117_1,81,82,82,60,56,53,Diploma,Diploma in Life Sciences and Environment
+Student_118_1,81,76,82,43,78,43,Diploma,Diploma in Life Sciences and Environment
+Student_119_1,89,79,89,47,68,68,Diploma,Diploma in Life Sciences and Environment
+Student_120_1,87,84,80,65,60,55,Diploma,Diploma in Life Sciences and Environment
+Student_121_1,83,85,95,59,67,76,Diploma,Diploma in Life Sciences and Environment
+Student_122_1,90,75,93,50,53,74,Diploma,Diploma in Life Sciences and Environment
+Student_123_1,78,81,88,53,80,41,Diploma,Diploma in Life Sciences and Environment
+Student_124_1,84,79,86,73,74,79,Diploma,Diploma in Life Sciences and Environment
+Student_125_1,78,78,87,59,58,66,Diploma,Diploma in Life Sciences and Environment
+Student_126_1,86,76,88,72,71,45,Diploma,Diploma in Life Sciences and Environment
+Student_127_1,78,77,80,71,50,69,Diploma,Diploma in Life Sciences and Environment
+Student_128_1,76,82,84,43,42,44,Diploma,Diploma in Life Sciences and Environment
+Student_129_1,78,76,89,49,53,66,Diploma,Diploma in Life Sciences and Environment
+Student_130_1,80,84,80,43,62,78,Diploma,Diploma in Life Sciences and Environment
+Student_131_1,75,83,90,64,50,57,Diploma,Diploma in Life Sciences and Environment
+Student_132_1,80,78,82,54,68,50,Diploma,Diploma in Life Sciences and Environment
+Student_133_1,78,75,82,76,64,44,Diploma,Diploma in Life Sciences and Environment
+Student_134_1,75,76,80,79,80,46,Diploma,Diploma in Life Sciences and Environment
+Student_135_1,77,82,81,64,52,65,Diploma,Diploma in Life Sciences and Environment
+Student_136_1,78,82,88,46,51,54,Diploma,Diploma in Life Sciences and Environment
+Student_137_1,75,85,82,58,78,77,Diploma,Diploma in Life Sciences and Environment
+Student_138_1,87,75,80,65,65,56,Diploma,Diploma in Life Sciences and Environment
+Student_139_1,76,84,82,69,75,55,Diploma,Diploma in Life Sciences and Environment
+Student_140_1,77,83,88,40,66,50,Diploma,Diploma in Life Sciences and Environment
+Student_141_1,75,83,94,67,68,51,Diploma,Diploma in Life Sciences and Environment
+Student_142_1,85,84,92,51,59,73,Diploma,Diploma in Life Sciences and Environment
+Student_143_1,80,77,81,63,67,77,Diploma,Diploma in Life Sciences and Environment
+Student_144_1,84,79,95,43,70,71,Diploma,Diploma in Life Sciences and Environment
+Student_145_1,80,75,93,56,47,63,Diploma,Diploma in Life Sciences and Environment
+Student_146_1,75,84,90,69,51,57,Diploma,Diploma in Life Sciences and Environment
+Student_147_1,85,84,88,48,78,75,Diploma,Diploma in Life Sciences and Environment
+Student_148_1,90,76,93,57,62,43,Diploma,Diploma in Life Sciences and Environment
+Student_149_1,83,82,82,41,41,40,Diploma,Diploma in Life Sciences and Environment
+Student_150_1,76,80,90,71,55,43,Diploma,Diploma in Life Sciences and Environment
+Student_151_1,87,81,91,53,59,67,Diploma,Diploma in Life Sciences and Environment
+Student_152_1,86,75,84,52,48,57,Diploma,Diploma in Life Sciences and Environment
+Student_153_1,79,79,84,51,42,60,Diploma,Diploma in Life Sciences and Environment
+Student_154_1,81,82,92,65,67,65,Diploma,Diploma in Life Sciences and Environment
+Student_155_1,83,80,81,79,67,80,Diploma,Diploma in Life Sciences and Environment
+Student_156_1,81,84,81,69,54,74,Diploma,Diploma in Life Sciences and Environment
+Student_157_1,90,78,92,76,54,52,Diploma,Diploma in Life Sciences and Environment
+Student_158_1,83,85,81,45,62,60,Diploma,Diploma in Life Sciences and Environment
+Student_159_1,80,81,83,76,52,40,Diploma,Diploma in Life Sciences and Environment
+Student_160_1,79,85,84,54,80,79,Diploma,Diploma in Life Sciences and Environment
+Student_161_1,86,84,87,75,63,67,Diploma,Diploma in Life Sciences and Environment
+Student_162_1,83,80,88,65,61,78,Diploma,Diploma in Life Sciences and Environment
+Student_163_1,79,77,93,79,50,55,Diploma,Diploma in Life Sciences and Environment
+Student_164_1,89,78,94,78,74,62,Diploma,Diploma in Life Sciences and Environment
+Student_165_1,87,76,90,66,58,54,Diploma,Diploma in Life Sciences and Environment
+Student_166_1,77,85,94,62,73,46,Diploma,Diploma in Life Sciences and Environment
+Student_167_1,87,76,85,47,63,42,Diploma,Diploma in Life Sciences and Environment
+Student_168_1,88,79,88,74,60,78,Diploma,Diploma in Life Sciences and Environment
+Student_169_1,79,82,80,44,49,44,Diploma,Diploma in Life Sciences and Environment
+Student_170_1,84,77,80,52,57,51,Diploma,Diploma in Life Sciences and Environment
+Student_171_1,81,85,95,51,42,70,Diploma,Diploma in Life Sciences and Environment
+Student_172_1,76,85,93,59,67,59,Diploma,Diploma in Life Sciences and Environment
+Student_173_1,80,80,90,49,71,69,Diploma,Diploma in Life Sciences and Environment
+Student_174_1,77,75,94,55,59,50,Diploma,Diploma in Life Sciences and Environment
+Student_175_1,88,76,87,54,65,60,Diploma,Diploma in Life Sciences and Environment
+Student_176_1,87,80,81,51,40,47,Diploma,Diploma in Life Sciences and Environment
+Student_177_1,81,76,86,52,54,53,Diploma,Diploma in Life Sciences and Environment
+Student_178_1,88,85,83,64,45,54,Diploma,Diploma in Life Sciences and Environment
+Student_179_1,76,79,85,47,54,79,Diploma,Diploma in Life Sciences and Environment
+Student_180_1,87,85,92,53,54,61,Diploma,Diploma in Life Sciences and Environment
+Student_181_1,89,81,84,60,77,55,Diploma,Diploma in Life Sciences and Environment
+Student_182_1,85,85,84,63,67,43,Diploma,Diploma in Life Sciences and Environment
+Student_183_1,89,82,92,47,49,58,Diploma,Diploma in Life Sciences and Environment
+Student_184_1,90,81,90,41,61,70,Diploma,Diploma in Life Sciences and Environment
+Student_185_1,83,82,87,49,78,69,Diploma,Diploma in Life Sciences and Environment
+Student_186_1,89,83,84,54,77,58,Diploma,Diploma in Life Sciences and Environment
+Student_187_1,85,83,92,59,74,64,Diploma,Diploma in Life Sciences and Environment
+Student_188_1,76,78,82,71,49,53,Diploma,Diploma in Life Sciences and Environment
+Student_189_1,89,83,81,72,40,60,Diploma,Diploma in Life Sciences and Environment
+Student_190_1,75,81,93,57,55,73,Diploma,Diploma in Life Sciences and Environment
+Student_191_1,78,81,88,49,56,59,Diploma,Diploma in Life Sciences and Environment
+Student_192_1,76,76,87,52,42,67,Diploma,Diploma in Life Sciences and Environment
+Student_193_1,76,77,81,59,68,44,Diploma,Diploma in Life Sciences and Environment
+Student_194_1,81,77,80,47,53,74,Diploma,Diploma in Life Sciences and Environment
+Student_195_1,77,81,90,78,70,75,Diploma,Diploma in Life Sciences and Environment
+Student_196_1,85,85,86,52,79,48,Diploma,Diploma in Life Sciences and Environment
+Student_197_1,89,85,83,53,44,55,Diploma,Diploma in Life Sciences and Environment
+Student_198_1,88,79,94,45,59,51,Diploma,Diploma in Life Sciences and Environment
+Student_199_1,83,79,80,64,61,57,Diploma,Diploma in Life Sciences and Environment
+Student_200_1,90,83,82,54,56,70,Diploma,Diploma in Life Sciences and Environment
+Student_201_1,78,76,90,71,68,63,Diploma,Diploma in Life Sciences and Environment
+Student_202_1,79,79,80,56,58,56,Diploma,Diploma in Life Sciences and Environment
+Student_203_1,76,82,91,80,43,43,Diploma,Diploma in Life Sciences and Environment
+Student_204_1,77,81,94,47,69,75,Diploma,Diploma in Life Sciences and Environment
+Student_205_1,85,80,81,78,47,52,Diploma,Diploma in Life Sciences and Environment
+Student_206_1,89,75,85,74,54,63,Diploma,Diploma in Life Sciences and Environment
+Student_207_1,90,76,89,43,50,43,Diploma,Diploma in Life Sciences and Environment
+Student_208_1,77,79,82,57,73,44,Diploma,Diploma in Life Sciences and Environment
+Student_209_1,83,85,93,71,70,74,Diploma,Diploma in Life Sciences and Environment
+Student_210_1,78,78,84,54,51,73,Diploma,Diploma in Life Sciences and Environment
+Student_211_1,80,85,81,78,42,62,Diploma,Diploma in Life Sciences and Environment
+Student_212_1,86,82,87,75,76,65,Diploma,Diploma in Life Sciences and Environment
+Student_213_1,77,75,81,46,72,54,Diploma,Diploma in Life Sciences and Environment
+Student_214_1,80,82,84,60,62,58,Diploma,Diploma in Life Sciences and Environment
+Student_215_1,87,79,86,58,53,60,Diploma,Diploma in Life Sciences and Environment
+Student_216_1,89,85,91,77,53,75,Diploma,Diploma in Life Sciences and Environment
+Student_217_1,76,78,80,63,48,73,Diploma,Diploma in Life Sciences and Environment
+Student_218_1,79,78,83,40,72,47,Diploma,Diploma in Life Sciences and Environment
+Student_219_1,80,77,80,48,77,48,Diploma,Diploma in Life Sciences and Environment
+Student_220_1,85,79,93,54,68,78,Diploma,Diploma in Life Sciences and Environment
+Student_221_1,76,75,90,61,45,58,Diploma,Diploma in Life Sciences and Environment
+Student_222_1,76,79,91,42,69,79,Diploma,Diploma in Life Sciences and Environment
+Student_223_1,79,80,88,75,49,63,Diploma,Diploma in Life Sciences and Environment
+Student_224_1,76,83,94,59,49,62,Diploma,Diploma in Life Sciences and Environment
+Student_225_1,75,75,94,57,41,47,Diploma,Diploma in Life Sciences and Environment
+Student_226_1,83,79,85,58,45,41,Diploma,Diploma in Life Sciences and Environment
+Student_227_1,85,76,83,57,43,74,Diploma,Diploma in Life Sciences and Environment
+Student_228_1,82,75,84,79,65,46,Diploma,Diploma in Life Sciences and Environment
+Student_229_1,86,77,84,70,52,46,Diploma,Diploma in Life Sciences and Environment
+Student_230_1,79,77,86,63,80,76,Diploma,Diploma in Life Sciences and Environment
+Student_231_1,81,77,94,44,46,68,Diploma,Diploma in Life Sciences and Environment
+Student_232_1,89,83,84,66,54,43,Diploma,Diploma in Life Sciences and Environment
+Student_233_1,82,85,95,73,51,54,Diploma,Diploma in Life Sciences and Environment
+Student_234_1,88,85,91,47,70,53,Diploma,Diploma in Life Sciences and Environment
+Student_235_1,89,80,81,57,50,53,Diploma,Diploma in Life Sciences and Environment
+Student_236_1,77,85,88,41,41,65,Diploma,Diploma in Life Sciences and Environment
+Student_237_1,76,82,87,49,40,72,Diploma,Diploma in Life Sciences and Environment
+Student_238_1,89,77,80,43,55,72,Diploma,Diploma in Life Sciences and Environment
+Student_239_1,79,83,80,69,59,41,Diploma,Diploma in Life Sciences and Environment
+Student_240_1,88,79,94,72,48,78,Diploma,Diploma in Life Sciences and Environment
+Student_241_1,86,80,84,59,74,42,Diploma,Diploma in Life Sciences and Environment
+Student_242_1,79,82,91,73,75,46,Diploma,Diploma in Life Sciences and Environment
+Student_243_1,80,77,88,71,74,65,Diploma,Diploma in Life Sciences and Environment
+Student_244_1,83,79,93,64,47,40,Diploma,Diploma in Life Sciences and Environment
+Student_245_1,79,75,82,40,72,55,Diploma,Diploma in Life Sciences and Environment
+Student_246_1,80,79,91,76,49,53,Diploma,Diploma in Life Sciences and Environment
+Student_247_1,81,84,83,46,75,72,Diploma,Diploma in Life Sciences and Environment
+Student_248_1,76,78,93,72,47,59,Diploma,Diploma in Life Sciences and Environment
+Student_249_1,88,81,87,57,73,56,Diploma,Diploma in Life Sciences and Environment
+Student_250_1,85,79,81,77,73,68,Diploma,Diploma in Life Sciences and Environment
+Student_1_1,94,85,73,54,83,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_2_1,81,91,65,79,93,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_3_1,85,89,62,69,82,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_4_1,81,87,76,65,88,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_5_1,81,89,80,77,81,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_6_1,94,80,68,80,81,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_7_1,94,83,53,63,89,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_8_1,80,87,45,43,90,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_9_1,94,93,75,78,87,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_10_1,90,90,55,78,90,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_11_1,95,84,48,59,81,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_12_1,89,92,44,52,94,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_13_1,91,85,60,75,95,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_14_1,82,80,53,79,88,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_15_1,94,81,79,74,94,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_16_1,85,85,57,78,94,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_17_1,95,81,61,77,84,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_18_1,94,91,66,67,87,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_19_1,82,93,42,44,91,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_20_1,83,95,68,80,86,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_21_1,92,83,54,45,91,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_22_1,94,93,40,61,94,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_23_1,89,94,51,47,85,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_24_1,94,95,63,74,86,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_25_1,91,92,75,58,89,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_26_1,94,82,59,50,88,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_27_1,83,87,68,64,94,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_28_1,93,90,60,54,83,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_29_1,92,85,55,66,92,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_30_1,83,92,55,69,82,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_31_1,84,92,62,77,86,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_32_1,86,95,80,62,80,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_33_1,87,89,60,75,94,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_34_1,89,85,43,64,91,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_35_1,88,91,77,64,81,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_36_1,90,88,47,46,90,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_37_1,80,91,61,77,83,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_38_1,94,95,50,40,84,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_39_1,85,85,78,50,95,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_40_1,95,95,51,68,89,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_41_1,93,89,79,43,90,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_42_1,95,95,63,72,95,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_43_1,95,87,52,76,85,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_44_1,80,94,48,64,84,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_45_1,86,84,76,78,85,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_46_1,90,80,78,56,82,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_47_1,81,85,46,45,87,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_48_1,94,89,59,76,88,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_49_1,85,86,41,41,86,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_50_1,90,86,66,44,93,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_51_1,92,82,80,45,80,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_52_1,92,88,45,75,83,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_53_1,92,83,62,78,84,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_54_1,81,82,75,40,80,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_55_1,86,85,41,43,82,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_56_1,81,94,51,72,88,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_57_1,80,84,75,64,85,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_58_1,82,85,41,77,82,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_59_1,94,91,54,66,94,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_60_1,94,90,52,77,91,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_61_1,81,85,44,52,93,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_62_1,83,87,57,72,81,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_63_1,87,90,62,41,95,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_64_1,84,85,44,74,82,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_65_1,83,95,79,48,88,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_66_1,88,90,44,70,91,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_67_1,83,92,43,62,94,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_68_1,95,90,61,75,86,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_69_1,85,90,80,57,84,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_70_1,94,82,73,45,94,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_71_1,83,90,58,71,83,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_72_1,92,91,47,45,82,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_73_1,89,93,67,51,90,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_74_1,91,95,49,44,95,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_75_1,87,84,44,80,90,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_76_1,85,92,72,63,83,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_77_1,80,89,77,72,80,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_78_1,83,94,46,58,82,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_79_1,91,82,80,57,87,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_80_1,95,91,62,50,90,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_81_1,80,93,57,58,90,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_82_1,83,84,80,58,95,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_83_1,91,95,78,49,82,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_84_1,88,94,77,66,88,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_85_1,85,87,80,42,94,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_86_1,84,94,50,48,95,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_87_1,81,86,60,64,91,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_88_1,91,82,61,76,93,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_89_1,84,87,79,42,86,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_90_1,80,91,72,51,85,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_91_1,88,95,59,66,83,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_92_1,87,83,47,67,89,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_93_1,82,89,53,72,86,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_94_1,90,87,55,46,87,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_95_1,87,93,53,54,85,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_96_1,87,90,47,53,90,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_97_1,91,90,40,70,85,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_98_1,81,91,45,61,92,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_99_1,83,88,80,50,85,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_100_1,87,86,42,55,82,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_101_1,87,83,47,49,80,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_102_1,81,80,75,60,92,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_103_1,88,87,61,70,80,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_104_1,91,94,80,56,90,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_105_1,85,85,76,47,87,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_106_1,88,91,63,74,85,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_107_1,91,83,48,45,89,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_108_1,84,86,70,62,80,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_109_1,89,94,74,66,81,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_110_1,84,81,56,71,87,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_111_1,80,94,70,68,93,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_112_1,83,93,60,52,93,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_113_1,87,90,44,62,88,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_114_1,94,80,51,53,89,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_115_1,80,87,57,64,80,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_116_1,89,89,44,59,91,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_117_1,95,80,50,54,82,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_118_1,90,81,55,58,86,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_119_1,85,93,77,75,95,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_120_1,94,94,47,67,85,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_121_1,86,95,54,47,93,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_122_1,91,87,56,53,94,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_123_1,83,84,77,63,83,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_124_1,84,94,70,62,84,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_125_1,90,86,50,64,88,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_126_1,89,88,51,80,86,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_127_1,89,85,56,61,94,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_128_1,92,89,55,62,93,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_129_1,94,87,77,55,86,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_130_1,80,84,53,77,94,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_131_1,81,85,54,63,86,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_132_1,90,88,41,48,82,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_133_1,94,85,75,59,92,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_134_1,92,92,72,73,95,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_135_1,92,91,78,70,90,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_136_1,86,92,44,72,88,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_137_1,81,89,75,45,94,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_138_1,95,82,73,67,87,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_139_1,84,82,80,46,91,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_140_1,84,83,44,78,94,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_141_1,81,93,57,48,93,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_142_1,88,85,71,72,85,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_143_1,87,90,50,70,86,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_144_1,91,88,79,74,80,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_145_1,80,82,61,48,89,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_146_1,81,94,56,74,92,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_147_1,88,95,54,44,88,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_148_1,91,92,50,44,95,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_149_1,83,93,67,77,85,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_150_1,83,81,42,50,92,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_151_1,87,95,51,52,84,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_152_1,81,86,68,41,82,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_153_1,83,86,40,57,94,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_154_1,93,81,54,52,88,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_155_1,81,84,76,47,92,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_156_1,84,91,77,60,95,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_157_1,87,83,53,76,91,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_158_1,80,95,70,63,83,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_159_1,81,90,78,58,95,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_160_1,80,90,41,51,93,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_161_1,92,90,68,78,83,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_162_1,87,88,46,77,88,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_163_1,89,80,68,44,94,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_164_1,82,87,62,68,87,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_165_1,91,86,79,80,89,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_166_1,91,87,50,72,88,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_167_1,80,87,80,68,82,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_168_1,85,83,54,62,85,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_169_1,84,85,67,72,90,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_170_1,88,94,60,65,84,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_171_1,80,89,59,57,95,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_172_1,89,90,59,76,94,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_173_1,84,80,42,64,88,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_174_1,80,80,75,43,93,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_175_1,81,83,42,67,83,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_176_1,86,92,71,73,88,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_177_1,93,91,78,59,83,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_178_1,87,83,51,63,87,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_179_1,95,90,63,54,94,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_180_1,88,87,79,68,82,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_181_1,86,95,53,74,91,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_182_1,84,88,62,71,86,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_183_1,83,80,64,42,90,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_184_1,88,82,42,53,81,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_185_1,84,95,61,69,80,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_186_1,86,88,62,53,83,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_187_1,95,87,69,44,94,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_188_1,90,85,57,59,95,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_189_1,87,81,69,55,93,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_190_1,81,87,69,65,86,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_191_1,94,91,72,45,84,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_192_1,88,88,43,76,82,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_193_1,82,82,73,65,85,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_194_1,92,86,41,54,81,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_195_1,94,86,70,78,88,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_196_1,85,82,60,70,88,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_197_1,92,92,47,70,91,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_198_1,90,94,76,77,88,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_199_1,87,95,58,80,91,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_200_1,82,82,73,43,94,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_201_1,90,90,42,42,93,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_202_1,88,88,73,77,87,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_203_1,93,83,75,80,94,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_204_1,90,82,62,56,94,87,Diploma,"Diploma in Finance, Business and Marketing"
+Student_205_1,85,87,44,72,89,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_206_1,88,85,77,60,86,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_207_1,92,80,51,50,93,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_208_1,93,90,51,40,88,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_209_1,80,90,55,47,85,82,Diploma,"Diploma in Finance, Business and Marketing"
+Student_210_1,91,84,74,74,94,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_211_1,84,94,55,44,93,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_212_1,87,90,43,44,94,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_213_1,94,84,58,49,87,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_214_1,82,82,53,44,86,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_215_1,94,84,56,61,84,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_216_1,93,86,46,58,87,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_217_1,86,93,50,70,85,85,Diploma,"Diploma in Finance, Business and Marketing"
+Student_218_1,90,85,66,63,89,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_219_1,88,93,71,58,83,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_220_1,92,80,41,57,87,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_221_1,93,95,72,76,84,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_222_1,81,87,78,53,95,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_223_1,81,94,60,58,87,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_224_1,82,89,47,74,89,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_225_1,93,86,47,71,91,77,Diploma,"Diploma in Finance, Business and Marketing"
+Student_226_1,87,82,80,65,81,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_227_1,80,84,54,56,87,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_228_1,88,89,76,66,91,89,Diploma,"Diploma in Finance, Business and Marketing"
+Student_229_1,88,85,40,76,88,76,Diploma,"Diploma in Finance, Business and Marketing"
+Student_230_1,87,80,70,53,89,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_231_1,85,91,80,75,82,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_232_1,82,81,47,45,95,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_233_1,80,82,78,51,80,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_234_1,94,80,56,43,93,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_235_1,81,85,65,42,83,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_236_1,88,81,44,52,81,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_237_1,81,83,62,42,89,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_238_1,92,95,55,52,95,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_239_1,83,91,79,69,94,84,Diploma,"Diploma in Finance, Business and Marketing"
+Student_240_1,86,82,63,80,90,81,Diploma,"Diploma in Finance, Business and Marketing"
+Student_241_1,88,92,54,52,94,78,Diploma,"Diploma in Finance, Business and Marketing"
+Student_242_1,90,83,41,51,93,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_243_1,92,94,63,52,84,75,Diploma,"Diploma in Finance, Business and Marketing"
+Student_244_1,80,83,71,76,90,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_245_1,84,87,69,70,87,79,Diploma,"Diploma in Finance, Business and Marketing"
+Student_246_1,88,81,80,59,90,86,Diploma,"Diploma in Finance, Business and Marketing"
+Student_247_1,81,80,77,73,85,83,Diploma,"Diploma in Finance, Business and Marketing"
+Student_248_1,82,81,57,58,80,88,Diploma,"Diploma in Finance, Business and Marketing"
+Student_249_1,80,84,47,61,89,80,Diploma,"Diploma in Finance, Business and Marketing"
+Student_250_1,95,82,73,58,95,90,Diploma,"Diploma in Finance, Business and Marketing"
+Student_1_1,91,53,55,83,81,86,Diploma,Diploma in Arts and Media
+Student_2_1,87,59,71,95,75,90,Diploma,Diploma in Arts and Media
+Student_3_1,84,62,63,94,86,75,Diploma,Diploma in Arts and Media
+Student_4_1,87,77,75,82,89,88,Diploma,Diploma in Arts and Media
+Student_5_1,92,77,64,87,83,79,Diploma,Diploma in Arts and Media
+Student_6_1,86,47,62,95,87,89,Diploma,Diploma in Arts and Media
+Student_7_1,86,43,65,85,87,81,Diploma,Diploma in Arts and Media
+Student_8_1,87,73,41,82,88,88,Diploma,Diploma in Arts and Media
+Student_9_1,90,73,59,85,84,82,Diploma,Diploma in Arts and Media
+Student_10_1,85,77,65,82,86,81,Diploma,Diploma in Arts and Media
+Student_11_1,89,76,72,83,85,75,Diploma,Diploma in Arts and Media
+Student_12_1,86,45,43,89,80,86,Diploma,Diploma in Arts and Media
+Student_13_1,83,78,79,93,78,88,Diploma,Diploma in Arts and Media
+Student_14_1,93,74,76,80,75,82,Diploma,Diploma in Arts and Media
+Student_15_1,93,55,57,89,83,86,Diploma,Diploma in Arts and Media
+Student_16_1,86,41,43,82,85,82,Diploma,Diploma in Arts and Media
+Student_17_1,80,41,71,90,83,78,Diploma,Diploma in Arts and Media
+Student_18_1,92,60,45,83,81,90,Diploma,Diploma in Arts and Media
+Student_19_1,87,47,52,85,82,76,Diploma,Diploma in Arts and Media
+Student_20_1,93,62,63,83,75,78,Diploma,Diploma in Arts and Media
+Student_21_1,84,54,43,94,75,78,Diploma,Diploma in Arts and Media
+Student_22_1,82,47,68,84,88,90,Diploma,Diploma in Arts and Media
+Student_23_1,85,43,57,87,81,76,Diploma,Diploma in Arts and Media
+Student_24_1,82,62,64,82,79,89,Diploma,Diploma in Arts and Media
+Student_25_1,87,44,67,82,86,81,Diploma,Diploma in Arts and Media
+Student_26_1,92,62,43,84,90,88,Diploma,Diploma in Arts and Media
+Student_27_1,87,77,75,87,75,79,Diploma,Diploma in Arts and Media
+Student_28_1,85,56,51,85,80,76,Diploma,Diploma in Arts and Media
+Student_29_1,85,66,48,82,77,83,Diploma,Diploma in Arts and Media
+Student_30_1,87,46,69,95,83,86,Diploma,Diploma in Arts and Media
+Student_31_1,91,69,61,93,80,90,Diploma,Diploma in Arts and Media
+Student_32_1,90,64,63,91,80,75,Diploma,Diploma in Arts and Media
+Student_33_1,84,63,48,90,85,83,Diploma,Diploma in Arts and Media
+Student_34_1,88,52,54,93,84,90,Diploma,Diploma in Arts and Media
+Student_35_1,92,60,42,83,87,87,Diploma,Diploma in Arts and Media
+Student_36_1,90,76,79,81,88,76,Diploma,Diploma in Arts and Media
+Student_37_1,87,52,46,95,88,87,Diploma,Diploma in Arts and Media
+Student_38_1,84,75,43,85,75,79,Diploma,Diploma in Arts and Media
+Student_39_1,82,45,64,81,84,87,Diploma,Diploma in Arts and Media
+Student_40_1,82,72,47,93,84,77,Diploma,Diploma in Arts and Media
+Student_41_1,80,51,77,85,86,75,Diploma,Diploma in Arts and Media
+Student_42_1,88,41,50,88,88,81,Diploma,Diploma in Arts and Media
+Student_43_1,93,65,76,93,77,88,Diploma,Diploma in Arts and Media
+Student_44_1,93,68,66,83,90,80,Diploma,Diploma in Arts and Media
+Student_45_1,84,43,41,84,89,78,Diploma,Diploma in Arts and Media
+Student_46_1,92,48,46,84,86,88,Diploma,Diploma in Arts and Media
+Student_47_1,89,53,74,91,77,89,Diploma,Diploma in Arts and Media
+Student_48_1,91,68,62,94,78,86,Diploma,Diploma in Arts and Media
+Student_49_1,95,54,75,88,77,83,Diploma,Diploma in Arts and Media
+Student_50_1,85,80,78,93,81,90,Diploma,Diploma in Arts and Media
+Student_51_1,82,59,77,82,82,79,Diploma,Diploma in Arts and Media
+Student_52_1,82,56,41,95,81,88,Diploma,Diploma in Arts and Media
+Student_53_1,93,67,56,87,87,79,Diploma,Diploma in Arts and Media
+Student_54_1,90,55,68,95,90,85,Diploma,Diploma in Arts and Media
+Student_55_1,80,56,53,92,85,78,Diploma,Diploma in Arts and Media
+Student_56_1,91,76,64,80,84,81,Diploma,Diploma in Arts and Media
+Student_57_1,82,79,40,92,83,85,Diploma,Diploma in Arts and Media
+Student_58_1,93,42,72,84,78,86,Diploma,Diploma in Arts and Media
+Student_59_1,93,58,60,81,86,78,Diploma,Diploma in Arts and Media
+Student_60_1,91,44,45,85,88,88,Diploma,Diploma in Arts and Media
+Student_61_1,92,64,43,81,83,76,Diploma,Diploma in Arts and Media
+Student_62_1,94,73,78,80,88,84,Diploma,Diploma in Arts and Media
+Student_63_1,92,62,42,91,81,88,Diploma,Diploma in Arts and Media
+Student_64_1,89,59,64,81,89,88,Diploma,Diploma in Arts and Media
+Student_65_1,87,42,80,86,87,75,Diploma,Diploma in Arts and Media
+Student_66_1,84,73,66,87,83,77,Diploma,Diploma in Arts and Media
+Student_67_1,95,64,65,81,79,81,Diploma,Diploma in Arts and Media
+Student_68_1,91,77,76,94,84,82,Diploma,Diploma in Arts and Media
+Student_69_1,82,74,45,86,84,78,Diploma,Diploma in Arts and Media
+Student_70_1,87,45,46,82,76,78,Diploma,Diploma in Arts and Media
+Student_71_1,92,66,40,94,77,88,Diploma,Diploma in Arts and Media
+Student_72_1,80,78,57,83,80,82,Diploma,Diploma in Arts and Media
+Student_73_1,86,62,76,91,77,89,Diploma,Diploma in Arts and Media
+Student_74_1,84,45,62,83,85,78,Diploma,Diploma in Arts and Media
+Student_75_1,80,48,53,87,85,77,Diploma,Diploma in Arts and Media
+Student_76_1,87,73,77,95,90,80,Diploma,Diploma in Arts and Media
+Student_77_1,85,40,47,81,85,89,Diploma,Diploma in Arts and Media
+Student_78_1,92,78,71,80,88,81,Diploma,Diploma in Arts and Media
+Student_79_1,84,40,71,93,76,84,Diploma,Diploma in Arts and Media
+Student_80_1,89,80,74,95,88,84,Diploma,Diploma in Arts and Media
+Student_81_1,92,69,78,84,78,89,Diploma,Diploma in Arts and Media
+Student_82_1,95,65,66,87,84,87,Diploma,Diploma in Arts and Media
+Student_83_1,94,71,44,81,80,75,Diploma,Diploma in Arts and Media
+Student_84_1,81,49,61,89,84,87,Diploma,Diploma in Arts and Media
+Student_85_1,84,64,40,81,81,85,Diploma,Diploma in Arts and Media
+Student_86_1,93,41,72,85,78,79,Diploma,Diploma in Arts and Media
+Student_87_1,83,74,68,90,80,85,Diploma,Diploma in Arts and Media
+Student_88_1,87,56,54,91,78,76,Diploma,Diploma in Arts and Media
+Student_89_1,95,62,53,92,80,83,Diploma,Diploma in Arts and Media
+Student_90_1,81,73,56,86,85,79,Diploma,Diploma in Arts and Media
+Student_91_1,90,50,43,83,87,90,Diploma,Diploma in Arts and Media
+Student_92_1,87,43,51,81,85,78,Diploma,Diploma in Arts and Media
+Student_93_1,84,49,43,80,89,84,Diploma,Diploma in Arts and Media
+Student_94_1,82,63,75,92,86,86,Diploma,Diploma in Arts and Media
+Student_95_1,80,66,65,93,82,83,Diploma,Diploma in Arts and Media
+Student_96_1,83,70,52,92,89,86,Diploma,Diploma in Arts and Media
+Student_97_1,94,42,73,84,85,89,Diploma,Diploma in Arts and Media
+Student_98_1,89,63,48,84,76,90,Diploma,Diploma in Arts and Media
+Student_99_1,92,40,43,94,76,89,Diploma,Diploma in Arts and Media
+Student_100_1,95,62,72,83,75,75,Diploma,Diploma in Arts and Media
+Student_101_1,92,42,57,90,89,85,Diploma,Diploma in Arts and Media
+Student_102_1,87,41,57,80,83,80,Diploma,Diploma in Arts and Media
+Student_103_1,95,48,76,89,87,76,Diploma,Diploma in Arts and Media
+Student_104_1,85,40,45,84,82,84,Diploma,Diploma in Arts and Media
+Student_105_1,90,56,75,86,79,79,Diploma,Diploma in Arts and Media
+Student_106_1,89,78,70,94,90,82,Diploma,Diploma in Arts and Media
+Student_107_1,91,50,70,83,78,80,Diploma,Diploma in Arts and Media
+Student_108_1,83,80,47,84,85,86,Diploma,Diploma in Arts and Media
+Student_109_1,86,50,54,95,87,75,Diploma,Diploma in Arts and Media
+Student_110_1,94,41,55,81,88,82,Diploma,Diploma in Arts and Media
+Student_111_1,93,65,73,95,78,90,Diploma,Diploma in Arts and Media
+Student_112_1,86,57,53,88,80,81,Diploma,Diploma in Arts and Media
+Student_113_1,91,58,64,91,86,87,Diploma,Diploma in Arts and Media
+Student_114_1,92,60,64,87,78,82,Diploma,Diploma in Arts and Media
+Student_115_1,93,69,66,85,82,80,Diploma,Diploma in Arts and Media
+Student_116_1,82,76,45,89,84,82,Diploma,Diploma in Arts and Media
+Student_117_1,84,54,49,80,75,89,Diploma,Diploma in Arts and Media
+Student_118_1,89,43,79,94,81,89,Diploma,Diploma in Arts and Media
+Student_119_1,81,66,48,90,79,89,Diploma,Diploma in Arts and Media
+Student_120_1,86,52,53,94,87,87,Diploma,Diploma in Arts and Media
+Student_121_1,83,41,68,89,76,85,Diploma,Diploma in Arts and Media
+Student_122_1,87,79,73,87,77,81,Diploma,Diploma in Arts and Media
+Student_123_1,80,59,54,90,90,89,Diploma,Diploma in Arts and Media
+Student_124_1,86,54,61,94,87,87,Diploma,Diploma in Arts and Media
+Student_125_1,86,58,48,91,85,82,Diploma,Diploma in Arts and Media
+Student_126_1,94,64,52,82,79,82,Diploma,Diploma in Arts and Media
+Student_127_1,80,51,73,80,78,89,Diploma,Diploma in Arts and Media
+Student_128_1,94,48,70,87,77,85,Diploma,Diploma in Arts and Media
+Student_129_1,94,50,67,87,80,86,Diploma,Diploma in Arts and Media
+Student_130_1,83,79,78,89,90,79,Diploma,Diploma in Arts and Media
+Student_131_1,83,76,43,91,88,90,Diploma,Diploma in Arts and Media
+Student_132_1,90,48,49,89,76,78,Diploma,Diploma in Arts and Media
+Student_133_1,87,47,56,86,87,76,Diploma,Diploma in Arts and Media
+Student_134_1,80,61,69,87,90,87,Diploma,Diploma in Arts and Media
+Student_135_1,83,79,44,84,83,77,Diploma,Diploma in Arts and Media
+Student_136_1,90,70,51,82,84,84,Diploma,Diploma in Arts and Media
+Student_137_1,91,59,60,86,77,79,Diploma,Diploma in Arts and Media
+Student_138_1,92,79,54,80,80,83,Diploma,Diploma in Arts and Media
+Student_139_1,92,67,68,92,88,76,Diploma,Diploma in Arts and Media
+Student_140_1,87,46,79,90,77,81,Diploma,Diploma in Arts and Media
+Student_141_1,90,40,59,90,80,84,Diploma,Diploma in Arts and Media
+Student_142_1,88,68,44,91,81,76,Diploma,Diploma in Arts and Media
+Student_143_1,88,46,73,92,87,81,Diploma,Diploma in Arts and Media
+Student_144_1,94,47,78,86,86,85,Diploma,Diploma in Arts and Media
+Student_145_1,90,43,71,80,88,85,Diploma,Diploma in Arts and Media
+Student_146_1,91,49,42,94,80,89,Diploma,Diploma in Arts and Media
+Student_147_1,80,62,59,95,89,85,Diploma,Diploma in Arts and Media
+Student_148_1,88,80,68,88,77,76,Diploma,Diploma in Arts and Media
+Student_149_1,94,63,41,92,89,89,Diploma,Diploma in Arts and Media
+Student_150_1,82,42,64,80,90,83,Diploma,Diploma in Arts and Media
+Student_151_1,80,59,43,83,84,85,Diploma,Diploma in Arts and Media
+Student_152_1,83,47,59,85,83,89,Diploma,Diploma in Arts and Media
+Student_153_1,94,74,77,81,82,87,Diploma,Diploma in Arts and Media
+Student_154_1,91,77,41,85,80,82,Diploma,Diploma in Arts and Media
+Student_155_1,82,50,46,94,75,78,Diploma,Diploma in Arts and Media
+Student_156_1,89,47,46,83,78,83,Diploma,Diploma in Arts and Media
+Student_157_1,88,79,77,92,90,82,Diploma,Diploma in Arts and Media
+Student_158_1,91,43,77,83,76,88,Diploma,Diploma in Arts and Media
+Student_159_1,86,64,60,82,87,83,Diploma,Diploma in Arts and Media
+Student_160_1,87,56,64,94,77,76,Diploma,Diploma in Arts and Media
+Student_161_1,86,61,78,90,82,76,Diploma,Diploma in Arts and Media
+Student_162_1,83,41,74,82,89,87,Diploma,Diploma in Arts and Media
+Student_163_1,95,80,42,88,89,76,Diploma,Diploma in Arts and Media
+Student_164_1,81,67,52,85,79,85,Diploma,Diploma in Arts and Media
+Student_165_1,86,44,79,95,86,80,Diploma,Diploma in Arts and Media
+Student_166_1,86,74,51,84,87,79,Diploma,Diploma in Arts and Media
+Student_167_1,91,46,67,92,81,79,Diploma,Diploma in Arts and Media
+Student_168_1,89,74,74,88,89,86,Diploma,Diploma in Arts and Media
+Student_169_1,92,45,47,80,78,85,Diploma,Diploma in Arts and Media
+Student_170_1,82,69,66,85,83,86,Diploma,Diploma in Arts and Media
+Student_171_1,86,66,43,94,88,87,Diploma,Diploma in Arts and Media
+Student_172_1,83,69,80,92,80,81,Diploma,Diploma in Arts and Media
+Student_173_1,92,63,56,95,75,80,Diploma,Diploma in Arts and Media
+Student_174_1,89,71,55,85,82,79,Diploma,Diploma in Arts and Media
+Student_175_1,84,48,71,94,76,89,Diploma,Diploma in Arts and Media
+Student_176_1,91,79,59,88,84,89,Diploma,Diploma in Arts and Media
+Student_177_1,92,42,56,86,76,84,Diploma,Diploma in Arts and Media
+Student_178_1,95,40,80,93,75,88,Diploma,Diploma in Arts and Media
+Student_179_1,81,78,80,95,76,78,Diploma,Diploma in Arts and Media
+Student_180_1,92,56,53,87,89,87,Diploma,Diploma in Arts and Media
+Student_181_1,92,59,46,95,83,78,Diploma,Diploma in Arts and Media
+Student_182_1,85,67,62,87,88,84,Diploma,Diploma in Arts and Media
+Student_183_1,83,69,75,92,81,78,Diploma,Diploma in Arts and Media
+Student_184_1,90,64,73,93,83,77,Diploma,Diploma in Arts and Media
+Student_185_1,93,74,68,82,79,75,Diploma,Diploma in Arts and Media
+Student_186_1,87,42,46,83,77,88,Diploma,Diploma in Arts and Media
+Student_187_1,81,54,42,83,81,83,Diploma,Diploma in Arts and Media
+Student_188_1,87,80,42,88,86,82,Diploma,Diploma in Arts and Media
+Student_189_1,93,51,74,81,78,76,Diploma,Diploma in Arts and Media
+Student_190_1,86,77,56,94,82,86,Diploma,Diploma in Arts and Media
+Student_191_1,81,48,51,80,83,77,Diploma,Diploma in Arts and Media
+Student_192_1,85,59,75,83,75,89,Diploma,Diploma in Arts and Media
+Student_193_1,95,62,77,92,89,82,Diploma,Diploma in Arts and Media
+Student_194_1,89,41,60,86,80,88,Diploma,Diploma in Arts and Media
+Student_195_1,91,43,53,81,82,75,Diploma,Diploma in Arts and Media
+Student_196_1,80,42,56,82,81,77,Diploma,Diploma in Arts and Media
+Student_197_1,80,58,60,86,77,85,Diploma,Diploma in Arts and Media
+Student_198_1,81,45,66,84,79,83,Diploma,Diploma in Arts and Media
+Student_199_1,87,70,62,94,84,81,Diploma,Diploma in Arts and Media
+Student_200_1,84,80,70,83,77,84,Diploma,Diploma in Arts and Media
+Student_201_1,86,55,76,80,78,79,Diploma,Diploma in Arts and Media
+Student_202_1,91,63,69,92,88,85,Diploma,Diploma in Arts and Media
+Student_203_1,92,62,65,87,87,88,Diploma,Diploma in Arts and Media
+Student_204_1,82,51,56,93,75,75,Diploma,Diploma in Arts and Media
+Student_205_1,86,57,58,92,87,84,Diploma,Diploma in Arts and Media
+Student_206_1,82,45,48,87,87,86,Diploma,Diploma in Arts and Media
+Student_207_1,92,48,51,83,76,81,Diploma,Diploma in Arts and Media
+Student_208_1,91,58,44,91,82,77,Diploma,Diploma in Arts and Media
+Student_209_1,80,48,70,80,81,84,Diploma,Diploma in Arts and Media
+Student_210_1,85,44,66,92,75,76,Diploma,Diploma in Arts and Media
+Student_211_1,90,47,45,90,76,87,Diploma,Diploma in Arts and Media
+Student_212_1,85,47,55,82,81,90,Diploma,Diploma in Arts and Media
+Student_213_1,92,46,66,94,80,77,Diploma,Diploma in Arts and Media
+Student_214_1,81,76,60,95,84,80,Diploma,Diploma in Arts and Media
+Student_215_1,90,51,47,81,80,80,Diploma,Diploma in Arts and Media
+Student_216_1,94,67,67,93,82,83,Diploma,Diploma in Arts and Media
+Student_217_1,83,71,44,84,86,77,Diploma,Diploma in Arts and Media
+Student_218_1,92,46,65,84,85,84,Diploma,Diploma in Arts and Media
+Student_219_1,91,61,74,92,90,80,Diploma,Diploma in Arts and Media
+Student_220_1,94,80,72,87,77,83,Diploma,Diploma in Arts and Media
+Student_221_1,82,79,66,88,79,78,Diploma,Diploma in Arts and Media
+Student_222_1,80,72,72,86,88,88,Diploma,Diploma in Arts and Media
+Student_223_1,88,40,42,85,75,83,Diploma,Diploma in Arts and Media
+Student_224_1,93,52,52,82,82,81,Diploma,Diploma in Arts and Media
+Student_225_1,95,43,54,83,87,83,Diploma,Diploma in Arts and Media
+Student_226_1,93,60,67,89,76,75,Diploma,Diploma in Arts and Media
+Student_227_1,86,58,57,90,82,85,Diploma,Diploma in Arts and Media
+Student_228_1,91,67,79,81,82,78,Diploma,Diploma in Arts and Media
+Student_229_1,83,43,67,86,85,76,Diploma,Diploma in Arts and Media
+Student_230_1,86,66,79,81,84,76,Diploma,Diploma in Arts and Media
+Student_231_1,87,61,66,82,82,78,Diploma,Diploma in Arts and Media
+Student_232_1,84,70,45,86,75,75,Diploma,Diploma in Arts and Media
+Student_233_1,80,41,49,93,90,80,Diploma,Diploma in Arts and Media
+Student_234_1,91,57,68,84,79,78,Diploma,Diploma in Arts and Media
+Student_235_1,91,62,68,92,76,90,Diploma,Diploma in Arts and Media
+Student_236_1,86,40,52,87,82,82,Diploma,Diploma in Arts and Media
+Student_237_1,82,66,56,80,83,79,Diploma,Diploma in Arts and Media
+Student_238_1,93,48,74,84,86,85,Diploma,Diploma in Arts and Media
+Student_239_1,84,76,41,82,86,77,Diploma,Diploma in Arts and Media
+Student_240_1,87,45,74,85,77,86,Diploma,Diploma in Arts and Media
+Student_241_1,86,62,58,89,90,83,Diploma,Diploma in Arts and Media
+Student_242_1,93,73,49,95,88,81,Diploma,Diploma in Arts and Media
+Student_243_1,80,64,74,95,82,83,Diploma,Diploma in Arts and Media
+Student_244_1,82,68,49,84,78,78,Diploma,Diploma in Arts and Media
+Student_245_1,88,77,47,82,83,85,Diploma,Diploma in Arts and Media
+Student_246_1,81,51,77,93,87,75,Diploma,Diploma in Arts and Media
+Student_247_1,94,49,78,82,84,81,Diploma,Diploma in Arts and Media
+Student_248_1,92,42,54,81,84,83,Diploma,Diploma in Arts and Media
+Student_249_1,84,80,42,83,87,90,Diploma,Diploma in Arts and Media
+Student_250_1,80,50,79,81,88,82,Diploma,Diploma in Arts and Media
+Student_1_1,80,64,87,64,86,82,Diploma,Diploma in Physical Education and Wellness
+Student_2_1,83,47,86,59,88,80,Diploma,Diploma in Physical Education and Wellness
+Student_3_1,93,49,87,42,81,90,Diploma,Diploma in Physical Education and Wellness
+Student_4_1,94,80,95,59,84,81,Diploma,Diploma in Physical Education and Wellness
+Student_5_1,90,60,95,45,78,83,Diploma,Diploma in Physical Education and Wellness
+Student_6_1,86,66,82,71,81,82,Diploma,Diploma in Physical Education and Wellness
+Student_7_1,85,79,81,44,81,75,Diploma,Diploma in Physical Education and Wellness
+Student_8_1,90,49,85,41,87,84,Diploma,Diploma in Physical Education and Wellness
+Student_9_1,83,66,82,64,82,81,Diploma,Diploma in Physical Education and Wellness
+Student_10_1,86,67,91,40,83,75,Diploma,Diploma in Physical Education and Wellness
+Student_11_1,92,65,85,45,77,82,Diploma,Diploma in Physical Education and Wellness
+Student_12_1,81,58,90,58,75,75,Diploma,Diploma in Physical Education and Wellness
+Student_13_1,87,76,91,58,83,78,Diploma,Diploma in Physical Education and Wellness
+Student_14_1,94,69,93,79,76,78,Diploma,Diploma in Physical Education and Wellness
+Student_15_1,92,50,89,41,75,89,Diploma,Diploma in Physical Education and Wellness
+Student_16_1,81,66,92,55,75,83,Diploma,Diploma in Physical Education and Wellness
+Student_17_1,92,59,80,51,86,90,Diploma,Diploma in Physical Education and Wellness
+Student_18_1,90,47,84,70,77,86,Diploma,Diploma in Physical Education and Wellness
+Student_19_1,81,46,87,74,87,78,Diploma,Diploma in Physical Education and Wellness
+Student_20_1,86,76,93,45,84,75,Diploma,Diploma in Physical Education and Wellness
+Student_21_1,92,50,89,70,83,87,Diploma,Diploma in Physical Education and Wellness
+Student_22_1,89,63,86,43,81,79,Diploma,Diploma in Physical Education and Wellness
+Student_23_1,87,59,84,49,85,87,Diploma,Diploma in Physical Education and Wellness
+Student_24_1,92,68,80,76,85,87,Diploma,Diploma in Physical Education and Wellness
+Student_25_1,89,40,86,48,86,88,Diploma,Diploma in Physical Education and Wellness
+Student_26_1,86,56,86,75,78,79,Diploma,Diploma in Physical Education and Wellness
+Student_27_1,81,62,84,72,80,84,Diploma,Diploma in Physical Education and Wellness
+Student_28_1,93,62,83,58,82,88,Diploma,Diploma in Physical Education and Wellness
+Student_29_1,87,62,91,57,78,90,Diploma,Diploma in Physical Education and Wellness
+Student_30_1,95,55,91,41,82,81,Diploma,Diploma in Physical Education and Wellness
+Student_31_1,81,48,88,50,80,90,Diploma,Diploma in Physical Education and Wellness
+Student_32_1,90,54,81,70,86,85,Diploma,Diploma in Physical Education and Wellness
+Student_33_1,95,60,89,79,86,86,Diploma,Diploma in Physical Education and Wellness
+Student_34_1,81,62,88,64,76,83,Diploma,Diploma in Physical Education and Wellness
+Student_35_1,85,54,92,41,88,78,Diploma,Diploma in Physical Education and Wellness
+Student_36_1,94,69,87,70,79,75,Diploma,Diploma in Physical Education and Wellness
+Student_37_1,82,60,83,76,85,80,Diploma,Diploma in Physical Education and Wellness
+Student_38_1,80,51,84,62,75,75,Diploma,Diploma in Physical Education and Wellness
+Student_39_1,91,44,92,63,78,88,Diploma,Diploma in Physical Education and Wellness
+Student_40_1,88,68,93,40,77,84,Diploma,Diploma in Physical Education and Wellness
+Student_41_1,80,58,90,54,84,90,Diploma,Diploma in Physical Education and Wellness
+Student_42_1,89,46,82,59,75,90,Diploma,Diploma in Physical Education and Wellness
+Student_43_1,80,41,82,43,80,78,Diploma,Diploma in Physical Education and Wellness
+Student_44_1,94,77,93,79,81,89,Diploma,Diploma in Physical Education and Wellness
+Student_45_1,84,73,84,72,88,78,Diploma,Diploma in Physical Education and Wellness
+Student_46_1,90,63,87,67,78,83,Diploma,Diploma in Physical Education and Wellness
+Student_47_1,90,49,94,71,82,86,Diploma,Diploma in Physical Education and Wellness
+Student_48_1,83,74,80,72,84,77,Diploma,Diploma in Physical Education and Wellness
+Student_49_1,85,50,95,61,90,88,Diploma,Diploma in Physical Education and Wellness
+Student_50_1,94,64,85,67,76,83,Diploma,Diploma in Physical Education and Wellness
+Student_51_1,90,43,87,62,89,88,Diploma,Diploma in Physical Education and Wellness
+Student_52_1,91,46,94,52,75,79,Diploma,Diploma in Physical Education and Wellness
+Student_53_1,94,66,88,74,76,86,Diploma,Diploma in Physical Education and Wellness
+Student_54_1,92,64,88,65,84,75,Diploma,Diploma in Physical Education and Wellness
+Student_55_1,80,42,80,71,89,85,Diploma,Diploma in Physical Education and Wellness
+Student_56_1,94,47,95,72,89,76,Diploma,Diploma in Physical Education and Wellness
+Student_57_1,85,42,93,77,90,85,Diploma,Diploma in Physical Education and Wellness
+Student_58_1,80,58,91,49,83,86,Diploma,Diploma in Physical Education and Wellness
+Student_59_1,92,72,95,58,78,79,Diploma,Diploma in Physical Education and Wellness
+Student_60_1,83,72,82,60,82,78,Diploma,Diploma in Physical Education and Wellness
+Student_61_1,85,53,83,58,80,77,Diploma,Diploma in Physical Education and Wellness
+Student_62_1,88,79,81,74,80,75,Diploma,Diploma in Physical Education and Wellness
+Student_63_1,95,57,81,40,75,90,Diploma,Diploma in Physical Education and Wellness
+Student_64_1,90,53,83,54,86,78,Diploma,Diploma in Physical Education and Wellness
+Student_65_1,80,66,94,46,88,81,Diploma,Diploma in Physical Education and Wellness
+Student_66_1,94,71,92,56,76,87,Diploma,Diploma in Physical Education and Wellness
+Student_67_1,95,56,82,55,78,79,Diploma,Diploma in Physical Education and Wellness
+Student_68_1,92,80,84,79,84,84,Diploma,Diploma in Physical Education and Wellness
+Student_69_1,95,64,93,63,84,86,Diploma,Diploma in Physical Education and Wellness
+Student_70_1,81,48,84,49,75,83,Diploma,Diploma in Physical Education and Wellness
+Student_71_1,81,75,85,56,85,79,Diploma,Diploma in Physical Education and Wellness
+Student_72_1,87,72,83,49,90,76,Diploma,Diploma in Physical Education and Wellness
+Student_73_1,95,52,95,70,88,89,Diploma,Diploma in Physical Education and Wellness
+Student_74_1,95,77,83,80,81,89,Diploma,Diploma in Physical Education and Wellness
+Student_75_1,89,40,90,58,89,77,Diploma,Diploma in Physical Education and Wellness
+Student_76_1,82,64,91,59,76,77,Diploma,Diploma in Physical Education and Wellness
+Student_77_1,88,41,86,76,81,86,Diploma,Diploma in Physical Education and Wellness
+Student_78_1,83,52,90,55,86,75,Diploma,Diploma in Physical Education and Wellness
+Student_79_1,94,57,95,51,83,76,Diploma,Diploma in Physical Education and Wellness
+Student_80_1,84,72,85,74,88,76,Diploma,Diploma in Physical Education and Wellness
+Student_81_1,92,43,89,69,86,82,Diploma,Diploma in Physical Education and Wellness
+Student_82_1,84,46,89,73,77,75,Diploma,Diploma in Physical Education and Wellness
+Student_83_1,92,57,84,51,81,87,Diploma,Diploma in Physical Education and Wellness
+Student_84_1,93,67,90,80,88,78,Diploma,Diploma in Physical Education and Wellness
+Student_85_1,82,73,84,60,81,81,Diploma,Diploma in Physical Education and Wellness
+Student_86_1,87,44,94,66,83,86,Diploma,Diploma in Physical Education and Wellness
+Student_87_1,95,79,90,62,81,90,Diploma,Diploma in Physical Education and Wellness
+Student_88_1,95,48,81,77,82,78,Diploma,Diploma in Physical Education and Wellness
+Student_89_1,89,48,84,71,84,76,Diploma,Diploma in Physical Education and Wellness
+Student_90_1,93,64,88,60,87,79,Diploma,Diploma in Physical Education and Wellness
+Student_91_1,92,66,80,54,88,79,Diploma,Diploma in Physical Education and Wellness
+Student_92_1,82,57,87,60,84,85,Diploma,Diploma in Physical Education and Wellness
+Student_93_1,80,65,82,56,80,86,Diploma,Diploma in Physical Education and Wellness
+Student_94_1,93,76,83,48,78,77,Diploma,Diploma in Physical Education and Wellness
+Student_95_1,90,58,90,79,81,76,Diploma,Diploma in Physical Education and Wellness
+Student_96_1,92,41,87,75,81,78,Diploma,Diploma in Physical Education and Wellness
+Student_97_1,83,53,92,79,86,85,Diploma,Diploma in Physical Education and Wellness
+Student_98_1,92,41,94,58,75,88,Diploma,Diploma in Physical Education and Wellness
+Student_99_1,83,73,80,51,83,78,Diploma,Diploma in Physical Education and Wellness
+Student_100_1,89,55,86,41,88,84,Diploma,Diploma in Physical Education and Wellness
+Student_101_1,83,65,94,69,78,83,Diploma,Diploma in Physical Education and Wellness
+Student_102_1,86,67,80,48,81,85,Diploma,Diploma in Physical Education and Wellness
+Student_103_1,80,71,94,55,78,78,Diploma,Diploma in Physical Education and Wellness
+Student_104_1,81,41,89,47,90,90,Diploma,Diploma in Physical Education and Wellness
+Student_105_1,94,79,89,64,82,83,Diploma,Diploma in Physical Education and Wellness
+Student_106_1,90,57,87,46,78,80,Diploma,Diploma in Physical Education and Wellness
+Student_107_1,84,61,84,75,79,78,Diploma,Diploma in Physical Education and Wellness
+Student_108_1,90,58,93,62,86,86,Diploma,Diploma in Physical Education and Wellness
+Student_109_1,93,49,88,48,85,83,Diploma,Diploma in Physical Education and Wellness
+Student_110_1,82,48,81,68,79,77,Diploma,Diploma in Physical Education and Wellness
+Student_111_1,93,72,81,53,85,81,Diploma,Diploma in Physical Education and Wellness
+Student_112_1,91,61,93,65,89,79,Diploma,Diploma in Physical Education and Wellness
+Student_113_1,94,72,94,62,87,84,Diploma,Diploma in Physical Education and Wellness
+Student_114_1,88,56,92,43,79,85,Diploma,Diploma in Physical Education and Wellness
+Student_115_1,92,72,93,51,81,79,Diploma,Diploma in Physical Education and Wellness
+Student_116_1,87,61,86,66,76,75,Diploma,Diploma in Physical Education and Wellness
+Student_117_1,95,47,90,46,88,79,Diploma,Diploma in Physical Education and Wellness
+Student_118_1,80,66,83,57,90,88,Diploma,Diploma in Physical Education and Wellness
+Student_119_1,81,46,86,68,77,90,Diploma,Diploma in Physical Education and Wellness
+Student_120_1,88,73,82,67,77,82,Diploma,Diploma in Physical Education and Wellness
+Student_121_1,89,45,86,42,78,81,Diploma,Diploma in Physical Education and Wellness
+Student_122_1,90,63,87,42,75,90,Diploma,Diploma in Physical Education and Wellness
+Student_123_1,90,68,87,74,84,87,Diploma,Diploma in Physical Education and Wellness
+Student_124_1,94,77,93,74,77,89,Diploma,Diploma in Physical Education and Wellness
+Student_125_1,82,59,84,75,76,81,Diploma,Diploma in Physical Education and Wellness
+Student_126_1,94,57,90,73,82,82,Diploma,Diploma in Physical Education and Wellness
+Student_127_1,82,51,92,41,79,78,Diploma,Diploma in Physical Education and Wellness
+Student_128_1,81,78,84,49,85,90,Diploma,Diploma in Physical Education and Wellness
+Student_129_1,85,55,82,69,77,82,Diploma,Diploma in Physical Education and Wellness
+Student_130_1,90,44,80,60,78,90,Diploma,Diploma in Physical Education and Wellness
+Student_131_1,82,79,87,66,86,83,Diploma,Diploma in Physical Education and Wellness
+Student_132_1,94,70,89,64,88,75,Diploma,Diploma in Physical Education and Wellness
+Student_133_1,95,69,84,65,87,77,Diploma,Diploma in Physical Education and Wellness
+Student_134_1,90,76,87,49,84,87,Diploma,Diploma in Physical Education and Wellness
+Student_135_1,94,54,86,46,82,79,Diploma,Diploma in Physical Education and Wellness
+Student_136_1,88,80,86,47,78,89,Diploma,Diploma in Physical Education and Wellness
+Student_137_1,84,55,93,40,77,89,Diploma,Diploma in Physical Education and Wellness
+Student_138_1,95,72,82,79,75,86,Diploma,Diploma in Physical Education and Wellness
+Student_139_1,93,40,88,65,88,78,Diploma,Diploma in Physical Education and Wellness
+Student_140_1,92,41,83,58,87,86,Diploma,Diploma in Physical Education and Wellness
+Student_141_1,82,71,94,56,77,79,Diploma,Diploma in Physical Education and Wellness
+Student_142_1,82,42,84,70,85,78,Diploma,Diploma in Physical Education and Wellness
+Student_143_1,85,75,93,70,82,76,Diploma,Diploma in Physical Education and Wellness
+Student_144_1,87,75,92,51,82,84,Diploma,Diploma in Physical Education and Wellness
+Student_145_1,93,42,82,46,77,75,Diploma,Diploma in Physical Education and Wellness
+Student_146_1,93,66,90,58,76,78,Diploma,Diploma in Physical Education and Wellness
+Student_147_1,93,45,80,45,76,77,Diploma,Diploma in Physical Education and Wellness
+Student_148_1,95,46,85,54,76,90,Diploma,Diploma in Physical Education and Wellness
+Student_149_1,90,75,92,41,79,89,Diploma,Diploma in Physical Education and Wellness
+Student_150_1,81,65,93,46,86,86,Diploma,Diploma in Physical Education and Wellness
+Student_151_1,86,64,84,42,78,90,Diploma,Diploma in Physical Education and Wellness
+Student_152_1,89,64,86,65,90,89,Diploma,Diploma in Physical Education and Wellness
+Student_153_1,89,71,81,77,78,75,Diploma,Diploma in Physical Education and Wellness
+Student_154_1,87,70,85,65,86,89,Diploma,Diploma in Physical Education and Wellness
+Student_155_1,87,56,83,74,83,80,Diploma,Diploma in Physical Education and Wellness
+Student_156_1,95,51,90,45,84,83,Diploma,Diploma in Physical Education and Wellness
+Student_157_1,88,65,84,70,88,87,Diploma,Diploma in Physical Education and Wellness
+Student_158_1,86,70,84,68,89,77,Diploma,Diploma in Physical Education and Wellness
+Student_159_1,87,50,92,56,88,87,Diploma,Diploma in Physical Education and Wellness
+Student_160_1,80,70,88,40,86,81,Diploma,Diploma in Physical Education and Wellness
+Student_161_1,93,71,85,63,89,89,Diploma,Diploma in Physical Education and Wellness
+Student_162_1,90,52,87,60,78,83,Diploma,Diploma in Physical Education and Wellness
+Student_163_1,81,70,93,46,90,76,Diploma,Diploma in Physical Education and Wellness
+Student_164_1,83,72,87,77,90,76,Diploma,Diploma in Physical Education and Wellness
+Student_165_1,81,69,80,71,88,87,Diploma,Diploma in Physical Education and Wellness
+Student_166_1,81,65,86,49,87,84,Diploma,Diploma in Physical Education and Wellness
+Student_167_1,87,58,94,49,88,83,Diploma,Diploma in Physical Education and Wellness
+Student_168_1,89,73,89,67,78,89,Diploma,Diploma in Physical Education and Wellness
+Student_169_1,90,49,90,72,84,90,Diploma,Diploma in Physical Education and Wellness
+Student_170_1,95,59,93,70,83,79,Diploma,Diploma in Physical Education and Wellness
+Student_171_1,85,54,83,46,81,89,Diploma,Diploma in Physical Education and Wellness
+Student_172_1,89,69,87,50,86,81,Diploma,Diploma in Physical Education and Wellness
+Student_173_1,86,44,95,65,90,82,Diploma,Diploma in Physical Education and Wellness
+Student_174_1,81,53,85,55,77,85,Diploma,Diploma in Physical Education and Wellness
+Student_175_1,90,75,95,66,84,79,Diploma,Diploma in Physical Education and Wellness
+Student_176_1,83,55,88,76,76,76,Diploma,Diploma in Physical Education and Wellness
+Student_177_1,81,53,91,53,80,83,Diploma,Diploma in Physical Education and Wellness
+Student_178_1,92,48,93,56,78,80,Diploma,Diploma in Physical Education and Wellness
+Student_179_1,95,50,87,48,86,80,Diploma,Diploma in Physical Education and Wellness
+Student_180_1,94,73,88,53,76,88,Diploma,Diploma in Physical Education and Wellness
+Student_181_1,92,59,81,46,85,78,Diploma,Diploma in Physical Education and Wellness
+Student_182_1,92,42,91,55,88,88,Diploma,Diploma in Physical Education and Wellness
+Student_183_1,89,41,89,51,87,79,Diploma,Diploma in Physical Education and Wellness
+Student_184_1,95,45,87,61,88,83,Diploma,Diploma in Physical Education and Wellness
+Student_185_1,83,42,91,78,81,80,Diploma,Diploma in Physical Education and Wellness
+Student_186_1,81,75,90,64,79,77,Diploma,Diploma in Physical Education and Wellness
+Student_187_1,84,55,85,51,84,88,Diploma,Diploma in Physical Education and Wellness
+Student_188_1,91,49,92,59,80,82,Diploma,Diploma in Physical Education and Wellness
+Student_189_1,89,69,85,71,75,81,Diploma,Diploma in Physical Education and Wellness
+Student_190_1,86,55,95,61,75,79,Diploma,Diploma in Physical Education and Wellness
+Student_191_1,80,57,89,59,79,88,Diploma,Diploma in Physical Education and Wellness
+Student_192_1,93,61,82,74,82,86,Diploma,Diploma in Physical Education and Wellness
+Student_193_1,92,46,94,51,82,87,Diploma,Diploma in Physical Education and Wellness
+Student_194_1,81,74,93,64,87,82,Diploma,Diploma in Physical Education and Wellness
+Student_195_1,91,73,94,58,82,89,Diploma,Diploma in Physical Education and Wellness
+Student_196_1,82,54,85,78,83,81,Diploma,Diploma in Physical Education and Wellness
+Student_197_1,85,73,86,53,82,75,Diploma,Diploma in Physical Education and Wellness
+Student_198_1,86,57,91,42,79,75,Diploma,Diploma in Physical Education and Wellness
+Student_199_1,87,65,94,51,80,80,Diploma,Diploma in Physical Education and Wellness
+Student_200_1,80,54,89,42,76,87,Diploma,Diploma in Physical Education and Wellness
+Student_201_1,82,61,93,68,75,86,Diploma,Diploma in Physical Education and Wellness
+Student_202_1,94,55,87,53,84,83,Diploma,Diploma in Physical Education and Wellness
+Student_203_1,84,42,95,72,77,86,Diploma,Diploma in Physical Education and Wellness
+Student_204_1,88,62,88,67,85,87,Diploma,Diploma in Physical Education and Wellness
+Student_205_1,92,79,89,74,78,90,Diploma,Diploma in Physical Education and Wellness
+Student_206_1,94,78,83,54,89,87,Diploma,Diploma in Physical Education and Wellness
+Student_207_1,82,58,91,66,75,85,Diploma,Diploma in Physical Education and Wellness
+Student_208_1,82,67,89,73,78,89,Diploma,Diploma in Physical Education and Wellness
+Student_209_1,92,73,80,75,75,89,Diploma,Diploma in Physical Education and Wellness
+Student_210_1,95,42,93,53,76,88,Diploma,Diploma in Physical Education and Wellness
+Student_211_1,94,41,87,55,90,79,Diploma,Diploma in Physical Education and Wellness
+Student_212_1,87,65,86,76,84,86,Diploma,Diploma in Physical Education and Wellness
+Student_213_1,89,67,84,49,80,83,Diploma,Diploma in Physical Education and Wellness
+Student_214_1,82,67,85,77,75,77,Diploma,Diploma in Physical Education and Wellness
+Student_215_1,80,78,91,45,86,87,Diploma,Diploma in Physical Education and Wellness
+Student_216_1,82,71,87,59,80,81,Diploma,Diploma in Physical Education and Wellness
+Student_217_1,89,54,82,59,87,90,Diploma,Diploma in Physical Education and Wellness
+Student_218_1,90,44,92,61,90,77,Diploma,Diploma in Physical Education and Wellness
+Student_219_1,84,51,90,61,80,81,Diploma,Diploma in Physical Education and Wellness
+Student_220_1,87,50,87,49,83,75,Diploma,Diploma in Physical Education and Wellness
+Student_221_1,88,63,91,55,83,79,Diploma,Diploma in Physical Education and Wellness
+Student_222_1,87,57,89,62,82,81,Diploma,Diploma in Physical Education and Wellness
+Student_223_1,90,73,80,80,76,79,Diploma,Diploma in Physical Education and Wellness
+Student_224_1,86,57,88,71,76,76,Diploma,Diploma in Physical Education and Wellness
+Student_225_1,87,44,81,45,77,88,Diploma,Diploma in Physical Education and Wellness
+Student_226_1,85,57,88,51,86,87,Diploma,Diploma in Physical Education and Wellness
+Student_227_1,93,43,85,41,88,87,Diploma,Diploma in Physical Education and Wellness
+Student_228_1,90,61,88,42,84,75,Diploma,Diploma in Physical Education and Wellness
+Student_229_1,80,65,87,55,81,82,Diploma,Diploma in Physical Education and Wellness
+Student_230_1,91,75,85,73,88,80,Diploma,Diploma in Physical Education and Wellness
+Student_231_1,88,49,88,44,75,88,Diploma,Diploma in Physical Education and Wellness
+Student_232_1,90,48,81,65,78,80,Diploma,Diploma in Physical Education and Wellness
+Student_233_1,86,64,84,73,76,84,Diploma,Diploma in Physical Education and Wellness
+Student_234_1,89,47,91,60,84,78,Diploma,Diploma in Physical Education and Wellness
+Student_235_1,90,52,82,66,81,76,Diploma,Diploma in Physical Education and Wellness
+Student_236_1,80,73,82,67,77,89,Diploma,Diploma in Physical Education and Wellness
+Student_237_1,84,74,91,67,80,89,Diploma,Diploma in Physical Education and Wellness
+Student_238_1,81,48,82,64,84,84,Diploma,Diploma in Physical Education and Wellness
+Student_239_1,94,69,95,73,86,83,Diploma,Diploma in Physical Education and Wellness
+Student_240_1,92,49,89,77,76,82,Diploma,Diploma in Physical Education and Wellness
+Student_241_1,94,64,88,48,80,88,Diploma,Diploma in Physical Education and Wellness
+Student_242_1,83,45,93,48,81,88,Diploma,Diploma in Physical Education and Wellness
+Student_243_1,86,55,95,79,83,85,Diploma,Diploma in Physical Education and Wellness
+Student_244_1,90,80,91,46,87,75,Diploma,Diploma in Physical Education and Wellness
+Student_245_1,89,76,81,63,81,78,Diploma,Diploma in Physical Education and Wellness
+Student_246_1,84,50,80,43,81,82,Diploma,Diploma in Physical Education and Wellness
+Student_247_1,86,64,94,52,79,88,Diploma,Diploma in Physical Education and Wellness
+Student_248_1,80,56,87,42,87,86,Diploma,Diploma in Physical Education and Wellness
+Student_249_1,92,46,95,68,77,88,Diploma,Diploma in Physical Education and Wellness
+Student_250_1,80,43,91,74,87,90,Diploma,Diploma in Physical Education and Wellness

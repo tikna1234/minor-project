@@ -1,0 +1,1501 @@
+Student ID,English,Mathematics,Science,Social Studies,Logical Reasoning,Computer Awareness,Branch,Course
+Student_1_1,63,73,69,49,74,74,ITI,ITI in Computer Science and Information Technology
+Student_1_2,70,74,69,53,67,74,ITI,ITI in Mechanical and Electrical
+Student_1_3,65,70,65,51,58,74,ITI,ITI in Electronics and Communication
+Student_1_4,72,68,70,50,71,60,ITI,ITI in Construction and Design
+Student_1_5,72,60,69,71,74,59,ITI,ITI in Physical Education and Wellness
+Student_2_1,67,66,67,67,69,66,ITI,ITI in Computer Science and Information Technology
+Student_2_2,65,72,66,65,61,72,ITI,ITI in Mechanical and Electrical
+Student_2_3,66,74,68,54,60,67,ITI,ITI in Electronics and Communication
+Student_2_4,66,72,70,66,73,59,ITI,ITI in Construction and Design
+Student_2_5,72,66,65,61,66,58,ITI,ITI in Physical Education and Wellness
+Student_3_1,73,68,71,48,71,66,ITI,ITI in Computer Science and Information Technology
+Student_3_2,60,67,71,62,73,73,ITI,ITI in Mechanical and Electrical
+Student_3_3,65,74,66,57,64,69,ITI,ITI in Electronics and Communication
+Student_3_4,72,67,72,72,74,58,ITI,ITI in Construction and Design
+Student_3_5,66,70,67,51,67,61,ITI,ITI in Physical Education and Wellness
+Student_4_1,69,68,65,53,68,72,ITI,ITI in Computer Science and Information Technology
+Student_4_2,60,71,72,49,70,73,ITI,ITI in Mechanical and Electrical
+Student_4_3,70,73,66,64,61,74,ITI,ITI in Electronics and Communication
+Student_4_4,68,72,68,46,69,60,ITI,ITI in Construction and Design
+Student_4_5,72,60,68,42,74,61,ITI,ITI in Physical Education and Wellness
+Student_5_1,61,70,70,51,72,73,ITI,ITI in Computer Science and Information Technology
+Student_5_2,73,71,66,54,67,68,ITI,ITI in Mechanical and Electrical
+Student_5_3,68,70,71,62,63,71,ITI,ITI in Electronics and Communication
+Student_5_4,61,67,67,60,65,59,ITI,ITI in Construction and Design
+Student_5_5,73,72,73,73,67,56,ITI,ITI in Physical Education and Wellness
+Student_6_1,73,68,72,68,67,66,ITI,ITI in Computer Science and Information Technology
+Student_6_2,73,65,71,44,68,70,ITI,ITI in Mechanical and Electrical
+Student_6_3,71,68,68,71,56,70,ITI,ITI in Electronics and Communication
+Student_6_4,62,69,65,58,66,63,ITI,ITI in Construction and Design
+Student_6_5,74,61,73,55,66,64,ITI,ITI in Physical Education and Wellness
+Student_7_1,66,72,67,55,71,69,ITI,ITI in Computer Science and Information Technology
+Student_7_2,64,67,74,41,67,70,ITI,ITI in Mechanical and Electrical
+Student_7_3,74,72,71,43,61,67,ITI,ITI in Electronics and Communication
+Student_7_4,61,73,72,71,72,61,ITI,ITI in Construction and Design
+Student_7_5,73,70,73,45,67,60,ITI,ITI in Physical Education and Wellness
+Student_8_1,60,70,65,64,68,71,ITI,ITI in Computer Science and Information Technology
+Student_8_2,67,70,68,41,71,65,ITI,ITI in Mechanical and Electrical
+Student_8_3,64,68,73,41,58,69,ITI,ITI in Electronics and Communication
+Student_8_4,72,73,66,66,72,56,ITI,ITI in Construction and Design
+Student_8_5,74,68,71,61,71,57,ITI,ITI in Physical Education and Wellness
+Student_9_1,69,72,69,52,74,73,ITI,ITI in Computer Science and Information Technology
+Student_9_2,73,65,72,46,67,71,ITI,ITI in Mechanical and Electrical
+Student_9_3,70,66,68,53,61,69,ITI,ITI in Electronics and Communication
+Student_9_4,66,71,71,68,71,58,ITI,ITI in Construction and Design
+Student_9_5,73,70,66,52,67,61,ITI,ITI in Physical Education and Wellness
+Student_10_1,61,72,61,49,72,74,ITI,ITI in Computer Science and Information Technology
+Student_10_2,67,74,70,53,64,69,ITI,ITI in Mechanical and Electrical
+Student_10_3,64,68,66,44,62,66,ITI,ITI in Electronics and Communication
+Student_10_4,61,73,72,50,67,56,ITI,ITI in Construction and Design
+Student_10_5,69,64,70,42,70,57,ITI,ITI in Physical Education and Wellness
+Student_11_1,65,68,68,69,73,73,ITI,ITI in Computer Science and Information Technology
+Student_11_2,65,74,68,62,64,74,ITI,ITI in Mechanical and Electrical
+Student_11_3,69,70,67,65,64,74,ITI,ITI in Electronics and Communication
+Student_11_4,66,74,74,64,71,56,ITI,ITI in Construction and Design
+Student_11_5,68,73,71,67,68,63,ITI,ITI in Physical Education and Wellness
+Student_12_1,74,69,67,74,72,73,ITI,ITI in Computer Science and Information Technology
+Student_12_2,61,74,69,54,73,65,ITI,ITI in Mechanical and Electrical
+Student_12_3,67,66,65,41,63,69,ITI,ITI in Electronics and Communication
+Student_12_4,68,73,69,55,73,64,ITI,ITI in Construction and Design
+Student_12_5,71,73,69,60,68,62,ITI,ITI in Physical Education and Wellness
+Student_13_1,67,71,67,43,74,70,ITI,ITI in Computer Science and Information Technology
+Student_13_2,68,65,66,41,65,66,ITI,ITI in Mechanical and Electrical
+Student_13_3,67,67,70,67,61,70,ITI,ITI in Electronics and Communication
+Student_13_4,67,67,72,66,73,57,ITI,ITI in Construction and Design
+Student_13_5,72,69,71,53,70,57,ITI,ITI in Physical Education and Wellness
+Student_14_1,64,72,63,52,68,71,ITI,ITI in Computer Science and Information Technology
+Student_14_2,73,70,73,59,69,72,ITI,ITI in Mechanical and Electrical
+Student_14_3,67,69,72,42,61,70,ITI,ITI in Electronics and Communication
+Student_14_4,65,73,68,51,73,57,ITI,ITI in Construction and Design
+Student_14_5,74,61,72,64,66,59,ITI,ITI in Physical Education and Wellness
+Student_15_1,60,68,62,49,73,67,ITI,ITI in Computer Science and Information Technology
+Student_15_2,64,73,66,60,62,70,ITI,ITI in Mechanical and Electrical
+Student_15_3,70,66,74,45,61,73,ITI,ITI in Electronics and Communication
+Student_15_4,60,65,69,40,66,64,ITI,ITI in Construction and Design
+Student_15_5,69,74,72,58,74,60,ITI,ITI in Physical Education and Wellness
+Student_16_1,60,67,64,51,74,70,ITI,ITI in Computer Science and Information Technology
+Student_16_2,64,68,66,67,66,66,ITI,ITI in Mechanical and Electrical
+Student_16_3,73,72,66,71,62,74,ITI,ITI in Electronics and Communication
+Student_16_4,61,69,68,50,68,56,ITI,ITI in Construction and Design
+Student_16_5,73,71,71,42,66,62,ITI,ITI in Physical Education and Wellness
+Student_17_1,64,71,71,52,74,68,ITI,ITI in Computer Science and Information Technology
+Student_17_2,61,72,71,66,62,72,ITI,ITI in Mechanical and Electrical
+Student_17_3,72,72,72,40,64,65,ITI,ITI in Electronics and Communication
+Student_17_4,73,65,74,56,69,59,ITI,ITI in Construction and Design
+Student_17_5,65,61,67,46,72,64,ITI,ITI in Physical Education and Wellness
+Student_18_1,67,65,70,51,65,72,ITI,ITI in Computer Science and Information Technology
+Student_18_2,64,69,67,59,60,74,ITI,ITI in Mechanical and Electrical
+Student_18_3,73,71,65,69,61,74,ITI,ITI in Electronics and Communication
+Student_18_4,62,72,74,73,65,61,ITI,ITI in Construction and Design
+Student_18_5,65,70,73,45,65,63,ITI,ITI in Physical Education and Wellness
+Student_19_1,66,73,62,41,66,71,ITI,ITI in Computer Science and Information Technology
+Student_19_2,63,73,70,74,71,73,ITI,ITI in Mechanical and Electrical
+Student_19_3,68,72,70,72,62,70,ITI,ITI in Electronics and Communication
+Student_19_4,69,72,74,74,68,63,ITI,ITI in Construction and Design
+Student_19_5,69,62,70,67,72,57,ITI,ITI in Physical Education and Wellness
+Student_20_1,67,71,63,55,66,66,ITI,ITI in Computer Science and Information Technology
+Student_20_2,60,65,69,48,61,67,ITI,ITI in Mechanical and Electrical
+Student_20_3,73,70,74,62,59,72,ITI,ITI in Electronics and Communication
+Student_20_4,63,73,74,50,66,64,ITI,ITI in Construction and Design
+Student_20_5,67,65,74,46,67,56,ITI,ITI in Physical Education and Wellness
+Student_21_1,73,74,60,71,72,69,ITI,ITI in Computer Science and Information Technology
+Student_21_2,61,73,72,44,70,73,ITI,ITI in Mechanical and Electrical
+Student_21_3,71,66,71,48,58,65,ITI,ITI in Electronics and Communication
+Student_21_4,70,68,70,49,68,58,ITI,ITI in Construction and Design
+Student_21_5,68,70,73,69,69,57,ITI,ITI in Physical Education and Wellness
+Student_22_1,74,66,65,41,65,71,ITI,ITI in Computer Science and Information Technology
+Student_22_2,63,71,65,49,70,70,ITI,ITI in Mechanical and Electrical
+Student_22_3,71,72,67,44,60,65,ITI,ITI in Electronics and Communication
+Student_22_4,68,69,69,56,68,64,ITI,ITI in Construction and Design
+Student_22_5,68,70,73,59,71,62,ITI,ITI in Physical Education and Wellness
+Student_23_1,65,66,71,73,70,71,ITI,ITI in Computer Science and Information Technology
+Student_23_2,72,68,70,60,67,66,ITI,ITI in Mechanical and Electrical
+Student_23_3,70,70,68,64,56,74,ITI,ITI in Electronics and Communication
+Student_23_4,62,66,66,71,66,57,ITI,ITI in Construction and Design
+Student_23_5,70,63,71,63,70,63,ITI,ITI in Physical Education and Wellness
+Student_24_1,61,67,68,65,69,69,ITI,ITI in Computer Science and Information Technology
+Student_24_2,60,67,65,57,61,72,ITI,ITI in Mechanical and Electrical
+Student_24_3,70,71,68,67,60,67,ITI,ITI in Electronics and Communication
+Student_24_4,60,74,71,42,72,64,ITI,ITI in Construction and Design
+Student_24_5,72,62,67,62,66,57,ITI,ITI in Physical Education and Wellness
+Student_25_1,72,74,66,59,71,65,ITI,ITI in Computer Science and Information Technology
+Student_25_2,72,67,65,53,62,68,ITI,ITI in Mechanical and Electrical
+Student_25_3,60,74,70,55,57,69,ITI,ITI in Electronics and Communication
+Student_25_4,64,69,67,63,70,62,ITI,ITI in Construction and Design
+Student_25_5,68,71,68,50,66,60,ITI,ITI in Physical Education and Wellness
+Student_26_1,67,66,63,73,66,74,ITI,ITI in Computer Science and Information Technology
+Student_26_2,68,71,68,72,73,70,ITI,ITI in Mechanical and Electrical
+Student_26_3,66,72,72,52,59,67,ITI,ITI in Electronics and Communication
+Student_26_4,74,74,73,60,74,62,ITI,ITI in Construction and Design
+Student_26_5,68,61,69,64,65,57,ITI,ITI in Physical Education and Wellness
+Student_27_1,71,65,65,71,67,67,ITI,ITI in Computer Science and Information Technology
+Student_27_2,68,70,71,47,68,67,ITI,ITI in Mechanical and Electrical
+Student_27_3,65,72,74,52,61,65,ITI,ITI in Electronics and Communication
+Student_27_4,62,68,67,44,74,63,ITI,ITI in Construction and Design
+Student_27_5,65,67,71,63,73,59,ITI,ITI in Physical Education and Wellness
+Student_28_1,67,66,60,72,67,72,ITI,ITI in Computer Science and Information Technology
+Student_28_2,73,69,71,52,70,70,ITI,ITI in Mechanical and Electrical
+Student_28_3,74,69,65,64,58,68,ITI,ITI in Electronics and Communication
+Student_28_4,72,69,73,43,67,60,ITI,ITI in Construction and Design
+Student_28_5,67,68,65,54,70,61,ITI,ITI in Physical Education and Wellness
+Student_29_1,71,69,73,60,66,71,ITI,ITI in Computer Science and Information Technology
+Student_29_2,72,69,69,56,74,71,ITI,ITI in Mechanical and Electrical
+Student_29_3,72,70,67,66,57,73,ITI,ITI in Electronics and Communication
+Student_29_4,64,71,73,46,69,58,ITI,ITI in Construction and Design
+Student_29_5,69,62,69,60,65,62,ITI,ITI in Physical Education and Wellness
+Student_30_1,67,65,68,42,73,70,ITI,ITI in Computer Science and Information Technology
+Student_30_2,60,65,67,59,74,74,ITI,ITI in Mechanical and Electrical
+Student_30_3,72,72,66,70,59,65,ITI,ITI in Electronics and Communication
+Student_30_4,71,72,72,56,69,63,ITI,ITI in Construction and Design
+Student_30_5,70,74,67,61,68,63,ITI,ITI in Physical Education and Wellness
+Student_31_1,60,71,72,60,70,72,ITI,ITI in Computer Science and Information Technology
+Student_31_2,63,74,68,49,74,74,ITI,ITI in Mechanical and Electrical
+Student_31_3,62,69,65,73,61,66,ITI,ITI in Electronics and Communication
+Student_31_4,65,68,71,69,69,63,ITI,ITI in Construction and Design
+Student_31_5,67,63,74,47,65,62,ITI,ITI in Physical Education and Wellness
+Student_32_1,73,68,71,63,73,74,ITI,ITI in Computer Science and Information Technology
+Student_32_2,66,74,71,57,67,74,ITI,ITI in Mechanical and Electrical
+Student_32_3,73,68,71,59,62,70,ITI,ITI in Electronics and Communication
+Student_32_4,65,68,72,71,73,61,ITI,ITI in Construction and Design
+Student_32_5,68,72,72,42,71,57,ITI,ITI in Physical Education and Wellness
+Student_33_1,71,66,62,49,70,69,ITI,ITI in Computer Science and Information Technology
+Student_33_2,63,70,69,40,74,66,ITI,ITI in Mechanical and Electrical
+Student_33_3,62,65,66,72,57,73,ITI,ITI in Electronics and Communication
+Student_33_4,63,67,74,40,68,60,ITI,ITI in Construction and Design
+Student_33_5,72,70,67,45,74,64,ITI,ITI in Physical Education and Wellness
+Student_34_1,74,71,61,59,68,71,ITI,ITI in Computer Science and Information Technology
+Student_34_2,62,67,68,60,70,67,ITI,ITI in Mechanical and Electrical
+Student_34_3,67,72,67,44,57,70,ITI,ITI in Electronics and Communication
+Student_34_4,65,72,68,65,74,63,ITI,ITI in Construction and Design
+Student_34_5,69,70,73,69,65,60,ITI,ITI in Physical Education and Wellness
+Student_35_1,63,71,60,59,71,69,ITI,ITI in Computer Science and Information Technology
+Student_35_2,71,74,67,50,72,67,ITI,ITI in Mechanical and Electrical
+Student_35_3,64,70,68,55,61,68,ITI,ITI in Electronics and Communication
+Student_35_4,68,68,74,61,69,58,ITI,ITI in Construction and Design
+Student_35_5,67,66,68,65,68,63,ITI,ITI in Physical Education and Wellness
+Student_36_1,69,74,60,55,73,71,ITI,ITI in Computer Science and Information Technology
+Student_36_2,73,72,69,73,65,71,ITI,ITI in Mechanical and Electrical
+Student_36_3,74,73,71,53,62,70,ITI,ITI in Electronics and Communication
+Student_36_4,72,65,68,67,69,59,ITI,ITI in Construction and Design
+Student_36_5,68,65,72,52,72,56,ITI,ITI in Physical Education and Wellness
+Student_37_1,60,69,74,70,69,66,ITI,ITI in Computer Science and Information Technology
+Student_37_2,67,70,68,63,62,73,ITI,ITI in Mechanical and Electrical
+Student_37_3,61,70,71,68,59,72,ITI,ITI in Electronics and Communication
+Student_37_4,74,70,66,45,72,57,ITI,ITI in Construction and Design
+Student_37_5,70,64,74,52,74,60,ITI,ITI in Physical Education and Wellness
+Student_38_1,71,66,67,58,70,65,ITI,ITI in Computer Science and Information Technology
+Student_38_2,63,65,69,61,63,69,ITI,ITI in Mechanical and Electrical
+Student_38_3,70,72,67,66,63,73,ITI,ITI in Electronics and Communication
+Student_38_4,72,69,67,72,68,59,ITI,ITI in Construction and Design
+Student_38_5,65,65,73,50,67,56,ITI,ITI in Physical Education and Wellness
+Student_39_1,72,69,73,74,73,65,ITI,ITI in Computer Science and Information Technology
+Student_39_2,66,71,66,70,64,73,ITI,ITI in Mechanical and Electrical
+Student_39_3,74,72,74,42,59,71,ITI,ITI in Electronics and Communication
+Student_39_4,61,69,65,62,71,62,ITI,ITI in Construction and Design
+Student_39_5,72,70,72,43,69,59,ITI,ITI in Physical Education and Wellness
+Student_40_1,73,66,63,74,72,69,ITI,ITI in Computer Science and Information Technology
+Student_40_2,74,68,73,54,73,69,ITI,ITI in Mechanical and Electrical
+Student_40_3,70,70,70,40,58,72,ITI,ITI in Electronics and Communication
+Student_40_4,68,70,73,57,65,60,ITI,ITI in Construction and Design
+Student_40_5,65,68,67,56,66,63,ITI,ITI in Physical Education and Wellness
+Student_41_1,68,68,68,62,71,67,ITI,ITI in Computer Science and Information Technology
+Student_41_2,65,70,72,58,68,71,ITI,ITI in Mechanical and Electrical
+Student_41_3,71,72,69,73,56,73,ITI,ITI in Electronics and Communication
+Student_41_4,65,68,66,66,69,57,ITI,ITI in Construction and Design
+Student_41_5,72,66,71,40,72,57,ITI,ITI in Physical Education and Wellness
+Student_42_1,61,70,64,73,70,65,ITI,ITI in Computer Science and Information Technology
+Student_42_2,73,66,74,72,60,73,ITI,ITI in Mechanical and Electrical
+Student_42_3,73,74,65,53,57,73,ITI,ITI in Electronics and Communication
+Student_42_4,73,72,72,73,73,56,ITI,ITI in Construction and Design
+Student_42_5,67,60,66,59,69,56,ITI,ITI in Physical Education and Wellness
+Student_43_1,61,70,61,70,73,70,ITI,ITI in Computer Science and Information Technology
+Student_43_2,70,74,69,41,74,68,ITI,ITI in Mechanical and Electrical
+Student_43_3,69,68,71,61,58,65,ITI,ITI in Electronics and Communication
+Student_43_4,69,71,66,66,69,63,ITI,ITI in Construction and Design
+Student_43_5,68,61,71,49,74,58,ITI,ITI in Physical Education and Wellness
+Student_44_1,74,73,74,43,71,71,ITI,ITI in Computer Science and Information Technology
+Student_44_2,67,66,66,71,67,74,ITI,ITI in Mechanical and Electrical
+Student_44_3,73,73,70,54,56,71,ITI,ITI in Electronics and Communication
+Student_44_4,60,71,74,51,73,60,ITI,ITI in Construction and Design
+Student_44_5,66,62,69,74,67,58,ITI,ITI in Physical Education and Wellness
+Student_45_1,62,72,74,45,71,67,ITI,ITI in Computer Science and Information Technology
+Student_45_2,67,74,67,41,67,70,ITI,ITI in Mechanical and Electrical
+Student_45_3,62,71,73,58,57,72,ITI,ITI in Electronics and Communication
+Student_45_4,66,70,74,66,68,59,ITI,ITI in Construction and Design
+Student_45_5,69,71,65,40,73,59,ITI,ITI in Physical Education and Wellness
+Student_46_1,63,65,74,70,68,66,ITI,ITI in Computer Science and Information Technology
+Student_46_2,67,71,70,55,67,72,ITI,ITI in Mechanical and Electrical
+Student_46_3,66,71,74,66,56,69,ITI,ITI in Electronics and Communication
+Student_46_4,73,68,68,74,69,61,ITI,ITI in Construction and Design
+Student_46_5,68,63,68,66,69,57,ITI,ITI in Physical Education and Wellness
+Student_47_1,72,67,70,58,66,66,ITI,ITI in Computer Science and Information Technology
+Student_47_2,61,74,67,70,64,73,ITI,ITI in Mechanical and Electrical
+Student_47_3,67,74,66,40,62,67,ITI,ITI in Electronics and Communication
+Student_47_4,69,65,74,66,72,60,ITI,ITI in Construction and Design
+Student_47_5,69,64,72,52,70,58,ITI,ITI in Physical Education and Wellness
+Student_48_1,72,74,73,43,69,69,ITI,ITI in Computer Science and Information Technology
+Student_48_2,72,69,71,44,66,71,ITI,ITI in Mechanical and Electrical
+Student_48_3,73,73,65,54,58,69,ITI,ITI in Electronics and Communication
+Student_48_4,71,66,69,56,71,61,ITI,ITI in Construction and Design
+Student_48_5,66,72,71,56,66,60,ITI,ITI in Physical Education and Wellness
+Student_49_1,72,72,74,69,69,71,ITI,ITI in Computer Science and Information Technology
+Student_49_2,62,66,73,44,66,71,ITI,ITI in Mechanical and Electrical
+Student_49_3,63,71,73,70,61,71,ITI,ITI in Electronics and Communication
+Student_49_4,65,73,73,46,69,56,ITI,ITI in Construction and Design
+Student_49_5,74,67,69,63,73,57,ITI,ITI in Physical Education and Wellness
+Student_50_1,73,74,67,48,67,73,ITI,ITI in Computer Science and Information Technology
+Student_50_2,74,65,70,52,71,65,ITI,ITI in Mechanical and Electrical
+Student_50_3,67,66,66,43,60,71,ITI,ITI in Electronics and Communication
+Student_50_4,73,73,74,72,69,60,ITI,ITI in Construction and Design
+Student_50_5,72,67,73,73,66,59,ITI,ITI in Physical Education and Wellness
+Student_51_1,63,68,68,74,68,74,ITI,ITI in Computer Science and Information Technology
+Student_51_2,66,68,74,57,64,67,ITI,ITI in Mechanical and Electrical
+Student_51_3,67,72,68,69,64,69,ITI,ITI in Electronics and Communication
+Student_51_4,61,67,68,67,73,57,ITI,ITI in Construction and Design
+Student_51_5,72,65,72,57,72,61,ITI,ITI in Physical Education and Wellness
+Student_52_1,72,65,72,67,72,70,ITI,ITI in Computer Science and Information Technology
+Student_52_2,62,70,70,57,73,69,ITI,ITI in Mechanical and Electrical
+Student_52_3,68,65,66,62,56,69,ITI,ITI in Electronics and Communication
+Student_52_4,60,67,74,57,73,64,ITI,ITI in Construction and Design
+Student_52_5,74,69,66,65,66,59,ITI,ITI in Physical Education and Wellness
+Student_53_1,60,72,64,65,73,69,ITI,ITI in Computer Science and Information Technology
+Student_53_2,66,71,69,65,73,66,ITI,ITI in Mechanical and Electrical
+Student_53_3,71,73,65,48,56,73,ITI,ITI in Electronics and Communication
+Student_53_4,64,65,74,61,72,59,ITI,ITI in Construction and Design
+Student_53_5,65,68,69,59,69,60,ITI,ITI in Physical Education and Wellness
+Student_54_1,68,70,63,50,74,71,ITI,ITI in Computer Science and Information Technology
+Student_54_2,70,73,70,59,70,71,ITI,ITI in Mechanical and Electrical
+Student_54_3,66,65,65,59,59,70,ITI,ITI in Electronics and Communication
+Student_54_4,61,66,74,54,68,63,ITI,ITI in Construction and Design
+Student_54_5,66,71,66,67,67,64,ITI,ITI in Physical Education and Wellness
+Student_55_1,66,74,60,63,72,72,ITI,ITI in Computer Science and Information Technology
+Student_55_2,63,66,71,74,68,67,ITI,ITI in Mechanical and Electrical
+Student_55_3,68,70,74,52,62,69,ITI,ITI in Electronics and Communication
+Student_55_4,73,66,65,63,69,58,ITI,ITI in Construction and Design
+Student_55_5,68,60,70,67,68,61,ITI,ITI in Physical Education and Wellness
+Student_56_1,64,67,69,50,67,69,ITI,ITI in Computer Science and Information Technology
+Student_56_2,68,68,66,68,72,66,ITI,ITI in Mechanical and Electrical
+Student_56_3,70,74,73,56,61,71,ITI,ITI in Electronics and Communication
+Student_56_4,69,74,65,49,73,64,ITI,ITI in Construction and Design
+Student_56_5,67,68,68,53,73,64,ITI,ITI in Physical Education and Wellness
+Student_57_1,62,73,74,53,71,65,ITI,ITI in Computer Science and Information Technology
+Student_57_2,60,70,70,42,68,70,ITI,ITI in Mechanical and Electrical
+Student_57_3,67,73,69,62,61,74,ITI,ITI in Electronics and Communication
+Student_57_4,66,65,74,60,67,62,ITI,ITI in Construction and Design
+Student_57_5,67,74,70,48,67,61,ITI,ITI in Physical Education and Wellness
+Student_58_1,69,71,67,57,72,74,ITI,ITI in Computer Science and Information Technology
+Student_58_2,60,69,68,42,67,66,ITI,ITI in Mechanical and Electrical
+Student_58_3,60,73,68,60,57,71,ITI,ITI in Electronics and Communication
+Student_58_4,70,72,68,63,71,63,ITI,ITI in Construction and Design
+Student_58_5,65,67,66,72,66,57,ITI,ITI in Physical Education and Wellness
+Student_59_1,71,65,72,67,69,67,ITI,ITI in Computer Science and Information Technology
+Student_59_2,65,70,66,52,74,74,ITI,ITI in Mechanical and Electrical
+Student_59_3,72,66,71,59,56,73,ITI,ITI in Electronics and Communication
+Student_59_4,67,68,70,50,71,62,ITI,ITI in Construction and Design
+Student_59_5,71,69,68,49,74,58,ITI,ITI in Physical Education and Wellness
+Student_60_1,73,67,61,44,73,72,ITI,ITI in Computer Science and Information Technology
+Student_60_2,73,74,67,50,73,67,ITI,ITI in Mechanical and Electrical
+Student_60_3,62,73,71,59,60,69,ITI,ITI in Electronics and Communication
+Student_60_4,72,68,67,72,67,58,ITI,ITI in Construction and Design
+Student_60_5,67,68,65,57,72,56,ITI,ITI in Physical Education and Wellness
+Student_61_1,67,74,68,66,74,65,ITI,ITI in Computer Science and Information Technology
+Student_61_2,62,66,66,62,62,65,ITI,ITI in Mechanical and Electrical
+Student_61_3,74,72,74,72,61,69,ITI,ITI in Electronics and Communication
+Student_61_4,68,71,68,46,66,59,ITI,ITI in Construction and Design
+Student_61_5,71,64,72,58,70,58,ITI,ITI in Physical Education and Wellness
+Student_62_1,63,72,64,46,65,66,ITI,ITI in Computer Science and Information Technology
+Student_62_2,65,67,70,50,72,71,ITI,ITI in Mechanical and Electrical
+Student_62_3,71,74,66,46,59,67,ITI,ITI in Electronics and Communication
+Student_62_4,66,74,73,63,68,61,ITI,ITI in Construction and Design
+Student_62_5,69,65,69,50,65,63,ITI,ITI in Physical Education and Wellness
+Student_63_1,60,66,65,49,67,69,ITI,ITI in Computer Science and Information Technology
+Student_63_2,61,72,74,42,68,65,ITI,ITI in Mechanical and Electrical
+Student_63_3,62,67,72,44,59,69,ITI,ITI in Electronics and Communication
+Student_63_4,73,65,72,73,67,63,ITI,ITI in Construction and Design
+Student_63_5,74,65,66,44,74,58,ITI,ITI in Physical Education and Wellness
+Student_64_1,68,66,73,71,69,70,ITI,ITI in Computer Science and Information Technology
+Student_64_2,65,73,70,42,65,70,ITI,ITI in Mechanical and Electrical
+Student_64_3,73,71,71,63,63,69,ITI,ITI in Electronics and Communication
+Student_64_4,65,70,68,61,70,57,ITI,ITI in Construction and Design
+Student_64_5,69,61,71,51,67,62,ITI,ITI in Physical Education and Wellness
+Student_65_1,65,71,73,69,69,70,ITI,ITI in Computer Science and Information Technology
+Student_65_2,72,68,70,67,66,70,ITI,ITI in Mechanical and Electrical
+Student_65_3,73,69,70,49,61,69,ITI,ITI in Electronics and Communication
+Student_65_4,64,71,74,53,73,61,ITI,ITI in Construction and Design
+Student_65_5,73,63,73,62,71,63,ITI,ITI in Physical Education and Wellness
+Student_66_1,64,72,74,48,74,72,ITI,ITI in Computer Science and Information Technology
+Student_66_2,65,73,67,40,69,69,ITI,ITI in Mechanical and Electrical
+Student_66_3,70,73,66,43,64,70,ITI,ITI in Electronics and Communication
+Student_66_4,60,69,73,61,70,61,ITI,ITI in Construction and Design
+Student_66_5,66,66,65,71,68,57,ITI,ITI in Physical Education and Wellness
+Student_67_1,69,68,64,60,66,69,ITI,ITI in Computer Science and Information Technology
+Student_67_2,72,70,72,41,61,69,ITI,ITI in Mechanical and Electrical
+Student_67_3,62,69,68,67,63,72,ITI,ITI in Electronics and Communication
+Student_67_4,65,71,69,62,71,57,ITI,ITI in Construction and Design
+Student_67_5,73,68,70,66,73,63,ITI,ITI in Physical Education and Wellness
+Student_68_1,67,71,63,61,68,67,ITI,ITI in Computer Science and Information Technology
+Student_68_2,73,69,67,62,74,67,ITI,ITI in Mechanical and Electrical
+Student_68_3,65,70,67,40,64,72,ITI,ITI in Electronics and Communication
+Student_68_4,66,74,66,67,67,57,ITI,ITI in Construction and Design
+Student_68_5,69,73,70,43,67,64,ITI,ITI in Physical Education and Wellness
+Student_69_1,72,74,62,57,71,69,ITI,ITI in Computer Science and Information Technology
+Student_69_2,66,73,71,40,73,68,ITI,ITI in Mechanical and Electrical
+Student_69_3,69,67,65,70,56,72,ITI,ITI in Electronics and Communication
+Student_69_4,63,67,72,67,67,62,ITI,ITI in Construction and Design
+Student_69_5,71,66,69,65,72,57,ITI,ITI in Physical Education and Wellness
+Student_70_1,69,70,70,63,73,74,ITI,ITI in Computer Science and Information Technology
+Student_70_2,68,69,71,62,73,65,ITI,ITI in Mechanical and Electrical
+Student_70_3,74,71,69,51,62,70,ITI,ITI in Electronics and Communication
+Student_70_4,65,71,68,40,70,64,ITI,ITI in Construction and Design
+Student_70_5,67,66,67,63,73,64,ITI,ITI in Physical Education and Wellness
+Student_71_1,68,71,74,54,72,66,ITI,ITI in Computer Science and Information Technology
+Student_71_2,65,66,70,50,73,69,ITI,ITI in Mechanical and Electrical
+Student_71_3,73,69,72,54,60,72,ITI,ITI in Electronics and Communication
+Student_71_4,71,72,68,57,65,56,ITI,ITI in Construction and Design
+Student_71_5,69,60,70,73,74,63,ITI,ITI in Physical Education and Wellness
+Student_72_1,73,74,69,61,72,67,ITI,ITI in Computer Science and Information Technology
+Student_72_2,66,65,69,69,62,73,ITI,ITI in Mechanical and Electrical
+Student_72_3,63,65,66,50,56,74,ITI,ITI in Electronics and Communication
+Student_72_4,69,68,72,51,65,60,ITI,ITI in Construction and Design
+Student_72_5,66,67,69,63,68,63,ITI,ITI in Physical Education and Wellness
+Student_73_1,69,66,61,58,72,72,ITI,ITI in Computer Science and Information Technology
+Student_73_2,70,68,68,44,67,65,ITI,ITI in Mechanical and Electrical
+Student_73_3,66,70,72,62,56,71,ITI,ITI in Electronics and Communication
+Student_73_4,70,73,70,69,74,64,ITI,ITI in Construction and Design
+Student_73_5,68,64,73,55,65,60,ITI,ITI in Physical Education and Wellness
+Student_74_1,74,74,60,72,73,68,ITI,ITI in Computer Science and Information Technology
+Student_74_2,72,74,70,66,60,66,ITI,ITI in Mechanical and Electrical
+Student_74_3,74,71,73,51,61,69,ITI,ITI in Electronics and Communication
+Student_74_4,66,65,69,54,67,62,ITI,ITI in Construction and Design
+Student_74_5,65,63,67,65,71,57,ITI,ITI in Physical Education and Wellness
+Student_75_1,74,74,62,50,68,65,ITI,ITI in Computer Science and Information Technology
+Student_75_2,70,68,71,66,64,70,ITI,ITI in Mechanical and Electrical
+Student_75_3,73,69,70,74,60,65,ITI,ITI in Electronics and Communication
+Student_75_4,62,69,66,53,67,63,ITI,ITI in Construction and Design
+Student_75_5,68,62,65,47,66,57,ITI,ITI in Physical Education and Wellness
+Student_76_1,62,66,72,60,70,71,ITI,ITI in Computer Science and Information Technology
+Student_76_2,60,69,72,74,60,71,ITI,ITI in Mechanical and Electrical
+Student_76_3,69,70,65,45,62,68,ITI,ITI in Electronics and Communication
+Student_76_4,61,67,66,74,71,63,ITI,ITI in Construction and Design
+Student_76_5,68,66,66,68,71,59,ITI,ITI in Physical Education and Wellness
+Student_77_1,66,66,74,74,67,71,ITI,ITI in Computer Science and Information Technology
+Student_77_2,63,70,65,59,70,65,ITI,ITI in Mechanical and Electrical
+Student_77_3,69,66,73,69,64,74,ITI,ITI in Electronics and Communication
+Student_77_4,64,74,74,51,73,56,ITI,ITI in Construction and Design
+Student_77_5,72,63,74,52,72,58,ITI,ITI in Physical Education and Wellness
+Student_78_1,72,66,72,53,67,70,ITI,ITI in Computer Science and Information Technology
+Student_78_2,68,65,69,45,60,67,ITI,ITI in Mechanical and Electrical
+Student_78_3,66,73,68,44,61,73,ITI,ITI in Electronics and Communication
+Student_78_4,74,70,71,56,74,60,ITI,ITI in Construction and Design
+Student_78_5,66,62,68,71,65,60,ITI,ITI in Physical Education and Wellness
+Student_79_1,64,67,60,74,68,72,ITI,ITI in Computer Science and Information Technology
+Student_79_2,61,66,67,72,74,68,ITI,ITI in Mechanical and Electrical
+Student_79_3,67,74,71,55,58,69,ITI,ITI in Electronics and Communication
+Student_79_4,66,65,66,61,73,61,ITI,ITI in Construction and Design
+Student_79_5,72,68,65,49,69,60,ITI,ITI in Physical Education and Wellness
+Student_80_1,68,69,67,48,69,66,ITI,ITI in Computer Science and Information Technology
+Student_80_2,72,66,71,70,68,68,ITI,ITI in Mechanical and Electrical
+Student_80_3,61,66,68,53,60,74,ITI,ITI in Electronics and Communication
+Student_80_4,68,67,66,49,67,57,ITI,ITI in Construction and Design
+Student_80_5,69,60,73,64,66,57,ITI,ITI in Physical Education and Wellness
+Student_81_1,69,68,71,64,74,68,ITI,ITI in Computer Science and Information Technology
+Student_81_2,71,71,67,48,61,71,ITI,ITI in Mechanical and Electrical
+Student_81_3,65,71,66,42,61,73,ITI,ITI in Electronics and Communication
+Student_81_4,74,70,72,73,73,61,ITI,ITI in Construction and Design
+Student_81_5,67,64,69,48,67,63,ITI,ITI in Physical Education and Wellness
+Student_82_1,64,74,70,60,72,68,ITI,ITI in Computer Science and Information Technology
+Student_82_2,73,73,72,47,65,72,ITI,ITI in Mechanical and Electrical
+Student_82_3,66,70,71,57,56,72,ITI,ITI in Electronics and Communication
+Student_82_4,64,68,72,44,67,64,ITI,ITI in Construction and Design
+Student_82_5,68,71,67,66,74,62,ITI,ITI in Physical Education and Wellness
+Student_83_1,69,72,67,73,73,74,ITI,ITI in Computer Science and Information Technology
+Student_83_2,68,70,71,52,62,74,ITI,ITI in Mechanical and Electrical
+Student_83_3,69,74,67,50,58,67,ITI,ITI in Electronics and Communication
+Student_83_4,74,67,69,56,67,62,ITI,ITI in Construction and Design
+Student_83_5,68,68,70,60,73,63,ITI,ITI in Physical Education and Wellness
+Student_84_1,63,66,71,62,71,70,ITI,ITI in Computer Science and Information Technology
+Student_84_2,72,72,72,70,64,69,ITI,ITI in Mechanical and Electrical
+Student_84_3,64,67,72,42,57,73,ITI,ITI in Electronics and Communication
+Student_84_4,62,72,73,56,73,59,ITI,ITI in Construction and Design
+Student_84_5,71,67,70,49,70,57,ITI,ITI in Physical Education and Wellness
+Student_85_1,73,72,60,51,74,67,ITI,ITI in Computer Science and Information Technology
+Student_85_2,71,67,67,59,60,74,ITI,ITI in Mechanical and Electrical
+Student_85_3,65,73,65,56,57,68,ITI,ITI in Electronics and Communication
+Student_85_4,68,67,68,70,74,62,ITI,ITI in Construction and Design
+Student_85_5,70,72,70,70,66,56,ITI,ITI in Physical Education and Wellness
+Student_86_1,63,68,69,73,66,71,ITI,ITI in Computer Science and Information Technology
+Student_86_2,66,67,73,60,64,66,ITI,ITI in Mechanical and Electrical
+Student_86_3,65,66,67,68,56,70,ITI,ITI in Electronics and Communication
+Student_86_4,69,72,69,48,74,56,ITI,ITI in Construction and Design
+Student_86_5,66,71,67,74,69,58,ITI,ITI in Physical Education and Wellness
+Student_87_1,74,73,74,47,65,72,ITI,ITI in Computer Science and Information Technology
+Student_87_2,60,73,67,60,65,71,ITI,ITI in Mechanical and Electrical
+Student_87_3,72,66,70,57,64,69,ITI,ITI in Electronics and Communication
+Student_87_4,60,69,73,46,66,60,ITI,ITI in Construction and Design
+Student_87_5,69,62,65,50,72,63,ITI,ITI in Physical Education and Wellness
+Student_88_1,60,68,67,48,70,69,ITI,ITI in Computer Science and Information Technology
+Student_88_2,69,74,71,51,60,74,ITI,ITI in Mechanical and Electrical
+Student_88_3,72,68,68,67,63,72,ITI,ITI in Electronics and Communication
+Student_88_4,64,70,73,72,73,61,ITI,ITI in Construction and Design
+Student_88_5,68,67,69,48,68,58,ITI,ITI in Physical Education and Wellness
+Student_89_1,67,72,71,70,73,72,ITI,ITI in Computer Science and Information Technology
+Student_89_2,67,65,73,66,74,72,ITI,ITI in Mechanical and Electrical
+Student_89_3,73,68,73,60,60,71,ITI,ITI in Electronics and Communication
+Student_89_4,62,66,69,43,69,62,ITI,ITI in Construction and Design
+Student_89_5,66,66,73,66,67,56,ITI,ITI in Physical Education and Wellness
+Student_90_1,68,66,72,69,67,66,ITI,ITI in Computer Science and Information Technology
+Student_90_2,65,73,65,65,60,73,ITI,ITI in Mechanical and Electrical
+Student_90_3,66,67,66,68,57,69,ITI,ITI in Electronics and Communication
+Student_90_4,65,72,65,47,72,64,ITI,ITI in Construction and Design
+Student_90_5,68,65,67,57,68,57,ITI,ITI in Physical Education and Wellness
+Student_91_1,73,71,64,57,68,67,ITI,ITI in Computer Science and Information Technology
+Student_91_2,69,70,66,46,68,69,ITI,ITI in Mechanical and Electrical
+Student_91_3,67,74,71,51,59,69,ITI,ITI in Electronics and Communication
+Student_91_4,74,73,66,52,72,63,ITI,ITI in Construction and Design
+Student_91_5,70,73,72,52,70,63,ITI,ITI in Physical Education and Wellness
+Student_92_1,64,68,67,72,67,73,ITI,ITI in Computer Science and Information Technology
+Student_92_2,69,66,71,52,73,69,ITI,ITI in Mechanical and Electrical
+Student_92_3,73,72,67,43,64,71,ITI,ITI in Electronics and Communication
+Student_92_4,67,69,70,55,71,62,ITI,ITI in Construction and Design
+Student_92_5,74,65,68,70,65,61,ITI,ITI in Physical Education and Wellness
+Student_93_1,68,71,74,57,66,72,ITI,ITI in Computer Science and Information Technology
+Student_93_2,61,73,66,57,63,70,ITI,ITI in Mechanical and Electrical
+Student_93_3,62,68,65,50,58,72,ITI,ITI in Electronics and Communication
+Student_93_4,63,72,70,65,67,61,ITI,ITI in Construction and Design
+Student_93_5,74,65,71,60,74,58,ITI,ITI in Physical Education and Wellness
+Student_94_1,62,67,68,60,66,69,ITI,ITI in Computer Science and Information Technology
+Student_94_2,61,70,68,68,69,65,ITI,ITI in Mechanical and Electrical
+Student_94_3,72,68,69,54,60,70,ITI,ITI in Electronics and Communication
+Student_94_4,66,70,66,71,67,61,ITI,ITI in Construction and Design
+Student_94_5,72,71,71,50,70,59,ITI,ITI in Physical Education and Wellness
+Student_95_1,65,74,74,71,71,65,ITI,ITI in Computer Science and Information Technology
+Student_95_2,62,68,68,55,70,66,ITI,ITI in Mechanical and Electrical
+Student_95_3,73,65,67,69,63,66,ITI,ITI in Electronics and Communication
+Student_95_4,72,66,70,57,67,62,ITI,ITI in Construction and Design
+Student_95_5,70,63,73,51,74,64,ITI,ITI in Physical Education and Wellness
+Student_96_1,61,73,63,64,68,70,ITI,ITI in Computer Science and Information Technology
+Student_96_2,63,69,69,74,67,71,ITI,ITI in Mechanical and Electrical
+Student_96_3,66,67,67,59,59,65,ITI,ITI in Electronics and Communication
+Student_96_4,74,72,67,50,65,61,ITI,ITI in Construction and Design
+Student_96_5,65,61,68,48,66,61,ITI,ITI in Physical Education and Wellness
+Student_97_1,71,74,70,74,74,70,ITI,ITI in Computer Science and Information Technology
+Student_97_2,61,72,65,60,66,74,ITI,ITI in Mechanical and Electrical
+Student_97_3,62,70,70,64,58,65,ITI,ITI in Electronics and Communication
+Student_97_4,63,72,67,46,67,63,ITI,ITI in Construction and Design
+Student_97_5,68,65,69,43,67,61,ITI,ITI in Physical Education and Wellness
+Student_98_1,67,69,72,72,73,65,ITI,ITI in Computer Science and Information Technology
+Student_98_2,64,66,74,52,60,65,ITI,ITI in Mechanical and Electrical
+Student_98_3,66,68,70,42,59,68,ITI,ITI in Electronics and Communication
+Student_98_4,70,66,69,70,71,61,ITI,ITI in Construction and Design
+Student_98_5,67,74,67,51,73,63,ITI,ITI in Physical Education and Wellness
+Student_99_1,63,67,73,73,72,69,ITI,ITI in Computer Science and Information Technology
+Student_99_2,61,72,67,60,65,68,ITI,ITI in Mechanical and Electrical
+Student_99_3,66,72,72,50,60,67,ITI,ITI in Electronics and Communication
+Student_99_4,61,73,70,60,74,59,ITI,ITI in Construction and Design
+Student_99_5,67,61,72,72,68,59,ITI,ITI in Physical Education and Wellness
+Student_100_1,63,66,72,54,68,73,ITI,ITI in Computer Science and Information Technology
+Student_100_2,73,70,66,59,74,65,ITI,ITI in Mechanical and Electrical
+Student_100_3,61,73,72,55,58,67,ITI,ITI in Electronics and Communication
+Student_100_4,73,65,74,62,73,60,ITI,ITI in Construction and Design
+Student_100_5,73,67,74,43,73,60,ITI,ITI in Physical Education and Wellness
+Student_101_1,64,66,67,70,67,66,ITI,ITI in Computer Science and Information Technology
+Student_101_2,64,67,71,58,72,68,ITI,ITI in Mechanical and Electrical
+Student_101_3,60,72,68,59,60,65,ITI,ITI in Electronics and Communication
+Student_101_4,73,67,73,43,70,57,ITI,ITI in Construction and Design
+Student_101_5,71,64,71,52,74,59,ITI,ITI in Physical Education and Wellness
+Student_102_1,69,65,74,51,65,72,ITI,ITI in Computer Science and Information Technology
+Student_102_2,64,69,67,60,63,73,ITI,ITI in Mechanical and Electrical
+Student_102_3,66,69,68,42,56,72,ITI,ITI in Electronics and Communication
+Student_102_4,70,69,71,54,69,59,ITI,ITI in Construction and Design
+Student_102_5,67,66,72,60,66,57,ITI,ITI in Physical Education and Wellness
+Student_103_1,70,69,67,47,66,66,ITI,ITI in Computer Science and Information Technology
+Student_103_2,68,69,71,40,66,67,ITI,ITI in Mechanical and Electrical
+Student_103_3,73,67,66,71,57,68,ITI,ITI in Electronics and Communication
+Student_103_4,69,66,73,69,69,58,ITI,ITI in Construction and Design
+Student_103_5,74,60,71,72,67,63,ITI,ITI in Physical Education and Wellness
+Student_104_1,74,69,61,66,67,65,ITI,ITI in Computer Science and Information Technology
+Student_104_2,66,71,69,49,60,69,ITI,ITI in Mechanical and Electrical
+Student_104_3,69,66,67,56,59,69,ITI,ITI in Electronics and Communication
+Student_104_4,73,73,68,67,67,57,ITI,ITI in Construction and Design
+Student_104_5,74,60,69,65,67,64,ITI,ITI in Physical Education and Wellness
+Student_105_1,68,72,71,55,68,69,ITI,ITI in Computer Science and Information Technology
+Student_105_2,72,71,65,51,62,71,ITI,ITI in Mechanical and Electrical
+Student_105_3,65,66,68,46,62,68,ITI,ITI in Electronics and Communication
+Student_105_4,63,66,65,65,69,59,ITI,ITI in Construction and Design
+Student_105_5,74,63,73,40,67,58,ITI,ITI in Physical Education and Wellness
+Student_106_1,70,68,67,60,74,66,ITI,ITI in Computer Science and Information Technology
+Student_106_2,67,69,74,42,71,73,ITI,ITI in Mechanical and Electrical
+Student_106_3,63,71,70,42,57,73,ITI,ITI in Electronics and Communication
+Student_106_4,65,67,71,70,71,61,ITI,ITI in Construction and Design
+Student_106_5,67,69,71,59,71,61,ITI,ITI in Physical Education and Wellness
+Student_107_1,66,72,62,74,67,71,ITI,ITI in Computer Science and Information Technology
+Student_107_2,66,67,74,61,72,66,ITI,ITI in Mechanical and Electrical
+Student_107_3,64,65,67,49,60,73,ITI,ITI in Electronics and Communication
+Student_107_4,68,73,65,52,66,57,ITI,ITI in Construction and Design
+Student_107_5,68,69,68,49,66,61,ITI,ITI in Physical Education and Wellness
+Student_108_1,70,65,72,51,66,71,ITI,ITI in Computer Science and Information Technology
+Student_108_2,68,67,72,43,62,71,ITI,ITI in Mechanical and Electrical
+Student_108_3,72,71,65,47,60,71,ITI,ITI in Electronics and Communication
+Student_108_4,66,66,69,68,68,56,ITI,ITI in Construction and Design
+Student_108_5,65,64,69,45,66,64,ITI,ITI in Physical Education and Wellness
+Student_109_1,61,72,72,45,71,66,ITI,ITI in Computer Science and Information Technology
+Student_109_2,73,73,66,42,74,72,ITI,ITI in Mechanical and Electrical
+Student_109_3,69,70,67,70,61,68,ITI,ITI in Electronics and Communication
+Student_109_4,67,67,73,66,71,61,ITI,ITI in Construction and Design
+Student_109_5,67,74,65,61,67,64,ITI,ITI in Physical Education and Wellness
+Student_110_1,61,73,65,71,74,72,ITI,ITI in Computer Science and Information Technology
+Student_110_2,64,66,71,50,64,74,ITI,ITI in Mechanical and Electrical
+Student_110_3,65,69,73,48,58,69,ITI,ITI in Electronics and Communication
+Student_110_4,63,68,65,59,66,60,ITI,ITI in Construction and Design
+Student_110_5,73,71,73,74,73,59,ITI,ITI in Physical Education and Wellness
+Student_111_1,63,71,68,49,74,66,ITI,ITI in Computer Science and Information Technology
+Student_111_2,66,72,68,74,67,70,ITI,ITI in Mechanical and Electrical
+Student_111_3,70,66,72,49,60,68,ITI,ITI in Electronics and Communication
+Student_111_4,64,70,74,74,74,56,ITI,ITI in Construction and Design
+Student_111_5,69,67,68,69,67,61,ITI,ITI in Physical Education and Wellness
+Student_112_1,71,73,65,71,71,74,ITI,ITI in Computer Science and Information Technology
+Student_112_2,60,74,66,67,63,69,ITI,ITI in Mechanical and Electrical
+Student_112_3,73,73,65,64,56,71,ITI,ITI in Electronics and Communication
+Student_112_4,63,65,70,61,69,63,ITI,ITI in Construction and Design
+Student_112_5,72,69,66,65,71,63,ITI,ITI in Physical Education and Wellness
+Student_113_1,71,69,68,74,65,66,ITI,ITI in Computer Science and Information Technology
+Student_113_2,71,66,73,68,64,67,ITI,ITI in Mechanical and Electrical
+Student_113_3,60,69,74,54,62,69,ITI,ITI in Electronics and Communication
+Student_113_4,66,72,74,58,66,62,ITI,ITI in Construction and Design
+Student_113_5,73,73,74,57,70,63,ITI,ITI in Physical Education and Wellness
+Student_114_1,73,73,74,45,67,70,ITI,ITI in Computer Science and Information Technology
+Student_114_2,63,68,68,61,62,74,ITI,ITI in Mechanical and Electrical
+Student_114_3,72,73,67,71,61,71,ITI,ITI in Electronics and Communication
+Student_114_4,64,70,68,69,68,60,ITI,ITI in Construction and Design
+Student_114_5,66,64,74,58,68,58,ITI,ITI in Physical Education and Wellness
+Student_115_1,68,74,73,50,66,65,ITI,ITI in Computer Science and Information Technology
+Student_115_2,68,68,69,72,63,71,ITI,ITI in Mechanical and Electrical
+Student_115_3,70,65,71,56,61,68,ITI,ITI in Electronics and Communication
+Student_115_4,70,69,73,55,68,64,ITI,ITI in Construction and Design
+Student_115_5,68,73,69,45,72,61,ITI,ITI in Physical Education and Wellness
+Student_116_1,66,71,70,60,70,73,ITI,ITI in Computer Science and Information Technology
+Student_116_2,62,71,73,68,69,70,ITI,ITI in Mechanical and Electrical
+Student_116_3,72,66,66,42,60,65,ITI,ITI in Electronics and Communication
+Student_116_4,74,74,69,48,68,59,ITI,ITI in Construction and Design
+Student_116_5,69,74,70,60,72,58,ITI,ITI in Physical Education and Wellness
+Student_117_1,69,71,72,44,71,65,ITI,ITI in Computer Science and Information Technology
+Student_117_2,63,67,67,47,68,69,ITI,ITI in Mechanical and Electrical
+Student_117_3,68,69,72,73,59,74,ITI,ITI in Electronics and Communication
+Student_117_4,62,70,72,73,66,59,ITI,ITI in Construction and Design
+Student_117_5,71,69,67,58,71,60,ITI,ITI in Physical Education and Wellness
+Student_118_1,66,66,69,69,73,69,ITI,ITI in Computer Science and Information Technology
+Student_118_2,63,68,73,55,74,72,ITI,ITI in Mechanical and Electrical
+Student_118_3,62,71,67,60,63,66,ITI,ITI in Electronics and Communication
+Student_118_4,73,73,70,60,67,58,ITI,ITI in Construction and Design
+Student_118_5,73,61,67,65,70,62,ITI,ITI in Physical Education and Wellness
+Student_119_1,65,74,63,44,67,65,ITI,ITI in Computer Science and Information Technology
+Student_119_2,65,71,74,72,70,67,ITI,ITI in Mechanical and Electrical
+Student_119_3,72,66,70,48,56,74,ITI,ITI in Electronics and Communication
+Student_119_4,65,73,67,55,72,57,ITI,ITI in Construction and Design
+Student_119_5,66,69,72,58,65,61,ITI,ITI in Physical Education and Wellness
+Student_120_1,74,72,72,68,67,74,ITI,ITI in Computer Science and Information Technology
+Student_120_2,69,69,69,60,63,65,ITI,ITI in Mechanical and Electrical
+Student_120_3,71,74,65,61,58,73,ITI,ITI in Electronics and Communication
+Student_120_4,67,65,73,44,65,58,ITI,ITI in Construction and Design
+Student_120_5,73,72,65,68,66,62,ITI,ITI in Physical Education and Wellness
+Student_121_1,62,71,68,65,65,70,ITI,ITI in Computer Science and Information Technology
+Student_121_2,71,68,72,46,60,72,ITI,ITI in Mechanical and Electrical
+Student_121_3,69,72,71,68,60,70,ITI,ITI in Electronics and Communication
+Student_121_4,73,73,73,57,66,58,ITI,ITI in Construction and Design
+Student_121_5,66,74,73,50,69,61,ITI,ITI in Physical Education and Wellness
+Student_122_1,66,71,61,57,71,73,ITI,ITI in Computer Science and Information Technology
+Student_122_2,72,70,69,69,73,72,ITI,ITI in Mechanical and Electrical
+Student_122_3,69,66,73,50,58,65,ITI,ITI in Electronics and Communication
+Student_122_4,70,69,74,70,69,64,ITI,ITI in Construction and Design
+Student_122_5,71,66,65,65,72,58,ITI,ITI in Physical Education and Wellness
+Student_123_1,72,70,73,68,74,74,ITI,ITI in Computer Science and Information Technology
+Student_123_2,68,65,71,68,73,67,ITI,ITI in Mechanical and Electrical
+Student_123_3,65,68,72,45,62,73,ITI,ITI in Electronics and Communication
+Student_123_4,64,70,74,48,65,61,ITI,ITI in Construction and Design
+Student_123_5,70,61,74,59,73,61,ITI,ITI in Physical Education and Wellness
+Student_124_1,71,65,65,63,69,74,ITI,ITI in Computer Science and Information Technology
+Student_124_2,64,74,73,52,64,66,ITI,ITI in Mechanical and Electrical
+Student_124_3,64,68,73,53,59,71,ITI,ITI in Electronics and Communication
+Student_124_4,70,72,71,65,74,56,ITI,ITI in Construction and Design
+Student_124_5,71,67,69,65,65,56,ITI,ITI in Physical Education and Wellness
+Student_125_1,62,66,64,74,67,74,ITI,ITI in Computer Science and Information Technology
+Student_125_2,65,65,71,58,63,73,ITI,ITI in Mechanical and Electrical
+Student_125_3,66,74,65,45,60,73,ITI,ITI in Electronics and Communication
+Student_125_4,60,68,72,69,67,61,ITI,ITI in Construction and Design
+Student_125_5,65,69,71,51,69,58,ITI,ITI in Physical Education and Wellness
+Student_126_1,64,74,74,48,71,71,ITI,ITI in Computer Science and Information Technology
+Student_126_2,73,72,68,42,64,68,ITI,ITI in Mechanical and Electrical
+Student_126_3,70,70,70,59,60,66,ITI,ITI in Electronics and Communication
+Student_126_4,66,74,70,67,67,58,ITI,ITI in Construction and Design
+Student_126_5,68,65,70,58,72,56,ITI,ITI in Physical Education and Wellness
+Student_127_1,74,66,66,52,71,67,ITI,ITI in Computer Science and Information Technology
+Student_127_2,65,66,70,53,60,73,ITI,ITI in Mechanical and Electrical
+Student_127_3,68,70,65,63,64,68,ITI,ITI in Electronics and Communication
+Student_127_4,65,67,70,65,74,56,ITI,ITI in Construction and Design
+Student_127_5,68,66,67,46,67,64,ITI,ITI in Physical Education and Wellness
+Student_128_1,74,73,74,65,71,65,ITI,ITI in Computer Science and Information Technology
+Student_128_2,69,67,65,53,72,70,ITI,ITI in Mechanical and Electrical
+Student_128_3,69,71,67,45,60,71,ITI,ITI in Electronics and Communication
+Student_128_4,65,73,70,53,73,61,ITI,ITI in Construction and Design
+Student_128_5,65,65,74,70,69,63,ITI,ITI in Physical Education and Wellness
+Student_129_1,69,74,74,48,73,67,ITI,ITI in Computer Science and Information Technology
+Student_129_2,73,65,73,67,71,74,ITI,ITI in Mechanical and Electrical
+Student_129_3,66,65,70,74,57,71,ITI,ITI in Electronics and Communication
+Student_129_4,73,70,73,67,72,58,ITI,ITI in Construction and Design
+Student_129_5,66,74,71,52,70,62,ITI,ITI in Physical Education and Wellness
+Student_130_1,62,72,72,64,65,66,ITI,ITI in Computer Science and Information Technology
+Student_130_2,66,71,70,66,70,70,ITI,ITI in Mechanical and Electrical
+Student_130_3,65,73,69,60,60,66,ITI,ITI in Electronics and Communication
+Student_130_4,67,69,70,74,74,61,ITI,ITI in Construction and Design
+Student_130_5,69,64,65,47,68,60,ITI,ITI in Physical Education and Wellness
+Student_131_1,61,74,71,45,69,70,ITI,ITI in Computer Science and Information Technology
+Student_131_2,63,65,67,53,61,74,ITI,ITI in Mechanical and Electrical
+Student_131_3,71,68,69,48,64,67,ITI,ITI in Electronics and Communication
+Student_131_4,71,71,68,54,67,59,ITI,ITI in Construction and Design
+Student_131_5,71,66,74,68,65,63,ITI,ITI in Physical Education and Wellness
+Student_132_1,66,71,63,44,69,70,ITI,ITI in Computer Science and Information Technology
+Student_132_2,64,73,72,55,67,70,ITI,ITI in Mechanical and Electrical
+Student_132_3,63,72,67,59,61,67,ITI,ITI in Electronics and Communication
+Student_132_4,66,72,65,56,66,64,ITI,ITI in Construction and Design
+Student_132_5,70,74,72,41,72,58,ITI,ITI in Physical Education and Wellness
+Student_133_1,65,67,73,59,72,71,ITI,ITI in Computer Science and Information Technology
+Student_133_2,70,67,68,62,71,73,ITI,ITI in Mechanical and Electrical
+Student_133_3,60,67,69,40,61,73,ITI,ITI in Electronics and Communication
+Student_133_4,67,72,69,64,66,58,ITI,ITI in Construction and Design
+Student_133_5,65,63,65,49,72,56,ITI,ITI in Physical Education and Wellness
+Student_134_1,62,67,65,72,65,67,ITI,ITI in Computer Science and Information Technology
+Student_134_2,62,72,66,60,63,71,ITI,ITI in Mechanical and Electrical
+Student_134_3,62,66,73,64,59,74,ITI,ITI in Electronics and Communication
+Student_134_4,66,72,69,55,68,62,ITI,ITI in Construction and Design
+Student_134_5,66,61,72,68,73,59,ITI,ITI in Physical Education and Wellness
+Student_135_1,69,70,62,59,66,72,ITI,ITI in Computer Science and Information Technology
+Student_135_2,62,73,65,43,66,71,ITI,ITI in Mechanical and Electrical
+Student_135_3,72,66,74,58,57,70,ITI,ITI in Electronics and Communication
+Student_135_4,71,69,73,69,67,60,ITI,ITI in Construction and Design
+Student_135_5,73,72,69,43,66,56,ITI,ITI in Physical Education and Wellness
+Student_136_1,67,72,73,67,71,69,ITI,ITI in Computer Science and Information Technology
+Student_136_2,70,69,72,40,61,71,ITI,ITI in Mechanical and Electrical
+Student_136_3,61,71,72,46,61,69,ITI,ITI in Electronics and Communication
+Student_136_4,70,65,67,73,73,62,ITI,ITI in Construction and Design
+Student_136_5,69,65,66,48,69,60,ITI,ITI in Physical Education and Wellness
+Student_137_1,68,65,66,66,73,73,ITI,ITI in Computer Science and Information Technology
+Student_137_2,62,69,73,48,66,70,ITI,ITI in Mechanical and Electrical
+Student_137_3,72,74,68,73,63,66,ITI,ITI in Electronics and Communication
+Student_137_4,71,66,68,74,70,57,ITI,ITI in Construction and Design
+Student_137_5,68,72,68,50,70,63,ITI,ITI in Physical Education and Wellness
+Student_138_1,63,68,70,41,70,68,ITI,ITI in Computer Science and Information Technology
+Student_138_2,62,74,72,64,74,69,ITI,ITI in Mechanical and Electrical
+Student_138_3,60,66,65,65,58,71,ITI,ITI in Electronics and Communication
+Student_138_4,65,69,73,59,74,62,ITI,ITI in Construction and Design
+Student_138_5,69,66,66,41,65,64,ITI,ITI in Physical Education and Wellness
+Student_139_1,67,74,68,74,72,74,ITI,ITI in Computer Science and Information Technology
+Student_139_2,67,68,67,59,62,68,ITI,ITI in Mechanical and Electrical
+Student_139_3,68,70,72,62,62,66,ITI,ITI in Electronics and Communication
+Student_139_4,68,71,66,40,68,57,ITI,ITI in Construction and Design
+Student_139_5,68,62,73,51,73,58,ITI,ITI in Physical Education and Wellness
+Student_140_1,71,66,65,42,71,73,ITI,ITI in Computer Science and Information Technology
+Student_140_2,71,74,74,54,71,74,ITI,ITI in Mechanical and Electrical
+Student_140_3,70,72,66,51,56,65,ITI,ITI in Electronics and Communication
+Student_140_4,69,67,70,61,67,62,ITI,ITI in Construction and Design
+Student_140_5,68,70,71,43,74,62,ITI,ITI in Physical Education and Wellness
+Student_141_1,62,66,72,73,67,70,ITI,ITI in Computer Science and Information Technology
+Student_141_2,60,66,73,70,69,74,ITI,ITI in Mechanical and Electrical
+Student_141_3,61,67,72,69,64,65,ITI,ITI in Electronics and Communication
+Student_141_4,65,67,69,44,67,56,ITI,ITI in Construction and Design
+Student_141_5,74,70,67,65,67,60,ITI,ITI in Physical Education and Wellness
+Student_142_1,70,73,71,42,73,66,ITI,ITI in Computer Science and Information Technology
+Student_142_2,64,65,69,60,64,66,ITI,ITI in Mechanical and Electrical
+Student_142_3,74,67,72,45,58,65,ITI,ITI in Electronics and Communication
+Student_142_4,72,70,67,43,70,63,ITI,ITI in Construction and Design
+Student_142_5,72,62,74,63,73,63,ITI,ITI in Physical Education and Wellness
+Student_143_1,63,72,62,64,65,73,ITI,ITI in Computer Science and Information Technology
+Student_143_2,65,70,67,64,63,69,ITI,ITI in Mechanical and Electrical
+Student_143_3,72,65,68,50,58,72,ITI,ITI in Electronics and Communication
+Student_143_4,73,65,66,50,70,59,ITI,ITI in Construction and Design
+Student_143_5,68,69,67,64,70,64,ITI,ITI in Physical Education and Wellness
+Student_144_1,71,70,74,74,72,70,ITI,ITI in Computer Science and Information Technology
+Student_144_2,66,70,71,43,73,72,ITI,ITI in Mechanical and Electrical
+Student_144_3,72,69,70,52,64,65,ITI,ITI in Electronics and Communication
+Student_144_4,72,67,66,42,68,61,ITI,ITI in Construction and Design
+Student_144_5,68,67,67,43,72,64,ITI,ITI in Physical Education and Wellness
+Student_145_1,64,72,62,67,66,73,ITI,ITI in Computer Science and Information Technology
+Student_145_2,73,70,72,46,67,74,ITI,ITI in Mechanical and Electrical
+Student_145_3,64,65,70,70,58,65,ITI,ITI in Electronics and Communication
+Student_145_4,66,72,69,53,70,62,ITI,ITI in Construction and Design
+Student_145_5,70,70,68,40,74,61,ITI,ITI in Physical Education and Wellness
+Student_146_1,60,70,69,52,65,65,ITI,ITI in Computer Science and Information Technology
+Student_146_2,70,71,73,65,72,68,ITI,ITI in Mechanical and Electrical
+Student_146_3,60,67,65,42,61,71,ITI,ITI in Electronics and Communication
+Student_146_4,69,71,67,57,65,56,ITI,ITI in Construction and Design
+Student_146_5,71,74,72,40,72,62,ITI,ITI in Physical Education and Wellness
+Student_147_1,71,66,61,63,65,72,ITI,ITI in Computer Science and Information Technology
+Student_147_2,65,70,68,72,61,70,ITI,ITI in Mechanical and Electrical
+Student_147_3,69,65,71,74,61,68,ITI,ITI in Electronics and Communication
+Student_147_4,63,66,69,70,66,63,ITI,ITI in Construction and Design
+Student_147_5,68,62,67,72,68,62,ITI,ITI in Physical Education and Wellness
+Student_148_1,67,66,68,59,67,65,ITI,ITI in Computer Science and Information Technology
+Student_148_2,72,72,66,63,61,67,ITI,ITI in Mechanical and Electrical
+Student_148_3,71,68,70,67,56,73,ITI,ITI in Electronics and Communication
+Student_148_4,71,67,65,71,69,60,ITI,ITI in Construction and Design
+Student_148_5,66,62,73,65,70,58,ITI,ITI in Physical Education and Wellness
+Student_149_1,65,66,73,44,71,71,ITI,ITI in Computer Science and Information Technology
+Student_149_2,65,65,68,50,74,67,ITI,ITI in Mechanical and Electrical
+Student_149_3,71,69,73,66,60,70,ITI,ITI in Electronics and Communication
+Student_149_4,61,66,72,65,68,60,ITI,ITI in Construction and Design
+Student_149_5,74,73,72,68,71,58,ITI,ITI in Physical Education and Wellness
+Student_150_1,70,65,62,65,71,71,ITI,ITI in Computer Science and Information Technology
+Student_150_2,63,70,69,69,74,65,ITI,ITI in Mechanical and Electrical
+Student_150_3,62,69,66,51,56,71,ITI,ITI in Electronics and Communication
+Student_150_4,60,68,67,73,69,60,ITI,ITI in Construction and Design
+Student_150_5,72,72,68,66,74,58,ITI,ITI in Physical Education and Wellness
+Student_151_1,66,74,70,47,68,70,ITI,ITI in Computer Science and Information Technology
+Student_151_2,61,69,66,52,66,65,ITI,ITI in Mechanical and Electrical
+Student_151_3,72,68,68,73,56,70,ITI,ITI in Electronics and Communication
+Student_151_4,73,69,72,62,71,59,ITI,ITI in Construction and Design
+Student_151_5,66,69,66,63,68,56,ITI,ITI in Physical Education and Wellness
+Student_152_1,73,71,65,65,68,66,ITI,ITI in Computer Science and Information Technology
+Student_152_2,70,68,72,61,70,67,ITI,ITI in Mechanical and Electrical
+Student_152_3,66,67,71,54,59,65,ITI,ITI in Electronics and Communication
+Student_152_4,63,66,67,64,73,57,ITI,ITI in Construction and Design
+Student_152_5,69,68,70,42,70,63,ITI,ITI in Physical Education and Wellness
+Student_153_1,72,69,64,72,70,74,ITI,ITI in Computer Science and Information Technology
+Student_153_2,67,72,73,66,61,71,ITI,ITI in Mechanical and Electrical
+Student_153_3,65,72,74,61,56,72,ITI,ITI in Electronics and Communication
+Student_153_4,63,68,66,55,66,60,ITI,ITI in Construction and Design
+Student_153_5,72,74,67,65,72,63,ITI,ITI in Physical Education and Wellness
+Student_154_1,63,70,65,44,74,72,ITI,ITI in Computer Science and Information Technology
+Student_154_2,72,65,73,43,67,66,ITI,ITI in Mechanical and Electrical
+Student_154_3,62,71,68,74,56,68,ITI,ITI in Electronics and Communication
+Student_154_4,69,69,72,44,67,60,ITI,ITI in Construction and Design
+Student_154_5,65,62,73,64,74,58,ITI,ITI in Physical Education and Wellness
+Student_155_1,65,69,62,74,74,68,ITI,ITI in Computer Science and Information Technology
+Student_155_2,63,66,72,61,71,66,ITI,ITI in Mechanical and Electrical
+Student_155_3,62,67,70,55,59,66,ITI,ITI in Electronics and Communication
+Student_155_4,67,70,68,57,66,59,ITI,ITI in Construction and Design
+Student_155_5,70,66,68,70,65,60,ITI,ITI in Physical Education and Wellness
+Student_156_1,67,70,74,40,68,67,ITI,ITI in Computer Science and Information Technology
+Student_156_2,73,69,69,61,74,72,ITI,ITI in Mechanical and Electrical
+Student_156_3,72,66,68,59,58,74,ITI,ITI in Electronics and Communication
+Student_156_4,64,68,67,53,67,56,ITI,ITI in Construction and Design
+Student_156_5,71,63,71,66,68,64,ITI,ITI in Physical Education and Wellness
+Student_157_1,69,69,74,48,72,72,ITI,ITI in Computer Science and Information Technology
+Student_157_2,69,71,66,52,70,74,ITI,ITI in Mechanical and Electrical
+Student_157_3,70,71,65,71,60,70,ITI,ITI in Electronics and Communication
+Student_157_4,66,72,66,51,71,56,ITI,ITI in Construction and Design
+Student_157_5,74,72,74,65,69,64,ITI,ITI in Physical Education and Wellness
+Student_158_1,70,73,71,48,73,72,ITI,ITI in Computer Science and Information Technology
+Student_158_2,71,72,71,42,71,70,ITI,ITI in Mechanical and Electrical
+Student_158_3,62,68,72,51,56,70,ITI,ITI in Electronics and Communication
+Student_158_4,71,68,65,62,67,56,ITI,ITI in Construction and Design
+Student_158_5,74,60,65,59,66,58,ITI,ITI in Physical Education and Wellness
+Student_159_1,72,72,65,55,65,66,ITI,ITI in Computer Science and Information Technology
+Student_159_2,63,65,73,62,66,74,ITI,ITI in Mechanical and Electrical
+Student_159_3,62,69,67,68,57,69,ITI,ITI in Electronics and Communication
+Student_159_4,63,74,71,42,69,60,ITI,ITI in Construction and Design
+Student_159_5,72,63,73,58,66,58,ITI,ITI in Physical Education and Wellness
+Student_160_1,74,69,64,72,74,74,ITI,ITI in Computer Science and Information Technology
+Student_160_2,63,72,72,71,60,70,ITI,ITI in Mechanical and Electrical
+Student_160_3,73,73,72,71,60,66,ITI,ITI in Electronics and Communication
+Student_160_4,71,69,65,72,66,59,ITI,ITI in Construction and Design
+Student_160_5,67,70,67,53,73,61,ITI,ITI in Physical Education and Wellness
+Student_161_1,70,72,61,44,72,68,ITI,ITI in Computer Science and Information Technology
+Student_161_2,69,74,65,68,71,71,ITI,ITI in Mechanical and Electrical
+Student_161_3,69,66,67,55,60,69,ITI,ITI in Electronics and Communication
+Student_161_4,64,70,73,61,69,56,ITI,ITI in Construction and Design
+Student_161_5,73,67,69,72,72,63,ITI,ITI in Physical Education and Wellness
+Student_162_1,63,72,63,51,74,66,ITI,ITI in Computer Science and Information Technology
+Student_162_2,63,67,65,45,74,71,ITI,ITI in Mechanical and Electrical
+Student_162_3,63,67,65,44,64,74,ITI,ITI in Electronics and Communication
+Student_162_4,61,73,68,74,73,63,ITI,ITI in Construction and Design
+Student_162_5,72,74,68,60,70,57,ITI,ITI in Physical Education and Wellness
+Student_163_1,71,66,72,53,65,67,ITI,ITI in Computer Science and Information Technology
+Student_163_2,63,70,71,61,68,67,ITI,ITI in Mechanical and Electrical
+Student_163_3,68,67,72,61,59,68,ITI,ITI in Electronics and Communication
+Student_163_4,67,74,72,61,71,60,ITI,ITI in Construction and Design
+Student_163_5,74,67,66,46,68,59,ITI,ITI in Physical Education and Wellness
+Student_164_1,63,65,64,42,67,67,ITI,ITI in Computer Science and Information Technology
+Student_164_2,61,68,66,73,68,67,ITI,ITI in Mechanical and Electrical
+Student_164_3,73,69,73,40,63,68,ITI,ITI in Electronics and Communication
+Student_164_4,68,74,66,41,73,59,ITI,ITI in Construction and Design
+Student_164_5,71,69,65,45,70,63,ITI,ITI in Physical Education and Wellness
+Student_165_1,62,67,64,52,65,69,ITI,ITI in Computer Science and Information Technology
+Student_165_2,61,67,66,69,74,72,ITI,ITI in Mechanical and Electrical
+Student_165_3,71,68,73,72,64,72,ITI,ITI in Electronics and Communication
+Student_165_4,63,74,73,74,72,62,ITI,ITI in Construction and Design
+Student_165_5,69,61,71,51,69,57,ITI,ITI in Physical Education and Wellness
+Student_166_1,61,70,62,57,71,69,ITI,ITI in Computer Science and Information Technology
+Student_166_2,64,66,69,49,66,67,ITI,ITI in Mechanical and Electrical
+Student_166_3,61,70,68,62,58,74,ITI,ITI in Electronics and Communication
+Student_166_4,74,65,73,52,74,59,ITI,ITI in Construction and Design
+Student_166_5,67,67,67,57,70,61,ITI,ITI in Physical Education and Wellness
+Student_167_1,69,65,65,52,68,72,ITI,ITI in Computer Science and Information Technology
+Student_167_2,70,70,69,40,61,70,ITI,ITI in Mechanical and Electrical
+Student_167_3,69,68,70,54,58,72,ITI,ITI in Electronics and Communication
+Student_167_4,67,69,72,63,66,58,ITI,ITI in Construction and Design
+Student_167_5,71,67,73,59,68,56,ITI,ITI in Physical Education and Wellness
+Student_168_1,71,68,63,53,67,65,ITI,ITI in Computer Science and Information Technology
+Student_168_2,72,70,70,49,63,74,ITI,ITI in Mechanical and Electrical
+Student_168_3,69,70,66,48,60,72,ITI,ITI in Electronics and Communication
+Student_168_4,71,72,72,58,67,61,ITI,ITI in Construction and Design
+Student_168_5,74,68,67,63,69,59,ITI,ITI in Physical Education and Wellness
+Student_169_1,61,66,63,55,73,70,ITI,ITI in Computer Science and Information Technology
+Student_169_2,73,68,70,50,60,69,ITI,ITI in Mechanical and Electrical
+Student_169_3,72,74,71,44,59,74,ITI,ITI in Electronics and Communication
+Student_169_4,63,69,71,40,72,61,ITI,ITI in Construction and Design
+Student_169_5,68,68,66,50,68,64,ITI,ITI in Physical Education and Wellness
+Student_170_1,67,70,62,58,69,65,ITI,ITI in Computer Science and Information Technology
+Student_170_2,63,71,68,43,61,74,ITI,ITI in Mechanical and Electrical
+Student_170_3,63,72,65,42,64,74,ITI,ITI in Electronics and Communication
+Student_170_4,69,70,70,63,73,58,ITI,ITI in Construction and Design
+Student_170_5,71,73,66,59,65,60,ITI,ITI in Physical Education and Wellness
+Student_171_1,74,73,61,46,65,72,ITI,ITI in Computer Science and Information Technology
+Student_171_2,73,65,74,44,60,72,ITI,ITI in Mechanical and Electrical
+Student_171_3,61,66,73,56,63,66,ITI,ITI in Electronics and Communication
+Student_171_4,63,71,71,65,71,63,ITI,ITI in Construction and Design
+Student_171_5,71,73,71,74,74,63,ITI,ITI in Physical Education and Wellness
+Student_172_1,74,72,74,44,67,65,ITI,ITI in Computer Science and Information Technology
+Student_172_2,68,71,69,62,72,73,ITI,ITI in Mechanical and Electrical
+Student_172_3,61,65,65,62,60,66,ITI,ITI in Electronics and Communication
+Student_172_4,65,74,72,57,69,63,ITI,ITI in Construction and Design
+Student_172_5,67,71,68,54,68,63,ITI,ITI in Physical Education and Wellness
+Student_173_1,67,69,74,65,71,70,ITI,ITI in Computer Science and Information Technology
+Student_173_2,71,70,72,57,62,67,ITI,ITI in Mechanical and Electrical
+Student_173_3,68,66,73,70,62,65,ITI,ITI in Electronics and Communication
+Student_173_4,72,71,72,69,72,63,ITI,ITI in Construction and Design
+Student_173_5,71,61,66,41,66,59,ITI,ITI in Physical Education and Wellness
+Student_174_1,66,66,63,54,71,68,ITI,ITI in Computer Science and Information Technology
+Student_174_2,63,70,65,41,62,68,ITI,ITI in Mechanical and Electrical
+Student_174_3,64,72,72,40,56,73,ITI,ITI in Electronics and Communication
+Student_174_4,74,70,67,57,67,57,ITI,ITI in Construction and Design
+Student_174_5,66,72,69,59,65,64,ITI,ITI in Physical Education and Wellness
+Student_175_1,60,67,60,45,69,65,ITI,ITI in Computer Science and Information Technology
+Student_175_2,64,66,70,58,73,67,ITI,ITI in Mechanical and Electrical
+Student_175_3,63,72,73,57,59,72,ITI,ITI in Electronics and Communication
+Student_175_4,62,65,68,59,72,57,ITI,ITI in Construction and Design
+Student_175_5,67,71,68,67,74,63,ITI,ITI in Physical Education and Wellness
+Student_176_1,61,74,60,54,71,72,ITI,ITI in Computer Science and Information Technology
+Student_176_2,67,71,67,45,66,70,ITI,ITI in Mechanical and Electrical
+Student_176_3,74,72,67,51,59,70,ITI,ITI in Electronics and Communication
+Student_176_4,70,70,72,56,66,57,ITI,ITI in Construction and Design
+Student_176_5,73,68,74,61,67,61,ITI,ITI in Physical Education and Wellness
+Student_177_1,69,70,62,61,70,74,ITI,ITI in Computer Science and Information Technology
+Student_177_2,66,72,73,65,65,70,ITI,ITI in Mechanical and Electrical
+Student_177_3,64,73,70,50,64,67,ITI,ITI in Electronics and Communication
+Student_177_4,69,65,73,44,70,63,ITI,ITI in Construction and Design
+Student_177_5,68,69,68,69,72,60,ITI,ITI in Physical Education and Wellness
+Student_178_1,66,69,64,67,72,73,ITI,ITI in Computer Science and Information Technology
+Student_178_2,68,72,74,61,71,68,ITI,ITI in Mechanical and Electrical
+Student_178_3,70,69,72,59,56,72,ITI,ITI in Electronics and Communication
+Student_178_4,67,65,72,54,66,57,ITI,ITI in Construction and Design
+Student_178_5,67,70,73,61,70,59,ITI,ITI in Physical Education and Wellness
+Student_179_1,64,72,72,52,66,67,ITI,ITI in Computer Science and Information Technology
+Student_179_2,70,72,71,60,67,68,ITI,ITI in Mechanical and Electrical
+Student_179_3,74,69,72,49,58,73,ITI,ITI in Electronics and Communication
+Student_179_4,74,65,69,60,70,60,ITI,ITI in Construction and Design
+Student_179_5,65,64,72,74,69,58,ITI,ITI in Physical Education and Wellness
+Student_180_1,71,71,64,71,70,70,ITI,ITI in Computer Science and Information Technology
+Student_180_2,69,71,73,70,67,65,ITI,ITI in Mechanical and Electrical
+Student_180_3,73,67,66,47,58,71,ITI,ITI in Electronics and Communication
+Student_180_4,62,74,71,46,69,64,ITI,ITI in Construction and Design
+Student_180_5,66,64,69,69,65,63,ITI,ITI in Physical Education and Wellness
+Student_181_1,70,73,71,70,73,65,ITI,ITI in Computer Science and Information Technology
+Student_181_2,68,73,65,71,68,68,ITI,ITI in Mechanical and Electrical
+Student_181_3,61,69,69,74,64,65,ITI,ITI in Electronics and Communication
+Student_181_4,68,70,66,47,65,61,ITI,ITI in Construction and Design
+Student_181_5,69,63,73,40,65,64,ITI,ITI in Physical Education and Wellness
+Student_182_1,65,66,67,50,68,69,ITI,ITI in Computer Science and Information Technology
+Student_182_2,65,69,65,66,66,66,ITI,ITI in Mechanical and Electrical
+Student_182_3,73,66,72,56,62,68,ITI,ITI in Electronics and Communication
+Student_182_4,60,71,70,65,69,60,ITI,ITI in Construction and Design
+Student_182_5,71,67,69,42,65,58,ITI,ITI in Physical Education and Wellness
+Student_183_1,74,70,70,56,72,66,ITI,ITI in Computer Science and Information Technology
+Student_183_2,70,70,74,53,70,73,ITI,ITI in Mechanical and Electrical
+Student_183_3,65,74,67,69,62,72,ITI,ITI in Electronics and Communication
+Student_183_4,72,73,73,58,67,56,ITI,ITI in Construction and Design
+Student_183_5,68,61,68,58,70,58,ITI,ITI in Physical Education and Wellness
+Student_184_1,62,65,69,52,65,68,ITI,ITI in Computer Science and Information Technology
+Student_184_2,66,65,73,48,71,66,ITI,ITI in Mechanical and Electrical
+Student_184_3,74,74,67,59,56,72,ITI,ITI in Electronics and Communication
+Student_184_4,74,74,67,69,72,64,ITI,ITI in Construction and Design
+Student_184_5,72,73,65,45,71,56,ITI,ITI in Physical Education and Wellness
+Student_185_1,66,73,63,49,67,69,ITI,ITI in Computer Science and Information Technology
+Student_185_2,70,65,73,55,60,71,ITI,ITI in Mechanical and Electrical
+Student_185_3,64,66,67,70,56,74,ITI,ITI in Electronics and Communication
+Student_185_4,63,67,74,47,65,64,ITI,ITI in Construction and Design
+Student_185_5,74,62,71,41,73,56,ITI,ITI in Physical Education and Wellness
+Student_186_1,63,74,70,43,69,69,ITI,ITI in Computer Science and Information Technology
+Student_186_2,64,72,69,62,72,67,ITI,ITI in Mechanical and Electrical
+Student_186_3,64,70,67,59,59,66,ITI,ITI in Electronics and Communication
+Student_186_4,73,69,72,66,70,63,ITI,ITI in Construction and Design
+Student_186_5,73,61,69,41,68,56,ITI,ITI in Physical Education and Wellness
+Student_187_1,73,74,72,65,65,68,ITI,ITI in Computer Science and Information Technology
+Student_187_2,68,68,69,70,73,66,ITI,ITI in Mechanical and Electrical
+Student_187_3,62,73,71,57,64,65,ITI,ITI in Electronics and Communication
+Student_187_4,68,71,69,54,65,59,ITI,ITI in Construction and Design
+Student_187_5,68,60,72,74,71,59,ITI,ITI in Physical Education and Wellness
+Student_188_1,61,71,65,73,70,72,ITI,ITI in Computer Science and Information Technology
+Student_188_2,71,67,65,58,67,70,ITI,ITI in Mechanical and Electrical
+Student_188_3,66,65,73,46,56,67,ITI,ITI in Electronics and Communication
+Student_188_4,68,66,71,42,71,59,ITI,ITI in Construction and Design
+Student_188_5,67,71,71,65,70,57,ITI,ITI in Physical Education and Wellness
+Student_189_1,66,68,71,66,70,74,ITI,ITI in Computer Science and Information Technology
+Student_189_2,60,65,66,68,70,70,ITI,ITI in Mechanical and Electrical
+Student_189_3,67,70,66,59,60,73,ITI,ITI in Electronics and Communication
+Student_189_4,74,69,65,48,66,64,ITI,ITI in Construction and Design
+Student_189_5,67,65,67,73,66,63,ITI,ITI in Physical Education and Wellness
+Student_190_1,63,72,72,62,66,74,ITI,ITI in Computer Science and Information Technology
+Student_190_2,62,67,69,56,66,72,ITI,ITI in Mechanical and Electrical
+Student_190_3,63,69,67,44,63,69,ITI,ITI in Electronics and Communication
+Student_190_4,60,73,65,57,73,60,ITI,ITI in Construction and Design
+Student_190_5,65,60,70,55,69,56,ITI,ITI in Physical Education and Wellness
+Student_191_1,68,66,74,50,72,66,ITI,ITI in Computer Science and Information Technology
+Student_191_2,71,68,72,64,62,67,ITI,ITI in Mechanical and Electrical
+Student_191_3,65,65,67,72,64,66,ITI,ITI in Electronics and Communication
+Student_191_4,74,67,67,55,74,56,ITI,ITI in Construction and Design
+Student_191_5,68,68,69,50,69,62,ITI,ITI in Physical Education and Wellness
+Student_192_1,62,67,74,69,74,71,ITI,ITI in Computer Science and Information Technology
+Student_192_2,68,69,72,56,73,67,ITI,ITI in Mechanical and Electrical
+Student_192_3,67,67,72,66,57,66,ITI,ITI in Electronics and Communication
+Student_192_4,70,66,74,50,70,59,ITI,ITI in Construction and Design
+Student_192_5,72,68,73,72,72,64,ITI,ITI in Physical Education and Wellness
+Student_193_1,70,72,61,66,69,70,ITI,ITI in Computer Science and Information Technology
+Student_193_2,71,69,71,47,65,69,ITI,ITI in Mechanical and Electrical
+Student_193_3,74,70,71,53,57,72,ITI,ITI in Electronics and Communication
+Student_193_4,64,71,70,66,70,61,ITI,ITI in Construction and Design
+Student_193_5,74,70,67,41,71,59,ITI,ITI in Physical Education and Wellness
+Student_194_1,74,70,66,63,66,73,ITI,ITI in Computer Science and Information Technology
+Student_194_2,69,69,73,67,72,72,ITI,ITI in Mechanical and Electrical
+Student_194_3,67,67,70,70,56,73,ITI,ITI in Electronics and Communication
+Student_194_4,71,68,74,47,67,60,ITI,ITI in Construction and Design
+Student_194_5,66,62,69,68,73,59,ITI,ITI in Physical Education and Wellness
+Student_195_1,74,67,66,62,71,69,ITI,ITI in Computer Science and Information Technology
+Student_195_2,70,70,65,52,73,71,ITI,ITI in Mechanical and Electrical
+Student_195_3,66,73,67,49,63,66,ITI,ITI in Electronics and Communication
+Student_195_4,71,71,68,42,74,61,ITI,ITI in Construction and Design
+Student_195_5,73,61,66,63,72,58,ITI,ITI in Physical Education and Wellness
+Student_196_1,70,66,62,63,71,69,ITI,ITI in Computer Science and Information Technology
+Student_196_2,60,72,68,63,69,70,ITI,ITI in Mechanical and Electrical
+Student_196_3,67,68,74,41,60,73,ITI,ITI in Electronics and Communication
+Student_196_4,74,68,67,48,67,62,ITI,ITI in Construction and Design
+Student_196_5,65,67,71,45,74,59,ITI,ITI in Physical Education and Wellness
+Student_197_1,69,68,61,55,73,74,ITI,ITI in Computer Science and Information Technology
+Student_197_2,62,74,72,53,72,65,ITI,ITI in Mechanical and Electrical
+Student_197_3,72,73,66,40,61,72,ITI,ITI in Electronics and Communication
+Student_197_4,71,66,70,73,69,58,ITI,ITI in Construction and Design
+Student_197_5,65,64,68,73,73,58,ITI,ITI in Physical Education and Wellness
+Student_198_1,60,74,73,62,67,66,ITI,ITI in Computer Science and Information Technology
+Student_198_2,71,71,66,62,70,69,ITI,ITI in Mechanical and Electrical
+Student_198_3,62,70,74,70,62,68,ITI,ITI in Electronics and Communication
+Student_198_4,70,71,72,63,65,59,ITI,ITI in Construction and Design
+Student_198_5,65,74,67,44,74,58,ITI,ITI in Physical Education and Wellness
+Student_199_1,67,68,69,64,70,69,ITI,ITI in Computer Science and Information Technology
+Student_199_2,68,71,73,41,61,72,ITI,ITI in Mechanical and Electrical
+Student_199_3,74,70,74,54,57,70,ITI,ITI in Electronics and Communication
+Student_199_4,61,68,65,67,71,63,ITI,ITI in Construction and Design
+Student_199_5,72,73,68,64,74,58,ITI,ITI in Physical Education and Wellness
+Student_200_1,64,67,61,63,74,66,ITI,ITI in Computer Science and Information Technology
+Student_200_2,72,66,68,46,70,74,ITI,ITI in Mechanical and Electrical
+Student_200_3,70,71,65,58,64,70,ITI,ITI in Electronics and Communication
+Student_200_4,60,73,71,55,68,57,ITI,ITI in Construction and Design
+Student_200_5,71,74,66,41,72,56,ITI,ITI in Physical Education and Wellness
+Student_201_1,69,70,68,52,67,73,ITI,ITI in Computer Science and Information Technology
+Student_201_2,62,73,71,47,68,68,ITI,ITI in Mechanical and Electrical
+Student_201_3,72,70,70,64,63,73,ITI,ITI in Electronics and Communication
+Student_201_4,65,65,65,42,70,64,ITI,ITI in Construction and Design
+Student_201_5,68,68,68,50,67,59,ITI,ITI in Physical Education and Wellness
+Student_202_1,73,73,68,42,68,67,ITI,ITI in Computer Science and Information Technology
+Student_202_2,65,65,67,71,73,72,ITI,ITI in Mechanical and Electrical
+Student_202_3,62,65,70,51,64,68,ITI,ITI in Electronics and Communication
+Student_202_4,65,73,65,49,66,60,ITI,ITI in Construction and Design
+Student_202_5,67,64,66,43,74,58,ITI,ITI in Physical Education and Wellness
+Student_203_1,66,73,67,70,71,70,ITI,ITI in Computer Science and Information Technology
+Student_203_2,63,66,66,62,64,72,ITI,ITI in Mechanical and Electrical
+Student_203_3,64,67,71,63,63,66,ITI,ITI in Electronics and Communication
+Student_203_4,73,65,73,48,68,60,ITI,ITI in Construction and Design
+Student_203_5,73,60,67,71,70,60,ITI,ITI in Physical Education and Wellness
+Student_204_1,61,66,60,56,72,73,ITI,ITI in Computer Science and Information Technology
+Student_204_2,60,73,66,43,67,73,ITI,ITI in Mechanical and Electrical
+Student_204_3,70,71,70,48,62,71,ITI,ITI in Electronics and Communication
+Student_204_4,66,72,69,63,74,56,ITI,ITI in Construction and Design
+Student_204_5,74,68,74,52,72,57,ITI,ITI in Physical Education and Wellness
+Student_205_1,73,72,63,40,73,70,ITI,ITI in Computer Science and Information Technology
+Student_205_2,73,72,73,64,71,72,ITI,ITI in Mechanical and Electrical
+Student_205_3,72,71,66,48,64,71,ITI,ITI in Electronics and Communication
+Student_205_4,63,66,66,69,68,64,ITI,ITI in Construction and Design
+Student_205_5,67,61,73,53,66,61,ITI,ITI in Physical Education and Wellness
+Student_206_1,71,71,66,74,67,67,ITI,ITI in Computer Science and Information Technology
+Student_206_2,73,69,65,71,61,66,ITI,ITI in Mechanical and Electrical
+Student_206_3,60,74,66,47,64,70,ITI,ITI in Electronics and Communication
+Student_206_4,64,66,72,58,65,60,ITI,ITI in Construction and Design
+Student_206_5,67,69,71,47,66,56,ITI,ITI in Physical Education and Wellness
+Student_207_1,74,73,64,68,67,70,ITI,ITI in Computer Science and Information Technology
+Student_207_2,62,65,74,46,63,73,ITI,ITI in Mechanical and Electrical
+Student_207_3,69,65,70,54,58,70,ITI,ITI in Electronics and Communication
+Student_207_4,73,72,69,46,69,61,ITI,ITI in Construction and Design
+Student_207_5,70,63,66,56,71,56,ITI,ITI in Physical Education and Wellness
+Student_208_1,67,74,70,47,74,74,ITI,ITI in Computer Science and Information Technology
+Student_208_2,68,65,68,72,63,67,ITI,ITI in Mechanical and Electrical
+Student_208_3,71,70,69,69,59,65,ITI,ITI in Electronics and Communication
+Student_208_4,68,69,68,60,71,56,ITI,ITI in Construction and Design
+Student_208_5,71,70,73,46,71,64,ITI,ITI in Physical Education and Wellness
+Student_209_1,62,70,67,60,72,71,ITI,ITI in Computer Science and Information Technology
+Student_209_2,61,73,71,63,74,69,ITI,ITI in Mechanical and Electrical
+Student_209_3,73,67,69,48,62,74,ITI,ITI in Electronics and Communication
+Student_209_4,72,71,65,61,74,58,ITI,ITI in Construction and Design
+Student_209_5,66,61,67,56,70,62,ITI,ITI in Physical Education and Wellness
+Student_210_1,61,69,64,42,73,69,ITI,ITI in Computer Science and Information Technology
+Student_210_2,60,70,72,70,69,72,ITI,ITI in Mechanical and Electrical
+Student_210_3,69,70,69,74,62,73,ITI,ITI in Electronics and Communication
+Student_210_4,70,74,71,70,71,60,ITI,ITI in Construction and Design
+Student_210_5,65,66,69,74,68,63,ITI,ITI in Physical Education and Wellness
+Student_211_1,70,69,65,68,69,65,ITI,ITI in Computer Science and Information Technology
+Student_211_2,63,73,73,62,70,72,ITI,ITI in Mechanical and Electrical
+Student_211_3,74,71,68,59,57,66,ITI,ITI in Electronics and Communication
+Student_211_4,74,67,70,40,68,59,ITI,ITI in Construction and Design
+Student_211_5,69,74,70,53,71,63,ITI,ITI in Physical Education and Wellness
+Student_212_1,63,68,69,63,70,66,ITI,ITI in Computer Science and Information Technology
+Student_212_2,69,74,72,55,64,68,ITI,ITI in Mechanical and Electrical
+Student_212_3,71,67,71,70,59,71,ITI,ITI in Electronics and Communication
+Student_212_4,70,70,67,62,73,58,ITI,ITI in Construction and Design
+Student_212_5,67,73,70,71,74,64,ITI,ITI in Physical Education and Wellness
+Student_213_1,67,67,70,73,73,69,ITI,ITI in Computer Science and Information Technology
+Student_213_2,69,69,66,54,72,66,ITI,ITI in Mechanical and Electrical
+Student_213_3,70,71,67,71,61,65,ITI,ITI in Electronics and Communication
+Student_213_4,72,72,69,45,66,64,ITI,ITI in Construction and Design
+Student_213_5,69,69,73,74,65,63,ITI,ITI in Physical Education and Wellness
+Student_214_1,65,71,64,60,71,72,ITI,ITI in Computer Science and Information Technology
+Student_214_2,66,66,70,66,74,69,ITI,ITI in Mechanical and Electrical
+Student_214_3,65,70,69,61,63,69,ITI,ITI in Electronics and Communication
+Student_214_4,60,73,66,45,68,61,ITI,ITI in Construction and Design
+Student_214_5,71,61,71,57,72,61,ITI,ITI in Physical Education and Wellness
+Student_215_1,71,65,70,63,74,72,ITI,ITI in Computer Science and Information Technology
+Student_215_2,65,70,69,50,63,70,ITI,ITI in Mechanical and Electrical
+Student_215_3,65,74,67,55,59,71,ITI,ITI in Electronics and Communication
+Student_215_4,67,70,66,66,69,63,ITI,ITI in Construction and Design
+Student_215_5,68,60,69,58,74,57,ITI,ITI in Physical Education and Wellness
+Student_216_1,66,74,61,43,72,68,ITI,ITI in Computer Science and Information Technology
+Student_216_2,61,71,71,66,60,72,ITI,ITI in Mechanical and Electrical
+Student_216_3,72,70,72,52,61,72,ITI,ITI in Electronics and Communication
+Student_216_4,72,69,70,69,69,60,ITI,ITI in Construction and Design
+Student_216_5,70,71,71,52,72,60,ITI,ITI in Physical Education and Wellness
+Student_217_1,72,67,63,74,74,70,ITI,ITI in Computer Science and Information Technology
+Student_217_2,61,69,67,63,63,68,ITI,ITI in Mechanical and Electrical
+Student_217_3,64,65,73,54,56,69,ITI,ITI in Electronics and Communication
+Student_217_4,66,67,74,50,72,61,ITI,ITI in Construction and Design
+Student_217_5,74,63,65,60,68,58,ITI,ITI in Physical Education and Wellness
+Student_218_1,68,67,60,47,66,73,ITI,ITI in Computer Science and Information Technology
+Student_218_2,65,73,69,42,70,71,ITI,ITI in Mechanical and Electrical
+Student_218_3,65,69,70,67,59,72,ITI,ITI in Electronics and Communication
+Student_218_4,74,65,65,72,73,63,ITI,ITI in Construction and Design
+Student_218_5,72,64,66,58,74,63,ITI,ITI in Physical Education and Wellness
+Student_219_1,61,70,64,52,65,69,ITI,ITI in Computer Science and Information Technology
+Student_219_2,64,68,65,41,72,69,ITI,ITI in Mechanical and Electrical
+Student_219_3,69,73,67,46,57,69,ITI,ITI in Electronics and Communication
+Student_219_4,71,66,67,51,74,56,ITI,ITI in Construction and Design
+Student_219_5,69,61,71,53,65,59,ITI,ITI in Physical Education and Wellness
+Student_220_1,73,71,64,73,74,67,ITI,ITI in Computer Science and Information Technology
+Student_220_2,61,73,72,59,73,73,ITI,ITI in Mechanical and Electrical
+Student_220_3,74,68,69,59,61,73,ITI,ITI in Electronics and Communication
+Student_220_4,63,67,67,70,73,64,ITI,ITI in Construction and Design
+Student_220_5,72,74,70,71,67,57,ITI,ITI in Physical Education and Wellness
+Student_221_1,69,66,69,52,69,69,ITI,ITI in Computer Science and Information Technology
+Student_221_2,65,68,73,40,67,71,ITI,ITI in Mechanical and Electrical
+Student_221_3,66,65,71,67,60,72,ITI,ITI in Electronics and Communication
+Student_221_4,64,72,73,41,70,62,ITI,ITI in Construction and Design
+Student_221_5,72,70,71,41,70,61,ITI,ITI in Physical Education and Wellness
+Student_222_1,61,74,61,53,72,65,ITI,ITI in Computer Science and Information Technology
+Student_222_2,64,65,70,53,69,68,ITI,ITI in Mechanical and Electrical
+Student_222_3,63,66,66,62,62,69,ITI,ITI in Electronics and Communication
+Student_222_4,61,66,68,54,65,58,ITI,ITI in Construction and Design
+Student_222_5,72,61,72,65,67,56,ITI,ITI in Physical Education and Wellness
+Student_223_1,70,68,72,67,68,74,ITI,ITI in Computer Science and Information Technology
+Student_223_2,71,71,69,67,61,69,ITI,ITI in Mechanical and Electrical
+Student_223_3,71,70,71,66,60,69,ITI,ITI in Electronics and Communication
+Student_223_4,70,66,66,50,67,58,ITI,ITI in Construction and Design
+Student_223_5,73,64,66,53,71,64,ITI,ITI in Physical Education and Wellness
+Student_224_1,66,68,70,67,70,67,ITI,ITI in Computer Science and Information Technology
+Student_224_2,69,72,73,68,72,66,ITI,ITI in Mechanical and Electrical
+Student_224_3,67,67,68,74,60,68,ITI,ITI in Electronics and Communication
+Student_224_4,71,71,74,59,67,62,ITI,ITI in Construction and Design
+Student_224_5,68,67,74,40,72,61,ITI,ITI in Physical Education and Wellness
+Student_225_1,66,74,67,67,72,73,ITI,ITI in Computer Science and Information Technology
+Student_225_2,60,68,69,58,69,74,ITI,ITI in Mechanical and Electrical
+Student_225_3,64,70,66,58,58,73,ITI,ITI in Electronics and Communication
+Student_225_4,68,66,67,50,70,56,ITI,ITI in Construction and Design
+Student_225_5,71,74,66,43,65,59,ITI,ITI in Physical Education and Wellness
+Student_226_1,70,68,69,55,67,72,ITI,ITI in Computer Science and Information Technology
+Student_226_2,74,65,72,49,72,73,ITI,ITI in Mechanical and Electrical
+Student_226_3,67,70,70,54,58,74,ITI,ITI in Electronics and Communication
+Student_226_4,64,67,71,64,73,60,ITI,ITI in Construction and Design
+Student_226_5,66,71,67,50,66,64,ITI,ITI in Physical Education and Wellness
+Student_227_1,74,70,69,56,69,74,ITI,ITI in Computer Science and Information Technology
+Student_227_2,72,67,71,57,70,71,ITI,ITI in Mechanical and Electrical
+Student_227_3,71,68,72,54,59,66,ITI,ITI in Electronics and Communication
+Student_227_4,70,65,73,52,72,57,ITI,ITI in Construction and Design
+Student_227_5,67,62,73,66,70,64,ITI,ITI in Physical Education and Wellness
+Student_228_1,70,68,61,54,74,74,ITI,ITI in Computer Science and Information Technology
+Student_228_2,67,67,68,66,70,74,ITI,ITI in Mechanical and Electrical
+Student_228_3,61,72,65,56,59,69,ITI,ITI in Electronics and Communication
+Student_228_4,70,72,68,47,74,57,ITI,ITI in Construction and Design
+Student_228_5,69,67,66,43,71,57,ITI,ITI in Physical Education and Wellness
+Student_229_1,62,73,67,64,65,68,ITI,ITI in Computer Science and Information Technology
+Student_229_2,65,65,74,72,73,69,ITI,ITI in Mechanical and Electrical
+Student_229_3,73,67,67,57,62,66,ITI,ITI in Electronics and Communication
+Student_229_4,62,70,70,49,69,62,ITI,ITI in Construction and Design
+Student_229_5,74,63,74,74,68,62,ITI,ITI in Physical Education and Wellness
+Student_230_1,64,69,60,51,74,73,ITI,ITI in Computer Science and Information Technology
+Student_230_2,65,67,73,74,63,72,ITI,ITI in Mechanical and Electrical
+Student_230_3,62,69,70,40,59,71,ITI,ITI in Electronics and Communication
+Student_230_4,62,73,72,53,67,56,ITI,ITI in Construction and Design
+Student_230_5,67,61,71,42,71,64,ITI,ITI in Physical Education and Wellness
+Student_231_1,71,68,74,48,74,68,ITI,ITI in Computer Science and Information Technology
+Student_231_2,62,70,69,65,61,66,ITI,ITI in Mechanical and Electrical
+Student_231_3,61,72,71,74,63,65,ITI,ITI in Electronics and Communication
+Student_231_4,72,74,65,62,67,61,ITI,ITI in Construction and Design
+Student_231_5,65,69,70,52,72,61,ITI,ITI in Physical Education and Wellness
+Student_232_1,66,69,60,47,72,71,ITI,ITI in Computer Science and Information Technology
+Student_232_2,71,67,74,40,64,73,ITI,ITI in Mechanical and Electrical
+Student_232_3,70,65,67,42,63,67,ITI,ITI in Electronics and Communication
+Student_232_4,69,72,69,43,70,64,ITI,ITI in Construction and Design
+Student_232_5,69,68,73,55,71,62,ITI,ITI in Physical Education and Wellness
+Student_233_1,69,72,70,73,72,71,ITI,ITI in Computer Science and Information Technology
+Student_233_2,67,72,72,57,74,73,ITI,ITI in Mechanical and Electrical
+Student_233_3,73,71,71,60,57,72,ITI,ITI in Electronics and Communication
+Student_233_4,72,72,67,51,72,59,ITI,ITI in Construction and Design
+Student_233_5,67,74,72,60,67,57,ITI,ITI in Physical Education and Wellness
+Student_234_1,63,74,67,50,69,66,ITI,ITI in Computer Science and Information Technology
+Student_234_2,69,66,65,49,68,66,ITI,ITI in Mechanical and Electrical
+Student_234_3,60,68,69,68,61,69,ITI,ITI in Electronics and Communication
+Student_234_4,69,67,70,62,65,61,ITI,ITI in Construction and Design
+Student_234_5,65,66,66,68,68,57,ITI,ITI in Physical Education and Wellness
+Student_235_1,62,67,69,63,68,71,ITI,ITI in Computer Science and Information Technology
+Student_235_2,74,73,66,57,69,69,ITI,ITI in Mechanical and Electrical
+Student_235_3,64,70,66,41,58,73,ITI,ITI in Electronics and Communication
+Student_235_4,72,74,66,49,73,61,ITI,ITI in Construction and Design
+Student_235_5,73,65,67,60,74,62,ITI,ITI in Physical Education and Wellness
+Student_236_1,71,68,67,63,71,67,ITI,ITI in Computer Science and Information Technology
+Student_236_2,65,69,66,59,62,66,ITI,ITI in Mechanical and Electrical
+Student_236_3,73,66,71,49,63,70,ITI,ITI in Electronics and Communication
+Student_236_4,61,65,69,45,72,57,ITI,ITI in Construction and Design
+Student_236_5,66,71,74,40,65,58,ITI,ITI in Physical Education and Wellness
+Student_237_1,66,72,69,68,67,71,ITI,ITI in Computer Science and Information Technology
+Student_237_2,69,65,66,65,63,67,ITI,ITI in Mechanical and Electrical
+Student_237_3,74,74,66,60,61,72,ITI,ITI in Electronics and Communication
+Student_237_4,60,67,67,47,69,56,ITI,ITI in Construction and Design
+Student_237_5,67,72,65,61,66,60,ITI,ITI in Physical Education and Wellness
+Student_238_1,69,68,73,46,66,65,ITI,ITI in Computer Science and Information Technology
+Student_238_2,73,71,68,69,70,67,ITI,ITI in Mechanical and Electrical
+Student_238_3,66,73,69,67,63,68,ITI,ITI in Electronics and Communication
+Student_238_4,65,69,71,53,71,63,ITI,ITI in Construction and Design
+Student_238_5,66,71,70,55,73,57,ITI,ITI in Physical Education and Wellness
+Student_239_1,71,70,60,70,67,67,ITI,ITI in Computer Science and Information Technology
+Student_239_2,62,65,71,69,64,66,ITI,ITI in Mechanical and Electrical
+Student_239_3,64,71,71,44,59,70,ITI,ITI in Electronics and Communication
+Student_239_4,71,65,65,64,67,64,ITI,ITI in Construction and Design
+Student_239_5,67,60,71,72,66,61,ITI,ITI in Physical Education and Wellness
+Student_240_1,74,73,66,66,67,66,ITI,ITI in Computer Science and Information Technology
+Student_240_2,72,65,69,57,68,72,ITI,ITI in Mechanical and Electrical
+Student_240_3,73,67,74,44,57,71,ITI,ITI in Electronics and Communication
+Student_240_4,63,70,65,54,67,62,ITI,ITI in Construction and Design
+Student_240_5,70,70,69,41,73,57,ITI,ITI in Physical Education and Wellness
+Student_241_1,63,66,66,54,74,65,ITI,ITI in Computer Science and Information Technology
+Student_241_2,70,65,66,74,66,71,ITI,ITI in Mechanical and Electrical
+Student_241_3,69,68,71,43,60,71,ITI,ITI in Electronics and Communication
+Student_241_4,74,69,69,61,68,60,ITI,ITI in Construction and Design
+Student_241_5,70,72,66,61,71,62,ITI,ITI in Physical Education and Wellness
+Student_242_1,64,65,60,51,74,67,ITI,ITI in Computer Science and Information Technology
+Student_242_2,73,70,70,73,72,71,ITI,ITI in Mechanical and Electrical
+Student_242_3,60,72,67,57,60,73,ITI,ITI in Electronics and Communication
+Student_242_4,69,68,67,72,66,57,ITI,ITI in Construction and Design
+Student_242_5,66,73,73,48,69,61,ITI,ITI in Physical Education and Wellness
+Student_243_1,65,66,62,58,72,73,ITI,ITI in Computer Science and Information Technology
+Student_243_2,72,67,73,46,62,71,ITI,ITI in Mechanical and Electrical
+Student_243_3,66,67,71,70,60,73,ITI,ITI in Electronics and Communication
+Student_243_4,69,72,71,54,66,57,ITI,ITI in Construction and Design
+Student_243_5,67,74,74,57,74,64,ITI,ITI in Physical Education and Wellness
+Student_244_1,71,68,66,47,66,72,ITI,ITI in Computer Science and Information Technology
+Student_244_2,70,66,68,40,65,74,ITI,ITI in Mechanical and Electrical
+Student_244_3,61,67,69,59,64,66,ITI,ITI in Electronics and Communication
+Student_244_4,63,66,65,53,74,60,ITI,ITI in Construction and Design
+Student_244_5,70,64,69,64,73,59,ITI,ITI in Physical Education and Wellness
+Student_245_1,69,70,64,54,74,71,ITI,ITI in Computer Science and Information Technology
+Student_245_2,65,66,66,48,65,71,ITI,ITI in Mechanical and Electrical
+Student_245_3,63,69,66,50,60,65,ITI,ITI in Electronics and Communication
+Student_245_4,69,66,69,52,68,64,ITI,ITI in Construction and Design
+Student_245_5,70,64,70,68,66,56,ITI,ITI in Physical Education and Wellness
+Student_246_1,71,67,68,48,65,74,ITI,ITI in Computer Science and Information Technology
+Student_246_2,71,73,69,43,73,73,ITI,ITI in Mechanical and Electrical
+Student_246_3,63,66,69,54,57,70,ITI,ITI in Electronics and Communication
+Student_246_4,64,66,73,47,68,58,ITI,ITI in Construction and Design
+Student_246_5,67,74,74,71,73,59,ITI,ITI in Physical Education and Wellness
+Student_247_1,67,73,70,54,73,73,ITI,ITI in Computer Science and Information Technology
+Student_247_2,62,67,67,54,69,67,ITI,ITI in Mechanical and Electrical
+Student_247_3,65,71,70,66,61,69,ITI,ITI in Electronics and Communication
+Student_247_4,62,73,73,52,74,59,ITI,ITI in Construction and Design
+Student_247_5,69,61,71,40,66,60,ITI,ITI in Physical Education and Wellness
+Student_248_1,66,65,68,69,65,66,ITI,ITI in Computer Science and Information Technology
+Student_248_2,66,66,68,67,68,72,ITI,ITI in Mechanical and Electrical
+Student_248_3,72,73,73,67,60,67,ITI,ITI in Electronics and Communication
+Student_248_4,64,70,66,42,73,57,ITI,ITI in Construction and Design
+Student_248_5,67,71,69,61,74,59,ITI,ITI in Physical Education and Wellness
+Student_249_1,73,69,60,65,71,65,ITI,ITI in Computer Science and Information Technology
+Student_249_2,61,68,70,45,65,68,ITI,ITI in Mechanical and Electrical
+Student_249_3,66,68,69,54,58,65,ITI,ITI in Electronics and Communication
+Student_249_4,62,71,67,60,74,56,ITI,ITI in Construction and Design
+Student_249_5,74,74,70,56,71,63,ITI,ITI in Physical Education and Wellness
+Student_250_1,66,71,65,43,67,70,ITI,ITI in Computer Science and Information Technology
+Student_250_2,70,74,66,41,60,69,ITI,ITI in Mechanical and Electrical
+Student_250_3,69,73,72,71,59,74,ITI,ITI in Electronics and Communication
+Student_250_4,70,71,72,51,69,59,ITI,ITI in Construction and Design
+Student_250_5,70,69,70,60,67,62,ITI,ITI in Physical Education and Wellness
+Student_251_1,71,71,72,69,65,69,ITI,ITI in Computer Science and Information Technology
+Student_251_2,64,67,65,45,74,73,ITI,ITI in Mechanical and Electrical
+Student_251_3,72,66,68,71,61,72,ITI,ITI in Electronics and Communication
+Student_251_4,69,70,68,73,68,64,ITI,ITI in Construction and Design
+Student_251_5,72,74,65,67,70,63,ITI,ITI in Physical Education and Wellness
+Student_252_1,62,71,66,64,69,71,ITI,ITI in Computer Science and Information Technology
+Student_252_2,61,67,73,51,73,71,ITI,ITI in Mechanical and Electrical
+Student_252_3,62,67,65,72,62,70,ITI,ITI in Electronics and Communication
+Student_252_4,66,67,65,52,70,64,ITI,ITI in Construction and Design
+Student_252_5,71,65,71,66,71,60,ITI,ITI in Physical Education and Wellness
+Student_253_1,61,70,72,44,66,69,ITI,ITI in Computer Science and Information Technology
+Student_253_2,67,71,73,40,73,67,ITI,ITI in Mechanical and Electrical
+Student_253_3,62,66,65,68,64,67,ITI,ITI in Electronics and Communication
+Student_253_4,68,71,65,57,68,56,ITI,ITI in Construction and Design
+Student_253_5,67,62,71,41,66,58,ITI,ITI in Physical Education and Wellness
+Student_254_1,63,69,74,49,70,70,ITI,ITI in Computer Science and Information Technology
+Student_254_2,64,68,69,41,63,67,ITI,ITI in Mechanical and Electrical
+Student_254_3,73,66,69,50,56,65,ITI,ITI in Electronics and Communication
+Student_254_4,72,70,68,74,69,62,ITI,ITI in Construction and Design
+Student_254_5,68,64,65,56,72,59,ITI,ITI in Physical Education and Wellness
+Student_255_1,60,74,64,44,66,71,ITI,ITI in Computer Science and Information Technology
+Student_255_2,64,71,72,66,61,74,ITI,ITI in Mechanical and Electrical
+Student_255_3,72,65,65,49,59,71,ITI,ITI in Electronics and Communication
+Student_255_4,74,70,74,44,72,60,ITI,ITI in Construction and Design
+Student_255_5,74,67,68,64,68,64,ITI,ITI in Physical Education and Wellness
+Student_256_1,73,73,67,41,70,67,ITI,ITI in Computer Science and Information Technology
+Student_256_2,66,73,65,66,72,71,ITI,ITI in Mechanical and Electrical
+Student_256_3,62,69,70,52,63,68,ITI,ITI in Electronics and Communication
+Student_256_4,67,68,66,46,74,63,ITI,ITI in Construction and Design
+Student_256_5,74,63,65,41,70,60,ITI,ITI in Physical Education and Wellness
+Student_257_1,69,66,64,55,71,66,ITI,ITI in Computer Science and Information Technology
+Student_257_2,72,67,65,71,67,72,ITI,ITI in Mechanical and Electrical
+Student_257_3,72,65,66,58,62,69,ITI,ITI in Electronics and Communication
+Student_257_4,67,72,73,56,70,56,ITI,ITI in Construction and Design
+Student_257_5,66,64,67,69,71,63,ITI,ITI in Physical Education and Wellness
+Student_258_1,63,71,60,48,74,69,ITI,ITI in Computer Science and Information Technology
+Student_258_2,61,72,71,49,72,69,ITI,ITI in Mechanical and Electrical
+Student_258_3,70,68,65,62,58,73,ITI,ITI in Electronics and Communication
+Student_258_4,74,72,71,52,74,62,ITI,ITI in Construction and Design
+Student_258_5,68,73,74,56,73,57,ITI,ITI in Physical Education and Wellness
+Student_259_1,67,70,64,60,72,66,ITI,ITI in Computer Science and Information Technology
+Student_259_2,61,65,70,48,61,73,ITI,ITI in Mechanical and Electrical
+Student_259_3,65,73,73,51,58,71,ITI,ITI in Electronics and Communication
+Student_259_4,72,74,67,60,65,64,ITI,ITI in Construction and Design
+Student_259_5,66,73,73,56,69,56,ITI,ITI in Physical Education and Wellness
+Student_260_1,62,71,71,46,70,65,ITI,ITI in Computer Science and Information Technology
+Student_260_2,67,70,68,57,70,65,ITI,ITI in Mechanical and Electrical
+Student_260_3,67,65,67,62,60,71,ITI,ITI in Electronics and Communication
+Student_260_4,74,67,72,68,72,60,ITI,ITI in Construction and Design
+Student_260_5,67,64,69,46,66,57,ITI,ITI in Physical Education and Wellness
+Student_261_1,66,69,66,51,71,69,ITI,ITI in Computer Science and Information Technology
+Student_261_2,70,70,73,60,70,68,ITI,ITI in Mechanical and Electrical
+Student_261_3,64,74,72,66,59,69,ITI,ITI in Electronics and Communication
+Student_261_4,62,69,72,47,65,60,ITI,ITI in Construction and Design
+Student_261_5,73,73,65,58,74,62,ITI,ITI in Physical Education and Wellness
+Student_262_1,73,70,71,57,74,74,ITI,ITI in Computer Science and Information Technology
+Student_262_2,60,69,71,65,73,70,ITI,ITI in Mechanical and Electrical
+Student_262_3,62,67,68,63,62,65,ITI,ITI in Electronics and Communication
+Student_262_4,61,73,67,60,67,60,ITI,ITI in Construction and Design
+Student_262_5,73,73,67,47,72,61,ITI,ITI in Physical Education and Wellness
+Student_263_1,68,72,65,50,70,69,ITI,ITI in Computer Science and Information Technology
+Student_263_2,72,70,73,58,60,71,ITI,ITI in Mechanical and Electrical
+Student_263_3,61,67,74,70,59,65,ITI,ITI in Electronics and Communication
+Student_263_4,63,74,66,74,72,61,ITI,ITI in Construction and Design
+Student_263_5,68,61,67,41,66,60,ITI,ITI in Physical Education and Wellness
+Student_264_1,64,71,71,62,73,66,ITI,ITI in Computer Science and Information Technology
+Student_264_2,74,73,65,73,72,65,ITI,ITI in Mechanical and Electrical
+Student_264_3,61,68,71,74,57,71,ITI,ITI in Electronics and Communication
+Student_264_4,63,74,65,49,68,56,ITI,ITI in Construction and Design
+Student_264_5,72,61,70,44,70,60,ITI,ITI in Physical Education and Wellness
+Student_265_1,66,66,72,47,71,66,ITI,ITI in Computer Science and Information Technology
+Student_265_2,71,69,68,69,64,67,ITI,ITI in Mechanical and Electrical
+Student_265_3,63,67,71,43,62,70,ITI,ITI in Electronics and Communication
+Student_265_4,72,73,72,56,71,57,ITI,ITI in Construction and Design
+Student_265_5,69,69,73,40,71,60,ITI,ITI in Physical Education and Wellness
+Student_266_1,62,70,61,55,74,70,ITI,ITI in Computer Science and Information Technology
+Student_266_2,73,72,67,52,61,65,ITI,ITI in Mechanical and Electrical
+Student_266_3,70,67,67,42,62,66,ITI,ITI in Electronics and Communication
+Student_266_4,63,69,70,57,66,58,ITI,ITI in Construction and Design
+Student_266_5,69,63,70,51,67,56,ITI,ITI in Physical Education and Wellness
+Student_267_1,71,73,61,59,71,74,ITI,ITI in Computer Science and Information Technology
+Student_267_2,74,69,70,59,67,69,ITI,ITI in Mechanical and Electrical
+Student_267_3,73,72,70,62,61,68,ITI,ITI in Electronics and Communication
+Student_267_4,61,68,69,66,70,62,ITI,ITI in Construction and Design
+Student_267_5,72,74,69,42,67,61,ITI,ITI in Physical Education and Wellness
+Student_268_1,63,70,63,60,66,66,ITI,ITI in Computer Science and Information Technology
+Student_268_2,65,72,67,51,62,66,ITI,ITI in Mechanical and Electrical
+Student_268_3,66,66,70,40,64,72,ITI,ITI in Electronics and Communication
+Student_268_4,71,74,70,55,74,57,ITI,ITI in Construction and Design
+Student_268_5,68,66,72,62,70,64,ITI,ITI in Physical Education and Wellness
+Student_269_1,74,67,69,42,67,70,ITI,ITI in Computer Science and Information Technology
+Student_269_2,65,69,71,56,73,74,ITI,ITI in Mechanical and Electrical
+Student_269_3,65,68,71,72,60,65,ITI,ITI in Electronics and Communication
+Student_269_4,74,67,65,51,68,57,ITI,ITI in Construction and Design
+Student_269_5,67,67,71,61,71,56,ITI,ITI in Physical Education and Wellness
+Student_270_1,61,71,67,65,67,74,ITI,ITI in Computer Science and Information Technology
+Student_270_2,68,65,65,54,69,66,ITI,ITI in Mechanical and Electrical
+Student_270_3,67,68,70,64,59,66,ITI,ITI in Electronics and Communication
+Student_270_4,70,74,65,42,66,61,ITI,ITI in Construction and Design
+Student_270_5,68,64,73,66,65,58,ITI,ITI in Physical Education and Wellness
+Student_271_1,62,74,73,47,72,69,ITI,ITI in Computer Science and Information Technology
+Student_271_2,61,70,73,42,69,67,ITI,ITI in Mechanical and Electrical
+Student_271_3,69,73,70,64,58,67,ITI,ITI in Electronics and Communication
+Student_271_4,74,65,70,59,65,58,ITI,ITI in Construction and Design
+Student_271_5,69,63,70,49,65,59,ITI,ITI in Physical Education and Wellness
+Student_272_1,73,71,64,50,66,73,ITI,ITI in Computer Science and Information Technology
+Student_272_2,66,72,70,72,73,70,ITI,ITI in Mechanical and Electrical
+Student_272_3,71,72,65,52,57,72,ITI,ITI in Electronics and Communication
+Student_272_4,74,68,73,67,65,58,ITI,ITI in Construction and Design
+Student_272_5,69,60,71,44,73,62,ITI,ITI in Physical Education and Wellness
+Student_273_1,66,72,63,64,73,66,ITI,ITI in Computer Science and Information Technology
+Student_273_2,66,72,69,45,73,67,ITI,ITI in Mechanical and Electrical
+Student_273_3,64,70,74,46,61,68,ITI,ITI in Electronics and Communication
+Student_273_4,71,69,69,58,69,58,ITI,ITI in Construction and Design
+Student_273_5,72,73,74,59,65,58,ITI,ITI in Physical Education and Wellness
+Student_274_1,68,67,71,63,73,74,ITI,ITI in Computer Science and Information Technology
+Student_274_2,74,66,67,67,64,74,ITI,ITI in Mechanical and Electrical
+Student_274_3,65,69,68,48,56,70,ITI,ITI in Electronics and Communication
+Student_274_4,68,74,66,65,73,61,ITI,ITI in Construction and Design
+Student_274_5,72,74,74,66,69,63,ITI,ITI in Physical Education and Wellness
+Student_275_1,66,66,60,74,68,73,ITI,ITI in Computer Science and Information Technology
+Student_275_2,62,65,73,43,64,65,ITI,ITI in Mechanical and Electrical
+Student_275_3,62,67,70,53,62,74,ITI,ITI in Electronics and Communication
+Student_275_4,63,67,65,55,66,60,ITI,ITI in Construction and Design
+Student_275_5,65,64,69,45,74,60,ITI,ITI in Physical Education and Wellness
+Student_276_1,74,68,62,49,67,74,ITI,ITI in Computer Science and Information Technology
+Student_276_2,61,73,66,55,74,68,ITI,ITI in Mechanical and Electrical
+Student_276_3,72,72,71,42,58,70,ITI,ITI in Electronics and Communication
+Student_276_4,66,67,73,42,72,57,ITI,ITI in Construction and Design
+Student_276_5,65,71,73,44,68,58,ITI,ITI in Physical Education and Wellness
+Student_277_1,63,67,68,43,72,65,ITI,ITI in Computer Science and Information Technology
+Student_277_2,68,68,69,44,62,71,ITI,ITI in Mechanical and Electrical
+Student_277_3,61,68,72,43,60,74,ITI,ITI in Electronics and Communication
+Student_277_4,66,69,68,68,71,56,ITI,ITI in Construction and Design
+Student_277_5,74,71,68,54,66,61,ITI,ITI in Physical Education and Wellness
+Student_278_1,63,66,64,43,73,73,ITI,ITI in Computer Science and Information Technology
+Student_278_2,74,66,73,48,74,65,ITI,ITI in Mechanical and Electrical
+Student_278_3,61,70,65,68,56,68,ITI,ITI in Electronics and Communication
+Student_278_4,68,68,65,63,71,64,ITI,ITI in Construction and Design
+Student_278_5,67,62,70,58,67,57,ITI,ITI in Physical Education and Wellness
+Student_279_1,66,69,69,55,67,72,ITI,ITI in Computer Science and Information Technology
+Student_279_2,65,65,65,55,66,73,ITI,ITI in Mechanical and Electrical
+Student_279_3,66,67,74,58,62,67,ITI,ITI in Electronics and Communication
+Student_279_4,65,67,74,74,73,64,ITI,ITI in Construction and Design
+Student_279_5,71,74,71,72,67,62,ITI,ITI in Physical Education and Wellness
+Student_280_1,71,65,72,65,74,72,ITI,ITI in Computer Science and Information Technology
+Student_280_2,71,69,72,63,67,69,ITI,ITI in Mechanical and Electrical
+Student_280_3,72,66,67,42,61,69,ITI,ITI in Electronics and Communication
+Student_280_4,67,71,68,40,69,64,ITI,ITI in Construction and Design
+Student_280_5,70,70,74,53,66,64,ITI,ITI in Physical Education and Wellness
+Student_281_1,71,67,71,46,73,72,ITI,ITI in Computer Science and Information Technology
+Student_281_2,63,73,65,63,69,71,ITI,ITI in Mechanical and Electrical
+Student_281_3,74,71,68,69,56,67,ITI,ITI in Electronics and Communication
+Student_281_4,69,66,74,63,70,64,ITI,ITI in Construction and Design
+Student_281_5,72,63,72,65,67,63,ITI,ITI in Physical Education and Wellness
+Student_282_1,69,65,67,52,67,70,ITI,ITI in Computer Science and Information Technology
+Student_282_2,73,71,68,69,70,68,ITI,ITI in Mechanical and Electrical
+Student_282_3,70,72,65,56,62,73,ITI,ITI in Electronics and Communication
+Student_282_4,70,69,73,59,71,59,ITI,ITI in Construction and Design
+Student_282_5,67,60,70,55,69,58,ITI,ITI in Physical Education and Wellness
+Student_283_1,68,66,61,51,66,70,ITI,ITI in Computer Science and Information Technology
+Student_283_2,73,67,65,41,69,74,ITI,ITI in Mechanical and Electrical
+Student_283_3,61,68,72,50,63,72,ITI,ITI in Electronics and Communication
+Student_283_4,70,72,67,55,71,64,ITI,ITI in Construction and Design
+Student_283_5,73,68,70,47,65,58,ITI,ITI in Physical Education and Wellness
+Student_284_1,61,66,69,44,71,66,ITI,ITI in Computer Science and Information Technology
+Student_284_2,72,70,67,52,65,73,ITI,ITI in Mechanical and Electrical
+Student_284_3,62,66,67,46,57,70,ITI,ITI in Electronics and Communication
+Student_284_4,60,70,70,45,70,58,ITI,ITI in Construction and Design
+Student_284_5,68,67,73,44,66,61,ITI,ITI in Physical Education and Wellness
+Student_285_1,70,72,61,50,67,70,ITI,ITI in Computer Science and Information Technology
+Student_285_2,67,74,69,60,68,65,ITI,ITI in Mechanical and Electrical
+Student_285_3,72,66,65,60,56,73,ITI,ITI in Electronics and Communication
+Student_285_4,70,68,67,71,69,59,ITI,ITI in Construction and Design
+Student_285_5,74,71,65,60,68,56,ITI,ITI in Physical Education and Wellness
+Student_286_1,60,65,66,65,66,69,ITI,ITI in Computer Science and Information Technology
+Student_286_2,68,69,72,56,69,73,ITI,ITI in Mechanical and Electrical
+Student_286_3,65,71,69,57,60,74,ITI,ITI in Electronics and Communication
+Student_286_4,68,72,65,45,66,64,ITI,ITI in Construction and Design
+Student_286_5,71,71,66,41,68,63,ITI,ITI in Physical Education and Wellness
+Student_287_1,66,71,60,71,69,72,ITI,ITI in Computer Science and Information Technology
+Student_287_2,70,73,74,72,61,69,ITI,ITI in Mechanical and Electrical
+Student_287_3,68,66,71,67,61,67,ITI,ITI in Electronics and Communication
+Student_287_4,66,72,74,50,68,62,ITI,ITI in Construction and Design
+Student_287_5,65,69,66,43,72,56,ITI,ITI in Physical Education and Wellness
+Student_288_1,64,73,71,64,70,67,ITI,ITI in Computer Science and Information Technology
+Student_288_2,74,65,67,61,60,66,ITI,ITI in Mechanical and Electrical
+Student_288_3,72,70,69,69,56,72,ITI,ITI in Electronics and Communication
+Student_288_4,70,67,72,70,65,58,ITI,ITI in Construction and Design
+Student_288_5,65,61,72,73,66,57,ITI,ITI in Physical Education and Wellness
+Student_289_1,65,74,67,50,71,70,ITI,ITI in Computer Science and Information Technology
+Student_289_2,73,74,70,57,69,71,ITI,ITI in Mechanical and Electrical
+Student_289_3,65,71,67,70,58,65,ITI,ITI in Electronics and Communication
+Student_289_4,72,71,69,66,70,59,ITI,ITI in Construction and Design
+Student_289_5,73,61,68,53,66,64,ITI,ITI in Physical Education and Wellness
+Student_290_1,72,65,66,52,72,74,ITI,ITI in Computer Science and Information Technology
+Student_290_2,65,67,68,47,71,74,ITI,ITI in Mechanical and Electrical
+Student_290_3,71,67,72,45,57,71,ITI,ITI in Electronics and Communication
+Student_290_4,74,71,72,67,70,56,ITI,ITI in Construction and Design
+Student_290_5,74,63,73,47,65,63,ITI,ITI in Physical Education and Wellness
+Student_291_1,74,67,73,51,71,66,ITI,ITI in Computer Science and Information Technology
+Student_291_2,74,67,68,43,74,74,ITI,ITI in Mechanical and Electrical
+Student_291_3,74,68,66,41,56,69,ITI,ITI in Electronics and Communication
+Student_291_4,73,69,67,71,70,62,ITI,ITI in Construction and Design
+Student_291_5,65,69,73,48,69,63,ITI,ITI in Physical Education and Wellness
+Student_292_1,66,74,74,62,65,67,ITI,ITI in Computer Science and Information Technology
+Student_292_2,68,69,67,48,61,69,ITI,ITI in Mechanical and Electrical
+Student_292_3,60,71,67,62,56,68,ITI,ITI in Electronics and Communication
+Student_292_4,67,65,66,72,72,62,ITI,ITI in Construction and Design
+Student_292_5,66,71,70,72,73,61,ITI,ITI in Physical Education and Wellness
+Student_293_1,61,67,72,40,72,68,ITI,ITI in Computer Science and Information Technology
+Student_293_2,66,70,68,40,68,73,ITI,ITI in Mechanical and Electrical
+Student_293_3,69,65,74,64,56,71,ITI,ITI in Electronics and Communication
+Student_293_4,68,72,72,52,66,64,ITI,ITI in Construction and Design
+Student_293_5,65,60,65,46,69,60,ITI,ITI in Physical Education and Wellness
+Student_294_1,69,74,70,44,74,68,ITI,ITI in Computer Science and Information Technology
+Student_294_2,70,70,69,50,73,67,ITI,ITI in Mechanical and Electrical
+Student_294_3,74,65,73,61,60,66,ITI,ITI in Electronics and Communication
+Student_294_4,62,65,65,44,73,58,ITI,ITI in Construction and Design
+Student_294_5,65,66,67,44,67,57,ITI,ITI in Physical Education and Wellness
+Student_295_1,70,71,74,65,68,65,ITI,ITI in Computer Science and Information Technology
+Student_295_2,72,65,67,59,64,71,ITI,ITI in Mechanical and Electrical
+Student_295_3,73,73,74,55,57,71,ITI,ITI in Electronics and Communication
+Student_295_4,68,71,67,66,65,63,ITI,ITI in Construction and Design
+Student_295_5,73,62,72,65,67,61,ITI,ITI in Physical Education and Wellness
+Student_296_1,69,68,62,42,65,69,ITI,ITI in Computer Science and Information Technology
+Student_296_2,63,69,71,70,70,74,ITI,ITI in Mechanical and Electrical
+Student_296_3,65,72,73,52,59,67,ITI,ITI in Electronics and Communication
+Student_296_4,73,65,71,52,70,63,ITI,ITI in Construction and Design
+Student_296_5,66,69,73,60,72,63,ITI,ITI in Physical Education and Wellness
+Student_297_1,62,66,67,43,73,69,ITI,ITI in Computer Science and Information Technology
+Student_297_2,67,65,66,71,70,71,ITI,ITI in Mechanical and Electrical
+Student_297_3,70,73,65,71,64,74,ITI,ITI in Electronics and Communication
+Student_297_4,71,65,74,49,73,63,ITI,ITI in Construction and Design
+Student_297_5,74,61,74,56,66,64,ITI,ITI in Physical Education and Wellness
+Student_298_1,60,74,68,40,71,71,ITI,ITI in Computer Science and Information Technology
+Student_298_2,70,68,71,55,64,74,ITI,ITI in Mechanical and Electrical
+Student_298_3,67,65,66,49,64,69,ITI,ITI in Electronics and Communication
+Student_298_4,62,74,69,69,71,60,ITI,ITI in Construction and Design
+Student_298_5,66,64,68,70,69,63,ITI,ITI in Physical Education and Wellness
+Student_299_1,72,69,73,64,66,71,ITI,ITI in Computer Science and Information Technology
+Student_299_2,72,74,72,53,66,74,ITI,ITI in Mechanical and Electrical
+Student_299_3,60,69,70,46,56,65,ITI,ITI in Electronics and Communication
+Student_299_4,62,67,69,52,70,57,ITI,ITI in Construction and Design
+Student_299_5,73,70,67,66,71,61,ITI,ITI in Physical Education and Wellness
+Student_300_1,61,71,71,55,71,67,ITI,ITI in Computer Science and Information Technology
+Student_300_2,73,66,67,47,62,65,ITI,ITI in Mechanical and Electrical
+Student_300_3,71,69,71,51,61,67,ITI,ITI in Electronics and Communication
+Student_300_4,64,67,73,73,70,60,ITI,ITI in Construction and Design
+Student_300_5,68,61,66,63,71,59,ITI,ITI in Physical Education and Wellness

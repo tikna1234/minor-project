@@ -1,0 +1,2251 @@
+Student ID,English,Mathematics,Science,Social Studies,Logical Reasoning,Computer Awareness,Branch,Course
+Student_1_1,83,92,80,48,88,92,Diploma,Diploma in Computer Science and Information Technology
+Student_1_2,78,88,87,66,82,76,Diploma,Diploma in Mechanical and Electrical
+Student_1_3,86,78,84,57,89,95,Diploma,Diploma in Electronics and Communication
+Student_1_4,79,80,78,95,95,75,Diploma,Diploma in Construction and Design
+Student_1_5,87,56,80,82,87,83,Diploma,Diploma in Hospitality and Event Management
+Student_1_6,84,76,88,42,73,73,Diploma,Diploma in Life Sciences and Environment
+Student_1_7,90,83,40,76,95,78,Diploma,Diploma in Finance, Business and Marketing
+Student_1_8,92,66,68,90,81,89,Diploma,Diploma in Arts and Media
+Student_1_9,84,47,92,73,87,85,Diploma,Diploma in Physical Education and Wellness
+Student_2_1,89,81,83,61,87,92,Diploma,Diploma in Computer Science and Information Technology
+Student_2_2,90,92,93,79,86,84,Diploma,Diploma in Mechanical and Electrical
+Student_2_3,86,79,83,51,76,84,Diploma,Diploma in Electronics and Communication
+Student_2_4,75,76,85,81,81,88,Diploma,Diploma in Construction and Design
+Student_2_5,83,59,46,85,77,87,Diploma,Diploma in Hospitality and Event Management
+Student_2_6,87,84,87,64,43,41,Diploma,Diploma in Life Sciences and Environment
+Student_2_7,84,89,71,75,93,80,Diploma,Diploma in Finance, Business and Marketing
+Student_2_8,83,44,47,83,81,81,Diploma,Diploma in Arts and Media
+Student_2_9,95,72,90,63,88,89,Diploma,Diploma in Physical Education and Wellness
+Student_3_1,85,93,84,64,80,81,Diploma,Diploma in Computer Science and Information Technology
+Student_3_2,83,84,86,83,80,88,Diploma,Diploma in Mechanical and Electrical
+Student_3_3,82,77,87,81,88,92,Diploma,Diploma in Electronics and Communication
+Student_3_4,76,80,78,90,82,81,Diploma,Diploma in Construction and Design
+Student_3_5,81,45,80,94,83,90,Diploma,Diploma in Hospitality and Event Management
+Student_3_6,89,80,84,67,73,78,Diploma,Diploma in Life Sciences and Environment
+Student_3_7,88,85,64,67,82,75,Diploma,Diploma in Finance, Business and Marketing
+Student_3_8,88,41,67,88,89,85,Diploma,Diploma in Arts and Media
+Student_3_9,86,49,89,72,84,89,Diploma,Diploma in Physical Education and Wellness
+Student_4_1,85,89,88,62,89,84,Diploma,Diploma in Computer Science and Information Technology
+Student_4_2,81,93,88,61,80,85,Diploma,Diploma in Mechanical and Electrical
+Student_4_3,79,75,92,41,77,87,Diploma,Diploma in Electronics and Communication
+Student_4_4,86,81,88,93,88,90,Diploma,Diploma in Construction and Design
+Student_4_5,88,49,64,95,76,75,Diploma,Diploma in Hospitality and Event Management
+Student_4_6,90,79,95,69,74,44,Diploma,Diploma in Life Sciences and Environment
+Student_4_7,92,88,67,46,94,80,Diploma,Diploma in Finance, Business and Marketing
+Student_4_8,84,53,53,93,83,90,Diploma,Diploma in Arts and Media
+Student_4_9,92,62,95,45,86,77,Diploma,Diploma in Physical Education and Wellness
+Student_5_1,78,92,85,64,83,84,Diploma,Diploma in Computer Science and Information Technology
+Student_5_2,82,87,83,53,84,87,Diploma,Diploma in Mechanical and Electrical
+Student_5_3,85,76,83,79,80,84,Diploma,Diploma in Electronics and Communication
+Student_5_4,77,76,79,89,87,88,Diploma,Diploma in Construction and Design
+Student_5_5,89,50,53,94,85,83,Diploma,Diploma in Hospitality and Event Management
+Student_5_6,79,82,91,46,48,75,Diploma,Diploma in Life Sciences and Environment
+Student_5_7,85,85,51,65,94,83,Diploma,Diploma in Finance, Business and Marketing
+Student_5_8,83,45,66,83,80,76,Diploma,Diploma in Arts and Media
+Student_5_9,87,53,85,41,90,81,Diploma,Diploma in Physical Education and Wellness
+Student_6_1,81,83,76,70,82,86,Diploma,Diploma in Computer Science and Information Technology
+Student_6_2,77,81,83,84,90,78,Diploma,Diploma in Mechanical and Electrical
+Student_6_3,82,80,93,79,89,95,Diploma,Diploma in Electronics and Communication
+Student_6_4,80,85,86,89,88,76,Diploma,Diploma in Construction and Design
+Student_6_5,85,55,71,85,75,89,Diploma,Diploma in Hospitality and Event Management
+Student_6_6,86,79,92,59,78,66,Diploma,Diploma in Life Sciences and Environment
+Student_6_7,93,92,53,68,84,88,Diploma,Diploma in Finance, Business and Marketing
+Student_6_8,87,70,41,84,76,82,Diploma,Diploma in Arts and Media
+Student_6_9,90,69,85,43,83,84,Diploma,Diploma in Physical Education and Wellness
+Student_7_1,84,87,78,80,83,83,Diploma,Diploma in Computer Science and Information Technology
+Student_7_2,77,84,81,48,86,84,Diploma,Diploma in Mechanical and Electrical
+Student_7_3,75,83,83,56,89,92,Diploma,Diploma in Electronics and Communication
+Student_7_4,82,76,85,91,84,89,Diploma,Diploma in Construction and Design
+Student_7_5,81,44,61,87,76,83,Diploma,Diploma in Hospitality and Event Management
+Student_7_6,89,81,90,55,64,79,Diploma,Diploma in Life Sciences and Environment
+Student_7_7,85,93,55,57,89,84,Diploma,Diploma in Finance, Business and Marketing
+Student_7_8,88,77,43,86,78,89,Diploma,Diploma in Arts and Media
+Student_7_9,91,46,94,72,79,82,Diploma,Diploma in Physical Education and Wellness
+Student_8_1,79,92,77,64,75,91,Diploma,Diploma in Computer Science and Information Technology
+Student_8_2,83,91,93,43,90,80,Diploma,Diploma in Mechanical and Electrical
+Student_8_3,88,88,84,80,75,92,Diploma,Diploma in Electronics and Communication
+Student_8_4,84,89,79,83,84,83,Diploma,Diploma in Construction and Design
+Student_8_5,81,47,74,86,77,79,Diploma,Diploma in Hospitality and Event Management
+Student_8_6,75,83,81,68,73,65,Diploma,Diploma in Life Sciences and Environment
+Student_8_7,94,94,47,62,84,75,Diploma,Diploma in Finance, Business and Marketing
+Student_8_8,81,74,40,82,89,84,Diploma,Diploma in Arts and Media
+Student_8_9,88,67,81,54,86,81,Diploma,Diploma in Physical Education and Wellness
+Student_9_1,86,84,78,54,81,94,Diploma,Diploma in Computer Science and Information Technology
+Student_9_2,82,91,83,82,86,80,Diploma,Diploma in Mechanical and Electrical
+Student_9_3,79,90,92,70,79,82,Diploma,Diploma in Electronics and Communication
+Student_9_4,87,77,78,81,82,77,Diploma,Diploma in Construction and Design
+Student_9_5,94,49,52,87,81,86,Diploma,Diploma in Hospitality and Event Management
+Student_9_6,81,85,90,75,63,73,Diploma,Diploma in Life Sciences and Environment
+Student_9_7,94,84,64,62,88,90,Diploma,Diploma in Finance, Business and Marketing
+Student_9_8,91,47,58,91,85,88,Diploma,Diploma in Arts and Media
+Student_9_9,89,45,91,62,79,89,Diploma,Diploma in Physical Education and Wellness
+Student_10_1,81,95,78,69,85,94,Diploma,Diploma in Computer Science and Information Technology
+Student_10_2,76,94,86,48,89,90,Diploma,Diploma in Mechanical and Electrical
+Student_10_3,75,82,89,51,77,84,Diploma,Diploma in Electronics and Communication
+Student_10_4,87,90,75,83,81,84,Diploma,Diploma in Construction and Design
+Student_10_5,90,41,73,87,89,82,Diploma,Diploma in Hospitality and Event Management
+Student_10_6,77,78,94,58,49,70,Diploma,Diploma in Life Sciences and Environment
+Student_10_7,85,85,58,50,84,88,Diploma,Diploma in Finance, Business and Marketing
+Student_10_8,83,40,44,90,76,80,Diploma,Diploma in Arts and Media
+Student_10_9,86,60,92,71,86,84,Diploma,Diploma in Physical Education and Wellness
+Student_11_1,79,84,82,90,81,88,Diploma,Diploma in Computer Science and Information Technology
+Student_11_2,88,87,94,74,88,85,Diploma,Diploma in Mechanical and Electrical
+Student_11_3,77,89,90,45,79,88,Diploma,Diploma in Electronics and Communication
+Student_11_4,82,80,86,83,94,89,Diploma,Diploma in Construction and Design
+Student_11_5,81,80,46,84,82,75,Diploma,Diploma in Hospitality and Event Management
+Student_11_6,78,76,93,50,58,65,Diploma,Diploma in Life Sciences and Environment
+Student_11_7,95,93,48,62,87,84,Diploma,Diploma in Finance, Business and Marketing
+Student_11_8,92,49,47,90,87,79,Diploma,Diploma in Arts and Media
+Student_11_9,94,72,95,67,85,83,Diploma,Diploma in Physical Education and Wellness
+Student_12_1,90,85,79,41,89,93,Diploma,Diploma in Computer Science and Information Technology
+Student_12_2,79,85,91,64,87,87,Diploma,Diploma in Mechanical and Electrical
+Student_12_3,76,88,94,69,90,87,Diploma,Diploma in Electronics and Communication
+Student_12_4,79,86,82,81,85,79,Diploma,Diploma in Construction and Design
+Student_12_5,91,50,42,81,81,89,Diploma,Diploma in Hospitality and Event Management
+Student_12_6,77,81,91,70,58,71,Diploma,Diploma in Life Sciences and Environment
+Student_12_7,92,83,48,43,81,76,Diploma,Diploma in Finance, Business and Marketing
+Student_12_8,88,75,45,86,81,81,Diploma,Diploma in Arts and Media
+Student_12_9,95,71,89,67,76,82,Diploma,Diploma in Physical Education and Wellness
+Student_13_1,88,94,78,40,88,89,Diploma,Diploma in Computer Science and Information Technology
+Student_13_2,83,87,81,56,87,87,Diploma,Diploma in Mechanical and Electrical
+Student_13_3,87,75,82,59,86,91,Diploma,Diploma in Electronics and Communication
+Student_13_4,82,83,85,85,92,75,Diploma,Diploma in Construction and Design
+Student_13_5,91,43,52,87,85,87,Diploma,Diploma in Hospitality and Event Management
+Student_13_6,87,78,95,60,59,77,Diploma,Diploma in Life Sciences and Environment
+Student_13_7,92,83,60,74,81,89,Diploma,Diploma in Finance, Business and Marketing
+Student_13_8,84,46,40,91,89,86,Diploma,Diploma in Arts and Media
+Student_13_9,85,49,91,65,81,78,Diploma,Diploma in Physical Education and Wellness
+Student_14_1,82,84,84,90,77,85,Diploma,Diploma in Computer Science and Information Technology
+Student_14_2,78,89,92,50,80,75,Diploma,Diploma in Mechanical and Electrical
+Student_14_3,77,86,84,64,88,81,Diploma,Diploma in Electronics and Communication
+Student_14_4,88,78,78,83,82,78,Diploma,Diploma in Construction and Design
+Student_14_5,88,48,78,92,86,83,Diploma,Diploma in Hospitality and Event Management
+Student_14_6,88,83,94,44,59,72,Diploma,Diploma in Life Sciences and Environment
+Student_14_7,92,95,66,46,82,80,Diploma,Diploma in Finance, Business and Marketing
+Student_14_8,90,65,68,92,88,76,Diploma,Diploma in Arts and Media
+Student_14_9,84,61,86,63,90,79,Diploma,Diploma in Physical Education and Wellness
+Student_15_1,81,84,82,44,88,86,Diploma,Diploma in Computer Science and Information Technology
+Student_15_2,75,91,83,45,78,77,Diploma,Diploma in Mechanical and Electrical
+Student_15_3,90,77,95,71,90,89,Diploma,Diploma in Electronics and Communication
+Student_15_4,84,90,88,88,90,89,Diploma,Diploma in Construction and Design
+Student_15_5,93,43,64,95,84,83,Diploma,Diploma in Hospitality and Event Management
+Student_15_6,88,83,81,63,53,76,Diploma,Diploma in Life Sciences and Environment
+Student_15_7,94,81,42,56,82,87,Diploma,Diploma in Finance, Business and Marketing
+Student_15_8,90,66,71,84,88,83,Diploma,Diploma in Arts and Media
+Student_15_9,89,54,89,51,76,85,Diploma,Diploma in Physical Education and Wellness
+Student_16_1,77,94,82,57,90,91,Diploma,Diploma in Computer Science and Information Technology
+Student_16_2,89,94,81,71,82,82,Diploma,Diploma in Mechanical and Electrical
+Student_16_3,87,77,84,65,80,85,Diploma,Diploma in Electronics and Communication
+Student_16_4,88,83,76,86,87,88,Diploma,Diploma in Construction and Design
+Student_16_5,91,47,71,95,80,82,Diploma,Diploma in Hospitality and Event Management
+Student_16_6,90,79,89,76,65,66,Diploma,Diploma in Life Sciences and Environment
+Student_16_7,86,81,40,65,81,90,Diploma,Diploma in Finance, Business and Marketing
+Student_16_8,88,70,58,81,77,76,Diploma,Diploma in Arts and Media
+Student_16_9,88,68,91,67,82,82,Diploma,Diploma in Physical Education and Wellness
+Student_17_1,77,94,77,50,89,91,Diploma,Diploma in Computer Science and Information Technology
+Student_17_2,85,92,95,49,80,77,Diploma,Diploma in Mechanical and Electrical
+Student_17_3,86,79,88,84,88,81,Diploma,Diploma in Electronics and Communication
+Student_17_4,81,89,82,92,95,85,Diploma,Diploma in Construction and Design
+Student_17_5,86,41,47,86,83,78,Diploma,Diploma in Hospitality and Event Management
+Student_17_6,88,85,88,61,68,70,Diploma,Diploma in Life Sciences and Environment
+Student_17_7,89,91,66,63,90,81,Diploma,Diploma in Finance, Business and Marketing
+Student_17_8,90,56,71,87,81,79,Diploma,Diploma in Arts and Media
+Student_17_9,92,66,91,61,81,80,Diploma,Diploma in Physical Education and Wellness
+Student_18_1,85,94,76,87,81,87,Diploma,Diploma in Computer Science and Information Technology
+Student_18_2,81,87,94,43,88,81,Diploma,Diploma in Mechanical and Electrical
+Student_18_3,75,80,87,70,78,84,Diploma,Diploma in Electronics and Communication
+Student_18_4,77,80,82,91,83,84,Diploma,Diploma in Construction and Design
+Student_18_5,82,55,41,88,78,85,Diploma,Diploma in Hospitality and Event Management
+Student_18_6,87,80,85,40,54,41,Diploma,Diploma in Life Sciences and Environment
+Student_18_7,95,86,63,47,95,83,Diploma,Diploma in Finance, Business and Marketing
+Student_18_8,85,66,75,84,83,81,Diploma,Diploma in Arts and Media
+Student_18_9,85,75,81,71,80,83,Diploma,Diploma in Physical Education and Wellness
+Student_19_1,78,92,80,85,77,95,Diploma,Diploma in Computer Science and Information Technology
+Student_19_2,75,85,91,45,90,84,Diploma,Diploma in Mechanical and Electrical
+Student_19_3,82,80,86,85,85,91,Diploma,Diploma in Electronics and Communication
+Student_19_4,82,75,86,87,90,90,Diploma,Diploma in Construction and Design
+Student_19_5,90,48,60,81,77,89,Diploma,Diploma in Hospitality and Event Management
+Student_19_6,80,77,91,73,41,75,Diploma,Diploma in Life Sciences and Environment
+Student_19_7,89,85,71,49,94,88,Diploma,Diploma in Finance, Business and Marketing
+Student_19_8,86,77,52,90,78,79,Diploma,Diploma in Arts and Media
+Student_19_9,85,57,89,80,90,87,Diploma,Diploma in Physical Education and Wellness
+Student_20_1,89,93,80,53,90,83,Diploma,Diploma in Computer Science and Information Technology
+Student_20_2,80,85,89,52,80,89,Diploma,Diploma in Mechanical and Electrical
+Student_20_3,86,88,87,43,90,83,Diploma,Diploma in Electronics and Communication
+Student_20_4,78,79,76,90,93,77,Diploma,Diploma in Construction and Design
+Student_20_5,87,69,75,83,87,81,Diploma,Diploma in Hospitality and Event Management
+Student_20_6,78,82,88,49,53,50,Diploma,Diploma in Life Sciences and Environment
+Student_20_7,89,90,80,68,82,80,Diploma,Diploma in Finance, Business and Marketing
+Student_20_8,95,74,49,88,78,82,Diploma,Diploma in Arts and Media
+Student_20_9,93,54,82,58,87,87,Diploma,Diploma in Physical Education and Wellness
+Student_21_1,90,85,78,54,90,85,Diploma,Diploma in Computer Science and Information Technology
+Student_21_2,78,81,81,51,80,82,Diploma,Diploma in Mechanical and Electrical
+Student_21_3,82,90,81,57,82,82,Diploma,Diploma in Electronics and Communication
+Student_21_4,84,75,76,83,92,89,Diploma,Diploma in Construction and Design
+Student_21_5,86,49,54,85,79,88,Diploma,Diploma in Hospitality and Event Management
+Student_21_6,89,79,84,70,74,71,Diploma,Diploma in Life Sciences and Environment
+Student_21_7,82,85,57,40,95,88,Diploma,Diploma in Finance, Business and Marketing
+Student_21_8,90,59,53,91,88,87,Diploma,Diploma in Arts and Media
+Student_21_9,86,50,85,79,76,86,Diploma,Diploma in Physical Education and Wellness
+Student_22_1,82,88,85,90,82,83,Diploma,Diploma in Computer Science and Information Technology
+Student_22_2,76,84,94,57,80,77,Diploma,Diploma in Mechanical and Electrical
+Student_22_3,77,85,94,41,78,88,Diploma,Diploma in Electronics and Communication
+Student_22_4,86,80,81,85,81,87,Diploma,Diploma in Construction and Design
+Student_22_5,86,57,55,89,80,82,Diploma,Diploma in Hospitality and Event Management
+Student_22_6,90,84,83,54,44,79,Diploma,Diploma in Life Sciences and Environment
+Student_22_7,82,82,64,47,95,75,Diploma,Diploma in Finance, Business and Marketing
+Student_22_8,94,56,66,95,87,84,Diploma,Diploma in Arts and Media
+Student_22_9,94,75,85,63,88,79,Diploma,Diploma in Physical Education and Wellness
+Student_23_1,86,93,75,65,81,87,Diploma,Diploma in Computer Science and Information Technology
+Student_23_2,83,84,91,64,85,82,Diploma,Diploma in Mechanical and Electrical
+Student_23_3,88,76,88,76,80,86,Diploma,Diploma in Electronics and Communication
+Student_23_4,87,82,76,82,89,76,Diploma,Diploma in Construction and Design
+Student_23_5,81,66,51,95,89,85,Diploma,Diploma in Hospitality and Event Management
+Student_23_6,90,81,84,75,56,62,Diploma,Diploma in Life Sciences and Environment
+Student_23_7,87,85,60,55,86,80,Diploma,Diploma in Finance, Business and Marketing
+Student_23_8,92,44,75,89,76,85,Diploma,Diploma in Arts and Media
+Student_23_9,84,40,86,54,82,85,Diploma,Diploma in Physical Education and Wellness
+Student_24_1,84,83,81,74,83,94,Diploma,Diploma in Computer Science and Information Technology
+Student_24_2,87,85,92,40,89,88,Diploma,Diploma in Mechanical and Electrical
+Student_24_3,82,85,91,79,86,88,Diploma,Diploma in Electronics and Communication
+Student_24_4,87,87,77,85,90,88,Diploma,Diploma in Construction and Design
+Student_24_5,90,48,43,88,76,90,Diploma,Diploma in Hospitality and Event Management
+Student_24_6,84,82,92,45,78,66,Diploma,Diploma in Life Sciences and Environment
+Student_24_7,84,86,76,80,95,89,Diploma,Diploma in Finance, Business and Marketing
+Student_24_8,88,53,45,82,90,76,Diploma,Diploma in Arts and Media
+Student_24_9,83,71,82,66,85,75,Diploma,Diploma in Physical Education and Wellness
+Student_25_1,90,86,89,54,81,83,Diploma,Diploma in Computer Science and Information Technology
+Student_25_2,78,86,83,55,78,89,Diploma,Diploma in Mechanical and Electrical
+Student_25_3,83,76,82,58,90,90,Diploma,Diploma in Electronics and Communication
+Student_25_4,86,78,75,94,88,90,Diploma,Diploma in Construction and Design
+Student_25_5,87,45,61,85,90,90,Diploma,Diploma in Hospitality and Event Management
+Student_25_6,79,83,94,59,46,64,Diploma,Diploma in Life Sciences and Environment
+Student_25_7,82,84,58,80,90,78,Diploma,Diploma in Finance, Business and Marketing
+Student_25_8,93,78,51,83,76,75,Diploma,Diploma in Arts and Media
+Student_25_9,94,49,88,58,77,83,Diploma,Diploma in Physical Education and Wellness
+Student_26_1,76,92,80,44,87,91,Diploma,Diploma in Computer Science and Information Technology
+Student_26_2,80,94,89,75,79,83,Diploma,Diploma in Mechanical and Electrical
+Student_26_3,82,81,87,71,90,87,Diploma,Diploma in Electronics and Communication
+Student_26_4,80,81,81,94,84,84,Diploma,Diploma in Construction and Design
+Student_26_5,91,72,57,84,87,75,Diploma,Diploma in Hospitality and Event Management
+Student_26_6,84,82,90,80,48,44,Diploma,Diploma in Life Sciences and Environment
+Student_26_7,85,88,80,41,85,85,Diploma,Diploma in Finance, Business and Marketing
+Student_26_8,82,51,80,81,77,89,Diploma,Diploma in Arts and Media
+Student_26_9,81,60,93,46,82,84,Diploma,Diploma in Physical Education and Wellness
+Student_27_1,84,82,75,85,81,93,Diploma,Diploma in Computer Science and Information Technology
+Student_27_2,83,95,82,54,87,78,Diploma,Diploma in Mechanical and Electrical
+Student_27_3,83,84,92,82,81,93,Diploma,Diploma in Electronics and Communication
+Student_27_4,85,76,84,86,93,84,Diploma,Diploma in Construction and Design
+Student_27_5,88,41,57,89,81,83,Diploma,Diploma in Hospitality and Event Management
+Student_27_6,85,84,94,73,48,48,Diploma,Diploma in Life Sciences and Environment
+Student_27_7,95,83,60,44,82,80,Diploma,Diploma in Finance, Business and Marketing
+Student_27_8,89,53,74,95,75,86,Diploma,Diploma in Arts and Media
+Student_27_9,91,69,93,44,82,78,Diploma,Diploma in Physical Education and Wellness
+Student_28_1,87,87,89,48,88,88,Diploma,Diploma in Computer Science and Information Technology
+Student_28_2,85,87,91,79,88,81,Diploma,Diploma in Mechanical and Electrical
+Student_28_3,87,78,84,48,78,86,Diploma,Diploma in Electronics and Communication
+Student_28_4,75,76,81,86,95,79,Diploma,Diploma in Construction and Design
+Student_28_5,83,70,75,82,78,88,Diploma,Diploma in Hospitality and Event Management
+Student_28_6,80,83,91,48,40,58,Diploma,Diploma in Life Sciences and Environment
+Student_28_7,88,89,40,71,90,81,Diploma,Diploma in Finance, Business and Marketing
+Student_28_8,88,65,77,94,75,81,Diploma,Diploma in Arts and Media
+Student_28_9,87,40,83,41,85,82,Diploma,Diploma in Physical Education and Wellness
+Student_29_1,82,94,78,48,90,86,Diploma,Diploma in Computer Science and Information Technology
+Student_29_2,80,85,88,73,80,77,Diploma,Diploma in Mechanical and Electrical
+Student_29_3,76,78,90,42,76,94,Diploma,Diploma in Electronics and Communication
+Student_29_4,81,82,82,90,92,90,Diploma,Diploma in Construction and Design
+Student_29_5,91,58,59,93,78,76,Diploma,Diploma in Hospitality and Event Management
+Student_29_6,84,82,88,57,71,61,Diploma,Diploma in Life Sciences and Environment
+Student_29_7,81,92,77,58,94,76,Diploma,Diploma in Finance, Business and Marketing
+Student_29_8,93,77,45,81,79,78,Diploma,Diploma in Arts and Media
+Student_29_9,89,47,89,63,82,87,Diploma,Diploma in Physical Education and Wellness
+Student_30_1,77,85,87,82,84,88,Diploma,Diploma in Computer Science and Information Technology
+Student_30_2,76,87,86,71,82,85,Diploma,Diploma in Mechanical and Electrical
+Student_30_3,89,88,81,54,89,84,Diploma,Diploma in Electronics and Communication
+Student_30_4,90,82,80,89,89,84,Diploma,Diploma in Construction and Design
+Student_30_5,81,62,75,93,78,80,Diploma,Diploma in Hospitality and Event Management
+Student_30_6,81,76,83,42,79,49,Diploma,Diploma in Life Sciences and Environment
+Student_30_7,86,90,55,72,95,75,Diploma,Diploma in Finance, Business and Marketing
+Student_30_8,90,57,73,92,77,81,Diploma,Diploma in Arts and Media
+Student_30_9,81,79,89,75,82,79,Diploma,Diploma in Physical Education and Wellness
+Student_31_1,77,86,86,50,76,94,Diploma,Diploma in Computer Science and Information Technology
+Student_31_2,87,86,85,55,79,86,Diploma,Diploma in Mechanical and Electrical
+Student_31_3,90,85,88,46,85,85,Diploma,Diploma in Electronics and Communication
+Student_31_4,85,78,83,89,88,88,Diploma,Diploma in Construction and Design
+Student_31_5,94,55,78,81,87,78,Diploma,Diploma in Hospitality and Event Management
+Student_31_6,88,75,89,62,54,49,Diploma,Diploma in Life Sciences and Environment
+Student_31_7,90,89,41,57,87,86,Diploma,Diploma in Finance, Business and Marketing
+Student_31_8,94,50,48,94,76,80,Diploma,Diploma in Arts and Media
+Student_31_9,91,72,91,63,90,89,Diploma,Diploma in Physical Education and Wellness
+Student_32_1,76,89,89,85,82,84,Diploma,Diploma in Computer Science and Information Technology
+Student_32_2,85,91,90,68,81,89,Diploma,Diploma in Mechanical and Electrical
+Student_32_3,90,80,84,40,85,82,Diploma,Diploma in Electronics and Communication
+Student_32_4,86,77,76,88,86,76,Diploma,Diploma in Construction and Design
+Student_32_5,86,76,74,81,81,84,Diploma,Diploma in Hospitality and Event Management
+Student_32_6,84,83,88,72,69,44,Diploma,Diploma in Life Sciences and Environment
+Student_32_7,87,84,51,64,86,79,Diploma,Diploma in Finance, Business and Marketing
+Student_32_8,88,61,58,85,79,87,Diploma,Diploma in Arts and Media
+Student_32_9,87,77,90,65,82,89,Diploma,Diploma in Physical Education and Wellness
+Student_33_1,89,84,84,64,76,82,Diploma,Diploma in Computer Science and Information Technology
+Student_33_2,79,93,82,71,88,87,Diploma,Diploma in Mechanical and Electrical
+Student_33_3,87,83,91,45,77,81,Diploma,Diploma in Electronics and Communication
+Student_33_4,79,87,81,95,81,88,Diploma,Diploma in Construction and Design
+Student_33_5,93,77,77,88,84,79,Diploma,Diploma in Hospitality and Event Management
+Student_33_6,83,83,91,62,58,61,Diploma,Diploma in Life Sciences and Environment
+Student_33_7,85,95,67,77,89,78,Diploma,Diploma in Finance, Business and Marketing
+Student_33_8,92,69,77,92,90,84,Diploma,Diploma in Arts and Media
+Student_33_9,89,56,95,69,75,81,Diploma,Diploma in Physical Education and Wellness
+Student_34_1,85,88,85,43,87,81,Diploma,Diploma in Computer Science and Information Technology
+Student_34_2,77,83,85,69,82,79,Diploma,Diploma in Mechanical and Electrical
+Student_34_3,76,84,87,44,83,84,Diploma,Diploma in Electronics and Communication
+Student_34_4,83,90,78,82,83,82,Diploma,Diploma in Construction and Design
+Student_34_5,92,64,68,93,88,86,Diploma,Diploma in Hospitality and Event Management
+Student_34_6,78,75,93,60,65,52,Diploma,Diploma in Life Sciences and Environment
+Student_34_7,94,90,47,68,88,83,Diploma,Diploma in Finance, Business and Marketing
+Student_34_8,84,45,63,83,85,90,Diploma,Diploma in Arts and Media
+Student_34_9,81,67,91,40,84,87,Diploma,Diploma in Physical Education and Wellness
+Student_35_1,80,81,80,50,78,92,Diploma,Diploma in Computer Science and Information Technology
+Student_35_2,79,82,85,57,86,80,Diploma,Diploma in Mechanical and Electrical
+Student_35_3,85,88,92,43,77,88,Diploma,Diploma in Electronics and Communication
+Student_35_4,82,89,83,87,82,83,Diploma,Diploma in Construction and Design
+Student_35_5,92,68,69,95,80,81,Diploma,Diploma in Hospitality and Event Management
+Student_35_6,77,83,94,59,79,58,Diploma,Diploma in Life Sciences and Environment
+Student_35_7,83,90,63,68,84,86,Diploma,Diploma in Finance, Business and Marketing
+Student_35_8,85,48,50,90,77,86,Diploma,Diploma in Arts and Media
+Student_35_9,83,67,93,50,76,84,Diploma,Diploma in Physical Education and Wellness
+Student_36_1,89,87,78,50,78,85,Diploma,Diploma in Computer Science and Information Technology
+Student_36_2,90,81,90,67,80,89,Diploma,Diploma in Mechanical and Electrical
+Student_36_3,78,89,89,65,80,93,Diploma,Diploma in Electronics and Communication
+Student_36_4,88,75,76,87,85,90,Diploma,Diploma in Construction and Design
+Student_36_5,84,56,47,83,87,77,Diploma,Diploma in Hospitality and Event Management
+Student_36_6,76,78,87,65,48,54,Diploma,Diploma in Life Sciences and Environment
+Student_36_7,93,81,80,65,86,75,Diploma,Diploma in Finance, Business and Marketing
+Student_36_8,91,65,69,83,87,87,Diploma,Diploma in Arts and Media
+Student_36_9,85,63,86,80,81,85,Diploma,Diploma in Physical Education and Wellness
+Student_37_1,81,83,86,55,89,93,Diploma,Diploma in Computer Science and Information Technology
+Student_37_2,80,89,95,41,83,90,Diploma,Diploma in Mechanical and Electrical
+Student_37_3,75,76,87,85,89,91,Diploma,Diploma in Electronics and Communication
+Student_37_4,77,89,83,95,85,89,Diploma,Diploma in Construction and Design
+Student_37_5,87,49,60,93,86,88,Diploma,Diploma in Hospitality and Event Management
+Student_37_6,87,78,86,79,56,42,Diploma,Diploma in Life Sciences and Environment
+Student_37_7,91,81,43,55,91,89,Diploma,Diploma in Finance, Business and Marketing
+Student_37_8,90,63,44,90,81,89,Diploma,Diploma in Arts and Media
+Student_37_9,93,43,87,74,88,75,Diploma,Diploma in Physical Education and Wellness
+Student_38_1,75,91,76,50,90,91,Diploma,Diploma in Computer Science and Information Technology
+Student_38_2,89,93,90,79,77,82,Diploma,Diploma in Mechanical and Electrical
+Student_38_3,85,85,93,42,82,95,Diploma,Diploma in Electronics and Communication
+Student_38_4,90,86,75,95,88,88,Diploma,Diploma in Construction and Design
+Student_38_5,88,77,71,87,84,76,Diploma,Diploma in Hospitality and Event Management
+Student_38_6,83,76,85,54,76,52,Diploma,Diploma in Life Sciences and Environment
+Student_38_7,95,88,43,74,82,80,Diploma,Diploma in Finance, Business and Marketing
+Student_38_8,89,46,64,84,89,90,Diploma,Diploma in Arts and Media
+Student_38_9,90,69,88,69,84,75,Diploma,Diploma in Physical Education and Wellness
+Student_39_1,85,82,77,58,78,82,Diploma,Diploma in Computer Science and Information Technology
+Student_39_2,83,90,94,60,86,83,Diploma,Diploma in Mechanical and Electrical
+Student_39_3,78,80,81,79,81,91,Diploma,Diploma in Electronics and Communication
+Student_39_4,84,78,83,93,91,81,Diploma,Diploma in Construction and Design
+Student_39_5,92,77,74,91,75,88,Diploma,Diploma in Hospitality and Event Management
+Student_39_6,78,84,88,57,66,42,Diploma,Diploma in Life Sciences and Environment
+Student_39_7,86,92,57,77,92,90,Diploma,Diploma in Finance, Business and Marketing
+Student_39_8,92,60,47,89,90,81,Diploma,Diploma in Arts and Media
+Student_39_9,85,60,92,61,89,89,Diploma,Diploma in Physical Education and Wellness
+Student_40_1,83,94,78,81,80,94,Diploma,Diploma in Computer Science and Information Technology
+Student_40_2,83,83,83,74,88,85,Diploma,Diploma in Mechanical and Electrical
+Student_40_3,81,89,95,71,90,82,Diploma,Diploma in Electronics and Communication
+Student_40_4,78,80,85,93,95,84,Diploma,Diploma in Construction and Design
+Student_40_5,86,52,59,93,79,83,Diploma,Diploma in Hospitality and Event Management
+Student_40_6,88,85,94,69,40,52,Diploma,Diploma in Life Sciences and Environment
+Student_40_7,92,92,64,66,87,83,Diploma,Diploma in Finance, Business and Marketing
+Student_40_8,93,76,43,89,81,78,Diploma,Diploma in Arts and Media
+Student_40_9,91,65,85,71,88,85,Diploma,Diploma in Physical Education and Wellness
+Student_41_1,90,83,79,57,78,83,Diploma,Diploma in Computer Science and Information Technology
+Student_41_2,88,92,86,53,89,87,Diploma,Diploma in Mechanical and Electrical
+Student_41_3,83,76,81,71,89,87,Diploma,Diploma in Electronics and Communication
+Student_41_4,84,84,85,85,81,83,Diploma,Diploma in Construction and Design
+Student_41_5,91,69,66,92,86,79,Diploma,Diploma in Hospitality and Event Management
+Student_41_6,78,79,88,60,71,67,Diploma,Diploma in Life Sciences and Environment
+Student_41_7,88,94,54,55,83,82,Diploma,Diploma in Finance, Business and Marketing
+Student_41_8,84,54,55,91,81,89,Diploma,Diploma in Arts and Media
+Student_41_9,89,43,81,45,85,75,Diploma,Diploma in Physical Education and Wellness
+Student_42_1,88,91,85,61,81,91,Diploma,Diploma in Computer Science and Information Technology
+Student_42_2,89,90,92,66,84,88,Diploma,Diploma in Mechanical and Electrical
+Student_42_3,84,85,86,47,77,84,Diploma,Diploma in Electronics and Communication
+Student_42_4,89,90,88,91,86,87,Diploma,Diploma in Construction and Design
+Student_42_5,94,52,54,83,80,86,Diploma,Diploma in Hospitality and Event Management
+Student_42_6,90,80,94,68,46,79,Diploma,Diploma in Life Sciences and Environment
+Student_42_7,92,93,77,77,90,78,Diploma,Diploma in Finance, Business and Marketing
+Student_42_8,95,70,65,91,89,87,Diploma,Diploma in Arts and Media
+Student_42_9,95,45,81,60,79,87,Diploma,Diploma in Physical Education and Wellness
+Student_43_1,88,85,84,76,81,86,Diploma,Diploma in Computer Science and Information Technology
+Student_43_2,79,94,83,45,85,82,Diploma,Diploma in Mechanical and Electrical
+Student_43_3,89,79,91,48,90,89,Diploma,Diploma in Electronics and Communication
+Student_43_4,76,76,79,87,85,89,Diploma,Diploma in Construction and Design
+Student_43_5,89,73,43,92,89,83,Diploma,Diploma in Hospitality and Event Management
+Student_43_6,87,75,86,79,59,45,Diploma,Diploma in Life Sciences and Environment
+Student_43_7,95,92,47,45,82,85,Diploma,Diploma in Finance, Business and Marketing
+Student_43_8,86,46,67,81,89,89,Diploma,Diploma in Arts and Media
+Student_43_9,91,45,82,65,78,88,Diploma,Diploma in Physical Education and Wellness
+Student_44_1,78,84,81,90,84,90,Diploma,Diploma in Computer Science and Information Technology
+Student_44_2,86,86,84,44,90,81,Diploma,Diploma in Mechanical and Electrical
+Student_44_3,90,82,90,56,81,81,Diploma,Diploma in Electronics and Communication
+Student_44_4,78,86,76,83,86,77,Diploma,Diploma in Construction and Design
+Student_44_5,86,60,69,84,85,84,Diploma,Diploma in Hospitality and Event Management
+Student_44_6,76,81,84,67,53,68,Diploma,Diploma in Life Sciences and Environment
+Student_44_7,85,95,50,72,94,84,Diploma,Diploma in Finance, Business and Marketing
+Student_44_8,88,80,59,84,85,80,Diploma,Diploma in Arts and Media
+Student_44_9,85,69,94,57,81,81,Diploma,Diploma in Physical Education and Wellness
+Student_45_1,89,93,80,40,82,85,Diploma,Diploma in Computer Science and Information Technology
+Student_45_2,86,89,93,51,75,81,Diploma,Diploma in Mechanical and Electrical
+Student_45_3,89,82,93,69,90,93,Diploma,Diploma in Electronics and Communication
+Student_45_4,81,75,88,84,83,79,Diploma,Diploma in Construction and Design
+Student_45_5,85,53,56,92,81,81,Diploma,Diploma in Hospitality and Event Management
+Student_45_6,80,76,92,60,61,61,Diploma,Diploma in Life Sciences and Environment
+Student_45_7,90,86,41,44,86,88,Diploma,Diploma in Finance, Business and Marketing
+Student_45_8,87,52,50,88,82,89,Diploma,Diploma in Arts and Media
+Student_45_9,88,67,91,72,87,88,Diploma,Diploma in Physical Education and Wellness
+Student_46_1,75,82,79,44,90,91,Diploma,Diploma in Computer Science and Information Technology
+Student_46_2,78,94,86,68,87,86,Diploma,Diploma in Mechanical and Electrical
+Student_46_3,78,79,82,49,89,84,Diploma,Diploma in Electronics and Communication
+Student_46_4,89,79,89,82,81,81,Diploma,Diploma in Construction and Design
+Student_46_5,82,45,52,84,77,90,Diploma,Diploma in Hospitality and Event Management
+Student_46_6,85,78,91,71,52,59,Diploma,Diploma in Life Sciences and Environment
+Student_46_7,84,92,68,74,92,86,Diploma,Diploma in Finance, Business and Marketing
+Student_46_8,83,73,68,95,86,77,Diploma,Diploma in Arts and Media
+Student_46_9,92,65,82,41,85,87,Diploma,Diploma in Physical Education and Wellness
+Student_47_1,87,82,81,53,79,94,Diploma,Diploma in Computer Science and Information Technology
+Student_47_2,85,82,90,71,83,90,Diploma,Diploma in Mechanical and Electrical
+Student_47_3,79,75,90,69,80,93,Diploma,Diploma in Electronics and Communication
+Student_47_4,77,84,87,83,92,82,Diploma,Diploma in Construction and Design
+Student_47_5,82,51,57,90,77,83,Diploma,Diploma in Hospitality and Event Management
+Student_47_6,87,84,89,54,60,44,Diploma,Diploma in Life Sciences and Environment
+Student_47_7,89,81,45,59,88,80,Diploma,Diploma in Finance, Business and Marketing
+Student_47_8,92,68,60,85,83,88,Diploma,Diploma in Arts and Media
+Student_47_9,94,78,95,40,89,81,Diploma,Diploma in Physical Education and Wellness
+Student_48_1,83,95,79,82,90,83,Diploma,Diploma in Computer Science and Information Technology
+Student_48_2,89,86,95,56,89,83,Diploma,Diploma in Mechanical and Electrical
+Student_48_3,89,80,92,63,83,94,Diploma,Diploma in Electronics and Communication
+Student_48_4,79,88,76,93,88,84,Diploma,Diploma in Construction and Design
+Student_48_5,88,73,61,90,86,89,Diploma,Diploma in Hospitality and Event Management
+Student_48_6,83,85,88,80,68,68,Diploma,Diploma in Life Sciences and Environment
+Student_48_7,85,85,59,70,85,81,Diploma,Diploma in Finance, Business and Marketing
+Student_48_8,88,72,41,94,84,84,Diploma,Diploma in Arts and Media
+Student_48_9,82,77,90,75,78,80,Diploma,Diploma in Physical Education and Wellness
+Student_49_1,86,91,80,41,82,91,Diploma,Diploma in Computer Science and Information Technology
+Student_49_2,89,90,84,64,86,89,Diploma,Diploma in Mechanical and Electrical
+Student_49_3,86,82,87,76,81,87,Diploma,Diploma in Electronics and Communication
+Student_49_4,85,87,83,88,88,78,Diploma,Diploma in Construction and Design
+Student_49_5,82,52,56,83,77,76,Diploma,Diploma in Hospitality and Event Management
+Student_49_6,83,82,92,74,48,45,Diploma,Diploma in Life Sciences and Environment
+Student_49_7,95,85,55,68,93,84,Diploma,Diploma in Finance, Business and Marketing
+Student_49_8,81,63,72,91,86,77,Diploma,Diploma in Arts and Media
+Student_49_9,84,60,84,52,88,87,Diploma,Diploma in Physical Education and Wellness
+Student_50_1,83,95,81,46,88,87,Diploma,Diploma in Computer Science and Information Technology
+Student_50_2,86,94,93,83,77,82,Diploma,Diploma in Mechanical and Electrical
+Student_50_3,88,89,94,49,77,87,Diploma,Diploma in Electronics and Communication
+Student_50_4,89,81,86,86,81,78,Diploma,Diploma in Construction and Design
+Student_50_5,95,76,45,95,84,75,Diploma,Diploma in Hospitality and Event Management
+Student_50_6,85,79,93,44,68,65,Diploma,Diploma in Life Sciences and Environment
+Student_50_7,92,92,72,77,93,78,Diploma,Diploma in Finance, Business and Marketing
+Student_50_8,91,52,61,85,78,88,Diploma,Diploma in Arts and Media
+Student_50_9,94,67,95,78,76,81,Diploma,Diploma in Physical Education and Wellness
+Student_51_1,90,85,86,42,82,93,Diploma,Diploma in Computer Science and Information Technology
+Student_51_2,76,81,91,46,76,83,Diploma,Diploma in Mechanical and Electrical
+Student_51_3,78,85,84,79,79,94,Diploma,Diploma in Electronics and Communication
+Student_51_4,80,79,82,81,92,84,Diploma,Diploma in Construction and Design
+Student_51_5,95,47,62,89,75,84,Diploma,Diploma in Hospitality and Event Management
+Student_51_6,76,75,81,53,79,67,Diploma,Diploma in Life Sciences and Environment
+Student_51_7,83,87,76,43,93,80,Diploma,Diploma in Finance, Business and Marketing
+Student_51_8,90,61,55,95,86,75,Diploma,Diploma in Arts and Media
+Student_51_9,88,51,81,57,79,78,Diploma,Diploma in Physical Education and Wellness
+Student_52_1,84,94,83,63,79,89,Diploma,Diploma in Computer Science and Information Technology
+Student_52_2,80,89,90,74,87,85,Diploma,Diploma in Mechanical and Electrical
+Student_52_3,76,81,89,56,81,94,Diploma,Diploma in Electronics and Communication
+Student_52_4,75,79,81,84,91,80,Diploma,Diploma in Construction and Design
+Student_52_5,85,46,62,82,81,81,Diploma,Diploma in Hospitality and Event Management
+Student_52_6,86,83,89,55,50,45,Diploma,Diploma in Life Sciences and Environment
+Student_52_7,84,87,65,65,85,75,Diploma,Diploma in Finance, Business and Marketing
+Student_52_8,89,57,79,89,77,84,Diploma,Diploma in Arts and Media
+Student_52_9,88,70,92,57,87,90,Diploma,Diploma in Physical Education and Wellness
+Student_53_1,86,93,76,84,79,95,Diploma,Diploma in Computer Science and Information Technology
+Student_53_2,77,88,87,54,85,87,Diploma,Diploma in Mechanical and Electrical
+Student_53_3,81,87,88,72,75,95,Diploma,Diploma in Electronics and Communication
+Student_53_4,90,84,84,90,86,87,Diploma,Diploma in Construction and Design
+Student_53_5,93,51,53,81,80,86,Diploma,Diploma in Hospitality and Event Management
+Student_53_6,85,83,91,78,50,65,Diploma,Diploma in Life Sciences and Environment
+Student_53_7,82,85,53,79,95,84,Diploma,Diploma in Finance, Business and Marketing
+Student_53_8,92,75,77,92,77,75,Diploma,Diploma in Arts and Media
+Student_53_9,87,69,85,43,76,80,Diploma,Diploma in Physical Education and Wellness
+Student_54_1,83,81,78,85,84,85,Diploma,Diploma in Computer Science and Information Technology
+Student_54_2,75,86,83,40,85,81,Diploma,Diploma in Mechanical and Electrical
+Student_54_3,85,82,91,46,85,82,Diploma,Diploma in Electronics and Communication
+Student_54_4,82,81,76,81,85,84,Diploma,Diploma in Construction and Design
+Student_54_5,81,42,44,95,86,81,Diploma,Diploma in Hospitality and Event Management
+Student_54_6,80,80,89,42,80,75,Diploma,Diploma in Life Sciences and Environment
+Student_54_7,89,90,67,62,81,76,Diploma,Diploma in Finance, Business and Marketing
+Student_54_8,85,76,43,87,90,82,Diploma,Diploma in Arts and Media
+Student_54_9,81,60,82,65,86,88,Diploma,Diploma in Physical Education and Wellness
+Student_55_1,86,89,75,60,83,84,Diploma,Diploma in Computer Science and Information Technology
+Student_55_2,82,86,94,57,81,77,Diploma,Diploma in Mechanical and Electrical
+Student_55_3,78,89,90,42,88,91,Diploma,Diploma in Electronics and Communication
+Student_55_4,79,81,85,84,82,88,Diploma,Diploma in Construction and Design
+Student_55_5,83,53,45,85,90,80,Diploma,Diploma in Hospitality and Event Management
+Student_55_6,75,83,92,56,75,57,Diploma,Diploma in Life Sciences and Environment
+Student_55_7,82,82,61,40,95,81,Diploma,Diploma in Finance, Business and Marketing
+Student_55_8,89,57,47,85,85,76,Diploma,Diploma in Arts and Media
+Student_55_9,88,43,85,68,87,80,Diploma,Diploma in Physical Education and Wellness
+Student_56_1,78,92,89,74,88,86,Diploma,Diploma in Computer Science and Information Technology
+Student_56_2,80,95,81,61,85,90,Diploma,Diploma in Mechanical and Electrical
+Student_56_3,81,88,94,61,85,93,Diploma,Diploma in Electronics and Communication
+Student_56_4,76,87,78,94,81,81,Diploma,Diploma in Construction and Design
+Student_56_5,84,50,45,91,77,88,Diploma,Diploma in Hospitality and Event Management
+Student_56_6,84,80,83,47,66,64,Diploma,Diploma in Life Sciences and Environment
+Student_56_7,84,82,47,53,91,82,Diploma,Diploma in Finance, Business and Marketing
+Student_56_8,89,75,69,85,82,82,Diploma,Diploma in Arts and Media
+Student_56_9,84,64,87,60,83,85,Diploma,Diploma in Physical Education and Wellness
+Student_57_1,78,83,86,45,80,89,Diploma,Diploma in Computer Science and Information Technology
+Student_57_2,75,85,89,68,84,81,Diploma,Diploma in Mechanical and Electrical
+Student_57_3,75,75,82,56,79,83,Diploma,Diploma in Electronics and Communication
+Student_57_4,75,89,90,85,89,84,Diploma,Diploma in Construction and Design
+Student_57_5,88,45,77,83,89,81,Diploma,Diploma in Hospitality and Event Management
+Student_57_6,86,77,85,74,70,75,Diploma,Diploma in Life Sciences and Environment
+Student_57_7,88,95,44,67,83,84,Diploma,Diploma in Finance, Business and Marketing
+Student_57_8,89,75,74,93,87,76,Diploma,Diploma in Arts and Media
+Student_57_9,85,77,81,61,88,83,Diploma,Diploma in Physical Education and Wellness
+Student_58_1,80,91,81,71,77,83,Diploma,Diploma in Computer Science and Information Technology
+Student_58_2,85,95,81,72,76,85,Diploma,Diploma in Mechanical and Electrical
+Student_58_3,86,76,84,82,86,83,Diploma,Diploma in Electronics and Communication
+Student_58_4,85,85,89,92,86,82,Diploma,Diploma in Construction and Design
+Student_58_5,90,43,51,89,88,84,Diploma,Diploma in Hospitality and Event Management
+Student_58_6,78,76,95,79,41,65,Diploma,Diploma in Life Sciences and Environment
+Student_58_7,85,88,41,80,82,87,Diploma,Diploma in Finance, Business and Marketing
+Student_58_8,83,49,79,91,82,77,Diploma,Diploma in Arts and Media
+Student_58_9,94,65,89,78,80,76,Diploma,Diploma in Physical Education and Wellness
+Student_59_1,90,89,85,77,89,87,Diploma,Diploma in Computer Science and Information Technology
+Student_59_2,78,94,90,74,89,81,Diploma,Diploma in Mechanical and Electrical
+Student_59_3,78,81,81,82,83,91,Diploma,Diploma in Electronics and Communication
+Student_59_4,87,84,81,94,90,89,Diploma,Diploma in Construction and Design
+Student_59_5,84,64,52,86,79,87,Diploma,Diploma in Hospitality and Event Management
+Student_59_6,85,78,90,63,49,79,Diploma,Diploma in Life Sciences and Environment
+Student_59_7,82,93,69,45,89,84,Diploma,Diploma in Finance, Business and Marketing
+Student_59_8,83,45,66,88,87,87,Diploma,Diploma in Arts and Media
+Student_59_9,95,59,89,42,83,85,Diploma,Diploma in Physical Education and Wellness
+Student_60_1,75,90,88,82,82,85,Diploma,Diploma in Computer Science and Information Technology
+Student_60_2,77,84,87,76,80,84,Diploma,Diploma in Mechanical and Electrical
+Student_60_3,80,76,90,60,83,95,Diploma,Diploma in Electronics and Communication
+Student_60_4,81,88,89,94,90,89,Diploma,Diploma in Construction and Design
+Student_60_5,90,52,54,83,83,85,Diploma,Diploma in Hospitality and Event Management
+Student_60_6,80,75,86,46,60,61,Diploma,Diploma in Life Sciences and Environment
+Student_60_7,84,94,79,72,85,89,Diploma,Diploma in Finance, Business and Marketing
+Student_60_8,86,77,68,85,82,83,Diploma,Diploma in Arts and Media
+Student_60_9,93,47,86,52,89,77,Diploma,Diploma in Physical Education and Wellness
+Student_61_1,87,91,75,72,78,92,Diploma,Diploma in Computer Science and Information Technology
+Student_61_2,76,83,94,70,75,85,Diploma,Diploma in Mechanical and Electrical
+Student_61_3,84,75,81,49,76,87,Diploma,Diploma in Electronics and Communication
+Student_61_4,83,90,81,85,84,87,Diploma,Diploma in Construction and Design
+Student_61_5,89,76,51,87,86,81,Diploma,Diploma in Hospitality and Event Management
+Student_61_6,89,83,85,80,58,59,Diploma,Diploma in Life Sciences and Environment
+Student_61_7,81,86,57,63,85,90,Diploma,Diploma in Finance, Business and Marketing
+Student_61_8,89,48,66,86,85,76,Diploma,Diploma in Arts and Media
+Student_61_9,89,52,91,64,89,90,Diploma,Diploma in Physical Education and Wellness
+Student_62_1,87,92,82,88,87,94,Diploma,Diploma in Computer Science and Information Technology
+Student_62_2,87,94,93,69,85,84,Diploma,Diploma in Mechanical and Electrical
+Student_62_3,86,76,87,60,79,95,Diploma,Diploma in Electronics and Communication
+Student_62_4,75,84,77,85,84,89,Diploma,Diploma in Construction and Design
+Student_62_5,93,68,75,86,87,81,Diploma,Diploma in Hospitality and Event Management
+Student_62_6,83,76,89,72,43,59,Diploma,Diploma in Life Sciences and Environment
+Student_62_7,94,84,53,72,95,78,Diploma,Diploma in Finance, Business and Marketing
+Student_62_8,83,49,40,91,77,76,Diploma,Diploma in Arts and Media
+Student_62_9,84,75,86,45,75,83,Diploma,Diploma in Physical Education and Wellness
+Student_63_1,89,89,78,62,87,81,Diploma,Diploma in Computer Science and Information Technology
+Student_63_2,79,93,92,63,75,87,Diploma,Diploma in Mechanical and Electrical
+Student_63_3,83,79,90,54,80,86,Diploma,Diploma in Electronics and Communication
+Student_63_4,76,84,82,83,91,82,Diploma,Diploma in Construction and Design
+Student_63_5,86,45,78,82,86,86,Diploma,Diploma in Hospitality and Event Management
+Student_63_6,89,78,95,46,40,76,Diploma,Diploma in Life Sciences and Environment
+Student_63_7,93,83,44,63,89,77,Diploma,Diploma in Finance, Business and Marketing
+Student_63_8,93,50,72,92,75,77,Diploma,Diploma in Arts and Media
+Student_63_9,84,71,91,80,82,83,Diploma,Diploma in Physical Education and Wellness
+Student_64_1,80,82,81,48,80,83,Diploma,Diploma in Computer Science and Information Technology
+Student_64_2,76,84,90,84,85,82,Diploma,Diploma in Mechanical and Electrical
+Student_64_3,88,82,93,78,76,84,Diploma,Diploma in Electronics and Communication
+Student_64_4,81,88,86,90,83,76,Diploma,Diploma in Construction and Design
+Student_64_5,95,80,44,90,77,77,Diploma,Diploma in Hospitality and Event Management
+Student_64_6,84,78,89,60,70,77,Diploma,Diploma in Life Sciences and Environment
+Student_64_7,88,86,77,54,91,83,Diploma,Diploma in Finance, Business and Marketing
+Student_64_8,91,79,71,89,80,77,Diploma,Diploma in Arts and Media
+Student_64_9,95,64,92,43,84,87,Diploma,Diploma in Physical Education and Wellness
+Student_65_1,78,89,83,65,89,87,Diploma,Diploma in Computer Science and Information Technology
+Student_65_2,90,81,93,82,79,75,Diploma,Diploma in Mechanical and Electrical
+Student_65_3,79,83,82,84,88,81,Diploma,Diploma in Electronics and Communication
+Student_65_4,79,77,87,91,95,90,Diploma,Diploma in Construction and Design
+Student_65_5,87,49,76,93,87,84,Diploma,Diploma in Hospitality and Event Management
+Student_65_6,78,76,94,52,58,61,Diploma,Diploma in Life Sciences and Environment
+Student_65_7,84,93,45,45,81,86,Diploma,Diploma in Finance, Business and Marketing
+Student_65_8,81,40,70,94,79,85,Diploma,Diploma in Arts and Media
+Student_65_9,85,56,92,50,81,76,Diploma,Diploma in Physical Education and Wellness
+Student_66_1,83,84,84,53,82,81,Diploma,Diploma in Computer Science and Information Technology
+Student_66_2,84,82,87,55,90,78,Diploma,Diploma in Mechanical and Electrical
+Student_66_3,81,86,84,78,86,81,Diploma,Diploma in Electronics and Communication
+Student_66_4,78,82,87,82,86,76,Diploma,Diploma in Construction and Design
+Student_66_5,94,62,51,86,75,84,Diploma,Diploma in Hospitality and Event Management
+Student_66_6,85,77,85,62,79,41,Diploma,Diploma in Life Sciences and Environment
+Student_66_7,94,88,62,57,86,84,Diploma,Diploma in Finance, Business and Marketing
+Student_66_8,87,73,44,81,75,85,Diploma,Diploma in Arts and Media
+Student_66_9,88,44,91,42,77,78,Diploma,Diploma in Physical Education and Wellness
+Student_67_1,80,88,80,75,89,84,Diploma,Diploma in Computer Science and Information Technology
+Student_67_2,90,87,86,40,88,88,Diploma,Diploma in Mechanical and Electrical
+Student_67_3,84,81,91,45,88,93,Diploma,Diploma in Electronics and Communication
+Student_67_4,76,84,81,82,87,77,Diploma,Diploma in Construction and Design
+Student_67_5,85,58,78,88,84,78,Diploma,Diploma in Hospitality and Event Management
+Student_67_6,76,84,93,44,73,59,Diploma,Diploma in Life Sciences and Environment
+Student_67_7,89,81,74,61,85,87,Diploma,Diploma in Finance, Business and Marketing
+Student_67_8,93,79,47,86,85,90,Diploma,Diploma in Arts and Media
+Student_67_9,81,55,81,61,77,82,Diploma,Diploma in Physical Education and Wellness
+Student_68_1,77,94,78,81,78,81,Diploma,Diploma in Computer Science and Information Technology
+Student_68_2,77,85,82,56,81,78,Diploma,Diploma in Mechanical and Electrical
+Student_68_3,81,86,84,83,80,88,Diploma,Diploma in Electronics and Communication
+Student_68_4,77,87,87,93,93,88,Diploma,Diploma in Construction and Design
+Student_68_5,81,55,41,92,76,80,Diploma,Diploma in Hospitality and Event Management
+Student_68_6,89,82,89,41,80,72,Diploma,Diploma in Life Sciences and Environment
+Student_68_7,94,87,67,66,84,79,Diploma,Diploma in Finance, Business and Marketing
+Student_68_8,87,43,76,84,87,82,Diploma,Diploma in Arts and Media
+Student_68_9,92,68,94,62,80,81,Diploma,Diploma in Physical Education and Wellness
+Student_69_1,89,87,88,56,76,86,Diploma,Diploma in Computer Science and Information Technology
+Student_69_2,75,84,81,57,87,80,Diploma,Diploma in Mechanical and Electrical
+Student_69_3,82,76,85,56,90,86,Diploma,Diploma in Electronics and Communication
+Student_69_4,75,82,78,91,84,76,Diploma,Diploma in Construction and Design
+Student_69_5,92,64,57,95,82,75,Diploma,Diploma in Hospitality and Event Management
+Student_69_6,83,75,92,45,68,54,Diploma,Diploma in Life Sciences and Environment
+Student_69_7,95,85,69,69,92,87,Diploma,Diploma in Finance, Business and Marketing
+Student_69_8,88,78,66,82,86,80,Diploma,Diploma in Arts and Media
+Student_69_9,88,77,91,54,76,83,Diploma,Diploma in Physical Education and Wellness
+Student_70_1,83,89,77,41,80,93,Diploma,Diploma in Computer Science and Information Technology
+Student_70_2,81,81,88,43,78,83,Diploma,Diploma in Mechanical and Electrical
+Student_70_3,77,87,86,40,82,84,Diploma,Diploma in Electronics and Communication
+Student_70_4,79,84,87,84,90,89,Diploma,Diploma in Construction and Design
+Student_70_5,83,60,56,89,77,84,Diploma,Diploma in Hospitality and Event Management
+Student_70_6,83,79,93,65,80,42,Diploma,Diploma in Life Sciences and Environment
+Student_70_7,90,92,59,55,87,87,Diploma,Diploma in Finance, Business and Marketing
+Student_70_8,86,57,60,92,78,87,Diploma,Diploma in Arts and Media
+Student_70_9,94,79,84,60,78,87,Diploma,Diploma in Physical Education and Wellness
+Student_71_1,87,81,78,77,86,86,Diploma,Diploma in Computer Science and Information Technology
+Student_71_2,87,84,81,68,79,90,Diploma,Diploma in Mechanical and Electrical
+Student_71_3,89,82,87,62,87,90,Diploma,Diploma in Electronics and Communication
+Student_71_4,86,82,81,86,91,86,Diploma,Diploma in Construction and Design
+Student_71_5,92,41,61,87,82,82,Diploma,Diploma in Hospitality and Event Management
+Student_71_6,89,85,94,53,47,67,Diploma,Diploma in Life Sciences and Environment
+Student_71_7,82,94,54,65,91,86,Diploma,Diploma in Finance, Business and Marketing
+Student_71_8,94,49,42,81,85,82,Diploma,Diploma in Arts and Media
+Student_71_9,83,80,93,42,90,81,Diploma,Diploma in Physical Education and Wellness
+Student_72_1,85,82,77,52,88,83,Diploma,Diploma in Computer Science and Information Technology
+Student_72_2,77,93,89,61,88,80,Diploma,Diploma in Mechanical and Electrical
+Student_72_3,82,85,85,68,81,84,Diploma,Diploma in Electronics and Communication
+Student_72_4,88,82,83,86,92,79,Diploma,Diploma in Construction and Design
+Student_72_5,95,77,69,82,88,75,Diploma,Diploma in Hospitality and Event Management
+Student_72_6,76,84,85,73,79,67,Diploma,Diploma in Life Sciences and Environment
+Student_72_7,89,85,53,44,93,79,Diploma,Diploma in Finance, Business and Marketing
+Student_72_8,91,45,45,86,86,85,Diploma,Diploma in Arts and Media
+Student_72_9,88,51,81,74,87,87,Diploma,Diploma in Physical Education and Wellness
+Student_73_1,79,89,78,76,90,93,Diploma,Diploma in Computer Science and Information Technology
+Student_73_2,75,93,94,68,89,79,Diploma,Diploma in Mechanical and Electrical
+Student_73_3,88,76,91,73,80,81,Diploma,Diploma in Electronics and Communication
+Student_73_4,79,80,90,87,85,79,Diploma,Diploma in Construction and Design
+Student_73_5,94,50,54,87,78,88,Diploma,Diploma in Hospitality and Event Management
+Student_73_6,82,76,84,59,42,50,Diploma,Diploma in Life Sciences and Environment
+Student_73_7,88,86,54,55,83,79,Diploma,Diploma in Finance, Business and Marketing
+Student_73_8,82,75,68,93,87,78,Diploma,Diploma in Arts and Media
+Student_73_9,95,62,82,69,84,83,Diploma,Diploma in Physical Education and Wellness
+Student_74_1,75,82,75,84,75,93,Diploma,Diploma in Computer Science and Information Technology
+Student_74_2,75,90,86,41,75,78,Diploma,Diploma in Mechanical and Electrical
+Student_74_3,88,76,95,52,87,88,Diploma,Diploma in Electronics and Communication
+Student_74_4,81,76,89,89,84,83,Diploma,Diploma in Construction and Design
+Student_74_5,93,44,53,90,77,88,Diploma,Diploma in Hospitality and Event Management
+Student_74_6,79,83,83,47,52,43,Diploma,Diploma in Life Sciences and Environment
+Student_74_7,90,90,78,78,89,78,Diploma,Diploma in Finance, Business and Marketing
+Student_74_8,92,63,56,86,78,89,Diploma,Diploma in Arts and Media
+Student_74_9,94,67,95,78,75,77,Diploma,Diploma in Physical Education and Wellness
+Student_75_1,87,92,81,49,90,83,Diploma,Diploma in Computer Science and Information Technology
+Student_75_2,76,91,81,69,88,80,Diploma,Diploma in Mechanical and Electrical
+Student_75_3,79,85,87,77,81,84,Diploma,Diploma in Electronics and Communication
+Student_75_4,76,75,88,81,81,83,Diploma,Diploma in Construction and Design
+Student_75_5,89,74,70,81,77,90,Diploma,Diploma in Hospitality and Event Management
+Student_75_6,83,79,94,43,73,80,Diploma,Diploma in Life Sciences and Environment
+Student_75_7,95,84,55,77,83,76,Diploma,Diploma in Finance, Business and Marketing
+Student_75_8,81,41,72,88,77,82,Diploma,Diploma in Arts and Media
+Student_75_9,85,43,94,73,87,80,Diploma,Diploma in Physical Education and Wellness
+Student_76_1,77,91,85,52,80,93,Diploma,Diploma in Computer Science and Information Technology
+Student_76_2,77,86,89,60,90,75,Diploma,Diploma in Mechanical and Electrical
+Student_76_3,89,88,88,45,77,85,Diploma,Diploma in Electronics and Communication
+Student_76_4,85,82,85,84,91,77,Diploma,Diploma in Construction and Design
+Student_76_5,83,69,55,81,84,80,Diploma,Diploma in Hospitality and Event Management
+Student_76_6,75,77,81,77,72,62,Diploma,Diploma in Life Sciences and Environment
+Student_76_7,92,91,73,47,91,81,Diploma,Diploma in Finance, Business and Marketing
+Student_76_8,85,47,72,91,89,82,Diploma,Diploma in Arts and Media
+Student_76_9,94,73,82,41,76,82,Diploma,Diploma in Physical Education and Wellness
+Student_77_1,85,91,83,78,79,81,Diploma,Diploma in Computer Science and Information Technology
+Student_77_2,78,90,88,70,83,90,Diploma,Diploma in Mechanical and Electrical
+Student_77_3,90,80,82,45,80,85,Diploma,Diploma in Electronics and Communication
+Student_77_4,79,86,81,86,88,76,Diploma,Diploma in Construction and Design
+Student_77_5,87,60,40,91,75,86,Diploma,Diploma in Hospitality and Event Management
+Student_77_6,81,84,93,76,80,42,Diploma,Diploma in Life Sciences and Environment
+Student_77_7,85,89,61,80,94,75,Diploma,Diploma in Finance, Business and Marketing
+Student_77_8,89,64,68,85,82,85,Diploma,Diploma in Arts and Media
+Student_77_9,94,64,90,73,88,89,Diploma,Diploma in Physical Education and Wellness
+Student_78_1,82,90,88,85,76,85,Diploma,Diploma in Computer Science and Information Technology
+Student_78_2,75,92,86,44,88,77,Diploma,Diploma in Mechanical and Electrical
+Student_78_3,76,82,83,59,88,95,Diploma,Diploma in Electronics and Communication
+Student_78_4,78,80,82,84,86,85,Diploma,Diploma in Construction and Design
+Student_78_5,90,54,40,95,76,81,Diploma,Diploma in Hospitality and Event Management
+Student_78_6,78,78,92,41,56,71,Diploma,Diploma in Life Sciences and Environment
+Student_78_7,86,83,58,55,82,84,Diploma,Diploma in Finance, Business and Marketing
+Student_78_8,95,41,63,83,83,80,Diploma,Diploma in Arts and Media
+Student_78_9,90,45,87,47,83,87,Diploma,Diploma in Physical Education and Wellness
+Student_79_1,78,85,90,55,81,85,Diploma,Diploma in Computer Science and Information Technology
+Student_79_2,83,93,93,47,82,89,Diploma,Diploma in Mechanical and Electrical
+Student_79_3,87,90,84,74,79,91,Diploma,Diploma in Electronics and Communication
+Student_79_4,86,78,80,83,95,76,Diploma,Diploma in Construction and Design
+Student_79_5,83,80,68,83,77,87,Diploma,Diploma in Hospitality and Event Management
+Student_79_6,76,84,94,73,56,52,Diploma,Diploma in Life Sciences and Environment
+Student_79_7,88,86,40,76,87,84,Diploma,Diploma in Finance, Business and Marketing
+Student_79_8,89,62,49,83,80,85,Diploma,Diploma in Arts and Media
+Student_79_9,85,60,85,53,81,82,Diploma,Diploma in Physical Education and Wellness
+Student_80_1,84,94,80,41,89,90,Diploma,Diploma in Computer Science and Information Technology
+Student_80_2,82,82,87,85,89,87,Diploma,Diploma in Mechanical and Electrical
+Student_80_3,79,88,93,47,88,95,Diploma,Diploma in Electronics and Communication
+Student_80_4,86,85,84,86,92,89,Diploma,Diploma in Construction and Design
+Student_80_5,84,77,44,85,88,88,Diploma,Diploma in Hospitality and Event Management
+Student_80_6,78,84,84,68,40,56,Diploma,Diploma in Life Sciences and Environment
+Student_80_7,82,90,61,61,81,83,Diploma,Diploma in Finance, Business and Marketing
+Student_80_8,94,58,45,84,89,83,Diploma,Diploma in Arts and Media
+Student_80_9,91,67,89,42,81,76,Diploma,Diploma in Physical Education and Wellness
+Student_81_1,90,81,78,63,80,92,Diploma,Diploma in Computer Science and Information Technology
+Student_81_2,90,91,83,61,86,89,Diploma,Diploma in Mechanical and Electrical
+Student_81_3,89,81,90,65,79,95,Diploma,Diploma in Electronics and Communication
+Student_81_4,83,88,82,85,90,88,Diploma,Diploma in Construction and Design
+Student_81_5,93,57,56,85,78,81,Diploma,Diploma in Hospitality and Event Management
+Student_81_6,87,82,94,74,70,49,Diploma,Diploma in Life Sciences and Environment
+Student_81_7,90,91,76,69,89,84,Diploma,Diploma in Finance, Business and Marketing
+Student_81_8,90,42,48,81,87,77,Diploma,Diploma in Arts and Media
+Student_81_9,81,68,82,63,75,79,Diploma,Diploma in Physical Education and Wellness
+Student_82_1,81,93,75,69,81,90,Diploma,Diploma in Computer Science and Information Technology
+Student_82_2,86,95,82,69,75,89,Diploma,Diploma in Mechanical and Electrical
+Student_82_3,79,84,95,48,87,92,Diploma,Diploma in Electronics and Communication
+Student_82_4,88,89,82,88,84,90,Diploma,Diploma in Construction and Design
+Student_82_5,87,44,75,81,79,89,Diploma,Diploma in Hospitality and Event Management
+Student_82_6,78,85,92,60,59,45,Diploma,Diploma in Life Sciences and Environment
+Student_82_7,81,86,46,40,93,76,Diploma,Diploma in Finance, Business and Marketing
+Student_82_8,91,72,60,90,79,80,Diploma,Diploma in Arts and Media
+Student_82_9,83,54,94,48,81,85,Diploma,Diploma in Physical Education and Wellness
+Student_83_1,88,91,87,66,82,94,Diploma,Diploma in Computer Science and Information Technology
+Student_83_2,87,95,86,60,88,77,Diploma,Diploma in Mechanical and Electrical
+Student_83_3,77,84,85,45,80,91,Diploma,Diploma in Electronics and Communication
+Student_83_4,78,75,89,86,92,87,Diploma,Diploma in Construction and Design
+Student_83_5,87,80,46,84,90,89,Diploma,Diploma in Hospitality and Event Management
+Student_83_6,87,75,95,55,53,75,Diploma,Diploma in Life Sciences and Environment
+Student_83_7,87,90,43,44,92,85,Diploma,Diploma in Finance, Business and Marketing
+Student_83_8,89,40,68,93,85,81,Diploma,Diploma in Arts and Media
+Student_83_9,90,55,95,55,83,85,Diploma,Diploma in Physical Education and Wellness
+Student_84_1,85,93,87,51,80,85,Diploma,Diploma in Computer Science and Information Technology
+Student_84_2,87,85,89,59,87,76,Diploma,Diploma in Mechanical and Electrical
+Student_84_3,90,86,95,61,88,95,Diploma,Diploma in Electronics and Communication
+Student_84_4,90,89,82,83,90,79,Diploma,Diploma in Construction and Design
+Student_84_5,89,59,53,93,84,81,Diploma,Diploma in Hospitality and Event Management
+Student_84_6,88,85,87,80,43,70,Diploma,Diploma in Life Sciences and Environment
+Student_84_7,95,91,59,77,85,89,Diploma,Diploma in Finance, Business and Marketing
+Student_84_8,81,64,75,88,87,86,Diploma,Diploma in Arts and Media
+Student_84_9,85,66,88,42,82,80,Diploma,Diploma in Physical Education and Wellness
+Student_85_1,79,90,78,80,85,85,Diploma,Diploma in Computer Science and Information Technology
+Student_85_2,88,85,95,45,75,82,Diploma,Diploma in Mechanical and Electrical
+Student_85_3,82,84,85,66,89,92,Diploma,Diploma in Electronics and Communication
+Student_85_4,79,79,90,92,83,90,Diploma,Diploma in Construction and Design
+Student_85_5,83,49,42,94,82,76,Diploma,Diploma in Hospitality and Event Management
+Student_85_6,80,77,93,45,43,54,Diploma,Diploma in Life Sciences and Environment
+Student_85_7,92,83,57,65,87,90,Diploma,Diploma in Finance, Business and Marketing
+Student_85_8,83,67,66,89,89,83,Diploma,Diploma in Arts and Media
+Student_85_9,87,76,81,49,82,82,Diploma,Diploma in Physical Education and Wellness
+Student_86_1,76,94,83,43,84,82,Diploma,Diploma in Computer Science and Information Technology
+Student_86_2,80,92,86,81,80,79,Diploma,Diploma in Mechanical and Electrical
+Student_86_3,77,75,90,81,75,83,Diploma,Diploma in Electronics and Communication
+Student_86_4,90,79,88,83,94,90,Diploma,Diploma in Construction and Design
+Student_86_5,89,66,63,82,75,85,Diploma,Diploma in Hospitality and Event Management
+Student_86_6,87,81,86,59,72,40,Diploma,Diploma in Life Sciences and Environment
+Student_86_7,82,86,64,78,91,81,Diploma,Diploma in Finance, Business and Marketing
+Student_86_8,89,40,42,90,89,87,Diploma,Diploma in Arts and Media
+Student_86_9,85,65,87,54,88,85,Diploma,Diploma in Physical Education and Wellness
+Student_87_1,78,89,89,70,81,89,Diploma,Diploma in Computer Science and Information Technology
+Student_87_2,76,91,89,78,76,78,Diploma,Diploma in Mechanical and Electrical
+Student_87_3,90,84,83,60,77,94,Diploma,Diploma in Electronics and Communication
+Student_87_4,78,81,77,89,93,83,Diploma,Diploma in Construction and Design
+Student_87_5,93,55,42,85,75,81,Diploma,Diploma in Hospitality and Event Management
+Student_87_6,82,85,91,50,77,45,Diploma,Diploma in Life Sciences and Environment
+Student_87_7,90,89,65,54,90,79,Diploma,Diploma in Finance, Business and Marketing
+Student_87_8,92,61,50,84,75,89,Diploma,Diploma in Arts and Media
+Student_87_9,82,80,86,49,84,75,Diploma,Diploma in Physical Education and Wellness
+Student_88_1,85,92,80,65,84,91,Diploma,Diploma in Computer Science and Information Technology
+Student_88_2,76,88,88,60,83,87,Diploma,Diploma in Mechanical and Electrical
+Student_88_3,83,88,86,50,76,91,Diploma,Diploma in Electronics and Communication
+Student_88_4,77,85,89,90,92,86,Diploma,Diploma in Construction and Design
+Student_88_5,89,76,74,84,78,75,Diploma,Diploma in Hospitality and Event Management
+Student_88_6,77,79,95,53,48,71,Diploma,Diploma in Life Sciences and Environment
+Student_88_7,82,85,64,65,86,86,Diploma,Diploma in Finance, Business and Marketing
+Student_88_8,93,63,44,93,87,79,Diploma,Diploma in Arts and Media
+Student_88_9,95,45,82,40,83,77,Diploma,Diploma in Physical Education and Wellness
+Student_89_1,79,82,77,90,87,90,Diploma,Diploma in Computer Science and Information Technology
+Student_89_2,86,87,93,59,84,89,Diploma,Diploma in Mechanical and Electrical
+Student_89_3,78,76,90,78,87,81,Diploma,Diploma in Electronics and Communication
+Student_89_4,76,82,89,81,88,75,Diploma,Diploma in Construction and Design
+Student_89_5,90,76,61,81,80,78,Diploma,Diploma in Hospitality and Event Management
+Student_89_6,76,78,87,61,70,79,Diploma,Diploma in Life Sciences and Environment
+Student_89_7,86,86,50,54,81,90,Diploma,Diploma in Finance, Business and Marketing
+Student_89_8,95,53,62,92,81,81,Diploma,Diploma in Arts and Media
+Student_89_9,86,64,87,46,79,84,Diploma,Diploma in Physical Education and Wellness
+Student_90_1,86,82,88,58,86,91,Diploma,Diploma in Computer Science and Information Technology
+Student_90_2,84,89,93,71,87,89,Diploma,Diploma in Mechanical and Electrical
+Student_90_3,88,86,91,56,76,88,Diploma,Diploma in Electronics and Communication
+Student_90_4,90,87,78,90,95,76,Diploma,Diploma in Construction and Design
+Student_90_5,83,72,45,82,80,75,Diploma,Diploma in Hospitality and Event Management
+Student_90_6,75,79,94,48,64,71,Diploma,Diploma in Life Sciences and Environment
+Student_90_7,84,95,57,79,92,78,Diploma,Diploma in Finance, Business and Marketing
+Student_90_8,92,42,69,90,84,79,Diploma,Diploma in Arts and Media
+Student_90_9,82,44,91,68,90,75,Diploma,Diploma in Physical Education and Wellness
+Student_91_1,84,83,80,77,85,91,Diploma,Diploma in Computer Science and Information Technology
+Student_91_2,86,90,84,57,75,84,Diploma,Diploma in Mechanical and Electrical
+Student_91_3,78,75,92,82,88,83,Diploma,Diploma in Electronics and Communication
+Student_91_4,90,90,84,94,84,85,Diploma,Diploma in Construction and Design
+Student_91_5,88,67,60,88,85,82,Diploma,Diploma in Hospitality and Event Management
+Student_91_6,89,84,92,45,44,77,Diploma,Diploma in Life Sciences and Environment
+Student_91_7,83,88,45,59,83,87,Diploma,Diploma in Finance, Business and Marketing
+Student_91_8,86,55,72,85,84,80,Diploma,Diploma in Arts and Media
+Student_91_9,94,76,89,49,82,88,Diploma,Diploma in Physical Education and Wellness
+Student_92_1,75,88,78,51,81,87,Diploma,Diploma in Computer Science and Information Technology
+Student_92_2,86,94,84,84,80,78,Diploma,Diploma in Mechanical and Electrical
+Student_92_3,90,86,85,57,87,85,Diploma,Diploma in Electronics and Communication
+Student_92_4,85,75,79,92,90,86,Diploma,Diploma in Construction and Design
+Student_92_5,88,54,51,93,89,78,Diploma,Diploma in Hospitality and Event Management
+Student_92_6,82,76,87,65,49,74,Diploma,Diploma in Life Sciences and Environment
+Student_92_7,95,92,66,59,95,87,Diploma,Diploma in Finance, Business and Marketing
+Student_92_8,87,69,79,86,87,85,Diploma,Diploma in Arts and Media
+Student_92_9,94,60,91,72,90,80,Diploma,Diploma in Physical Education and Wellness
+Student_93_1,83,93,84,53,87,86,Diploma,Diploma in Computer Science and Information Technology
+Student_93_2,86,95,87,71,84,87,Diploma,Diploma in Mechanical and Electrical
+Student_93_3,89,83,85,85,83,92,Diploma,Diploma in Electronics and Communication
+Student_93_4,81,75,86,88,92,80,Diploma,Diploma in Construction and Design
+Student_93_5,91,56,64,85,84,83,Diploma,Diploma in Hospitality and Event Management
+Student_93_6,75,78,88,70,45,78,Diploma,Diploma in Life Sciences and Environment
+Student_93_7,82,91,68,48,81,75,Diploma,Diploma in Finance, Business and Marketing
+Student_93_8,94,58,52,95,76,77,Diploma,Diploma in Arts and Media
+Student_93_9,90,41,93,44,90,85,Diploma,Diploma in Physical Education and Wellness
+Student_94_1,90,85,77,71,83,89,Diploma,Diploma in Computer Science and Information Technology
+Student_94_2,83,82,91,42,80,86,Diploma,Diploma in Mechanical and Electrical
+Student_94_3,80,82,88,66,77,88,Diploma,Diploma in Electronics and Communication
+Student_94_4,90,75,75,94,94,79,Diploma,Diploma in Construction and Design
+Student_94_5,83,60,49,81,78,87,Diploma,Diploma in Hospitality and Event Management
+Student_94_6,78,78,92,69,79,61,Diploma,Diploma in Life Sciences and Environment
+Student_94_7,89,88,46,59,83,79,Diploma,Diploma in Finance, Business and Marketing
+Student_94_8,95,71,72,82,76,84,Diploma,Diploma in Arts and Media
+Student_94_9,89,56,87,78,85,90,Diploma,Diploma in Physical Education and Wellness
+Student_95_1,79,91,87,79,84,90,Diploma,Diploma in Computer Science and Information Technology
+Student_95_2,76,85,91,63,75,89,Diploma,Diploma in Mechanical and Electrical
+Student_95_3,81,90,84,62,77,89,Diploma,Diploma in Electronics and Communication
+Student_95_4,79,86,79,84,95,86,Diploma,Diploma in Construction and Design
+Student_95_5,94,67,47,93,77,90,Diploma,Diploma in Hospitality and Event Management
+Student_95_6,84,85,83,54,46,76,Diploma,Diploma in Life Sciences and Environment
+Student_95_7,95,81,43,61,83,84,Diploma,Diploma in Finance, Business and Marketing
+Student_95_8,93,63,47,93,85,81,Diploma,Diploma in Arts and Media
+Student_95_9,95,65,87,51,80,80,Diploma,Diploma in Physical Education and Wellness
+Student_96_1,89,88,78,75,80,90,Diploma,Diploma in Computer Science and Information Technology
+Student_96_2,82,89,92,65,77,78,Diploma,Diploma in Mechanical and Electrical
+Student_96_3,82,75,90,81,83,91,Diploma,Diploma in Electronics and Communication
+Student_96_4,77,77,84,88,82,77,Diploma,Diploma in Construction and Design
+Student_96_5,91,72,61,83,83,81,Diploma,Diploma in Hospitality and Event Management
+Student_96_6,84,81,90,70,64,52,Diploma,Diploma in Life Sciences and Environment
+Student_96_7,84,91,40,44,86,80,Diploma,Diploma in Finance, Business and Marketing
+Student_96_8,91,48,68,95,88,89,Diploma,Diploma in Arts and Media
+Student_96_9,93,45,85,79,88,78,Diploma,Diploma in Physical Education and Wellness
+Student_97_1,76,90,89,88,80,88,Diploma,Diploma in Computer Science and Information Technology
+Student_97_2,83,81,82,77,79,90,Diploma,Diploma in Mechanical and Electrical
+Student_97_3,79,76,84,47,84,88,Diploma,Diploma in Electronics and Communication
+Student_97_4,75,90,80,95,81,85,Diploma,Diploma in Construction and Design
+Student_97_5,82,40,77,87,77,80,Diploma,Diploma in Hospitality and Event Management
+Student_97_6,76,82,82,47,75,66,Diploma,Diploma in Life Sciences and Environment
+Student_97_7,90,95,42,50,91,78,Diploma,Diploma in Finance, Business and Marketing
+Student_97_8,94,48,62,87,75,86,Diploma,Diploma in Arts and Media
+Student_97_9,84,40,84,75,85,79,Diploma,Diploma in Physical Education and Wellness
+Student_98_1,80,91,90,68,84,95,Diploma,Diploma in Computer Science and Information Technology
+Student_98_2,77,88,87,41,85,86,Diploma,Diploma in Mechanical and Electrical
+Student_98_3,89,88,89,53,88,89,Diploma,Diploma in Electronics and Communication
+Student_98_4,85,85,85,95,95,89,Diploma,Diploma in Construction and Design
+Student_98_5,81,51,80,82,80,81,Diploma,Diploma in Hospitality and Event Management
+Student_98_6,82,75,83,58,80,55,Diploma,Diploma in Life Sciences and Environment
+Student_98_7,81,86,71,67,94,82,Diploma,Diploma in Finance, Business and Marketing
+Student_98_8,88,63,70,84,78,87,Diploma,Diploma in Arts and Media
+Student_98_9,82,56,84,78,88,82,Diploma,Diploma in Physical Education and Wellness
+Student_99_1,78,95,80,46,85,90,Diploma,Diploma in Computer Science and Information Technology
+Student_99_2,82,84,83,40,75,78,Diploma,Diploma in Mechanical and Electrical
+Student_99_3,76,90,90,71,78,85,Diploma,Diploma in Electronics and Communication
+Student_99_4,83,89,75,92,89,86,Diploma,Diploma in Construction and Design
+Student_99_5,85,51,80,90,80,88,Diploma,Diploma in Hospitality and Event Management
+Student_99_6,85,85,95,65,59,51,Diploma,Diploma in Life Sciences and Environment
+Student_99_7,95,83,58,63,86,89,Diploma,Diploma in Finance, Business and Marketing
+Student_99_8,95,50,49,93,83,81,Diploma,Diploma in Arts and Media
+Student_99_9,82,54,81,75,88,87,Diploma,Diploma in Physical Education and Wellness
+Student_100_1,83,86,76,66,86,81,Diploma,Diploma in Computer Science and Information Technology
+Student_100_2,77,88,93,66,85,83,Diploma,Diploma in Mechanical and Electrical
+Student_100_3,77,84,81,82,90,88,Diploma,Diploma in Electronics and Communication
+Student_100_4,85,79,79,94,82,76,Diploma,Diploma in Construction and Design
+Student_100_5,88,67,72,95,89,90,Diploma,Diploma in Hospitality and Event Management
+Student_100_6,87,76,94,54,74,55,Diploma,Diploma in Life Sciences and Environment
+Student_100_7,89,92,54,71,91,77,Diploma,Diploma in Finance, Business and Marketing
+Student_100_8,88,77,43,92,88,87,Diploma,Diploma in Arts and Media
+Student_100_9,83,78,94,76,88,88,Diploma,Diploma in Physical Education and Wellness
+Student_101_1,86,90,86,66,89,81,Diploma,Diploma in Computer Science and Information Technology
+Student_101_2,79,86,83,82,89,78,Diploma,Diploma in Mechanical and Electrical
+Student_101_3,79,77,90,77,90,94,Diploma,Diploma in Electronics and Communication
+Student_101_4,88,82,90,87,83,76,Diploma,Diploma in Construction and Design
+Student_101_5,89,54,65,82,75,81,Diploma,Diploma in Hospitality and Event Management
+Student_101_6,78,80,94,50,72,45,Diploma,Diploma in Life Sciences and Environment
+Student_101_7,83,83,69,57,88,81,Diploma,Diploma in Finance, Business and Marketing
+Student_101_8,95,48,50,91,86,83,Diploma,Diploma in Arts and Media
+Student_101_9,90,69,81,78,87,90,Diploma,Diploma in Physical Education and Wellness
+Student_102_1,77,84,90,41,75,91,Diploma,Diploma in Computer Science and Information Technology
+Student_102_2,76,85,86,69,90,85,Diploma,Diploma in Mechanical and Electrical
+Student_102_3,78,84,88,50,84,90,Diploma,Diploma in Electronics and Communication
+Student_102_4,82,87,79,82,94,85,Diploma,Diploma in Construction and Design
+Student_102_5,83,62,48,85,89,80,Diploma,Diploma in Hospitality and Event Management
+Student_102_6,75,76,93,44,71,46,Diploma,Diploma in Life Sciences and Environment
+Student_102_7,82,93,43,72,87,82,Diploma,Diploma in Finance, Business and Marketing
+Student_102_8,81,47,70,85,87,88,Diploma,Diploma in Arts and Media
+Student_102_9,93,51,91,80,78,88,Diploma,Diploma in Physical Education and Wellness
+Student_103_1,88,85,76,79,89,89,Diploma,Diploma in Computer Science and Information Technology
+Student_103_2,80,89,88,42,77,83,Diploma,Diploma in Mechanical and Electrical
+Student_103_3,80,90,95,77,78,85,Diploma,Diploma in Electronics and Communication
+Student_103_4,77,88,83,93,88,86,Diploma,Diploma in Construction and Design
+Student_103_5,83,43,67,95,75,81,Diploma,Diploma in Hospitality and Event Management
+Student_103_6,82,84,92,50,68,48,Diploma,Diploma in Life Sciences and Environment
+Student_103_7,87,92,62,41,87,84,Diploma,Diploma in Finance, Business and Marketing
+Student_103_8,85,58,74,90,84,78,Diploma,Diploma in Arts and Media
+Student_103_9,85,79,91,52,75,90,Diploma,Diploma in Physical Education and Wellness
+Student_104_1,78,92,88,87,79,93,Diploma,Diploma in Computer Science and Information Technology
+Student_104_2,89,94,88,83,88,88,Diploma,Diploma in Mechanical and Electrical
+Student_104_3,82,79,95,48,79,83,Diploma,Diploma in Electronics and Communication
+Student_104_4,77,85,88,88,95,85,Diploma,Diploma in Construction and Design
+Student_104_5,82,42,55,91,89,80,Diploma,Diploma in Hospitality and Event Management
+Student_104_6,88,80,82,42,55,60,Diploma,Diploma in Life Sciences and Environment
+Student_104_7,81,81,62,52,87,85,Diploma,Diploma in Finance, Business and Marketing
+Student_104_8,84,47,80,84,87,84,Diploma,Diploma in Arts and Media
+Student_104_9,87,80,83,49,84,84,Diploma,Diploma in Physical Education and Wellness
+Student_105_1,89,88,90,57,85,94,Diploma,Diploma in Computer Science and Information Technology
+Student_105_2,75,88,95,41,83,87,Diploma,Diploma in Mechanical and Electrical
+Student_105_3,78,75,87,61,78,91,Diploma,Diploma in Electronics and Communication
+Student_105_4,80,87,88,88,84,88,Diploma,Diploma in Construction and Design
+Student_105_5,81,40,59,89,78,81,Diploma,Diploma in Hospitality and Event Management
+Student_105_6,76,82,88,79,45,70,Diploma,Diploma in Life Sciences and Environment
+Student_105_7,86,88,73,48,87,78,Diploma,Diploma in Finance, Business and Marketing
+Student_105_8,92,79,54,86,89,83,Diploma,Diploma in Arts and Media
+Student_105_9,81,77,86,77,78,90,Diploma,Diploma in Physical Education and Wellness
+Student_106_1,76,82,80,81,87,93,Diploma,Diploma in Computer Science and Information Technology
+Student_106_2,88,86,95,46,85,83,Diploma,Diploma in Mechanical and Electrical
+Student_106_3,83,81,86,78,84,84,Diploma,Diploma in Electronics and Communication
+Student_106_4,88,77,85,92,93,90,Diploma,Diploma in Construction and Design
+Student_106_5,93,60,59,88,89,87,Diploma,Diploma in Hospitality and Event Management
+Student_106_6,88,83,92,46,66,66,Diploma,Diploma in Life Sciences and Environment
+Student_106_7,87,85,74,58,86,84,Diploma,Diploma in Finance, Business and Marketing
+Student_106_8,94,76,68,89,90,79,Diploma,Diploma in Arts and Media
+Student_106_9,83,45,86,40,85,89,Diploma,Diploma in Physical Education and Wellness
+Student_107_1,88,95,80,46,80,84,Diploma,Diploma in Computer Science and Information Technology
+Student_107_2,81,90,86,65,82,76,Diploma,Diploma in Mechanical and Electrical
+Student_107_3,85,78,94,46,87,81,Diploma,Diploma in Electronics and Communication
+Student_107_4,83,76,78,90,92,79,Diploma,Diploma in Construction and Design
+Student_107_5,81,52,72,88,77,85,Diploma,Diploma in Hospitality and Event Management
+Student_107_6,77,83,81,63,58,56,Diploma,Diploma in Life Sciences and Environment
+Student_107_7,86,94,76,60,86,77,Diploma,Diploma in Finance, Business and Marketing
+Student_107_8,89,80,75,93,81,89,Diploma,Diploma in Arts and Media
+Student_107_9,89,45,92,56,84,75,Diploma,Diploma in Physical Education and Wellness
+Student_108_1,86,81,82,89,78,92,Diploma,Diploma in Computer Science and Information Technology
+Student_108_2,85,85,84,68,82,75,Diploma,Diploma in Mechanical and Electrical
+Student_108_3,79,90,88,41,81,90,Diploma,Diploma in Electronics and Communication
+Student_108_4,77,76,81,89,94,85,Diploma,Diploma in Construction and Design
+Student_108_5,82,41,64,85,90,84,Diploma,Diploma in Hospitality and Event Management
+Student_108_6,80,81,90,61,73,49,Diploma,Diploma in Life Sciences and Environment
+Student_108_7,81,84,61,49,95,83,Diploma,Diploma in Finance, Business and Marketing
+Student_108_8,87,47,53,88,89,83,Diploma,Diploma in Arts and Media
+Student_108_9,88,49,82,77,80,81,Diploma,Diploma in Physical Education and Wellness
+Student_109_1,80,89,76,43,75,84,Diploma,Diploma in Computer Science and Information Technology
+Student_109_2,75,82,89,54,79,78,Diploma,Diploma in Mechanical and Electrical
+Student_109_3,78,86,89,68,89,83,Diploma,Diploma in Electronics and Communication
+Student_109_4,85,81,88,93,92,80,Diploma,Diploma in Construction and Design
+Student_109_5,93,73,80,88,87,87,Diploma,Diploma in Hospitality and Event Management
+Student_109_6,84,83,84,77,56,79,Diploma,Diploma in Life Sciences and Environment
+Student_109_7,94,89,68,58,83,86,Diploma,Diploma in Finance, Business and Marketing
+Student_109_8,81,43,64,92,86,90,Diploma,Diploma in Arts and Media
+Student_109_9,95,40,90,40,90,84,Diploma,Diploma in Physical Education and Wellness
+Student_110_1,78,86,78,72,81,89,Diploma,Diploma in Computer Science and Information Technology
+Student_110_2,76,91,83,85,76,76,Diploma,Diploma in Mechanical and Electrical
+Student_110_3,82,86,92,52,82,88,Diploma,Diploma in Electronics and Communication
+Student_110_4,80,85,86,82,85,81,Diploma,Diploma in Construction and Design
+Student_110_5,84,63,63,88,90,85,Diploma,Diploma in Hospitality and Event Management
+Student_110_6,83,85,86,76,69,79,Diploma,Diploma in Life Sciences and Environment
+Student_110_7,87,84,72,42,92,83,Diploma,Diploma in Finance, Business and Marketing
+Student_110_8,95,60,76,93,89,83,Diploma,Diploma in Arts and Media
+Student_110_9,86,42,82,46,84,78,Diploma,Diploma in Physical Education and Wellness
+Student_111_1,83,83,86,90,79,93,Diploma,Diploma in Computer Science and Information Technology
+Student_111_2,80,88,82,46,89,80,Diploma,Diploma in Mechanical and Electrical
+Student_111_3,78,84,88,53,85,84,Diploma,Diploma in Electronics and Communication
+Student_111_4,75,82,87,94,90,81,Diploma,Diploma in Construction and Design
+Student_111_5,84,56,60,81,81,78,Diploma,Diploma in Hospitality and Event Management
+Student_111_6,76,80,91,59,47,69,Diploma,Diploma in Life Sciences and Environment
+Student_111_7,93,84,61,64,82,82,Diploma,Diploma in Finance, Business and Marketing
+Student_111_8,81,42,68,84,88,85,Diploma,Diploma in Arts and Media
+Student_111_9,90,47,84,46,87,86,Diploma,Diploma in Physical Education and Wellness
+Student_112_1,83,85,77,63,86,81,Diploma,Diploma in Computer Science and Information Technology
+Student_112_2,75,87,95,63,82,79,Diploma,Diploma in Mechanical and Electrical
+Student_112_3,90,80,91,80,85,93,Diploma,Diploma in Electronics and Communication
+Student_112_4,86,80,81,82,82,83,Diploma,Diploma in Construction and Design
+Student_112_5,86,52,61,85,85,86,Diploma,Diploma in Hospitality and Event Management
+Student_112_6,77,78,95,50,66,48,Diploma,Diploma in Life Sciences and Environment
+Student_112_7,89,81,57,56,95,76,Diploma,Diploma in Finance, Business and Marketing
+Student_112_8,93,78,56,81,75,76,Diploma,Diploma in Arts and Media
+Student_112_9,85,71,87,53,77,85,Diploma,Diploma in Physical Education and Wellness
+Student_113_1,89,86,78,88,78,88,Diploma,Diploma in Computer Science and Information Technology
+Student_113_2,83,91,84,84,85,81,Diploma,Diploma in Mechanical and Electrical
+Student_113_3,84,75,95,49,87,83,Diploma,Diploma in Electronics and Communication
+Student_113_4,85,76,84,84,85,83,Diploma,Diploma in Construction and Design
+Student_113_5,92,74,80,91,80,77,Diploma,Diploma in Hospitality and Event Management
+Student_113_6,78,75,90,61,63,44,Diploma,Diploma in Life Sciences and Environment
+Student_113_7,86,84,59,66,90,77,Diploma,Diploma in Finance, Business and Marketing
+Student_113_8,86,77,64,94,81,80,Diploma,Diploma in Arts and Media
+Student_113_9,95,49,93,47,81,79,Diploma,Diploma in Physical Education and Wellness
+Student_114_1,87,94,82,69,77,85,Diploma,Diploma in Computer Science and Information Technology
+Student_114_2,82,89,83,79,83,80,Diploma,Diploma in Mechanical and Electrical
+Student_114_3,83,78,88,83,90,90,Diploma,Diploma in Electronics and Communication
+Student_114_4,84,84,76,82,91,79,Diploma,Diploma in Construction and Design
+Student_114_5,90,72,75,92,89,89,Diploma,Diploma in Hospitality and Event Management
+Student_114_6,77,84,90,53,44,66,Diploma,Diploma in Life Sciences and Environment
+Student_114_7,88,89,57,60,86,77,Diploma,Diploma in Finance, Business and Marketing
+Student_114_8,83,73,54,92,76,85,Diploma,Diploma in Arts and Media
+Student_114_9,91,75,82,69,75,77,Diploma,Diploma in Physical Education and Wellness
+Student_115_1,81,82,84,51,79,90,Diploma,Diploma in Computer Science and Information Technology
+Student_115_2,76,93,94,80,87,80,Diploma,Diploma in Mechanical and Electrical
+Student_115_3,90,75,87,74,80,95,Diploma,Diploma in Electronics and Communication
+Student_115_4,89,84,90,91,81,82,Diploma,Diploma in Construction and Design
+Student_115_5,92,60,52,88,88,89,Diploma,Diploma in Hospitality and Event Management
+Student_115_6,77,76,93,67,65,59,Diploma,Diploma in Life Sciences and Environment
+Student_115_7,89,91,60,41,83,87,Diploma,Diploma in Finance, Business and Marketing
+Student_115_8,86,52,53,81,88,86,Diploma,Diploma in Arts and Media
+Student_115_9,91,64,84,73,84,76,Diploma,Diploma in Physical Education and Wellness
+Student_116_1,83,85,87,70,78,93,Diploma,Diploma in Computer Science and Information Technology
+Student_116_2,88,92,95,58,84,76,Diploma,Diploma in Mechanical and Electrical
+Student_116_3,76,85,91,65,80,89,Diploma,Diploma in Electronics and Communication
+Student_116_4,77,82,82,93,86,75,Diploma,Diploma in Construction and Design
+Student_116_5,91,77,76,95,89,78,Diploma,Diploma in Hospitality and Event Management
+Student_116_6,77,83,82,60,41,46,Diploma,Diploma in Life Sciences and Environment
+Student_116_7,87,83,58,58,82,78,Diploma,Diploma in Finance, Business and Marketing
+Student_116_8,84,70,46,85,81,80,Diploma,Diploma in Arts and Media
+Student_116_9,83,71,91,42,81,88,Diploma,Diploma in Physical Education and Wellness
+Student_117_1,80,91,82,54,80,89,Diploma,Diploma in Computer Science and Information Technology
+Student_117_2,75,90,81,43,81,88,Diploma,Diploma in Mechanical and Electrical
+Student_117_3,84,81,86,74,84,85,Diploma,Diploma in Electronics and Communication
+Student_117_4,88,90,81,84,89,81,Diploma,Diploma in Construction and Design
+Student_117_5,82,64,56,88,80,85,Diploma,Diploma in Hospitality and Event Management
+Student_117_6,77,76,85,40,74,78,Diploma,Diploma in Life Sciences and Environment
+Student_117_7,93,88,51,53,82,81,Diploma,Diploma in Finance, Business and Marketing
+Student_117_8,93,60,57,88,78,86,Diploma,Diploma in Arts and Media
+Student_117_9,89,69,85,65,89,89,Diploma,Diploma in Physical Education and Wellness
+Student_118_1,90,83,81,77,79,90,Diploma,Diploma in Computer Science and Information Technology
+Student_118_2,89,89,85,45,76,90,Diploma,Diploma in Mechanical and Electrical
+Student_118_3,80,75,81,72,87,86,Diploma,Diploma in Electronics and Communication
+Student_118_4,85,80,80,84,94,87,Diploma,Diploma in Construction and Design
+Student_118_5,91,49,40,93,80,77,Diploma,Diploma in Hospitality and Event Management
+Student_118_6,84,80,95,73,80,71,Diploma,Diploma in Life Sciences and Environment
+Student_118_7,88,85,41,58,89,76,Diploma,Diploma in Finance, Business and Marketing
+Student_118_8,92,80,47,82,80,86,Diploma,Diploma in Arts and Media
+Student_118_9,85,56,92,57,82,84,Diploma,Diploma in Physical Education and Wellness
+Student_119_1,83,81,81,45,90,90,Diploma,Diploma in Computer Science and Information Technology
+Student_119_2,85,89,91,61,90,81,Diploma,Diploma in Mechanical and Electrical
+Student_119_3,81,88,93,43,83,83,Diploma,Diploma in Electronics and Communication
+Student_119_4,75,90,79,84,91,82,Diploma,Diploma in Construction and Design
+Student_119_5,94,70,59,93,88,89,Diploma,Diploma in Hospitality and Event Management
+Student_119_6,90,77,94,66,73,54,Diploma,Diploma in Life Sciences and Environment
+Student_119_7,85,81,50,62,83,78,Diploma,Diploma in Finance, Business and Marketing
+Student_119_8,89,80,43,90,90,75,Diploma,Diploma in Arts and Media
+Student_119_9,95,44,85,67,90,82,Diploma,Diploma in Physical Education and Wellness
+Student_120_1,84,88,88,40,80,89,Diploma,Diploma in Computer Science and Information Technology
+Student_120_2,88,89,94,40,89,90,Diploma,Diploma in Mechanical and Electrical
+Student_120_3,82,78,84,44,78,84,Diploma,Diploma in Electronics and Communication
+Student_120_4,75,75,76,94,91,84,Diploma,Diploma in Construction and Design
+Student_120_5,89,52,52,82,76,78,Diploma,Diploma in Hospitality and Event Management
+Student_120_6,90,83,81,48,79,64,Diploma,Diploma in Life Sciences and Environment
+Student_120_7,84,86,48,63,86,86,Diploma,Diploma in Finance, Business and Marketing
+Student_120_8,91,50,75,86,83,87,Diploma,Diploma in Arts and Media
+Student_120_9,86,42,95,70,89,83,Diploma,Diploma in Physical Education and Wellness
+Student_121_1,90,95,90,86,90,82,Diploma,Diploma in Computer Science and Information Technology
+Student_121_2,84,83,93,57,87,78,Diploma,Diploma in Mechanical and Electrical
+Student_121_3,84,87,82,59,75,87,Diploma,Diploma in Electronics and Communication
+Student_121_4,77,79,84,86,90,83,Diploma,Diploma in Construction and Design
+Student_121_5,84,75,59,95,85,86,Diploma,Diploma in Hospitality and Event Management
+Student_121_6,88,84,82,77,40,63,Diploma,Diploma in Life Sciences and Environment
+Student_121_7,91,93,56,69,81,88,Diploma,Diploma in Finance, Business and Marketing
+Student_121_8,88,47,51,81,82,89,Diploma,Diploma in Arts and Media
+Student_121_9,92,80,85,52,76,89,Diploma,Diploma in Physical Education and Wellness
+Student_122_1,80,90,83,72,84,82,Diploma,Diploma in Computer Science and Information Technology
+Student_122_2,89,90,92,81,86,76,Diploma,Diploma in Mechanical and Electrical
+Student_122_3,75,87,89,42,83,95,Diploma,Diploma in Electronics and Communication
+Student_122_4,84,87,88,82,93,79,Diploma,Diploma in Construction and Design
+Student_122_5,85,63,65,90,80,83,Diploma,Diploma in Hospitality and Event Management
+Student_122_6,86,83,84,43,63,56,Diploma,Diploma in Life Sciences and Environment
+Student_122_7,94,81,43,69,88,77,Diploma,Diploma in Finance, Business and Marketing
+Student_122_8,84,49,77,93,90,88,Diploma,Diploma in Arts and Media
+Student_122_9,86,55,91,77,87,75,Diploma,Diploma in Physical Education and Wellness
+Student_123_1,82,83,84,59,80,83,Diploma,Diploma in Computer Science and Information Technology
+Student_123_2,75,92,82,48,89,76,Diploma,Diploma in Mechanical and Electrical
+Student_123_3,76,83,82,78,84,92,Diploma,Diploma in Electronics and Communication
+Student_123_4,75,88,77,84,92,87,Diploma,Diploma in Construction and Design
+Student_123_5,95,69,49,94,81,87,Diploma,Diploma in Hospitality and Event Management
+Student_123_6,84,79,83,44,75,78,Diploma,Diploma in Life Sciences and Environment
+Student_123_7,81,83,52,53,87,84,Diploma,Diploma in Finance, Business and Marketing
+Student_123_8,92,77,50,86,82,87,Diploma,Diploma in Arts and Media
+Student_123_9,83,57,82,50,86,81,Diploma,Diploma in Physical Education and Wellness
+Student_124_1,88,83,88,44,81,89,Diploma,Diploma in Computer Science and Information Technology
+Student_124_2,77,84,90,58,76,85,Diploma,Diploma in Mechanical and Electrical
+Student_124_3,77,77,85,51,79,85,Diploma,Diploma in Electronics and Communication
+Student_124_4,87,80,85,87,84,87,Diploma,Diploma in Construction and Design
+Student_124_5,91,71,45,82,85,85,Diploma,Diploma in Hospitality and Event Management
+Student_124_6,84,79,82,71,75,74,Diploma,Diploma in Life Sciences and Environment
+Student_124_7,87,94,40,45,88,84,Diploma,Diploma in Finance, Business and Marketing
+Student_124_8,95,57,64,89,79,83,Diploma,Diploma in Arts and Media
+Student_124_9,81,46,87,56,89,83,Diploma,Diploma in Physical Education and Wellness
+Student_125_1,88,86,80,47,79,95,Diploma,Diploma in Computer Science and Information Technology
+Student_125_2,82,94,95,45,82,75,Diploma,Diploma in Mechanical and Electrical
+Student_125_3,75,84,86,68,81,88,Diploma,Diploma in Electronics and Communication
+Student_125_4,87,89,88,85,94,80,Diploma,Diploma in Construction and Design
+Student_125_5,86,41,54,91,76,75,Diploma,Diploma in Hospitality and Event Management
+Student_125_6,89,83,81,60,68,56,Diploma,Diploma in Life Sciences and Environment
+Student_125_7,88,92,56,71,91,81,Diploma,Diploma in Finance, Business and Marketing
+Student_125_8,84,51,43,89,85,79,Diploma,Diploma in Arts and Media
+Student_125_9,92,56,89,78,75,86,Diploma,Diploma in Physical Education and Wellness
+Student_126_1,77,93,90,77,78,89,Diploma,Diploma in Computer Science and Information Technology
+Student_126_2,88,93,81,73,87,88,Diploma,Diploma in Mechanical and Electrical
+Student_126_3,75,80,93,82,81,92,Diploma,Diploma in Electronics and Communication
+Student_126_4,87,78,85,82,93,77,Diploma,Diploma in Construction and Design
+Student_126_5,95,40,66,90,75,87,Diploma,Diploma in Hospitality and Event Management
+Student_126_6,85,80,81,46,80,52,Diploma,Diploma in Life Sciences and Environment
+Student_126_7,95,87,72,57,86,84,Diploma,Diploma in Finance, Business and Marketing
+Student_126_8,86,56,52,82,77,86,Diploma,Diploma in Arts and Media
+Student_126_9,89,71,92,43,85,89,Diploma,Diploma in Physical Education and Wellness
+Student_127_1,82,95,83,57,79,85,Diploma,Diploma in Computer Science and Information Technology
+Student_127_2,79,83,93,52,84,80,Diploma,Diploma in Mechanical and Electrical
+Student_127_3,84,89,89,68,75,88,Diploma,Diploma in Electronics and Communication
+Student_127_4,82,83,75,92,95,85,Diploma,Diploma in Construction and Design
+Student_127_5,92,62,57,95,82,77,Diploma,Diploma in Hospitality and Event Management
+Student_127_6,78,77,84,72,71,40,Diploma,Diploma in Life Sciences and Environment
+Student_127_7,82,89,58,80,82,83,Diploma,Diploma in Finance, Business and Marketing
+Student_127_8,95,63,41,91,77,83,Diploma,Diploma in Arts and Media
+Student_127_9,82,50,86,61,87,87,Diploma,Diploma in Physical Education and Wellness
+Student_128_1,85,86,80,40,82,90,Diploma,Diploma in Computer Science and Information Technology
+Student_128_2,76,90,94,69,88,76,Diploma,Diploma in Mechanical and Electrical
+Student_128_3,83,90,85,40,78,86,Diploma,Diploma in Electronics and Communication
+Student_128_4,79,80,82,89,92,75,Diploma,Diploma in Construction and Design
+Student_128_5,85,53,62,93,85,86,Diploma,Diploma in Hospitality and Event Management
+Student_128_6,80,78,88,40,58,68,Diploma,Diploma in Life Sciences and Environment
+Student_128_7,90,85,51,71,93,75,Diploma,Diploma in Finance, Business and Marketing
+Student_128_8,83,57,71,86,87,86,Diploma,Diploma in Arts and Media
+Student_128_9,91,47,91,54,89,89,Diploma,Diploma in Physical Education and Wellness
+Student_129_1,75,81,86,71,79,92,Diploma,Diploma in Computer Science and Information Technology
+Student_129_2,78,88,91,69,87,80,Diploma,Diploma in Mechanical and Electrical
+Student_129_3,87,77,82,68,86,84,Diploma,Diploma in Electronics and Communication
+Student_129_4,79,85,88,90,87,75,Diploma,Diploma in Construction and Design
+Student_129_5,95,47,75,95,84,80,Diploma,Diploma in Hospitality and Event Management
+Student_129_6,88,85,84,42,60,45,Diploma,Diploma in Life Sciences and Environment
+Student_129_7,91,90,47,54,91,88,Diploma,Diploma in Finance, Business and Marketing
+Student_129_8,82,45,70,82,90,82,Diploma,Diploma in Arts and Media
+Student_129_9,91,45,90,77,87,79,Diploma,Diploma in Physical Education and Wellness
+Student_130_1,85,95,88,63,82,85,Diploma,Diploma in Computer Science and Information Technology
+Student_130_2,82,89,83,84,85,82,Diploma,Diploma in Mechanical and Electrical
+Student_130_3,89,88,89,49,79,81,Diploma,Diploma in Electronics and Communication
+Student_130_4,88,80,82,91,94,77,Diploma,Diploma in Construction and Design
+Student_130_5,89,66,56,82,79,84,Diploma,Diploma in Hospitality and Event Management
+Student_130_6,89,81,85,74,71,48,Diploma,Diploma in Life Sciences and Environment
+Student_130_7,82,85,65,58,89,83,Diploma,Diploma in Finance, Business and Marketing
+Student_130_8,81,67,40,93,83,83,Diploma,Diploma in Arts and Media
+Student_130_9,81,64,91,64,83,77,Diploma,Diploma in Physical Education and Wellness
+Student_131_1,87,82,85,40,88,84,Diploma,Diploma in Computer Science and Information Technology
+Student_131_2,82,81,91,52,90,76,Diploma,Diploma in Mechanical and Electrical
+Student_131_3,78,90,83,70,79,89,Diploma,Diploma in Electronics and Communication
+Student_131_4,78,76,78,91,90,90,Diploma,Diploma in Construction and Design
+Student_131_5,82,63,66,93,80,90,Diploma,Diploma in Hospitality and Event Management
+Student_131_6,76,79,83,60,45,71,Diploma,Diploma in Life Sciences and Environment
+Student_131_7,81,90,48,78,86,88,Diploma,Diploma in Finance, Business and Marketing
+Student_131_8,91,46,77,87,85,81,Diploma,Diploma in Arts and Media
+Student_131_9,85,60,91,52,87,77,Diploma,Diploma in Physical Education and Wellness
+Student_132_1,80,88,87,76,82,84,Diploma,Diploma in Computer Science and Information Technology
+Student_132_2,79,92,94,75,79,76,Diploma,Diploma in Mechanical and Electrical
+Student_132_3,78,76,91,64,77,92,Diploma,Diploma in Electronics and Communication
+Student_132_4,80,80,88,86,90,77,Diploma,Diploma in Construction and Design
+Student_132_5,82,62,42,93,80,86,Diploma,Diploma in Hospitality and Event Management
+Student_132_6,83,82,93,62,56,45,Diploma,Diploma in Life Sciences and Environment
+Student_132_7,86,87,79,44,83,79,Diploma,Diploma in Finance, Business and Marketing
+Student_132_8,92,49,41,88,85,89,Diploma,Diploma in Arts and Media
+Student_132_9,85,56,89,53,90,86,Diploma,Diploma in Physical Education and Wellness
+Student_133_1,78,95,80,60,89,91,Diploma,Diploma in Computer Science and Information Technology
+Student_133_2,81,89,87,61,90,87,Diploma,Diploma in Mechanical and Electrical
+Student_133_3,78,89,82,51,86,85,Diploma,Diploma in Electronics and Communication
+Student_133_4,76,89,75,81,83,90,Diploma,Diploma in Construction and Design
+Student_133_5,83,66,64,81,83,77,Diploma,Diploma in Hospitality and Event Management
+Student_133_6,80,76,81,59,43,72,Diploma,Diploma in Life Sciences and Environment
+Student_133_7,81,88,62,53,90,77,Diploma,Diploma in Finance, Business and Marketing
+Student_133_8,81,68,58,87,88,89,Diploma,Diploma in Arts and Media
+Student_133_9,92,56,94,69,81,80,Diploma,Diploma in Physical Education and Wellness
+Student_134_1,87,83,89,83,90,86,Diploma,Diploma in Computer Science and Information Technology
+Student_134_2,85,89,92,72,83,87,Diploma,Diploma in Mechanical and Electrical
+Student_134_3,81,87,82,76,76,84,Diploma,Diploma in Electronics and Communication
+Student_134_4,80,80,81,89,94,81,Diploma,Diploma in Construction and Design
+Student_134_5,87,57,43,88,77,80,Diploma,Diploma in Hospitality and Event Management
+Student_134_6,79,82,89,45,53,75,Diploma,Diploma in Life Sciences and Environment
+Student_134_7,85,89,50,43,89,76,Diploma,Diploma in Finance, Business and Marketing
+Student_134_8,93,76,69,86,89,80,Diploma,Diploma in Arts and Media
+Student_134_9,82,60,83,54,79,87,Diploma,Diploma in Physical Education and Wellness
+Student_135_1,82,85,85,71,84,89,Diploma,Diploma in Computer Science and Information Technology
+Student_135_2,81,90,89,61,77,77,Diploma,Diploma in Mechanical and Electrical
+Student_135_3,77,81,93,51,85,83,Diploma,Diploma in Electronics and Communication
+Student_135_4,85,75,83,92,91,83,Diploma,Diploma in Construction and Design
+Student_135_5,95,42,73,85,86,86,Diploma,Diploma in Hospitality and Event Management
+Student_135_6,86,81,89,70,63,54,Diploma,Diploma in Life Sciences and Environment
+Student_135_7,81,84,53,65,91,76,Diploma,Diploma in Finance, Business and Marketing
+Student_135_8,86,43,51,89,78,84,Diploma,Diploma in Arts and Media
+Student_135_9,89,59,86,60,81,82,Diploma,Diploma in Physical Education and Wellness
+Student_136_1,77,87,80,40,88,92,Diploma,Diploma in Computer Science and Information Technology
+Student_136_2,90,94,91,71,78,81,Diploma,Diploma in Mechanical and Electrical
+Student_136_3,89,87,90,73,85,89,Diploma,Diploma in Electronics and Communication
+Student_136_4,88,83,78,90,95,77,Diploma,Diploma in Construction and Design
+Student_136_5,84,60,64,90,85,75,Diploma,Diploma in Hospitality and Event Management
+Student_136_6,83,81,91,67,63,67,Diploma,Diploma in Life Sciences and Environment
+Student_136_7,94,88,40,76,89,89,Diploma,Diploma in Finance, Business and Marketing
+Student_136_8,84,55,76,95,81,79,Diploma,Diploma in Arts and Media
+Student_136_9,82,48,85,60,87,83,Diploma,Diploma in Physical Education and Wellness
+Student_137_1,83,82,80,69,86,89,Diploma,Diploma in Computer Science and Information Technology
+Student_137_2,75,91,85,54,82,84,Diploma,Diploma in Mechanical and Electrical
+Student_137_3,85,81,81,74,86,87,Diploma,Diploma in Electronics and Communication
+Student_137_4,81,88,83,91,82,87,Diploma,Diploma in Construction and Design
+Student_137_5,81,66,59,82,84,80,Diploma,Diploma in Hospitality and Event Management
+Student_137_6,80,77,85,51,69,57,Diploma,Diploma in Life Sciences and Environment
+Student_137_7,88,87,43,57,85,88,Diploma,Diploma in Finance, Business and Marketing
+Student_137_8,81,63,78,86,88,80,Diploma,Diploma in Arts and Media
+Student_137_9,89,47,91,70,86,83,Diploma,Diploma in Physical Education and Wellness
+Student_138_1,80,86,84,67,90,89,Diploma,Diploma in Computer Science and Information Technology
+Student_138_2,84,87,82,55,86,78,Diploma,Diploma in Mechanical and Electrical
+Student_138_3,86,80,93,41,83,90,Diploma,Diploma in Electronics and Communication
+Student_138_4,89,90,75,94,94,83,Diploma,Diploma in Construction and Design
+Student_138_5,87,64,68,84,90,90,Diploma,Diploma in Hospitality and Event Management
+Student_138_6,85,81,93,44,63,57,Diploma,Diploma in Life Sciences and Environment
+Student_138_7,88,81,52,57,89,84,Diploma,Diploma in Finance, Business and Marketing
+Student_138_8,83,41,78,89,80,77,Diploma,Diploma in Arts and Media
+Student_138_9,89,41,81,67,81,82,Diploma,Diploma in Physical Education and Wellness
+Student_139_1,90,86,84,68,78,88,Diploma,Diploma in Computer Science and Information Technology
+Student_139_2,81,81,87,67,82,76,Diploma,Diploma in Mechanical and Electrical
+Student_139_3,90,77,84,78,83,85,Diploma,Diploma in Electronics and Communication
+Student_139_4,76,76,83,87,82,90,Diploma,Diploma in Construction and Design
+Student_139_5,84,80,40,89,90,75,Diploma,Diploma in Hospitality and Event Management
+Student_139_6,86,83,91,43,79,51,Diploma,Diploma in Life Sciences and Environment
+Student_139_7,88,87,47,65,86,88,Diploma,Diploma in Finance, Business and Marketing
+Student_139_8,90,43,60,95,79,79,Diploma,Diploma in Arts and Media
+Student_139_9,83,50,90,57,86,82,Diploma,Diploma in Physical Education and Wellness
+Student_140_1,80,95,89,68,80,87,Diploma,Diploma in Computer Science and Information Technology
+Student_140_2,75,90,94,58,83,89,Diploma,Diploma in Mechanical and Electrical
+Student_140_3,83,76,90,67,88,82,Diploma,Diploma in Electronics and Communication
+Student_140_4,77,77,77,82,86,82,Diploma,Diploma in Construction and Design
+Student_140_5,81,75,66,93,84,85,Diploma,Diploma in Hospitality and Event Management
+Student_140_6,88,76,83,46,65,55,Diploma,Diploma in Life Sciences and Environment
+Student_140_7,95,81,41,75,84,87,Diploma,Diploma in Finance, Business and Marketing
+Student_140_8,82,58,45,94,88,75,Diploma,Diploma in Arts and Media
+Student_140_9,83,74,82,78,87,85,Diploma,Diploma in Physical Education and Wellness
+Student_141_1,83,93,76,70,87,81,Diploma,Diploma in Computer Science and Information Technology
+Student_141_2,85,86,86,82,85,88,Diploma,Diploma in Mechanical and Electrical
+Student_141_3,81,85,85,62,90,83,Diploma,Diploma in Electronics and Communication
+Student_141_4,85,83,78,84,88,80,Diploma,Diploma in Construction and Design
+Student_141_5,94,61,75,93,79,80,Diploma,Diploma in Hospitality and Event Management
+Student_141_6,81,78,95,72,63,66,Diploma,Diploma in Life Sciences and Environment
+Student_141_7,87,89,51,67,93,77,Diploma,Diploma in Finance, Business and Marketing
+Student_141_8,92,59,44,93,83,82,Diploma,Diploma in Arts and Media
+Student_141_9,95,73,83,80,90,77,Diploma,Diploma in Physical Education and Wellness
+Student_142_1,85,81,90,75,85,94,Diploma,Diploma in Computer Science and Information Technology
+Student_142_2,84,83,81,52,83,75,Diploma,Diploma in Mechanical and Electrical
+Student_142_3,84,75,81,52,88,95,Diploma,Diploma in Electronics and Communication
+Student_142_4,81,77,86,86,89,79,Diploma,Diploma in Construction and Design
+Student_142_5,84,69,64,87,75,83,Diploma,Diploma in Hospitality and Event Management
+Student_142_6,83,83,82,73,77,61,Diploma,Diploma in Life Sciences and Environment
+Student_142_7,92,92,73,70,93,77,Diploma,Diploma in Finance, Business and Marketing
+Student_142_8,90,42,53,88,76,83,Diploma,Diploma in Arts and Media
+Student_142_9,92,49,92,69,87,81,Diploma,Diploma in Physical Education and Wellness
+Student_143_1,77,81,84,50,88,85,Diploma,Diploma in Computer Science and Information Technology
+Student_143_2,89,83,82,49,77,85,Diploma,Diploma in Mechanical and Electrical
+Student_143_3,85,83,88,71,90,83,Diploma,Diploma in Electronics and Communication
+Student_143_4,82,80,88,83,83,75,Diploma,Diploma in Construction and Design
+Student_143_5,85,40,62,88,86,79,Diploma,Diploma in Hospitality and Event Management
+Student_143_6,87,75,84,42,55,66,Diploma,Diploma in Life Sciences and Environment
+Student_143_7,87,86,78,45,94,84,Diploma,Diploma in Finance, Business and Marketing
+Student_143_8,89,75,67,84,80,79,Diploma,Diploma in Arts and Media
+Student_143_9,81,42,94,73,89,86,Diploma,Diploma in Physical Education and Wellness
+Student_144_1,76,86,86,48,83,82,Diploma,Diploma in Computer Science and Information Technology
+Student_144_2,88,91,90,52,88,76,Diploma,Diploma in Mechanical and Electrical
+Student_144_3,87,86,85,42,77,81,Diploma,Diploma in Electronics and Communication
+Student_144_4,90,84,78,88,83,77,Diploma,Diploma in Construction and Design
+Student_144_5,88,54,50,94,85,78,Diploma,Diploma in Hospitality and Event Management
+Student_144_6,75,80,95,44,80,65,Diploma,Diploma in Life Sciences and Environment
+Student_144_7,95,95,54,70,82,87,Diploma,Diploma in Finance, Business and Marketing
+Student_144_8,94,76,76,86,79,81,Diploma,Diploma in Arts and Media
+Student_144_9,93,43,90,79,89,82,Diploma,Diploma in Physical Education and Wellness
+Student_145_1,77,94,89,54,88,88,Diploma,Diploma in Computer Science and Information Technology
+Student_145_2,77,91,88,63,89,75,Diploma,Diploma in Mechanical and Electrical
+Student_145_3,79,85,85,45,77,82,Diploma,Diploma in Electronics and Communication
+Student_145_4,85,85,77,83,88,81,Diploma,Diploma in Construction and Design
+Student_145_5,94,51,58,87,82,90,Diploma,Diploma in Hospitality and Event Management
+Student_145_6,89,79,87,73,56,49,Diploma,Diploma in Life Sciences and Environment
+Student_145_7,92,87,60,56,95,77,Diploma,Diploma in Finance, Business and Marketing
+Student_145_8,94,63,62,82,75,89,Diploma,Diploma in Arts and Media
+Student_145_9,94,68,86,49,82,80,Diploma,Diploma in Physical Education and Wellness
+Student_146_1,76,94,78,72,90,94,Diploma,Diploma in Computer Science and Information Technology
+Student_146_2,84,94,86,51,75,81,Diploma,Diploma in Mechanical and Electrical
+Student_146_3,89,87,82,70,82,90,Diploma,Diploma in Electronics and Communication
+Student_146_4,79,75,85,89,85,85,Diploma,Diploma in Construction and Design
+Student_146_5,81,71,64,92,81,75,Diploma,Diploma in Hospitality and Event Management
+Student_146_6,82,78,85,56,43,63,Diploma,Diploma in Life Sciences and Environment
+Student_146_7,84,85,48,54,87,81,Diploma,Diploma in Finance, Business and Marketing
+Student_146_8,88,54,52,86,88,89,Diploma,Diploma in Arts and Media
+Student_146_9,85,42,93,50,79,87,Diploma,Diploma in Physical Education and Wellness
+Student_147_1,76,92,88,53,81,95,Diploma,Diploma in Computer Science and Information Technology
+Student_147_2,80,94,92,84,86,89,Diploma,Diploma in Mechanical and Electrical
+Student_147_3,84,83,90,61,84,82,Diploma,Diploma in Electronics and Communication
+Student_147_4,89,77,85,87,91,86,Diploma,Diploma in Construction and Design
+Student_147_5,82,49,67,94,89,90,Diploma,Diploma in Hospitality and Event Management
+Student_147_6,83,81,86,73,58,54,Diploma,Diploma in Life Sciences and Environment
+Student_147_7,95,95,55,53,94,87,Diploma,Diploma in Finance, Business and Marketing
+Student_147_8,94,78,54,92,76,84,Diploma,Diploma in Arts and Media
+Student_147_9,84,69,89,58,81,81,Diploma,Diploma in Physical Education and Wellness
+Student_148_1,78,94,84,53,87,90,Diploma,Diploma in Computer Science and Information Technology
+Student_148_2,88,85,91,70,76,86,Diploma,Diploma in Mechanical and Electrical
+Student_148_3,84,82,91,84,81,91,Diploma,Diploma in Electronics and Communication
+Student_148_4,82,75,89,93,83,89,Diploma,Diploma in Construction and Design
+Student_148_5,85,71,42,83,81,82,Diploma,Diploma in Hospitality and Event Management
+Student_148_6,78,79,82,75,72,48,Diploma,Diploma in Life Sciences and Environment
+Student_148_7,89,89,70,63,81,78,Diploma,Diploma in Finance, Business and Marketing
+Student_148_8,95,57,73,92,78,88,Diploma,Diploma in Arts and Media
+Student_148_9,90,46,83,46,82,78,Diploma,Diploma in Physical Education and Wellness
+Student_149_1,83,81,82,54,76,94,Diploma,Diploma in Computer Science and Information Technology
+Student_149_2,86,92,85,81,90,80,Diploma,Diploma in Mechanical and Electrical
+Student_149_3,75,89,85,80,81,92,Diploma,Diploma in Electronics and Communication
+Student_149_4,89,84,80,84,91,81,Diploma,Diploma in Construction and Design
+Student_149_5,82,64,41,86,88,80,Diploma,Diploma in Hospitality and Event Management
+Student_149_6,79,84,89,76,59,59,Diploma,Diploma in Life Sciences and Environment
+Student_149_7,87,84,59,54,85,76,Diploma,Diploma in Finance, Business and Marketing
+Student_149_8,94,41,67,91,87,86,Diploma,Diploma in Arts and Media
+Student_149_9,90,51,83,59,78,89,Diploma,Diploma in Physical Education and Wellness
+Student_150_1,78,86,78,50,82,81,Diploma,Diploma in Computer Science and Information Technology
+Student_150_2,88,95,81,51,79,81,Diploma,Diploma in Mechanical and Electrical
+Student_150_3,80,78,86,48,77,91,Diploma,Diploma in Electronics and Communication
+Student_150_4,90,79,77,89,90,77,Diploma,Diploma in Construction and Design
+Student_150_5,94,42,58,92,80,76,Diploma,Diploma in Hospitality and Event Management
+Student_150_6,79,85,88,72,59,58,Diploma,Diploma in Life Sciences and Environment
+Student_150_7,90,95,45,49,83,77,Diploma,Diploma in Finance, Business and Marketing
+Student_150_8,90,40,51,90,87,89,Diploma,Diploma in Arts and Media
+Student_150_9,86,54,85,59,90,85,Diploma,Diploma in Physical Education and Wellness
+Student_151_1,79,86,83,81,76,93,Diploma,Diploma in Computer Science and Information Technology
+Student_151_2,77,88,91,81,78,76,Diploma,Diploma in Mechanical and Electrical
+Student_151_3,76,90,82,43,76,90,Diploma,Diploma in Electronics and Communication
+Student_151_4,83,75,87,90,88,76,Diploma,Diploma in Construction and Design
+Student_151_5,81,45,51,88,82,75,Diploma,Diploma in Hospitality and Event Management
+Student_151_6,81,77,86,62,46,73,Diploma,Diploma in Life Sciences and Environment
+Student_151_7,86,88,42,72,95,82,Diploma,Diploma in Finance, Business and Marketing
+Student_151_8,92,66,48,93,83,89,Diploma,Diploma in Arts and Media
+Student_151_9,84,79,93,73,82,89,Diploma,Diploma in Physical Education and Wellness
+Student_152_1,81,93,81,47,83,95,Diploma,Diploma in Computer Science and Information Technology
+Student_152_2,84,89,90,67,79,87,Diploma,Diploma in Mechanical and Electrical
+Student_152_3,89,77,87,52,85,82,Diploma,Diploma in Electronics and Communication
+Student_152_4,90,86,81,81,83,86,Diploma,Diploma in Construction and Design
+Student_152_5,88,78,64,94,85,82,Diploma,Diploma in Hospitality and Event Management
+Student_152_6,83,84,90,65,62,43,Diploma,Diploma in Life Sciences and Environment
+Student_152_7,81,87,61,48,91,81,Diploma,Diploma in Finance, Business and Marketing
+Student_152_8,87,69,45,93,88,86,Diploma,Diploma in Arts and Media
+Student_152_9,81,64,86,42,88,76,Diploma,Diploma in Physical Education and Wellness
+Student_153_1,75,84,77,75,79,90,Diploma,Diploma in Computer Science and Information Technology
+Student_153_2,83,93,91,85,75,90,Diploma,Diploma in Mechanical and Electrical
+Student_153_3,89,78,92,67,88,86,Diploma,Diploma in Electronics and Communication
+Student_153_4,77,83,76,88,83,85,Diploma,Diploma in Construction and Design
+Student_153_5,90,54,68,91,80,80,Diploma,Diploma in Hospitality and Event Management
+Student_153_6,78,80,84,66,50,49,Diploma,Diploma in Life Sciences and Environment
+Student_153_7,93,84,63,57,94,83,Diploma,Diploma in Finance, Business and Marketing
+Student_153_8,84,73,53,87,82,85,Diploma,Diploma in Arts and Media
+Student_153_9,84,60,82,66,87,76,Diploma,Diploma in Physical Education and Wellness
+Student_154_1,84,86,80,56,85,83,Diploma,Diploma in Computer Science and Information Technology
+Student_154_2,84,93,95,77,75,82,Diploma,Diploma in Mechanical and Electrical
+Student_154_3,87,89,85,77,83,82,Diploma,Diploma in Electronics and Communication
+Student_154_4,82,84,82,94,86,85,Diploma,Diploma in Construction and Design
+Student_154_5,92,50,73,88,90,78,Diploma,Diploma in Hospitality and Event Management
+Student_154_6,78,85,81,68,68,51,Diploma,Diploma in Life Sciences and Environment
+Student_154_7,84,93,64,62,92,75,Diploma,Diploma in Finance, Business and Marketing
+Student_154_8,93,46,74,81,82,89,Diploma,Diploma in Arts and Media
+Student_154_9,81,53,89,42,81,77,Diploma,Diploma in Physical Education and Wellness
+Student_155_1,81,87,81,74,85,88,Diploma,Diploma in Computer Science and Information Technology
+Student_155_2,82,88,84,42,75,88,Diploma,Diploma in Mechanical and Electrical
+Student_155_3,90,79,95,68,83,86,Diploma,Diploma in Electronics and Communication
+Student_155_4,86,80,86,84,93,81,Diploma,Diploma in Construction and Design
+Student_155_5,93,62,55,82,79,78,Diploma,Diploma in Hospitality and Event Management
+Student_155_6,82,78,92,42,60,63,Diploma,Diploma in Life Sciences and Environment
+Student_155_7,87,88,67,69,89,77,Diploma,Diploma in Finance, Business and Marketing
+Student_155_8,89,53,57,95,85,80,Diploma,Diploma in Arts and Media
+Student_155_9,92,59,84,78,77,90,Diploma,Diploma in Physical Education and Wellness
+Student_156_1,84,82,86,74,86,90,Diploma,Diploma in Computer Science and Information Technology
+Student_156_2,87,84,95,55,79,82,Diploma,Diploma in Mechanical and Electrical
+Student_156_3,75,80,81,72,80,87,Diploma,Diploma in Electronics and Communication
+Student_156_4,82,85,75,87,93,85,Diploma,Diploma in Construction and Design
+Student_156_5,84,57,55,93,82,81,Diploma,Diploma in Hospitality and Event Management
+Student_156_6,82,78,88,41,80,70,Diploma,Diploma in Life Sciences and Environment
+Student_156_7,88,88,70,51,93,80,Diploma,Diploma in Finance, Business and Marketing
+Student_156_8,82,58,59,84,79,82,Diploma,Diploma in Arts and Media
+Student_156_9,83,72,94,73,82,75,Diploma,Diploma in Physical Education and Wellness
+Student_157_1,85,93,81,79,88,88,Diploma,Diploma in Computer Science and Information Technology
+Student_157_2,89,89,93,56,81,89,Diploma,Diploma in Mechanical and Electrical
+Student_157_3,83,76,81,53,76,86,Diploma,Diploma in Electronics and Communication
+Student_157_4,84,90,83,83,94,89,Diploma,Diploma in Construction and Design
+Student_157_5,83,78,78,89,77,86,Diploma,Diploma in Hospitality and Event Management
+Student_157_6,83,78,92,43,66,71,Diploma,Diploma in Life Sciences and Environment
+Student_157_7,89,93,62,78,83,80,Diploma,Diploma in Finance, Business and Marketing
+Student_157_8,81,57,50,93,75,76,Diploma,Diploma in Arts and Media
+Student_157_9,88,63,94,80,79,87,Diploma,Diploma in Physical Education and Wellness
+Student_158_1,89,84,75,61,75,86,Diploma,Diploma in Computer Science and Information Technology
+Student_158_2,79,93,85,41,89,87,Diploma,Diploma in Mechanical and Electrical
+Student_158_3,80,80,86,61,76,87,Diploma,Diploma in Electronics and Communication
+Student_158_4,78,83,77,81,87,86,Diploma,Diploma in Construction and Design
+Student_158_5,88,53,47,81,89,75,Diploma,Diploma in Hospitality and Event Management
+Student_158_6,85,85,85,40,44,80,Diploma,Diploma in Life Sciences and Environment
+Student_158_7,81,82,68,65,84,83,Diploma,Diploma in Finance, Business and Marketing
+Student_158_8,82,67,56,83,86,87,Diploma,Diploma in Arts and Media
+Student_158_9,82,68,88,56,76,78,Diploma,Diploma in Physical Education and Wellness
+Student_159_1,77,86,79,49,87,95,Diploma,Diploma in Computer Science and Information Technology
+Student_159_2,90,94,85,84,77,82,Diploma,Diploma in Mechanical and Electrical
+Student_159_3,84,84,85,77,88,85,Diploma,Diploma in Electronics and Communication
+Student_159_4,82,82,85,82,90,83,Diploma,Diploma in Construction and Design
+Student_159_5,89,73,63,86,89,89,Diploma,Diploma in Hospitality and Event Management
+Student_159_6,88,76,89,50,57,40,Diploma,Diploma in Life Sciences and Environment
+Student_159_7,87,89,73,80,92,82,Diploma,Diploma in Finance, Business and Marketing
+Student_159_8,81,57,51,84,81,87,Diploma,Diploma in Arts and Media
+Student_159_9,84,78,82,77,80,77,Diploma,Diploma in Physical Education and Wellness
+Student_160_1,75,85,80,90,88,84,Diploma,Diploma in Computer Science and Information Technology
+Student_160_2,84,85,91,49,85,80,Diploma,Diploma in Mechanical and Electrical
+Student_160_3,79,81,84,78,75,95,Diploma,Diploma in Electronics and Communication
+Student_160_4,90,83,78,92,87,88,Diploma,Diploma in Construction and Design
+Student_160_5,88,47,40,88,85,76,Diploma,Diploma in Hospitality and Event Management
+Student_160_6,90,79,90,67,70,77,Diploma,Diploma in Life Sciences and Environment
+Student_160_7,84,86,68,66,95,90,Diploma,Diploma in Finance, Business and Marketing
+Student_160_8,82,70,64,90,82,86,Diploma,Diploma in Arts and Media
+Student_160_9,95,56,81,71,89,90,Diploma,Diploma in Physical Education and Wellness
+Student_161_1,83,85,82,58,84,85,Diploma,Diploma in Computer Science and Information Technology
+Student_161_2,88,81,84,63,84,76,Diploma,Diploma in Mechanical and Electrical
+Student_161_3,79,82,91,75,90,86,Diploma,Diploma in Electronics and Communication
+Student_161_4,76,87,82,85,87,85,Diploma,Diploma in Construction and Design
+Student_161_5,94,58,72,87,75,89,Diploma,Diploma in Hospitality and Event Management
+Student_161_6,77,83,84,65,71,52,Diploma,Diploma in Life Sciences and Environment
+Student_161_7,85,82,56,52,83,77,Diploma,Diploma in Finance, Business and Marketing
+Student_161_8,88,74,58,90,85,89,Diploma,Diploma in Arts and Media
+Student_161_9,85,75,95,50,87,84,Diploma,Diploma in Physical Education and Wellness
+Student_162_1,84,81,78,62,77,82,Diploma,Diploma in Computer Science and Information Technology
+Student_162_2,75,87,84,65,88,83,Diploma,Diploma in Mechanical and Electrical
+Student_162_3,77,84,90,61,84,95,Diploma,Diploma in Electronics and Communication
+Student_162_4,81,87,86,83,84,85,Diploma,Diploma in Construction and Design
+Student_162_5,85,64,49,95,86,79,Diploma,Diploma in Hospitality and Event Management
+Student_162_6,89,77,81,42,54,56,Diploma,Diploma in Life Sciences and Environment
+Student_162_7,94,94,53,70,90,81,Diploma,Diploma in Finance, Business and Marketing
+Student_162_8,83,62,55,92,77,87,Diploma,Diploma in Arts and Media
+Student_162_9,93,41,87,52,85,86,Diploma,Diploma in Physical Education and Wellness
+Student_163_1,82,81,86,42,75,90,Diploma,Diploma in Computer Science and Information Technology
+Student_163_2,90,86,95,64,76,87,Diploma,Diploma in Mechanical and Electrical
+Student_163_3,81,76,95,42,78,89,Diploma,Diploma in Electronics and Communication
+Student_163_4,81,77,86,92,93,75,Diploma,Diploma in Construction and Design
+Student_163_5,93,57,79,91,78,76,Diploma,Diploma in Hospitality and Event Management
+Student_163_6,82,82,86,59,40,77,Diploma,Diploma in Life Sciences and Environment
+Student_163_7,90,89,41,69,89,82,Diploma,Diploma in Finance, Business and Marketing
+Student_163_8,83,51,46,92,89,86,Diploma,Diploma in Arts and Media
+Student_163_9,93,58,91,50,76,87,Diploma,Diploma in Physical Education and Wellness
+Student_164_1,80,82,79,82,90,84,Diploma,Diploma in Computer Science and Information Technology
+Student_164_2,76,92,91,42,86,90,Diploma,Diploma in Mechanical and Electrical
+Student_164_3,78,80,89,79,79,83,Diploma,Diploma in Electronics and Communication
+Student_164_4,86,76,89,90,86,83,Diploma,Diploma in Construction and Design
+Student_164_5,87,55,76,83,77,77,Diploma,Diploma in Hospitality and Event Management
+Student_164_6,75,79,90,47,56,73,Diploma,Diploma in Life Sciences and Environment
+Student_164_7,82,88,65,79,94,81,Diploma,Diploma in Finance, Business and Marketing
+Student_164_8,92,47,53,81,78,78,Diploma,Diploma in Arts and Media
+Student_164_9,88,44,85,77,88,89,Diploma,Diploma in Physical Education and Wellness
+Student_165_1,84,81,88,63,86,85,Diploma,Diploma in Computer Science and Information Technology
+Student_165_2,81,82,83,74,81,78,Diploma,Diploma in Mechanical and Electrical
+Student_165_3,85,75,88,64,84,95,Diploma,Diploma in Electronics and Communication
+Student_165_4,84,79,77,91,95,78,Diploma,Diploma in Construction and Design
+Student_165_5,95,48,46,90,78,88,Diploma,Diploma in Hospitality and Event Management
+Student_165_6,85,85,83,42,50,65,Diploma,Diploma in Life Sciences and Environment
+Student_165_7,83,93,43,74,92,81,Diploma,Diploma in Finance, Business and Marketing
+Student_165_8,90,60,73,93,85,85,Diploma,Diploma in Arts and Media
+Student_165_9,82,69,93,74,77,80,Diploma,Diploma in Physical Education and Wellness
+Student_166_1,88,92,86,68,84,88,Diploma,Diploma in Computer Science and Information Technology
+Student_166_2,81,83,89,73,90,85,Diploma,Diploma in Mechanical and Electrical
+Student_166_3,88,78,85,62,88,87,Diploma,Diploma in Electronics and Communication
+Student_166_4,75,78,90,85,83,82,Diploma,Diploma in Construction and Design
+Student_166_5,95,44,74,89,77,78,Diploma,Diploma in Hospitality and Event Management
+Student_166_6,90,80,86,67,55,53,Diploma,Diploma in Life Sciences and Environment
+Student_166_7,94,88,47,78,85,76,Diploma,Diploma in Finance, Business and Marketing
+Student_166_8,90,65,42,87,78,85,Diploma,Diploma in Arts and Media
+Student_166_9,90,47,91,78,86,75,Diploma,Diploma in Physical Education and Wellness
+Student_167_1,86,81,88,49,87,94,Diploma,Diploma in Computer Science and Information Technology
+Student_167_2,85,81,95,76,79,88,Diploma,Diploma in Mechanical and Electrical
+Student_167_3,89,75,88,51,77,87,Diploma,Diploma in Electronics and Communication
+Student_167_4,90,84,90,87,86,83,Diploma,Diploma in Construction and Design
+Student_167_5,86,76,76,85,85,75,Diploma,Diploma in Hospitality and Event Management
+Student_167_6,87,82,92,72,40,61,Diploma,Diploma in Life Sciences and Environment
+Student_167_7,91,89,66,78,85,85,Diploma,Diploma in Finance, Business and Marketing
+Student_167_8,85,49,66,84,90,83,Diploma,Diploma in Arts and Media
+Student_167_9,94,46,95,74,75,81,Diploma,Diploma in Physical Education and Wellness
+Student_168_1,75,82,77,43,82,90,Diploma,Diploma in Computer Science and Information Technology
+Student_168_2,82,85,95,60,77,83,Diploma,Diploma in Mechanical and Electrical
+Student_168_3,85,81,93,68,82,93,Diploma,Diploma in Electronics and Communication
+Student_168_4,79,88,86,83,91,83,Diploma,Diploma in Construction and Design
+Student_168_5,88,40,47,90,75,80,Diploma,Diploma in Hospitality and Event Management
+Student_168_6,75,75,85,73,70,47,Diploma,Diploma in Life Sciences and Environment
+Student_168_7,87,92,73,76,82,86,Diploma,Diploma in Finance, Business and Marketing
+Student_168_8,94,70,56,87,76,80,Diploma,Diploma in Arts and Media
+Student_168_9,87,51,95,60,77,88,Diploma,Diploma in Physical Education and Wellness
+Student_169_1,75,94,76,56,87,94,Diploma,Diploma in Computer Science and Information Technology
+Student_169_2,85,86,91,78,78,86,Diploma,Diploma in Mechanical and Electrical
+Student_169_3,78,80,86,81,81,89,Diploma,Diploma in Electronics and Communication
+Student_169_4,80,89,90,95,84,77,Diploma,Diploma in Construction and Design
+Student_169_5,94,52,77,84,75,80,Diploma,Diploma in Hospitality and Event Management
+Student_169_6,85,77,81,70,58,57,Diploma,Diploma in Life Sciences and Environment
+Student_169_7,88,86,54,72,82,80,Diploma,Diploma in Finance, Business and Marketing
+Student_169_8,82,56,64,91,89,81,Diploma,Diploma in Arts and Media
+Student_169_9,84,55,83,78,80,87,Diploma,Diploma in Physical Education and Wellness
+Student_170_1,88,92,75,67,89,86,Diploma,Diploma in Computer Science and Information Technology
+Student_170_2,76,87,85,53,80,88,Diploma,Diploma in Mechanical and Electrical
+Student_170_3,86,77,92,79,89,95,Diploma,Diploma in Electronics and Communication
+Student_170_4,82,80,86,86,95,80,Diploma,Diploma in Construction and Design
+Student_170_5,87,51,55,86,83,78,Diploma,Diploma in Hospitality and Event Management
+Student_170_6,84,81,81,60,47,59,Diploma,Diploma in Life Sciences and Environment
+Student_170_7,95,93,68,73,91,82,Diploma,Diploma in Finance, Business and Marketing
+Student_170_8,92,41,50,86,84,89,Diploma,Diploma in Arts and Media
+Student_170_9,86,72,93,62,79,75,Diploma,Diploma in Physical Education and Wellness
+Student_171_1,78,94,79,55,83,83,Diploma,Diploma in Computer Science and Information Technology
+Student_171_2,76,87,91,82,83,84,Diploma,Diploma in Mechanical and Electrical
+Student_171_3,81,75,81,71,88,90,Diploma,Diploma in Electronics and Communication
+Student_171_4,88,83,75,84,89,76,Diploma,Diploma in Construction and Design
+Student_171_5,93,74,73,87,86,86,Diploma,Diploma in Hospitality and Event Management
+Student_171_6,83,80,89,47,48,48,Diploma,Diploma in Life Sciences and Environment
+Student_171_7,92,91,64,74,83,75,Diploma,Diploma in Finance, Business and Marketing
+Student_171_8,92,63,43,81,77,78,Diploma,Diploma in Arts and Media
+Student_171_9,94,68,94,41,76,79,Diploma,Diploma in Physical Education and Wellness
+Student_172_1,75,92,86,41,87,93,Diploma,Diploma in Computer Science and Information Technology
+Student_172_2,82,95,86,51,88,83,Diploma,Diploma in Mechanical and Electrical
+Student_172_3,75,84,95,42,78,88,Diploma,Diploma in Electronics and Communication
+Student_172_4,84,85,90,87,85,90,Diploma,Diploma in Construction and Design
+Student_172_5,95,75,60,85,75,86,Diploma,Diploma in Hospitality and Event Management
+Student_172_6,79,84,90,79,79,44,Diploma,Diploma in Life Sciences and Environment
+Student_172_7,88,89,64,68,91,77,Diploma,Diploma in Finance, Business and Marketing
+Student_172_8,93,65,41,83,88,76,Diploma,Diploma in Arts and Media
+Student_172_9,85,56,83,67,85,78,Diploma,Diploma in Physical Education and Wellness
+Student_173_1,83,85,89,81,76,94,Diploma,Diploma in Computer Science and Information Technology
+Student_173_2,79,92,91,83,76,90,Diploma,Diploma in Mechanical and Electrical
+Student_173_3,89,85,89,78,80,89,Diploma,Diploma in Electronics and Communication
+Student_173_4,82,77,78,85,93,82,Diploma,Diploma in Construction and Design
+Student_173_5,90,52,69,85,82,86,Diploma,Diploma in Hospitality and Event Management
+Student_173_6,85,75,87,40,63,72,Diploma,Diploma in Life Sciences and Environment
+Student_173_7,94,90,40,53,85,78,Diploma,Diploma in Finance, Business and Marketing
+Student_173_8,87,46,67,89,89,87,Diploma,Diploma in Arts and Media
+Student_173_9,81,42,92,61,75,86,Diploma,Diploma in Physical Education and Wellness
+Student_174_1,87,95,79,87,80,92,Diploma,Diploma in Computer Science and Information Technology
+Student_174_2,85,94,87,67,86,86,Diploma,Diploma in Mechanical and Electrical
+Student_174_3,79,89,89,76,85,93,Diploma,Diploma in Electronics and Communication
+Student_174_4,76,77,90,83,83,89,Diploma,Diploma in Construction and Design
+Student_174_5,95,40,66,81,85,75,Diploma,Diploma in Hospitality and Event Management
+Student_174_6,75,78,90,47,40,53,Diploma,Diploma in Life Sciences and Environment
+Student_174_7,88,88,72,78,84,81,Diploma,Diploma in Finance, Business and Marketing
+Student_174_8,85,68,40,94,87,77,Diploma,Diploma in Arts and Media
+Student_174_9,81,61,94,47,82,75,Diploma,Diploma in Physical Education and Wellness
+Student_175_1,86,92,85,45,90,91,Diploma,Diploma in Computer Science and Information Technology
+Student_175_2,85,82,92,62,82,86,Diploma,Diploma in Mechanical and Electrical
+Student_175_3,86,90,95,45,82,88,Diploma,Diploma in Electronics and Communication
+Student_175_4,81,84,76,94,94,90,Diploma,Diploma in Construction and Design
+Student_175_5,93,56,47,86,88,79,Diploma,Diploma in Hospitality and Event Management
+Student_175_6,89,79,85,55,55,51,Diploma,Diploma in Life Sciences and Environment
+Student_175_7,94,85,40,52,83,86,Diploma,Diploma in Finance, Business and Marketing
+Student_175_8,88,80,80,91,81,84,Diploma,Diploma in Arts and Media
+Student_175_9,86,59,84,53,76,78,Diploma,Diploma in Physical Education and Wellness
+Student_176_1,85,90,82,71,76,88,Diploma,Diploma in Computer Science and Information Technology
+Student_176_2,85,91,93,46,75,86,Diploma,Diploma in Mechanical and Electrical
+Student_176_3,75,75,82,45,79,82,Diploma,Diploma in Electronics and Communication
+Student_176_4,87,75,83,94,83,75,Diploma,Diploma in Construction and Design
+Student_176_5,81,53,72,89,76,75,Diploma,Diploma in Hospitality and Event Management
+Student_176_6,87,80,90,43,51,79,Diploma,Diploma in Life Sciences and Environment
+Student_176_7,87,94,76,70,85,85,Diploma,Diploma in Finance, Business and Marketing
+Student_176_8,90,47,66,82,75,78,Diploma,Diploma in Arts and Media
+Student_176_9,85,58,87,62,87,78,Diploma,Diploma in Physical Education and Wellness
+Student_177_1,86,89,86,66,90,85,Diploma,Diploma in Computer Science and Information Technology
+Student_177_2,82,90,82,55,77,77,Diploma,Diploma in Mechanical and Electrical
+Student_177_3,80,75,86,63,79,91,Diploma,Diploma in Electronics and Communication
+Student_177_4,83,89,90,93,95,84,Diploma,Diploma in Construction and Design
+Student_177_5,88,69,46,88,78,85,Diploma,Diploma in Hospitality and Event Management
+Student_177_6,85,77,83,47,80,48,Diploma,Diploma in Life Sciences and Environment
+Student_177_7,94,82,67,44,86,86,Diploma,Diploma in Finance, Business and Marketing
+Student_177_8,94,65,67,95,78,88,Diploma,Diploma in Arts and Media
+Student_177_9,81,79,84,58,79,89,Diploma,Diploma in Physical Education and Wellness
+Student_178_1,81,87,86,79,78,91,Diploma,Diploma in Computer Science and Information Technology
+Student_178_2,76,95,88,45,88,90,Diploma,Diploma in Mechanical and Electrical
+Student_178_3,75,80,90,63,77,83,Diploma,Diploma in Electronics and Communication
+Student_178_4,90,86,77,87,89,82,Diploma,Diploma in Construction and Design
+Student_178_5,83,68,62,91,76,76,Diploma,Diploma in Hospitality and Event Management
+Student_178_6,81,85,85,54,77,56,Diploma,Diploma in Life Sciences and Environment
+Student_178_7,90,88,42,63,92,81,Diploma,Diploma in Finance, Business and Marketing
+Student_178_8,84,78,49,85,76,86,Diploma,Diploma in Arts and Media
+Student_178_9,83,41,90,50,76,87,Diploma,Diploma in Physical Education and Wellness
+Student_179_1,86,86,89,82,76,89,Diploma,Diploma in Computer Science and Information Technology
+Student_179_2,89,92,81,41,89,78,Diploma,Diploma in Mechanical and Electrical
+Student_179_3,85,86,84,52,84,91,Diploma,Diploma in Electronics and Communication
+Student_179_4,86,81,79,84,81,77,Diploma,Diploma in Construction and Design
+Student_179_5,81,53,44,93,79,80,Diploma,Diploma in Hospitality and Event Management
+Student_179_6,83,75,89,69,60,62,Diploma,Diploma in Life Sciences and Environment
+Student_179_7,86,90,55,47,85,84,Diploma,Diploma in Finance, Business and Marketing
+Student_179_8,95,65,70,89,81,76,Diploma,Diploma in Arts and Media
+Student_179_9,86,72,88,79,90,84,Diploma,Diploma in Physical Education and Wellness
+Student_180_1,76,93,80,40,86,86,Diploma,Diploma in Computer Science and Information Technology
+Student_180_2,87,87,82,65,77,90,Diploma,Diploma in Mechanical and Electrical
+Student_180_3,86,90,83,65,79,90,Diploma,Diploma in Electronics and Communication
+Student_180_4,89,77,89,94,95,77,Diploma,Diploma in Construction and Design
+Student_180_5,86,54,50,87,84,85,Diploma,Diploma in Hospitality and Event Management
+Student_180_6,81,80,95,50,45,73,Diploma,Diploma in Life Sciences and Environment
+Student_180_7,92,84,57,75,92,90,Diploma,Diploma in Finance, Business and Marketing
+Student_180_8,89,43,73,87,75,80,Diploma,Diploma in Arts and Media
+Student_180_9,85,78,85,72,77,86,Diploma,Diploma in Physical Education and Wellness
+Student_181_1,83,86,86,49,87,86,Diploma,Diploma in Computer Science and Information Technology
+Student_181_2,83,85,92,53,84,87,Diploma,Diploma in Mechanical and Electrical
+Student_181_3,82,82,87,45,87,92,Diploma,Diploma in Electronics and Communication
+Student_181_4,90,83,80,94,94,76,Diploma,Diploma in Construction and Design
+Student_181_5,91,72,77,91,78,77,Diploma,Diploma in Hospitality and Event Management
+Student_181_6,87,80,94,52,40,69,Diploma,Diploma in Life Sciences and Environment
+Student_181_7,94,92,58,71,91,84,Diploma,Diploma in Finance, Business and Marketing
+Student_181_8,88,75,51,87,84,86,Diploma,Diploma in Arts and Media
+Student_181_9,88,65,89,73,88,84,Diploma,Diploma in Physical Education and Wellness
+Student_182_1,85,84,78,70,82,87,Diploma,Diploma in Computer Science and Information Technology
+Student_182_2,81,89,95,41,89,75,Diploma,Diploma in Mechanical and Electrical
+Student_182_3,80,82,92,49,88,95,Diploma,Diploma in Electronics and Communication
+Student_182_4,80,76,89,83,93,75,Diploma,Diploma in Construction and Design
+Student_182_5,88,43,42,85,75,75,Diploma,Diploma in Hospitality and Event Management
+Student_182_6,78,83,91,64,57,63,Diploma,Diploma in Life Sciences and Environment
+Student_182_7,82,94,47,43,84,84,Diploma,Diploma in Finance, Business and Marketing
+Student_182_8,93,66,64,85,80,88,Diploma,Diploma in Arts and Media
+Student_182_9,91,80,81,56,78,77,Diploma,Diploma in Physical Education and Wellness
+Student_183_1,87,84,86,49,78,95,Diploma,Diploma in Computer Science and Information Technology
+Student_183_2,76,88,92,48,76,80,Diploma,Diploma in Mechanical and Electrical
+Student_183_3,76,81,86,63,90,89,Diploma,Diploma in Electronics and Communication
+Student_183_4,85,86,75,86,92,77,Diploma,Diploma in Construction and Design
+Student_183_5,87,67,78,84,88,76,Diploma,Diploma in Hospitality and Event Management
+Student_183_6,89,82,93,65,52,59,Diploma,Diploma in Life Sciences and Environment
+Student_183_7,84,92,76,65,89,86,Diploma,Diploma in Finance, Business and Marketing
+Student_183_8,89,52,69,87,90,76,Diploma,Diploma in Arts and Media
+Student_183_9,89,57,87,42,86,83,Diploma,Diploma in Physical Education and Wellness
+Student_184_1,78,90,86,48,75,95,Diploma,Diploma in Computer Science and Information Technology
+Student_184_2,84,84,92,50,76,81,Diploma,Diploma in Mechanical and Electrical
+Student_184_3,76,86,90,82,88,82,Diploma,Diploma in Electronics and Communication
+Student_184_4,83,87,82,87,83,75,Diploma,Diploma in Construction and Design
+Student_184_5,93,78,73,88,83,90,Diploma,Diploma in Hospitality and Event Management
+Student_184_6,79,85,95,71,52,53,Diploma,Diploma in Life Sciences and Environment
+Student_184_7,93,91,53,77,93,76,Diploma,Diploma in Finance, Business and Marketing
+Student_184_8,90,58,46,86,86,75,Diploma,Diploma in Arts and Media
+Student_184_9,87,76,89,70,76,78,Diploma,Diploma in Physical Education and Wellness
+Student_185_1,79,91,80,88,77,86,Diploma,Diploma in Computer Science and Information Technology
+Student_185_2,90,83,89,82,75,75,Diploma,Diploma in Mechanical and Electrical
+Student_185_3,86,77,87,73,76,88,Diploma,Diploma in Electronics and Communication
+Student_185_4,76,80,85,91,94,79,Diploma,Diploma in Construction and Design
+Student_185_5,86,67,68,92,80,89,Diploma,Diploma in Hospitality and Event Management
+Student_185_6,87,78,94,79,64,57,Diploma,Diploma in Life Sciences and Environment
+Student_185_7,85,91,42,41,87,80,Diploma,Diploma in Finance, Business and Marketing
+Student_185_8,94,44,53,86,78,75,Diploma,Diploma in Arts and Media
+Student_185_9,88,79,90,53,83,88,Diploma,Diploma in Physical Education and Wellness
+Student_186_1,81,90,85,87,87,85,Diploma,Diploma in Computer Science and Information Technology
+Student_186_2,83,88,83,50,88,85,Diploma,Diploma in Mechanical and Electrical
+Student_186_3,88,87,86,49,80,93,Diploma,Diploma in Electronics and Communication
+Student_186_4,81,82,89,87,91,75,Diploma,Diploma in Construction and Design
+Student_186_5,92,64,79,95,90,82,Diploma,Diploma in Hospitality and Event Management
+Student_186_6,85,81,82,62,52,41,Diploma,Diploma in Life Sciences and Environment
+Student_186_7,92,84,41,56,93,80,Diploma,Diploma in Finance, Business and Marketing
+Student_186_8,93,43,77,84,76,85,Diploma,Diploma in Arts and Media
+Student_186_9,88,54,90,72,79,84,Diploma,Diploma in Physical Education and Wellness
+Student_187_1,83,85,88,87,78,88,Diploma,Diploma in Computer Science and Information Technology
+Student_187_2,88,82,85,47,76,84,Diploma,Diploma in Mechanical and Electrical
+Student_187_3,89,80,91,69,81,93,Diploma,Diploma in Electronics and Communication
+Student_187_4,75,82,90,88,81,87,Diploma,Diploma in Construction and Design
+Student_187_5,82,68,70,86,81,90,Diploma,Diploma in Hospitality and Event Management
+Student_187_6,78,76,81,41,41,49,Diploma,Diploma in Life Sciences and Environment
+Student_187_7,94,92,58,70,94,84,Diploma,Diploma in Finance, Business and Marketing
+Student_187_8,91,54,50,95,89,75,Diploma,Diploma in Arts and Media
+Student_187_9,84,45,86,71,85,87,Diploma,Diploma in Physical Education and Wellness
+Student_188_1,86,88,88,61,80,82,Diploma,Diploma in Computer Science and Information Technology
+Student_188_2,87,86,95,45,83,80,Diploma,Diploma in Mechanical and Electrical
+Student_188_3,76,89,91,74,78,85,Diploma,Diploma in Electronics and Communication
+Student_188_4,89,78,77,81,89,81,Diploma,Diploma in Construction and Design
+Student_188_5,89,64,46,88,75,90,Diploma,Diploma in Hospitality and Event Management
+Student_188_6,86,76,87,59,60,71,Diploma,Diploma in Life Sciences and Environment
+Student_188_7,90,83,49,80,81,83,Diploma,Diploma in Finance, Business and Marketing
+Student_188_8,84,61,74,94,76,88,Diploma,Diploma in Arts and Media
+Student_188_9,85,78,85,40,88,81,Diploma,Diploma in Physical Education and Wellness
+Student_189_1,79,90,76,56,81,91,Diploma,Diploma in Computer Science and Information Technology
+Student_189_2,80,95,84,45,83,76,Diploma,Diploma in Mechanical and Electrical
+Student_189_3,78,78,83,80,75,82,Diploma,Diploma in Electronics and Communication
+Student_189_4,79,87,82,87,85,89,Diploma,Diploma in Construction and Design
+Student_189_5,82,56,65,84,77,88,Diploma,Diploma in Hospitality and Event Management
+Student_189_6,84,84,87,56,56,52,Diploma,Diploma in Life Sciences and Environment
+Student_189_7,95,94,67,73,84,76,Diploma,Diploma in Finance, Business and Marketing
+Student_189_8,90,76,51,84,79,86,Diploma,Diploma in Arts and Media
+Student_189_9,83,57,86,64,75,78,Diploma,Diploma in Physical Education and Wellness
+Student_190_1,84,90,77,69,85,92,Diploma,Diploma in Computer Science and Information Technology
+Student_190_2,83,93,93,84,78,83,Diploma,Diploma in Mechanical and Electrical
+Student_190_3,87,84,81,84,77,91,Diploma,Diploma in Electronics and Communication
+Student_190_4,88,76,83,84,81,78,Diploma,Diploma in Construction and Design
+Student_190_5,92,79,64,91,85,84,Diploma,Diploma in Hospitality and Event Management
+Student_190_6,88,84,93,71,59,48,Diploma,Diploma in Life Sciences and Environment
+Student_190_7,91,88,55,74,93,76,Diploma,Diploma in Finance, Business and Marketing
+Student_190_8,93,41,47,89,77,87,Diploma,Diploma in Arts and Media
+Student_190_9,82,42,91,74,86,80,Diploma,Diploma in Physical Education and Wellness
+Student_191_1,86,93,90,68,85,83,Diploma,Diploma in Computer Science and Information Technology
+Student_191_2,82,92,94,58,79,76,Diploma,Diploma in Mechanical and Electrical
+Student_191_3,77,87,81,80,79,95,Diploma,Diploma in Electronics and Communication
+Student_191_4,84,81,79,88,88,89,Diploma,Diploma in Construction and Design
+Student_191_5,84,78,56,92,81,86,Diploma,Diploma in Hospitality and Event Management
+Student_191_6,90,81,84,56,74,48,Diploma,Diploma in Life Sciences and Environment
+Student_191_7,84,88,78,57,83,75,Diploma,Diploma in Finance, Business and Marketing
+Student_191_8,88,57,46,88,88,80,Diploma,Diploma in Arts and Media
+Student_191_9,81,66,93,47,86,89,Diploma,Diploma in Physical Education and Wellness
+Student_192_1,88,84,75,59,87,91,Diploma,Diploma in Computer Science and Information Technology
+Student_192_2,79,95,94,57,86,88,Diploma,Diploma in Mechanical and Electrical
+Student_192_3,79,84,92,60,75,82,Diploma,Diploma in Electronics and Communication
+Student_192_4,81,87,82,91,81,78,Diploma,Diploma in Construction and Design
+Student_192_5,91,52,55,82,77,85,Diploma,Diploma in Hospitality and Event Management
+Student_192_6,88,77,81,74,45,78,Diploma,Diploma in Life Sciences and Environment
+Student_192_7,85,88,77,41,84,83,Diploma,Diploma in Finance, Business and Marketing
+Student_192_8,86,66,63,90,82,83,Diploma,Diploma in Arts and Media
+Student_192_9,93,62,89,52,82,87,Diploma,Diploma in Physical Education and Wellness
+Student_193_1,79,81,87,53,79,94,Diploma,Diploma in Computer Science and Information Technology
+Student_193_2,76,82,85,59,84,84,Diploma,Diploma in Mechanical and Electrical
+Student_193_3,77,82,82,64,87,87,Diploma,Diploma in Electronics and Communication
+Student_193_4,81,76,87,85,94,76,Diploma,Diploma in Construction and Design
+Student_193_5,94,64,42,87,81,76,Diploma,Diploma in Hospitality and Event Management
+Student_193_6,76,80,95,48,69,43,Diploma,Diploma in Life Sciences and Environment
+Student_193_7,92,81,71,75,88,77,Diploma,Diploma in Finance, Business and Marketing
+Student_193_8,92,58,40,81,86,87,Diploma,Diploma in Arts and Media
+Student_193_9,83,54,85,43,84,86,Diploma,Diploma in Physical Education and Wellness
+Student_194_1,81,81,86,46,75,86,Diploma,Diploma in Computer Science and Information Technology
+Student_194_2,79,94,90,49,83,83,Diploma,Diploma in Mechanical and Electrical
+Student_194_3,86,79,92,48,81,89,Diploma,Diploma in Electronics and Communication
+Student_194_4,84,77,90,82,91,85,Diploma,Diploma in Construction and Design
+Student_194_5,81,54,67,87,89,84,Diploma,Diploma in Hospitality and Event Management
+Student_194_6,75,83,94,62,49,65,Diploma,Diploma in Life Sciences and Environment
+Student_194_7,85,93,44,51,88,84,Diploma,Diploma in Finance, Business and Marketing
+Student_194_8,89,58,62,90,81,87,Diploma,Diploma in Arts and Media
+Student_194_9,91,65,92,55,90,82,Diploma,Diploma in Physical Education and Wellness
+Student_195_1,88,87,79,81,81,81,Diploma,Diploma in Computer Science and Information Technology
+Student_195_2,86,94,94,85,81,88,Diploma,Diploma in Mechanical and Electrical
+Student_195_3,82,83,81,84,83,92,Diploma,Diploma in Electronics and Communication
+Student_195_4,86,85,85,90,87,82,Diploma,Diploma in Construction and Design
+Student_195_5,83,56,73,83,78,89,Diploma,Diploma in Hospitality and Event Management
+Student_195_6,85,75,88,70,45,40,Diploma,Diploma in Life Sciences and Environment
+Student_195_7,94,95,75,62,86,79,Diploma,Diploma in Finance, Business and Marketing
+Student_195_8,84,41,62,94,82,89,Diploma,Diploma in Arts and Media
+Student_195_9,93,79,94,71,77,81,Diploma,Diploma in Physical Education and Wellness
+Student_196_1,90,89,87,72,82,91,Diploma,Diploma in Computer Science and Information Technology
+Student_196_2,85,89,82,42,90,89,Diploma,Diploma in Mechanical and Electrical
+Student_196_3,90,82,89,75,83,84,Diploma,Diploma in Electronics and Communication
+Student_196_4,78,81,80,93,91,82,Diploma,Diploma in Construction and Design
+Student_196_5,92,77,50,86,84,77,Diploma,Diploma in Hospitality and Event Management
+Student_196_6,77,83,89,73,59,73,Diploma,Diploma in Life Sciences and Environment
+Student_196_7,93,81,70,50,93,78,Diploma,Diploma in Finance, Business and Marketing
+Student_196_8,84,79,75,90,88,89,Diploma,Diploma in Arts and Media
+Student_196_9,85,79,86,70,84,76,Diploma,Diploma in Physical Education and Wellness
+Student_197_1,82,82,87,57,89,93,Diploma,Diploma in Computer Science and Information Technology
+Student_197_2,81,91,81,41,76,82,Diploma,Diploma in Mechanical and Electrical
+Student_197_3,76,83,94,47,75,85,Diploma,Diploma in Electronics and Communication
+Student_197_4,90,88,80,89,94,86,Diploma,Diploma in Construction and Design
+Student_197_5,95,41,79,92,77,85,Diploma,Diploma in Hospitality and Event Management
+Student_197_6,86,76,89,72,74,64,Diploma,Diploma in Life Sciences and Environment
+Student_197_7,81,81,55,46,84,89,Diploma,Diploma in Finance, Business and Marketing
+Student_197_8,82,54,77,82,77,88,Diploma,Diploma in Arts and Media
+Student_197_9,93,48,88,60,85,80,Diploma,Diploma in Physical Education and Wellness
+Student_198_1,75,87,81,63,78,88,Diploma,Diploma in Computer Science and Information Technology
+Student_198_2,86,88,86,84,76,78,Diploma,Diploma in Mechanical and Electrical
+Student_198_3,79,81,93,78,82,89,Diploma,Diploma in Electronics and Communication
+Student_198_4,87,84,90,91,90,77,Diploma,Diploma in Construction and Design
+Student_198_5,93,51,56,90,82,88,Diploma,Diploma in Hospitality and Event Management
+Student_198_6,90,79,93,65,71,58,Diploma,Diploma in Life Sciences and Environment
+Student_198_7,90,85,44,71,90,77,Diploma,Diploma in Finance, Business and Marketing
+Student_198_8,84,58,48,91,77,81,Diploma,Diploma in Arts and Media
+Student_198_9,83,44,92,60,84,87,Diploma,Diploma in Physical Education and Wellness
+Student_199_1,80,85,80,63,79,91,Diploma,Diploma in Computer Science and Information Technology
+Student_199_2,81,84,93,81,90,79,Diploma,Diploma in Mechanical and Electrical
+Student_199_3,83,77,87,75,77,89,Diploma,Diploma in Electronics and Communication
+Student_199_4,90,78,81,95,83,79,Diploma,Diploma in Construction and Design
+Student_199_5,82,72,65,89,85,90,Diploma,Diploma in Hospitality and Event Management
+Student_199_6,90,76,93,43,65,73,Diploma,Diploma in Life Sciences and Environment
+Student_199_7,82,93,45,71,91,80,Diploma,Diploma in Finance, Business and Marketing
+Student_199_8,85,52,42,94,88,84,Diploma,Diploma in Arts and Media
+Student_199_9,83,59,95,71,89,79,Diploma,Diploma in Physical Education and Wellness
+Student_200_1,84,92,77,41,82,93,Diploma,Diploma in Computer Science and Information Technology
+Student_200_2,81,86,83,78,86,82,Diploma,Diploma in Mechanical and Electrical
+Student_200_3,76,82,83,84,80,87,Diploma,Diploma in Electronics and Communication
+Student_200_4,82,87,89,94,95,87,Diploma,Diploma in Construction and Design
+Student_200_5,93,40,65,89,79,89,Diploma,Diploma in Hospitality and Event Management
+Student_200_6,85,81,88,56,55,40,Diploma,Diploma in Life Sciences and Environment
+Student_200_7,92,95,54,59,81,82,Diploma,Diploma in Finance, Business and Marketing
+Student_200_8,86,56,64,95,83,75,Diploma,Diploma in Arts and Media
+Student_200_9,90,77,94,60,86,90,Diploma,Diploma in Physical Education and Wellness
+Student_201_1,90,84,88,60,88,87,Diploma,Diploma in Computer Science and Information Technology
+Student_201_2,80,92,91,79,80,75,Diploma,Diploma in Mechanical and Electrical
+Student_201_3,76,84,88,64,80,84,Diploma,Diploma in Electronics and Communication
+Student_201_4,81,85,82,81,83,83,Diploma,Diploma in Construction and Design
+Student_201_5,91,63,60,91,87,88,Diploma,Diploma in Hospitality and Event Management
+Student_201_6,84,80,86,57,54,77,Diploma,Diploma in Life Sciences and Environment
+Student_201_7,85,82,75,55,85,87,Diploma,Diploma in Finance, Business and Marketing
+Student_201_8,86,75,59,81,81,85,Diploma,Diploma in Arts and Media
+Student_201_9,84,63,88,50,87,83,Diploma,Diploma in Physical Education and Wellness
+Student_202_1,82,91,87,41,89,88,Diploma,Diploma in Computer Science and Information Technology
+Student_202_2,87,89,92,65,80,82,Diploma,Diploma in Mechanical and Electrical
+Student_202_3,78,77,83,81,83,88,Diploma,Diploma in Electronics and Communication
+Student_202_4,79,83,81,94,85,76,Diploma,Diploma in Construction and Design
+Student_202_5,89,49,58,93,79,90,Diploma,Diploma in Hospitality and Event Management
+Student_202_6,78,76,93,72,80,58,Diploma,Diploma in Life Sciences and Environment
+Student_202_7,83,93,66,77,89,82,Diploma,Diploma in Finance, Business and Marketing
+Student_202_8,92,65,56,85,80,79,Diploma,Diploma in Arts and Media
+Student_202_9,85,46,81,53,82,85,Diploma,Diploma in Physical Education and Wellness
+Student_203_1,81,87,88,46,89,87,Diploma,Diploma in Computer Science and Information Technology
+Student_203_2,86,83,95,40,83,83,Diploma,Diploma in Mechanical and Electrical
+Student_203_3,88,77,84,70,87,95,Diploma,Diploma in Electronics and Communication
+Student_203_4,75,78,79,93,88,88,Diploma,Diploma in Construction and Design
+Student_203_5,84,45,50,86,83,75,Diploma,Diploma in Hospitality and Event Management
+Student_203_6,88,82,82,74,78,56,Diploma,Diploma in Life Sciences and Environment
+Student_203_7,95,86,75,63,81,85,Diploma,Diploma in Finance, Business and Marketing
+Student_203_8,87,66,43,95,89,79,Diploma,Diploma in Arts and Media
+Student_203_9,92,65,88,78,79,80,Diploma,Diploma in Physical Education and Wellness
+Student_204_1,75,92,86,42,79,85,Diploma,Diploma in Computer Science and Information Technology
+Student_204_2,90,84,83,53,88,86,Diploma,Diploma in Mechanical and Electrical
+Student_204_3,77,81,91,46,85,91,Diploma,Diploma in Electronics and Communication
+Student_204_4,82,85,88,92,87,87,Diploma,Diploma in Construction and Design
+Student_204_5,81,45,41,92,87,89,Diploma,Diploma in Hospitality and Event Management
+Student_204_6,81,79,93,80,53,52,Diploma,Diploma in Life Sciences and Environment
+Student_204_7,93,82,65,42,84,90,Diploma,Diploma in Finance, Business and Marketing
+Student_204_8,95,62,65,81,82,85,Diploma,Diploma in Arts and Media
+Student_204_9,85,68,90,72,77,84,Diploma,Diploma in Physical Education and Wellness
+Student_205_1,77,92,84,77,77,93,Diploma,Diploma in Computer Science and Information Technology
+Student_205_2,90,93,86,81,83,83,Diploma,Diploma in Mechanical and Electrical
+Student_205_3,88,75,92,62,75,90,Diploma,Diploma in Electronics and Communication
+Student_205_4,79,75,79,89,83,81,Diploma,Diploma in Construction and Design
+Student_205_5,89,73,50,89,78,87,Diploma,Diploma in Hospitality and Event Management
+Student_205_6,90,78,87,74,65,78,Diploma,Diploma in Life Sciences and Environment
+Student_205_7,90,87,61,75,87,81,Diploma,Diploma in Finance, Business and Marketing
+Student_205_8,93,60,64,84,81,86,Diploma,Diploma in Arts and Media
+Student_205_9,83,48,86,50,81,76,Diploma,Diploma in Physical Education and Wellness
+Student_206_1,81,92,81,77,76,87,Diploma,Diploma in Computer Science and Information Technology
+Student_206_2,89,88,82,67,75,90,Diploma,Diploma in Mechanical and Electrical
+Student_206_3,88,90,94,59,86,87,Diploma,Diploma in Electronics and Communication
+Student_206_4,81,75,78,88,87,87,Diploma,Diploma in Construction and Design
+Student_206_5,86,59,75,84,85,87,Diploma,Diploma in Hospitality and Event Management
+Student_206_6,82,83,87,63,52,71,Diploma,Diploma in Life Sciences and Environment
+Student_206_7,90,94,48,76,92,87,Diploma,Diploma in Finance, Business and Marketing
+Student_206_8,90,45,71,90,78,79,Diploma,Diploma in Arts and Media
+Student_206_9,83,77,90,75,79,78,Diploma,Diploma in Physical Education and Wellness
+Student_207_1,87,85,80,48,87,89,Diploma,Diploma in Computer Science and Information Technology
+Student_207_2,88,92,90,80,84,75,Diploma,Diploma in Mechanical and Electrical
+Student_207_3,84,85,86,49,76,89,Diploma,Diploma in Electronics and Communication
+Student_207_4,86,83,88,95,83,78,Diploma,Diploma in Construction and Design
+Student_207_5,88,47,55,90,87,77,Diploma,Diploma in Hospitality and Event Management
+Student_207_6,79,81,86,43,77,65,Diploma,Diploma in Life Sciences and Environment
+Student_207_7,87,82,70,63,89,90,Diploma,Diploma in Finance, Business and Marketing
+Student_207_8,90,55,69,81,79,79,Diploma,Diploma in Arts and Media
+Student_207_9,82,69,82,70,86,83,Diploma,Diploma in Physical Education and Wellness
+Student_208_1,76,83,80,52,80,88,Diploma,Diploma in Computer Science and Information Technology
+Student_208_2,89,94,84,73,76,76,Diploma,Diploma in Mechanical and Electrical
+Student_208_3,88,89,87,56,78,95,Diploma,Diploma in Electronics and Communication
+Student_208_4,90,82,82,90,85,79,Diploma,Diploma in Construction and Design
+Student_208_5,93,51,58,94,85,80,Diploma,Diploma in Hospitality and Event Management
+Student_208_6,87,79,90,51,56,65,Diploma,Diploma in Life Sciences and Environment
+Student_208_7,84,84,64,56,90,85,Diploma,Diploma in Finance, Business and Marketing
+Student_208_8,83,60,60,86,90,86,Diploma,Diploma in Arts and Media
+Student_208_9,95,67,81,56,78,81,Diploma,Diploma in Physical Education and Wellness
+Student_209_1,76,86,89,50,88,81,Diploma,Diploma in Computer Science and Information Technology
+Student_209_2,82,86,92,70,78,90,Diploma,Diploma in Mechanical and Electrical
+Student_209_3,86,80,93,78,75,86,Diploma,Diploma in Electronics and Communication
+Student_209_4,82,83,80,93,83,80,Diploma,Diploma in Construction and Design
+Student_209_5,94,80,63,92,77,79,Diploma,Diploma in Hospitality and Event Management
+Student_209_6,88,80,87,55,50,70,Diploma,Diploma in Life Sciences and Environment
+Student_209_7,85,92,67,52,83,82,Diploma,Diploma in Finance, Business and Marketing
+Student_209_8,89,54,49,88,78,80,Diploma,Diploma in Arts and Media
+Student_209_9,88,75,95,45,75,77,Diploma,Diploma in Physical Education and Wellness
+Student_210_1,83,85,77,68,76,93,Diploma,Diploma in Computer Science and Information Technology
+Student_210_2,82,85,86,76,81,89,Diploma,Diploma in Mechanical and Electrical
+Student_210_3,83,80,93,49,83,86,Diploma,Diploma in Electronics and Communication
+Student_210_4,81,85,88,91,91,82,Diploma,Diploma in Construction and Design
+Student_210_5,91,78,72,89,84,85,Diploma,Diploma in Hospitality and Event Management
+Student_210_6,87,79,95,68,78,47,Diploma,Diploma in Life Sciences and Environment
+Student_210_7,87,95,56,57,84,78,Diploma,Diploma in Finance, Business and Marketing
+Student_210_8,86,41,67,82,79,78,Diploma,Diploma in Arts and Media
+Student_210_9,82,76,91,77,90,82,Diploma,Diploma in Physical Education and Wellness
+Student_211_1,77,81,84,74,81,85,Diploma,Diploma in Computer Science and Information Technology
+Student_211_2,85,89,85,64,84,90,Diploma,Diploma in Mechanical and Electrical
+Student_211_3,78,84,94,59,77,86,Diploma,Diploma in Electronics and Communication
+Student_211_4,77,86,80,91,89,76,Diploma,Diploma in Construction and Design
+Student_211_5,81,47,48,91,84,77,Diploma,Diploma in Hospitality and Event Management
+Student_211_6,86,81,88,55,66,59,Diploma,Diploma in Life Sciences and Environment
+Student_211_7,81,84,57,51,85,86,Diploma,Diploma in Finance, Business and Marketing
+Student_211_8,91,76,58,83,79,85,Diploma,Diploma in Arts and Media
+Student_211_9,95,50,84,77,79,76,Diploma,Diploma in Physical Education and Wellness
+Student_212_1,75,81,80,84,85,88,Diploma,Diploma in Computer Science and Information Technology
+Student_212_2,76,85,88,62,90,87,Diploma,Diploma in Mechanical and Electrical
+Student_212_3,83,85,90,55,82,87,Diploma,Diploma in Electronics and Communication
+Student_212_4,78,77,79,82,84,90,Diploma,Diploma in Construction and Design
+Student_212_5,91,45,54,89,85,86,Diploma,Diploma in Hospitality and Event Management
+Student_212_6,76,82,82,59,80,55,Diploma,Diploma in Life Sciences and Environment
+Student_212_7,88,86,50,66,95,83,Diploma,Diploma in Finance, Business and Marketing
+Student_212_8,84,40,54,84,84,89,Diploma,Diploma in Arts and Media
+Student_212_9,87,41,83,65,85,76,Diploma,Diploma in Physical Education and Wellness
+Student_213_1,86,94,85,43,85,92,Diploma,Diploma in Computer Science and Information Technology
+Student_213_2,83,84,83,46,87,76,Diploma,Diploma in Mechanical and Electrical
+Student_213_3,83,82,85,51,75,88,Diploma,Diploma in Electronics and Communication
+Student_213_4,90,89,82,81,86,78,Diploma,Diploma in Construction and Design
+Student_213_5,94,65,79,86,90,76,Diploma,Diploma in Hospitality and Event Management
+Student_213_6,88,76,91,73,50,76,Diploma,Diploma in Life Sciences and Environment
+Student_213_7,94,91,54,67,88,89,Diploma,Diploma in Finance, Business and Marketing
+Student_213_8,84,41,67,89,88,83,Diploma,Diploma in Arts and Media
+Student_213_9,94,62,93,75,87,75,Diploma,Diploma in Physical Education and Wellness
+Student_214_1,77,85,89,72,78,87,Diploma,Diploma in Computer Science and Information Technology
+Student_214_2,89,91,83,48,90,82,Diploma,Diploma in Mechanical and Electrical
+Student_214_3,81,78,91,57,84,90,Diploma,Diploma in Electronics and Communication
+Student_214_4,88,85,82,86,86,81,Diploma,Diploma in Construction and Design
+Student_214_5,94,69,46,82,80,86,Diploma,Diploma in Hospitality and Event Management
+Student_214_6,84,84,82,70,71,70,Diploma,Diploma in Life Sciences and Environment
+Student_214_7,82,90,44,77,83,86,Diploma,Diploma in Finance, Business and Marketing
+Student_214_8,86,56,72,85,77,77,Diploma,Diploma in Arts and Media
+Student_214_9,91,49,90,44,77,86,Diploma,Diploma in Physical Education and Wellness
+Student_215_1,89,83,82,57,88,88,Diploma,Diploma in Computer Science and Information Technology
+Student_215_2,85,85,81,46,85,84,Diploma,Diploma in Mechanical and Electrical
+Student_215_3,87,85,89,72,78,90,Diploma,Diploma in Electronics and Communication
+Student_215_4,86,75,86,87,91,84,Diploma,Diploma in Construction and Design
+Student_215_5,90,58,72,90,76,90,Diploma,Diploma in Hospitality and Event Management
+Student_215_6,80,78,82,52,52,59,Diploma,Diploma in Life Sciences and Environment
+Student_215_7,81,94,56,68,89,75,Diploma,Diploma in Finance, Business and Marketing
+Student_215_8,89,52,62,94,80,84,Diploma,Diploma in Arts and Media
+Student_215_9,88,58,93,42,84,75,Diploma,Diploma in Physical Education and Wellness
+Student_216_1,88,88,80,69,81,93,Diploma,Diploma in Computer Science and Information Technology
+Student_216_2,78,87,86,84,80,87,Diploma,Diploma in Mechanical and Electrical
+Student_216_3,79,86,92,68,85,90,Diploma,Diploma in Electronics and Communication
+Student_216_4,81,78,82,95,90,76,Diploma,Diploma in Construction and Design
+Student_216_5,95,71,52,88,79,76,Diploma,Diploma in Hospitality and Event Management
+Student_216_6,87,79,88,55,48,66,Diploma,Diploma in Life Sciences and Environment
+Student_216_7,81,91,68,40,82,75,Diploma,Diploma in Finance, Business and Marketing
+Student_216_8,89,44,73,87,82,89,Diploma,Diploma in Arts and Media
+Student_216_9,83,56,81,48,82,77,Diploma,Diploma in Physical Education and Wellness
+Student_217_1,86,86,76,68,82,86,Diploma,Diploma in Computer Science and Information Technology
+Student_217_2,75,84,93,77,80,79,Diploma,Diploma in Mechanical and Electrical
+Student_217_3,87,78,81,71,82,81,Diploma,Diploma in Electronics and Communication
+Student_217_4,84,83,85,81,91,76,Diploma,Diploma in Construction and Design
+Student_217_5,85,43,59,81,87,85,Diploma,Diploma in Hospitality and Event Management
+Student_217_6,82,80,82,78,51,52,Diploma,Diploma in Life Sciences and Environment
+Student_217_7,90,84,69,55,81,85,Diploma,Diploma in Finance, Business and Marketing
+Student_217_8,82,46,64,83,88,79,Diploma,Diploma in Arts and Media
+Student_217_9,88,66,90,71,75,84,Diploma,Diploma in Physical Education and Wellness
+Student_218_1,79,95,81,44,76,90,Diploma,Diploma in Computer Science and Information Technology
+Student_218_2,80,87,89,55,77,84,Diploma,Diploma in Mechanical and Electrical
+Student_218_3,75,80,86,66,81,86,Diploma,Diploma in Electronics and Communication
+Student_218_4,82,88,86,81,90,84,Diploma,Diploma in Construction and Design
+Student_218_5,90,42,55,89,89,85,Diploma,Diploma in Hospitality and Event Management
+Student_218_6,88,84,83,59,60,61,Diploma,Diploma in Life Sciences and Environment
+Student_218_7,93,93,53,45,81,86,Diploma,Diploma in Finance, Business and Marketing
+Student_218_8,83,62,49,86,75,90,Diploma,Diploma in Arts and Media
+Student_218_9,86,41,94,57,78,85,Diploma,Diploma in Physical Education and Wellness
+Student_219_1,77,83,86,78,86,95,Diploma,Diploma in Computer Science and Information Technology
+Student_219_2,86,83,82,67,76,83,Diploma,Diploma in Mechanical and Electrical
+Student_219_3,76,82,93,46,80,88,Diploma,Diploma in Electronics and Communication
+Student_219_4,79,75,81,95,94,79,Diploma,Diploma in Construction and Design
+Student_219_5,87,46,66,86,82,75,Diploma,Diploma in Hospitality and Event Management
+Student_219_6,89,75,87,53,60,63,Diploma,Diploma in Life Sciences and Environment
+Student_219_7,87,90,72,76,91,80,Diploma,Diploma in Finance, Business and Marketing
+Student_219_8,95,54,66,95,76,76,Diploma,Diploma in Arts and Media
+Student_219_9,83,62,86,77,79,80,Diploma,Diploma in Physical Education and Wellness
+Student_220_1,81,81,79,44,76,92,Diploma,Diploma in Computer Science and Information Technology
+Student_220_2,87,90,82,46,79,89,Diploma,Diploma in Mechanical and Electrical
+Student_220_3,87,78,87,66,75,92,Diploma,Diploma in Electronics and Communication
+Student_220_4,81,83,79,86,82,88,Diploma,Diploma in Construction and Design
+Student_220_5,87,54,62,91,90,87,Diploma,Diploma in Hospitality and Event Management
+Student_220_6,88,85,88,55,57,74,Diploma,Diploma in Life Sciences and Environment
+Student_220_7,91,84,78,52,93,82,Diploma,Diploma in Finance, Business and Marketing
+Student_220_8,83,67,59,86,88,84,Diploma,Diploma in Arts and Media
+Student_220_9,85,72,92,75,77,90,Diploma,Diploma in Physical Education and Wellness
+Student_221_1,76,94,75,59,87,90,Diploma,Diploma in Computer Science and Information Technology
+Student_221_2,76,88,94,63,82,85,Diploma,Diploma in Mechanical and Electrical
+Student_221_3,77,86,93,84,76,93,Diploma,Diploma in Electronics and Communication
+Student_221_4,89,84,87,83,91,85,Diploma,Diploma in Construction and Design
+Student_221_5,81,72,80,85,77,87,Diploma,Diploma in Hospitality and Event Management
+Student_221_6,85,84,89,49,58,53,Diploma,Diploma in Life Sciences and Environment
+Student_221_7,82,92,56,50,81,81,Diploma,Diploma in Finance, Business and Marketing
+Student_221_8,91,50,75,83,79,80,Diploma,Diploma in Arts and Media
+Student_221_9,95,74,84,60,77,90,Diploma,Diploma in Physical Education and Wellness
+Student_222_1,85,93,84,68,80,93,Diploma,Diploma in Computer Science and Information Technology
+Student_222_2,90,83,88,53,85,78,Diploma,Diploma in Mechanical and Electrical
+Student_222_3,89,85,90,75,83,81,Diploma,Diploma in Electronics and Communication
+Student_222_4,82,83,88,93,89,82,Diploma,Diploma in Construction and Design
+Student_222_5,94,76,80,82,86,85,Diploma,Diploma in Hospitality and Event Management
+Student_222_6,75,82,85,53,74,51,Diploma,Diploma in Life Sciences and Environment
+Student_222_7,91,91,56,51,83,75,Diploma,Diploma in Finance, Business and Marketing
+Student_222_8,86,54,49,84,80,81,Diploma,Diploma in Arts and Media
+Student_222_9,83,80,95,63,76,84,Diploma,Diploma in Physical Education and Wellness
+Student_223_1,81,95,77,57,78,93,Diploma,Diploma in Computer Science and Information Technology
+Student_223_2,77,85,94,48,80,77,Diploma,Diploma in Mechanical and Electrical
+Student_223_3,89,77,81,51,78,88,Diploma,Diploma in Electronics and Communication
+Student_223_4,75,89,83,84,87,90,Diploma,Diploma in Construction and Design
+Student_223_5,85,41,49,95,79,86,Diploma,Diploma in Hospitality and Event Management
+Student_223_6,89,76,85,51,44,44,Diploma,Diploma in Life Sciences and Environment
+Student_223_7,89,89,60,52,87,87,Diploma,Diploma in Finance, Business and Marketing
+Student_223_8,86,71,69,87,83,90,Diploma,Diploma in Arts and Media
+Student_223_9,91,74,89,43,75,81,Diploma,Diploma in Physical Education and Wellness
+Student_224_1,83,94,83,64,81,81,Diploma,Diploma in Computer Science and Information Technology
+Student_224_2,79,91,86,79,90,88,Diploma,Diploma in Mechanical and Electrical
+Student_224_3,87,81,93,48,81,84,Diploma,Diploma in Electronics and Communication
+Student_224_4,88,78,84,94,91,75,Diploma,Diploma in Construction and Design
+Student_224_5,91,47,71,82,82,75,Diploma,Diploma in Hospitality and Event Management
+Student_224_6,77,81,92,79,73,62,Diploma,Diploma in Life Sciences and Environment
+Student_224_7,88,83,59,59,85,78,Diploma,Diploma in Finance, Business and Marketing
+Student_224_8,82,51,49,90,80,88,Diploma,Diploma in Arts and Media
+Student_224_9,94,44,86,46,76,77,Diploma,Diploma in Physical Education and Wellness
+Student_225_1,88,92,79,73,79,81,Diploma,Diploma in Computer Science and Information Technology
+Student_225_2,78,87,91,77,81,76,Diploma,Diploma in Mechanical and Electrical
+Student_225_3,90,78,90,83,87,81,Diploma,Diploma in Electronics and Communication
+Student_225_4,89,90,82,88,89,89,Diploma,Diploma in Construction and Design
+Student_225_5,81,58,62,93,76,88,Diploma,Diploma in Hospitality and Event Management
+Student_225_6,81,80,92,74,68,40,Diploma,Diploma in Life Sciences and Environment
+Student_225_7,86,90,79,70,84,84,Diploma,Diploma in Finance, Business and Marketing
+Student_225_8,95,55,78,91,89,81,Diploma,Diploma in Arts and Media
+Student_225_9,95,71,81,48,84,76,Diploma,Diploma in Physical Education and Wellness
+Student_226_1,77,83,83,72,81,88,Diploma,Diploma in Computer Science and Information Technology
+Student_226_2,79,89,85,53,77,79,Diploma,Diploma in Mechanical and Electrical
+Student_226_3,80,83,84,77,82,82,Diploma,Diploma in Electronics and Communication
+Student_226_4,90,82,80,91,85,83,Diploma,Diploma in Construction and Design
+Student_226_5,87,60,68,81,76,88,Diploma,Diploma in Hospitality and Event Management
+Student_226_6,88,78,85,66,52,55,Diploma,Diploma in Life Sciences and Environment
+Student_226_7,87,83,80,46,95,90,Diploma,Diploma in Finance, Business and Marketing
+Student_226_8,95,62,53,94,85,79,Diploma,Diploma in Arts and Media
+Student_226_9,81,60,93,60,90,80,Diploma,Diploma in Physical Education and Wellness
+Student_227_1,86,89,79,43,90,88,Diploma,Diploma in Computer Science and Information Technology
+Student_227_2,80,91,83,84,84,84,Diploma,Diploma in Mechanical and Electrical
+Student_227_3,87,83,82,81,77,94,Diploma,Diploma in Electronics and Communication
+Student_227_4,84,85,76,88,89,79,Diploma,Diploma in Construction and Design
+Student_227_5,88,41,78,81,87,89,Diploma,Diploma in Hospitality and Event Management
+Student_227_6,81,84,92,61,77,54,Diploma,Diploma in Life Sciences and Environment
+Student_227_7,85,94,44,44,88,84,Diploma,Diploma in Finance, Business and Marketing
+Student_227_8,81,46,65,87,77,89,Diploma,Diploma in Arts and Media
+Student_227_9,93,72,84,44,80,88,Diploma,Diploma in Physical Education and Wellness
+Student_228_1,81,82,85,60,76,92,Diploma,Diploma in Computer Science and Information Technology
+Student_228_2,76,89,82,73,90,78,Diploma,Diploma in Mechanical and Electrical
+Student_228_3,83,75,83,42,77,82,Diploma,Diploma in Electronics and Communication
+Student_228_4,90,86,81,90,87,77,Diploma,Diploma in Construction and Design
+Student_228_5,90,57,66,82,86,86,Diploma,Diploma in Hospitality and Event Management
+Student_228_6,75,79,85,56,51,50,Diploma,Diploma in Life Sciences and Environment
+Student_228_7,82,86,58,60,93,89,Diploma,Diploma in Finance, Business and Marketing
+Student_228_8,95,42,60,85,88,85,Diploma,Diploma in Arts and Media
+Student_228_9,91,80,85,67,77,78,Diploma,Diploma in Physical Education and Wellness
+Student_229_1,79,86,80,80,76,94,Diploma,Diploma in Computer Science and Information Technology
+Student_229_2,85,94,82,60,77,77,Diploma,Diploma in Mechanical and Electrical
+Student_229_3,77,76,94,85,79,81,Diploma,Diploma in Electronics and Communication
+Student_229_4,82,76,87,87,89,77,Diploma,Diploma in Construction and Design
+Student_229_5,88,46,62,87,82,78,Diploma,Diploma in Hospitality and Event Management
+Student_229_6,81,76,85,75,69,58,Diploma,Diploma in Life Sciences and Environment
+Student_229_7,88,89,52,63,92,87,Diploma,Diploma in Finance, Business and Marketing
+Student_229_8,91,51,69,93,75,79,Diploma,Diploma in Arts and Media
+Student_229_9,91,53,83,63,88,78,Diploma,Diploma in Physical Education and Wellness
+Student_230_1,83,94,88,53,83,82,Diploma,Diploma in Computer Science and Information Technology
+Student_230_2,79,83,82,59,80,85,Diploma,Diploma in Mechanical and Electrical
+Student_230_3,81,84,90,75,80,90,Diploma,Diploma in Electronics and Communication
+Student_230_4,86,80,85,82,94,80,Diploma,Diploma in Construction and Design
+Student_230_5,93,42,67,92,75,80,Diploma,Diploma in Hospitality and Event Management
+Student_230_6,88,84,95,46,41,48,Diploma,Diploma in Life Sciences and Environment
+Student_230_7,85,90,49,43,81,85,Diploma,Diploma in Finance, Business and Marketing
+Student_230_8,93,78,70,87,76,84,Diploma,Diploma in Arts and Media
+Student_230_9,93,65,89,43,81,88,Diploma,Diploma in Physical Education and Wellness
+Student_231_1,79,94,88,46,89,90,Diploma,Diploma in Computer Science and Information Technology
+Student_231_2,80,92,83,72,89,81,Diploma,Diploma in Mechanical and Electrical
+Student_231_3,78,76,92,62,85,82,Diploma,Diploma in Electronics and Communication
+Student_231_4,88,83,83,87,89,84,Diploma,Diploma in Construction and Design
+Student_231_5,88,61,64,94,83,77,Diploma,Diploma in Hospitality and Event Management
+Student_231_6,82,81,84,67,63,70,Diploma,Diploma in Life Sciences and Environment
+Student_231_7,91,93,78,58,84,89,Diploma,Diploma in Finance, Business and Marketing
+Student_231_8,84,79,80,90,79,89,Diploma,Diploma in Arts and Media
+Student_231_9,83,45,94,41,90,89,Diploma,Diploma in Physical Education and Wellness
+Student_232_1,76,83,88,66,90,82,Diploma,Diploma in Computer Science and Information Technology
+Student_232_2,80,88,90,85,86,86,Diploma,Diploma in Mechanical and Electrical
+Student_232_3,81,81,88,52,90,95,Diploma,Diploma in Electronics and Communication
+Student_232_4,75,78,79,82,87,75,Diploma,Diploma in Construction and Design
+Student_232_5,83,57,68,83,89,80,Diploma,Diploma in Hospitality and Event Management
+Student_232_6,84,81,86,66,42,64,Diploma,Diploma in Life Sciences and Environment
+Student_232_7,89,82,66,47,89,85,Diploma,Diploma in Finance, Business and Marketing
+Student_232_8,93,79,67,88,86,86,Diploma,Diploma in Arts and Media
+Student_232_9,93,77,86,44,75,90,Diploma,Diploma in Physical Education and Wellness
+Student_233_1,85,92,87,85,88,95,Diploma,Diploma in Computer Science and Information Technology
+Student_233_2,82,82,84,44,79,88,Diploma,Diploma in Mechanical and Electrical
+Student_233_3,86,83,85,45,83,89,Diploma,Diploma in Electronics and Communication
+Student_233_4,90,84,78,95,95,84,Diploma,Diploma in Construction and Design
+Student_233_5,93,54,52,81,82,90,Diploma,Diploma in Hospitality and Event Management
+Student_233_6,81,82,91,65,62,46,Diploma,Diploma in Life Sciences and Environment
+Student_233_7,92,91,80,75,87,76,Diploma,Diploma in Finance, Business and Marketing
+Student_233_8,84,78,54,84,76,86,Diploma,Diploma in Arts and Media
+Student_233_9,83,44,93,74,81,83,Diploma,Diploma in Physical Education and Wellness
+Student_234_1,86,88,79,40,90,88,Diploma,Diploma in Computer Science and Information Technology
+Student_234_2,83,84,86,43,77,84,Diploma,Diploma in Mechanical and Electrical
+Student_234_3,76,80,88,53,83,86,Diploma,Diploma in Electronics and Communication
+Student_234_4,76,76,87,81,83,77,Diploma,Diploma in Construction and Design
+Student_234_5,95,58,54,83,84,84,Diploma,Diploma in Hospitality and Event Management
+Student_234_6,82,84,95,69,49,78,Diploma,Diploma in Life Sciences and Environment
+Student_234_7,94,83,65,50,81,90,Diploma,Diploma in Finance, Business and Marketing
+Student_234_8,83,73,41,93,75,90,Diploma,Diploma in Arts and Media
+Student_234_9,92,53,86,58,84,75,Diploma,Diploma in Physical Education and Wellness
+Student_235_1,84,86,89,89,83,85,Diploma,Diploma in Computer Science and Information Technology
+Student_235_2,75,93,85,64,88,76,Diploma,Diploma in Mechanical and Electrical
+Student_235_3,78,88,92,81,83,82,Diploma,Diploma in Electronics and Communication
+Student_235_4,86,80,86,93,89,78,Diploma,Diploma in Construction and Design
+Student_235_5,88,48,55,92,80,90,Diploma,Diploma in Hospitality and Event Management
+Student_235_6,89,78,82,63,43,40,Diploma,Diploma in Life Sciences and Environment
+Student_235_7,88,92,44,78,92,82,Diploma,Diploma in Finance, Business and Marketing
+Student_235_8,81,46,69,84,78,88,Diploma,Diploma in Arts and Media
+Student_235_9,94,52,88,55,84,79,Diploma,Diploma in Physical Education and Wellness
+Student_236_1,81,93,90,52,80,83,Diploma,Diploma in Computer Science and Information Technology
+Student_236_2,85,85,93,40,75,83,Diploma,Diploma in Mechanical and Electrical
+Student_236_3,78,87,84,58,77,81,Diploma,Diploma in Electronics and Communication
+Student_236_4,89,76,89,85,89,86,Diploma,Diploma in Construction and Design
+Student_236_5,86,55,65,87,83,83,Diploma,Diploma in Hospitality and Event Management
+Student_236_6,89,84,89,64,75,64,Diploma,Diploma in Life Sciences and Environment
+Student_236_7,90,83,46,65,83,90,Diploma,Diploma in Finance, Business and Marketing
+Student_236_8,85,73,47,85,87,87,Diploma,Diploma in Arts and Media
+Student_236_9,87,55,93,78,77,77,Diploma,Diploma in Physical Education and Wellness
+Student_237_1,82,81,85,53,80,82,Diploma,Diploma in Computer Science and Information Technology
+Student_237_2,75,94,91,50,83,83,Diploma,Diploma in Mechanical and Electrical
+Student_237_3,87,90,82,58,85,83,Diploma,Diploma in Electronics and Communication
+Student_237_4,79,82,81,85,85,83,Diploma,Diploma in Construction and Design
+Student_237_5,94,41,58,87,88,82,Diploma,Diploma in Hospitality and Event Management
+Student_237_6,78,82,89,57,64,42,Diploma,Diploma in Life Sciences and Environment
+Student_237_7,81,92,63,56,82,81,Diploma,Diploma in Finance, Business and Marketing
+Student_237_8,95,75,76,86,78,82,Diploma,Diploma in Arts and Media
+Student_237_9,84,53,95,48,76,89,Diploma,Diploma in Physical Education and Wellness
+Student_238_1,78,83,82,50,83,82,Diploma,Diploma in Computer Science and Information Technology
+Student_238_2,80,94,88,42,78,86,Diploma,Diploma in Mechanical and Electrical
+Student_238_3,90,85,86,71,87,89,Diploma,Diploma in Electronics and Communication
+Student_238_4,81,84,76,91,86,82,Diploma,Diploma in Construction and Design
+Student_238_5,89,68,78,90,86,87,Diploma,Diploma in Hospitality and Event Management
+Student_238_6,84,81,81,68,47,75,Diploma,Diploma in Life Sciences and Environment
+Student_238_7,81,87,61,58,84,81,Diploma,Diploma in Finance, Business and Marketing
+Student_238_8,91,66,75,81,75,84,Diploma,Diploma in Arts and Media
+Student_238_9,87,52,81,61,79,85,Diploma,Diploma in Physical Education and Wellness
+Student_239_1,78,83,88,44,80,89,Diploma,Diploma in Computer Science and Information Technology
+Student_239_2,80,92,81,57,88,84,Diploma,Diploma in Mechanical and Electrical
+Student_239_3,90,81,94,78,83,95,Diploma,Diploma in Electronics and Communication
+Student_239_4,89,87,77,85,91,79,Diploma,Diploma in Construction and Design
+Student_239_5,88,47,62,90,81,87,Diploma,Diploma in Hospitality and Event Management
+Student_239_6,78,85,94,71,49,57,Diploma,Diploma in Life Sciences and Environment
+Student_239_7,95,89,64,55,81,84,Diploma,Diploma in Finance, Business and Marketing
+Student_239_8,82,41,45,83,81,89,Diploma,Diploma in Arts and Media
+Student_239_9,90,73,91,55,89,87,Diploma,Diploma in Physical Education and Wellness
+Student_240_1,77,91,78,76,88,93,Diploma,Diploma in Computer Science and Information Technology
+Student_240_2,83,91,93,79,86,87,Diploma,Diploma in Mechanical and Electrical
+Student_240_3,82,80,90,65,84,95,Diploma,Diploma in Electronics and Communication
+Student_240_4,86,78,81,95,93,75,Diploma,Diploma in Construction and Design
+Student_240_5,85,56,68,89,90,77,Diploma,Diploma in Hospitality and Event Management
+Student_240_6,87,80,95,47,58,60,Diploma,Diploma in Life Sciences and Environment
+Student_240_7,90,86,75,59,91,79,Diploma,Diploma in Finance, Business and Marketing
+Student_240_8,88,80,57,92,85,75,Diploma,Diploma in Arts and Media
+Student_240_9,84,46,86,47,80,88,Diploma,Diploma in Physical Education and Wellness
+Student_241_1,76,85,84,43,88,88,Diploma,Diploma in Computer Science and Information Technology
+Student_241_2,77,87,93,49,86,90,Diploma,Diploma in Mechanical and Electrical
+Student_241_3,87,78,92,53,88,93,Diploma,Diploma in Electronics and Communication
+Student_241_4,87,90,79,90,93,78,Diploma,Diploma in Construction and Design
+Student_241_5,83,78,53,91,88,84,Diploma,Diploma in Hospitality and Event Management
+Student_241_6,77,83,89,43,79,42,Diploma,Diploma in Life Sciences and Environment
+Student_241_7,83,88,56,60,87,82,Diploma,Diploma in Finance, Business and Marketing
+Student_241_8,91,64,52,91,79,86,Diploma,Diploma in Arts and Media
+Student_241_9,88,64,86,40,77,78,Diploma,Diploma in Physical Education and Wellness
+Student_242_1,83,93,86,75,81,87,Diploma,Diploma in Computer Science and Information Technology
+Student_242_2,86,93,92,62,82,85,Diploma,Diploma in Mechanical and Electrical
+Student_242_3,86,88,92,50,84,84,Diploma,Diploma in Electronics and Communication
+Student_242_4,84,78,89,94,85,88,Diploma,Diploma in Construction and Design
+Student_242_5,81,73,73,89,81,78,Diploma,Diploma in Hospitality and Event Management
+Student_242_6,76,82,89,62,41,47,Diploma,Diploma in Life Sciences and Environment
+Student_242_7,85,91,45,69,81,86,Diploma,Diploma in Finance, Business and Marketing
+Student_242_8,85,77,43,92,88,78,Diploma,Diploma in Arts and Media
+Student_242_9,93,77,84,42,81,90,Diploma,Diploma in Physical Education and Wellness
+Student_243_1,80,88,76,70,79,94,Diploma,Diploma in Computer Science and Information Technology
+Student_243_2,87,90,87,60,75,84,Diploma,Diploma in Mechanical and Electrical
+Student_243_3,84,78,88,83,78,84,Diploma,Diploma in Electronics and Communication
+Student_243_4,76,90,85,93,87,79,Diploma,Diploma in Construction and Design
+Student_243_5,93,54,67,92,78,79,Diploma,Diploma in Hospitality and Event Management
+Student_243_6,88,76,91,55,70,67,Diploma,Diploma in Life Sciences and Environment
+Student_243_7,94,91,72,47,84,85,Diploma,Diploma in Finance, Business and Marketing
+Student_243_8,94,46,44,92,84,79,Diploma,Diploma in Arts and Media
+Student_243_9,94,57,87,75,90,89,Diploma,Diploma in Physical Education and Wellness
+Student_244_1,85,87,86,68,88,87,Diploma,Diploma in Computer Science and Information Technology
+Student_244_2,85,85,82,44,88,79,Diploma,Diploma in Mechanical and Electrical
+Student_244_3,83,76,94,57,84,94,Diploma,Diploma in Electronics and Communication
+Student_244_4,77,87,81,93,83,78,Diploma,Diploma in Construction and Design
+Student_244_5,87,74,50,81,85,89,Diploma,Diploma in Hospitality and Event Management
+Student_244_6,90,83,91,63,58,67,Diploma,Diploma in Life Sciences and Environment
+Student_244_7,82,94,52,44,84,83,Diploma,Diploma in Finance, Business and Marketing
+Student_244_8,86,79,53,91,81,88,Diploma,Diploma in Arts and Media
+Student_244_9,91,42,92,66,78,79,Diploma,Diploma in Physical Education and Wellness
+Student_245_1,81,87,82,41,85,86,Diploma,Diploma in Computer Science and Information Technology
+Student_245_2,76,85,90,74,82,90,Diploma,Diploma in Mechanical and Electrical
+Student_245_3,85,80,91,48,90,89,Diploma,Diploma in Electronics and Communication
+Student_245_4,75,78,90,90,95,76,Diploma,Diploma in Construction and Design
+Student_245_5,86,59,58,94,87,75,Diploma,Diploma in Hospitality and Event Management
+Student_245_6,89,82,89,66,59,44,Diploma,Diploma in Life Sciences and Environment
+Student_245_7,84,91,67,58,92,87,Diploma,Diploma in Finance, Business and Marketing
+Student_245_8,92,75,47,81,88,88,Diploma,Diploma in Arts and Media
+Student_245_9,92,42,88,45,81,87,Diploma,Diploma in Physical Education and Wellness
+Student_246_1,88,86,75,53,90,86,Diploma,Diploma in Computer Science and Information Technology
+Student_246_2,76,89,81,60,85,80,Diploma,Diploma in Mechanical and Electrical
+Student_246_3,83,79,88,66,84,85,Diploma,Diploma in Electronics and Communication
+Student_246_4,81,90,76,82,88,75,Diploma,Diploma in Construction and Design
+Student_246_5,89,74,74,93,80,76,Diploma,Diploma in Hospitality and Event Management
+Student_246_6,82,80,82,74,58,71,Diploma,Diploma in Life Sciences and Environment
+Student_246_7,95,91,51,61,84,82,Diploma,Diploma in Finance, Business and Marketing
+Student_246_8,84,46,54,91,80,78,Diploma,Diploma in Arts and Media
+Student_246_9,93,73,85,62,89,85,Diploma,Diploma in Physical Education and Wellness
+Student_247_1,89,89,85,42,78,94,Diploma,Diploma in Computer Science and Information Technology
+Student_247_2,76,84,87,78,79,83,Diploma,Diploma in Mechanical and Electrical
+Student_247_3,76,82,86,84,88,82,Diploma,Diploma in Electronics and Communication
+Student_247_4,75,84,77,83,89,85,Diploma,Diploma in Construction and Design
+Student_247_5,92,42,58,83,84,78,Diploma,Diploma in Hospitality and Event Management
+Student_247_6,89,81,88,78,75,56,Diploma,Diploma in Life Sciences and Environment
+Student_247_7,83,84,73,70,93,87,Diploma,Diploma in Finance, Business and Marketing
+Student_247_8,84,66,45,89,78,80,Diploma,Diploma in Arts and Media
+Student_247_9,86,61,95,54,78,85,Diploma,Diploma in Physical Education and Wellness
+Student_248_1,77,87,80,51,75,86,Diploma,Diploma in Computer Science and Information Technology
+Student_248_2,89,85,81,58,86,86,Diploma,Diploma in Mechanical and Electrical
+Student_248_3,90,85,94,54,85,93,Diploma,Diploma in Electronics and Communication
+Student_248_4,88,80,84,86,81,82,Diploma,Diploma in Construction and Design
+Student_248_5,95,73,50,87,85,83,Diploma,Diploma in Hospitality and Event Management
+Student_248_6,77,82,89,63,70,78,Diploma,Diploma in Life Sciences and Environment
+Student_248_7,82,86,60,41,85,77,Diploma,Diploma in Finance, Business and Marketing
+Student_248_8,82,43,69,89,83,76,Diploma,Diploma in Arts and Media
+Student_248_9,91,47,93,55,79,75,Diploma,Diploma in Physical Education and Wellness
+Student_249_1,79,87,86,46,77,82,Diploma,Diploma in Computer Science and Information Technology
+Student_249_2,87,82,88,68,89,89,Diploma,Diploma in Mechanical and Electrical
+Student_249_3,88,88,89,72,77,86,Diploma,Diploma in Electronics and Communication
+Student_249_4,78,85,89,85,94,78,Diploma,Diploma in Construction and Design
+Student_249_5,84,49,62,86,75,79,Diploma,Diploma in Hospitality and Event Management
+Student_249_6,80,85,91,75,64,76,Diploma,Diploma in Life Sciences and Environment
+Student_249_7,86,81,57,58,88,88,Diploma,Diploma in Finance, Business and Marketing
+Student_249_8,90,67,72,93,82,81,Diploma,Diploma in Arts and Media
+Student_249_9,81,56,93,78,81,83,Diploma,Diploma in Physical Education and Wellness
+Student_250_1,81,82,81,73,86,81,Diploma,Diploma in Computer Science and Information Technology
+Student_250_2,84,94,90,48,84,86,Diploma,Diploma in Mechanical and Electrical
+Student_250_3,87,89,90,79,80,82,Diploma,Diploma in Electronics and Communication
+Student_250_4,87,84,77,91,93,90,Diploma,Diploma in Construction and Design
+Student_250_5,93,73,75,87,80,83,Diploma,Diploma in Hospitality and Event Management
+Student_250_6,87,83,86,40,57,59,Diploma,Diploma in Life Sciences and Environment
+Student_250_7,92,82,77,55,82,86,Diploma,Diploma in Finance, Business and Marketing
+Student_250_8,88,62,64,95,89,75,Diploma,Diploma in Arts and Media
+Student_250_9,81,70,87,41,86,83,Diploma,Diploma in Physical Education and Wellness

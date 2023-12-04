@@ -36,15 +36,15 @@ subjects = ["English", "Mathematics", "Science","Social Studies","Logical Reason
 
 # Criteria for each set of marks
 criteria = [
-    {"English": (56, 74), "Mathematics": (70, 74), "Science": (60, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (70, 74),"Course":"ITI in Computer Science and Information Technology"},
-    {"English": (56, 74), "Mathematics": (70, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (60, 74), "Computer Awareness": (65, 74),"Course":"ITI in Mechanical and Electrical"},
-    {"English": (60, 74), "Mathematics": (70, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (56, 74), "Computer Awareness": (65, 74),"Course":"ITI in Electronics and Communication"},
-    {"English": (60, 74), "Mathematics": (70, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 74),"Course":"ITI in Construction and Design"},
-    {"English": (70, 74), "Mathematics": (60, 74), "Science": (70, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 74),"Course":"ITI in Physical Education and Wellness"}
+    {"English": (60, 74), "Mathematics": (65, 74), "Science": (60, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (65, 74),"Course":"ITI in Computer Science and Information Technology"},
+    {"English": (60, 74), "Mathematics": (65, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (60, 74), "Computer Awareness": (65, 74),"Course":"ITI in Mechanical and Electrical"},
+    {"English": (60, 74), "Mathematics": (65, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (56, 64), "Computer Awareness": (65, 74),"Course":"ITI in Electronics and Communication"},
+    {"English": (60, 74), "Mathematics": (65, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 64),"Course":"ITI in Construction and Design"},
+    {"English": (65, 74), "Mathematics": (60, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 64),"Course":"ITI in Physical Education and Wellness"}
 ]
 
 # Create and write data to the CSV file
-with open("iti_marks1.csv", "w", newline="") as csvfile:
+with open("iti_marks2.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
     
     # Write the header row with subject names
