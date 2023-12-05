@@ -1,13 +1,15 @@
 eng = , maths = , sci = , sst = , log = , comp =
 weak[]
+interest = ""
 if branch == 0:
     min_marks = 80
-elif branch ==1:
+elif branch == 1:
     min_marks = 60
 else:
-    min_marks = 45
+    min_marks = 40
+
 if interest == "Computer Science and Information Technology (IT)":
-    if(comp>=min_marks and log >=min_marks and maths >=min_marks):
+    if(comp >= min_marks and log >=min_marks and maths >=min_marks and ):
         print("No weakness")
     else:
         if(comp<min_marks):

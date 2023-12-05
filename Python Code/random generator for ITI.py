@@ -51,7 +51,7 @@ with open("iti_marks2.csv", "w", newline="") as csvfile:
     writer.writerow(["Student ID"] + subjects+["Branch"]+["Course"])
 
     # Generate 20 random records for each criteria
-    for i in range(300):
+    for i in range(2500):
         for criterion in criteria:
             student_id = f"Student_{i+1}_{criteria.index(criterion) + 1}"
             marks = {subject: random.randint(criterion[subject][0], criterion[subject][1]) for subject in subjects}

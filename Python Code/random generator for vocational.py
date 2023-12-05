@@ -47,14 +47,14 @@ criteria = [
 ]
 
 # Create and write data to the CSV file
-with open("Vocational_marks1.csv", "w", newline="") as csvfile:
+with open("Vocational_marks2.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
     
     # Write the header row with subject names
     writer.writerow(["Student ID"] + subjects+["Branch"]+["Course"])
 
     # Generate 20 random records for each criteria
-    for i in range(300):
+    for i in range(3000):
         for criterion in criteria:
             student_id = f"Student_{i+1}_{criteria.index(criterion) + 1}"
             marks = {subject: random.randint(criterion[subject][0], criterion[subject][1]) for subject in subjects}
