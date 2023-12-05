@@ -108,17 +108,11 @@ class Ui_EnterInfoWindow(object):
         self.ScienceLineEdit = QtWidgets.QLineEdit(self.centralwidget)
         self.ScienceLineEdit.setGeometry(QtCore.QRect(560, 110, 113, 22))
         self.ScienceLineEdit.setObjectName("ScienceLineEdit")
-        self.label_6 = QtWidgets.QLabel(self.centralwidget)
-        self.label_6.setGeometry(QtCore.QRect(470, 185, 67, 16))
-        self.label_6.setObjectName("label_6")
-        self.ComputerLineEdit = QtWidgets.QLineEdit(self.centralwidget)
-        self.ComputerLineEdit.setGeometry(QtCore.QRect(560, 180, 113, 22))
-        self.ComputerLineEdit.setObjectName("ComputerLineEdit")
         self.label_h = QtWidgets.QLabel(self.centralwidget)
-        self.label_h.setGeometry(QtCore.QRect(470, 255, 61, 16))
+        self.label_h.setGeometry(QtCore.QRect(470, 185, 61, 16))
         self.label_h.setObjectName("label_h")
         self.HindiLineEdit = QtWidgets.QLineEdit(self.centralwidget)
-        self.HindiLineEdit.setGeometry(QtCore.QRect(560, 250, 113, 22))
+        self.HindiLineEdit.setGeometry(QtCore.QRect(560, 180, 113, 22))
         self.HindiLineEdit.setObjectName("HindiLineEdit")
         self.label_7 = QtWidgets.QLabel(self.centralwidget)
         self.label_7.setGeometry(QtCore.QRect(80, 340, 171, 16))
@@ -173,7 +167,6 @@ class Ui_EnterInfoWindow(object):
         self.label_3.setText(_translate("EnterInfoWindow", "Mathematics:"))
         self.label_4.setText(_translate("EnterInfoWindow", "Social Studies:"))
         self.label_5.setText(_translate("EnterInfoWindow", "Science:"))
-        self.label_6.setText(_translate("EnterInfoWindow", "Computer:"))
         self.label_h.setText(_translate("EnterInfoWindow", "Hindi:"))
         self.label_7.setText(_translate("EnterInfoWindow", "what are you interested in:"))
         self.label_8.setText(_translate("EnterInfoWindow", "Enter your class 10 marks below:"))
@@ -188,7 +181,7 @@ class Ui_EnterInfoWindow(object):
         self.InterestsCB.setItemText(8, _translate("EnterInfoWindow", "Physical Education and Wellness"))
         self.InterestsCB.setItemText(9, _translate("EnterInfoWindow", "FInance, Bussiness and Marketing"))
         self.InterestsCB.setItemText(10, _translate("EnterInfoWindow", "Culinary Studies and Cooking"))
-        self.label_9.setText(_translate("EnterInfoWindow", "Note: if you are not satisfied with your marks in certain subject then feel free to give a test for them! Note: Please Give a Test for Logical Reasoning from the Menu before checking your Report!"))
+        self.label_9.setText(_translate("EnterInfoWindow", "Note: if you are not satisfied with your marks in certain subject then feel free to give a test for them! Note: Please Give a Test for Logical Reasoning and Computer from the Menu before checking your Report!"))
 
     def Back(self, EnterInfoWindow):
         from menu_page import Ui_MenuWindow
@@ -201,18 +194,18 @@ class Ui_EnterInfoWindow(object):
 
     def EnterInfo(self, User_id):
         english=self.EnglishLineEdit.text()
+        hindi=self.HindiLineEdit.text()
         maths=self.MathsLineEdit.text()
         sst=self.SstLineEdit.text()
         science=self.ScienceLineEdit.text()
-        comp=self.ComputerLineEdit.text()
         interests=self.InterestsCB.currentText()
         if self.counter > 0:
-            statement = "UPDATE User_Marks SET English = ?, Mathematics = ?, Social_Studies = ?, Science = ?, Computer = ?, Interests = ?, Counter = ? WHERE User_id = ?"
-            values = (english, maths, sst, science, comp, interests, self.counter, User_id)
+            statement = "UPDATE User_Marks SET English = ?, Hindi = ?, Mathematics = ?, Social_Studies = ?, Science = ?, Interests = ?, Counter = ? WHERE User_id = ?"
+            values = (english, hindi, maths, sst, science, interests, self.counter, User_id)
         else:
             self.counter += 1
-            statement = "INSERT INTO User_Marks VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)"
-            values = (User_id, english, maths, science, sst, 0, comp, interests, self.counter)
+            statement = "INSERT INTO User_Marks VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)"
+            values = (User_id, english, hindi, maths, science, sst, 0, 0, interests, self.counter)
         try:
             self.cur.execute(statement, values)
             con.commit()
