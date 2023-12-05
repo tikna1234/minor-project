@@ -16,7 +16,7 @@ career = pd.read_excel(find_file_path('student_marksheet_final1.xlsx'))
 
 print(career)'''
 
-import matplotlib.pyplot as plt
+'''import matplotlib.pyplot as plt
 from sklearn.datasets import make_classification
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
@@ -46,4 +46,37 @@ plt.xlabel('Number of Neighbors (K)')
 plt.ylabel('Accuracy')
 plt.xticks(k_values)
 plt.grid(True)
-plt.show()
+plt.show()'''
+
+
+## Tips for weak subjects
+
+##import pandas as pd
+##tips = pd.read_excel(r"C:\Users\HP\Documents\GitHub\minor-project\Datasets\Tips_all_subjects.xlsx")
+##tips.set_index('subject',inplace = True)
+##weak = ['Mathematics','Computer']
+##for i in weak:
+##    for j in tips.loc[i].values:
+##        print(j)'''
+
+
+
+## websites
+
+sites={"English":["British Council: Offers online courses, study materials, and resources to improve English skills.","Grammarly: Provides grammar tips, exercises, and writing enhancement tools.","BBC Learning English: Offers resources for improving English language skills."],
+               "Mathematics":["NCERT Official Website: Provides textbooks and resources aligned with the curriculum.","Khan Academy: Offers video tutorials and practice exercises covering various math topics.","Cuemath: Provides math resources and practice material for students."],
+               "Science":["National Science Digital Library (NSDL): Offers a wide range of educational resources related to science.","TopperLearning: Provides study materials, video lessons, and practice tests for science subjects.","Embibe: Offers study materials, practice questions, and tests for science subjects."],
+               "Social_Studies":["NCERT Official Website: Provides textbooks and resources for social studies subjects.","BYJU'S: Offers study materials, videos, and interactive content for social studies.","Meritnation: Provides study materials and resources for social studies subjects"],
+               "Logical_Reasoning":["TCY Online: Offers practice tests and study material for logical reasoning.","Indiabix: Provides logical reasoning questions and solutions for practice.","Gradeup: Offers practice questions and quizzes for logical reasoning."],
+               "Computer":["Codecademy: Offers coding tutorials and exercises for beginners.","Udemy: Provides various computer-related courses at different levels.","GeeksforGeeks: Offers coding challenges, articles, and tutorials related to computer science."]}
+
+weaksubs = ['Mathematics','Computer']
+
+def GenTips_websites(sites, weaksubs):
+    for i in weaksubs:
+        print("Tips for ",i)
+        for j in sites[i]:
+            print(j)
+        print("")
+
+GenTips_websites(sites, weaksubs)
