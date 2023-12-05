@@ -203,20 +203,20 @@ class Ui_MenuWindow(object):
             ]
                  }
         
-        self.ITIReq = {"Computer Science and Information Technology":[60,70,70,65,70],
-          "Mechanical and Electrical":[60,70,70,65,65],
-          "Electronics and Communication":[60,65,65,65,65],
-          "Construction and Design":[55,60,55,60,55],
-          "Physical Education and Wellness":[55,55,55,55,55]}
-        self.DiplomaReq = {"Computer Science and Information and technology":[75,80,80,75,80,85] ,
-              "Mechanical and Electrical":[75,85,80,75,80,80],
-              "Electronics and Communication":[75,80,80,75,80,85],
-              "Construction and Design":[75,80,75,80,85,80],
-              "Hospitality and Event Management":[85,80,75,80,80,80],
-              "Life Sciences and Environment":[80,80,85,75,80,75],
-              "Arts and Media":[85,75,80,80,80,80],
-              "Physical Education and Wellness":[80,75,85,75,80,80],
-              "Finance, Business and Marketing":[80,80,75,75,85,80]}
+        self.ITIReq = {"Computer Science and Information Technology":[60,65,60,40,65,65],
+          "Mechanical and Electrical":[60,65,65,40,60,65],
+          "Electronics and Communication":[60,65,65,40,56,65],
+          "Construction and Design":[60,65,65,40,65,56],
+          "Physical Education and Wellness":[65,60,65,40,65,56]}
+        self.DiplomaReq = {"Computer Science and Information and technology":[75,81,75,40,75,81] ,
+              "Mechanical and Electrical":[75,81,81,40,75,75],
+              "Electronics and Communication":[75,75,81,40,75,81],
+              "Construction and Design":[75,75,75,81,81,75],
+              "Hospitality and Event Management":[81,40,40,81,75,75],
+              "Life Sciences and Environment":[75,75,81,40,40,40],
+              "Arts and Media":[81,40,40,81,75,75],
+              "Physical Education and Wellness":[81,40,81,40,75,75],
+              "Finance, Business and Marketing":[81,81,40,40,81,75]}
         education_stylesheet = """
             QWidget {
                 background-color: #C32148; 
