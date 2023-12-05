@@ -326,7 +326,7 @@ class Ui_MenuWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MenuWindow.setWindowTitle(_translate("MenuWindow", "Menu_page"))
         self.label.setText(_translate("MenuWindow", "MENU"))
-        self.LoginMsgLbl.setText(_translate("MenuWindow", "Enter your required details:"))
+        self.LoginMsgLbl.setText(_translate("MenuWindow", "Enter your class 10 marks here :"))
         self.EnterButton.setText(_translate("MenuWindow", "Enter"))
         self.TakeTestButton.setText(_translate("MenuWindow", "Take Test"))
         self.GenerateReportButton.setText(_translate("MenuWindow", "Generate Report"))
