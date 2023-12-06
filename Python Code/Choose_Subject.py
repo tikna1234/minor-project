@@ -235,7 +235,7 @@ class Ui_SubjectWindow(object):
         Questions = []
         ans=[]
         while(len(Questions)!=25):
-            r = rndm.randint(0,42)
+            r = rndm.randint(0,41)
             if(r not in Questions):
                 Questions.append(r)
             else:

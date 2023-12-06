@@ -375,7 +375,6 @@ class Ui_MenuWindow(object):
         self.ui.MathsLineEdit.setText(f"{mathematics}")
         self.ui.SstLineEdit.setText(f"{social_studies}")
         self.ui.ScienceLineEdit.setText(f"{science}")
-        self.ui.ComputerLineEdit.setText(f"{computer}")
         self.ui.InterestsCB.setCurrentText(f"{interests}")
         self.ui.counter = counter
         self.window.show()
