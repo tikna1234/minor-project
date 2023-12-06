@@ -571,7 +571,7 @@ class Ui_ReportWindow(object):
         self.BackButton.setObjectName("BackButton")
         self.BackButton.clicked.connect(lambda: self.backtomenu(ReportWindow))
         self.RecomendLbl = QtWidgets.QLabel(self.centralwidget)
-        self.RecomendLbl.setGeometry(QtCore.QRect(20, 120, 720, 20))
+        self.RecomendLbl.setGeometry(QtCore.QRect(20, 120, 900, 20))
         font = QtGui.QFont()
         font.setBold(True)
         font.setWeight(75)
@@ -610,7 +610,7 @@ class Ui_ReportWindow(object):
         self.label.setText(_translate("ReportWindow", "Career Report"))
         self.RecomCB.setItemText(0,"Select Your Course")
         self.StrtMsgLbl.setText(_translate("ReportWindow", "Dear, "))
-        self.label_2.setText(_translate("ReportWindow", "We Recommend that you the following Courses:"))
+        self.label_2.setText(_translate("ReportWindow", "We recommend that you do the following Courses:"))
         self.recomjob.setText(_translate("ReportWindow", "Job List"))
         self.label_5.setText(_translate("ReportWindow", "Jobs:"))
         self.label_3.setText(_translate("ReportWindow", "Look at your weakness:"))
@@ -658,9 +658,12 @@ class Ui_ReportWindow(object):
         tips.set_index('subject',inplace = True)
         for i in self.weaksubs:
             self.temp += f"Tips for {i}\n"
+            self.temp += "\n"
             for j in tips.loc[i].values:
                 self.temp += f"{j}\n"
+            self.temp += "\n"
             self.temp +=f"Websites that will be helpful in your studies:\n"
+            self.temp += "\n"
             for j in self.sites[i]:
                 self.temp += f"{j}\n"
             self.temp += "\n"

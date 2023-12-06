@@ -130,7 +130,7 @@ class Ui_loginWindow(object):
             self.LoginMsg(loginWindow, "Login failed")
         else:
             name = self.fetchname(user_id)
-            self.gotomenu(loginWindow, f"Welcome, {name}. Please enter your information here:", user_id)
+            self.gotomenu(loginWindow, f"Welcome, {name}. Please enter your class 10 marks here :", user_id)
 
 if __name__ == "__main__":
     import sys

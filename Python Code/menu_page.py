@@ -24,12 +24,12 @@ def find_file_path(file_name):
 
     return f"File '{file_name}' not found"
 
-career = pd.read_excel(find_file_path('student_marksheet_final1.xlsx'))
+career = pd.read_excel(find_file_path('student_marksheet_final3.xlsx'))
 con = sqlite3.connect(find_file_path('Career_Recommedation_System.db'))
 class Ui_MenuWindow(object):
     def setupUi(self, MenuWindow):
         self.diploma = {
-            "Computer Science and Information Technology":
+            "Computer Science and Information Technology (Diploma)":
 
             ["Diploma in Computer Science",
             "Diploma in Digital Marketing",
@@ -38,7 +38,7 @@ class Ui_MenuWindow(object):
             "Diploma in Web Development"
             ],
 
-            "Mechanical and Electrical":
+            "Mechanical and Electrical (Diploma)":
 
             ["Diploma in Mechanical Engineering",
             "Diploma in Electrical Engineering",
@@ -47,12 +47,12 @@ class Ui_MenuWindow(object):
             "Diploma in Mechatronics"
             ],
 
-            "Electronics and Communication":
+            "Electronics and Communication (Diploma)":
 
             "Diploma in Electronics and Communication Engineering"
             ,
 
-            "Construction and Design":
+            "Construction and Design (Diploma)":
 
             [
             "Diploma in Architecture",
@@ -60,7 +60,7 @@ class Ui_MenuWindow(object):
             "Diploma in Interior Design"
             ],
 
-            "Hospitality and Event Management":
+            "Hospitality and Event Management (Diploma)":
 
             [
             "Diploma in Hotel Management",
@@ -68,27 +68,27 @@ class Ui_MenuWindow(object):
             "Diploma in Aviation and Hospitality Management"
             ],
 
-            "Life Sciences and Environment":
+            "Life Sciences and Environment (Diploma)":
             [
             "Diploma in Biotechnology",
             "Diploma in Environmental Science",
             "Diploma in Veterinary Science"
             ],
             
-            "Arts and Media":
+            "Arts and Media (Diploma)":
             [
             "Diploma in Animation and Multimedia",
             "Diploma in Film Making and Direction",
             "Diploma in Photography"
             ],
 
-            "Physical Education and Wellness":
+            "Physical Education and Wellness (Diploma)":
             [
             "Diploma in Early Childhood Education",
             "Diploma in Yoga and Wellness"
             ],
 
-            "Finance, Business and Marketing":
+            "Finance, Business and Marketing (Diploma)":
             
             "Diploma in Financial Accounting"
             
@@ -98,7 +98,7 @@ class Ui_MenuWindow(object):
 
 
         self.iti = {
-            "Computer Science and Information Technology ":
+            "Computer Science and Information Technology (ITI)":
 
             [
             "ITI in Computer Hardware and Networking",
@@ -106,7 +106,7 @@ class Ui_MenuWindow(object):
             "ITI in Mobile Repair and Maintenance"
             ],
 
-            "Mechanical and Electrical":
+            "Mechanical and Electrical (ITI)":
             [
              "ITI in Mechanical",
             "ITI in Automotive Technology",
@@ -117,19 +117,19 @@ class Ui_MenuWindow(object):
             "ITI in CNC Operator"
             ],
 
-            "Electronics and Communication":
+            "Electronics and Communication (ITI)":
             [
             "ITI in Electronics and Communication",
             "ITI in Instrumentation and Control",
             ],
 
-            "Construction and Design":
+            "Construction and Design (ITI)":
             [
             "ITI in Plumbing and Pipefitting",
             "ITI in Carpentry and Woodworking"
             ],
             
-            "Physical Education and Wellness":
+            "Physical Education and Wellness (ITI)":
             
             "ITI in Beauty and Wellness"
             
@@ -138,7 +138,7 @@ class Ui_MenuWindow(object):
             
 
 
-        self.vocational = {"Computer Science and Information Technology ":
+        self.vocational = {"Computer Science and Information Technology (Vocational)":
 
             [
             "Vocational Training in Data Entry and Office Automation",
@@ -149,7 +149,7 @@ class Ui_MenuWindow(object):
             "Vocational Training in Mobile Phone Repair Technician"
             ],
 
-            "Mechanical and Electrical":
+            "Mechanical and Electrical (Vocational)":
             [
             "Vocational Training in Welding Technician",
             "Vocational Training in Automotive Technician",
@@ -160,14 +160,14 @@ class Ui_MenuWindow(object):
             " Vocational Training in HVAC Technician"
             ],
             
-            "Construction and Design":
+            "Construction and Design (Vocational)":
             [
             "Vocational Training in Welding Technician",
             "Vocational Training in Plumbing and Pipefitting",
             "Vocational Training in Carpentry and Woodworking"
             ],
 
-            "Hospitality and Event Management":
+            "Hospitality and Event Management (Vocational)":
             [
             "Vocational Training in Hospitality and Customer Service",
             "Vocational Training in Healthcare Assistant Training",
@@ -175,7 +175,7 @@ class Ui_MenuWindow(object):
             "Vocational Training in Retail Sales and Customer Service"
             ],
 
-            "Arts and Media":
+            "Arts and Media (Vocational)":
             [
             "Vocational Training in Graphic design Essentials",
             "Vocational Training in Digital Marketing Certification",
@@ -184,18 +184,18 @@ class Ui_MenuWindow(object):
             "Vocational Training in Language Proficiency Course"
             ],
             
-            "Physical Education and Wellness":
+            "Physical Education and Wellness (Vocational)":
             
             "Vocational Training in Beauty and Makeup Artistry"
             ,
 
-            "Finance, Business and Marketing":
+            "Finance, Business and Marketing (Vocational)":
             [
             "Vocational Training in Digital Marketing Certification",
             "Vocational Training in Entrepreneurship and Business Skills"
             ],
 
-            "Culinary Studies and Cooking":
+            "Culinary Studies and Cooking (Vocational)":
             [
             "Vocational Training in Culinary arts and Cooking",
             "Vocational Training in Baking and Pastry Arts",
@@ -426,71 +426,71 @@ class Ui_MenuWindow(object):
         recommend = Printpred(english, mathematics, science, social_studies, logical_reasoning, computer, branch)
         courses = []
         if branch == 0:
-            if recommend == "Computer Science and Information Technology":
-                for i in self.diploma['Computer Science and Information Technology']:
+            if recommend == "Computer Science and Information Technology (Diploma)":
+                for i in self.diploma['Computer Science and Information Technology (Diploma)']:
                     courses.append(i)
-            elif recommend == "Mechanical and Electrical":
-                for i in self.diploma['Mechanical and Electrical']:
+            elif recommend == "Mechanical and Electrical (Diploma)":
+                for i in self.diploma['Mechanical and Electrical (Diploma)']:
                     courses.append(i)
-            elif recommend == "Electronics and Communication":
-                courses = str(self.diploma['Electronics and Communication'])
-            elif recommend == "Construction and Design":
-                for i in self.diploma['Construction and Design']:
+            elif recommend == "Electronics and Communication (Diploma)":
+                courses = str(self.diploma['Electronics and Communication (Diploma)'])
+            elif recommend == "Construction and Design (Diploma)":
+                for i in self.diploma['Construction and Design (Diploma)']:
                     courses.append(i)
-            elif recommend == "Hospitality and Event Management":
-                for i in self.diploma['Hospitality and Event Management']:
+            elif recommend == "Hospitality and Event Management (Diploma)":
+                for i in self.diploma['Hospitality and Event Management (Diploma)']:
                     courses.append(i)
-            elif recommend == "Life Sciences and Environment":
-                for i in self.diploma['Life Sciences and Environment']:
+            elif recommend == "Life Sciences and Environment (Diploma)":
+                for i in self.diploma['Life Sciences and Environment (Diploma)']:
                     courses.append(i)
-            elif recommend == "Arts and Media":
-                for i in self.diploma['Arts and Media']:
+            elif recommend == "Arts and Media (Diploma)":
+                for i in self.diploma['Arts and Media (Diploma)']:
                     courses.append(i)
-            elif recommend == "Physical Education and Wellness":
-                for i in self.diploma['Physical Education and Wellness']:
+            elif recommend == "Physical Education and Wellness (Diploma)":
+                for i in self.diploma['Physical Education and Wellness (Diploma)']:
                     courses.append(i)
-            elif recommend == "Finance, Business and Marketing":
-                courses = str(self.diploma['Finance, Business and Marketing'])
+            elif recommend == "Finance, Business and Marketing (Diploma)":
+                courses = self.diploma['Finance, Business and Marketing (Diploma)']
 
         elif branch == 1:
-            if recommend == "Computer Science and Information Technology":
-                for i in self.iti['Computer Science and Information Technology']:
+            if recommend == "Computer Science and Information Technology (ITI)":
+                for i in self.iti['Computer Science and Information Technology (ITI)']:
                     courses.append(i)
-            elif recommend == "Mechanical and Electrical":
-                for i in self.iti['Mechanical and Electrical']:
+            elif recommend == "Mechanical and Electrical (ITI)":
+                for i in self.iti['Mechanical and Electrical (ITI)']:
                     courses.append(i)
-            elif recommend == "Electronics and Communication":
-                for i in self.iti['Electronics and Communication']:
+            elif recommend == "Electronics and Communication (ITI)":
+                for i in self.iti['Electronics and Communication (ITI)']:
                     courses.append(i)
-            elif recommend == "Construction and Design":
-                for i in self.iti['Construction and Design']:
+            elif recommend == "Construction and Design (ITI)":
+                for i in self.iti['Construction and Design (ITI)']:
                     courses.append(i)
-            elif recommend == "Physical Education and Wellness":
-                courses = str(self.iti['Physical Education and Wellness'])
+            elif recommend == "Physical Education and Wellness (ITI)":
+                courses = str(self.iti['Physical Education and Wellness (ITI)'])
 
         else:
-            if recommend == "Computer Science and Information Technology":
-                for i in self.vocational['Computer Science and Information Technology']:
+            if recommend == "Computer Science and Information Technology (Vocational)":
+                for i in self.vocational['Computer Science and Information Technology (Vocational)']:
                     courses.append(i)
-            elif recommend == "Mechanical and Electrical":
-                for i in self.vocational['Mechanical and Electrical']:
+            elif recommend == "Mechanical and Electrical (Vocational)":
+                for i in self.vocational['Mechanical and Electrical (Vocational)']:
                     courses.append(i)
-            elif recommend == "Construction and Design":
-                for i in self.vocational['Construction and Design']:
+            elif recommend == "Construction and Design (Vocational)":
+                for i in self.vocational['Construction and Design (Vocational)']:
                     courses.append(i)
-            elif recommend == "Hospitality and Event Management":
-                for i in self.vocational['Hospitality and Event Management']:
+            elif recommend == "Hospitality and Event Management (Vocational)":
+                for i in self.vocational['Hospitality and Event Management (Vocational)']:
                     courses.append(i)
-            elif recommend == "Arts and Media":
-                for i in self.vocational['Arts and Media']:
+            elif recommend == "Arts and Media (Vocational)":
+                for i in self.vocational['Arts and Media (Vocational)']:
                     courses.append(i)
-            elif recommend == "Physical Education and Wellness":
-                courses = str(self.vocational['Physical Education and Wellness'])
-            elif recommend == "Finance, Business and Marketing":
-                for i in self.vocational['Finance, Business and Marketing']:
+            elif recommend == "Physical Education and Wellness (Vocational)":
+                courses = str(self.vocational['Physical Education and Wellness (Vocational)'])
+            elif recommend == "Finance, Business and Marketing (Vocational)":
+                for i in self.vocational['Finance, Business and Marketing (Vocational)']:
                     courses.append(i)
-            elif recommend == "Culinary Studies and Cooking":
-                for i in self.vocational['Culinary Studies and Cooking']:
+            elif recommend == "Culinary Studies and Cooking (Vocational)":
+                for i in self.vocational['Culinary Studies and Cooking (Vocational)']:
                     courses.append(i)
                     
         return str(recommend), courses, branch

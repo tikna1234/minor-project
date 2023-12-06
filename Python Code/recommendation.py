@@ -9,179 +9,179 @@ logical = 92
 cmp = 81
 
 diploma = {
-	"Computer Science and Information Technology":
+            "Computer Science and Information Technology (Diploma)":
 
-	["Diploma in Computer Science",
-	"Diploma in Digital Marketing",
-	"Diploma in Mobile App Development",
-	"Diploma in Cybersecurity",
-	"Diploma in Web Development"
-	],
+            ["Diploma in Computer Science",
+            "Diploma in Digital Marketing",
+            "Diploma in Mobile App Development",
+            "Diploma in Cybersecurity",
+            "Diploma in Web Development"
+            ],
 
-	"Mechanical and Electrical":
+            "Mechanical and Electrical (Diploma)":
 
-	["Diploma in Mechanical Engineering",
-	"Diploma in Electrical Engineering",
-	"Diploma in Automobile Engineering",
-	"Diploma in Chemical Engineering",
-	"Diploma in Mechatronics"
-	],
+            ["Diploma in Mechanical Engineering",
+            "Diploma in Electrical Engineering",
+            "Diploma in Automobile Engineering",
+            "Diploma in Chemical Engineering",
+            "Diploma in Mechatronics"
+            ],
 
-	"Electronics and Communication":
+            "Electronics and Communication (Diploma)":
 
-	["Diploma in Electronics and Communication Engineering"
-	],
+            "Diploma in Electronics and Communication Engineering"
+            ,
 
-	"Construction and Design":
+            "Construction and Design (Diploma)":
 
-	[
-	"Diploma in Architecture",
-	"Diploma in Civil Engineering",
-	"Diploma in Interior Design"
-	],
+            [
+            "Diploma in Architecture",
+            "Diploma in Civil Engineering",
+            "Diploma in Interior Design"
+            ],
 
-	"Hospitality and Event Management":
+            "Hospitality and Event Management (Diploma)":
 
-	[
-	"Diploma in Hotel Management",
-	"Diploma in Event Management",
-	"Diploma in Aviation and Hospitality Management"
-	],
+            [
+            "Diploma in Hotel Management",
+            "Diploma in Event Management",
+            "Diploma in Aviation and Hospitality Management"
+            ],
 
-	"Life Sciences and Environment":
-	[
-	"Diploma in Biotechnology",
-	"Diploma in Environmental Science",
-	"Diploma in Veterinary Science"
-	],
-	
-	"Arts and Media":
-	[
-	"Diploma in Animation and Multimedia",
-	"Diploma in Film Making and Direction",
-	"Diploma in Photography"
-	],
+            "Life Sciences and Environment (Diploma)":
+            [
+            "Diploma in Biotechnology",
+            "Diploma in Environmental Science",
+            "Diploma in Veterinary Science"
+            ],
+            
+            "Arts and Media (Diploma)":
+            [
+            "Diploma in Animation and Multimedia",
+            "Diploma in Film Making and Direction",
+            "Diploma in Photography"
+            ],
 
-	"Physical Education and Wellness":
-	[
-	"Diploma in Early Childhood Education",
-	"Diploma in Yoga and Wellness"
-	],
+            "Physical Education and Wellness (Diploma)":
+            [
+            "Diploma in Early Childhood Education",
+            "Diploma in Yoga and Wellness"
+            ],
 
-	"Finance, Business and Marketing":
-	[
-	"Diploma in Financial Accounting"
-	]
+            "Finance, Business and Marketing (Diploma)":
+            
+            "Diploma in Financial Accounting"
+            
 
-	}
+            }
 
 
 
 iti = {
-	"Computer Science and Information Technology ":
+            "Computer Science and Information Technology (ITI)":
 
-	[
-	"ITI in Computer Hardware and Networking",
-	"ITI in Information Technology",
-	"ITI in Mobile Repair and Maintenance"
-	],
+            [
+            "ITI in Computer Hardware and Networking",
+            "ITI in Information Technology",
+            "ITI in Mobile Repair and Maintenance"
+            ],
 
-	"Mechanical and Electrical":
-	[
-	 "ITI in Mechanical",
-	"ITI in Automotive Technology",
-	"ITI in Welding and Fabrication",
-	" ITI in Fitter and Turner",
-	"ITI in Machinist",
-	"ITI in Foundry and Pattern Making",
-	"ITI in CNC Operator"
-	],
+            "Mechanical and Electrical (ITI)":
+            [
+             "ITI in Mechanical",
+            "ITI in Automotive Technology",
+            "ITI in Welding and Fabrication",
+            "ITI in Fitter and Turner",
+            "ITI in Machinist",
+            "ITI in Foundry and Pattern Making",
+            "ITI in CNC Operator"
+            ],
 
-	"Electronics and Communication":
-	[
-	"ITI in Electronics and Communication",
-	"ITI in Instrumentation and Control",
-	],
+            "Electronics and Communication (ITI)":
+            [
+            "ITI in Electronics and Communication",
+            "ITI in Instrumentation and Control",
+            ],
 
-	"Construction and Design":
-	[
-	"ITI in Plumbing and Pipefitting",
-	"ITI in Carpentry and Woodworking"
-	],
+            "Construction and Design (ITI)":
+            [
+            "ITI in Plumbing and Pipefitting",
+            "ITI in Carpentry and Woodworking"
+            ],
+            
+            "Physical Education and Wellness (ITI)":
+            
+            "ITI in Beauty and Wellness"
+            
+
+            }
 	
-	"Physical Education and Wellness":
-	[
-	"ITI in Beauty and Wellness"
-	]
-
-	}
-	
 
 
-vocational = {"Computer Science and Information Technology ":
+vocational = {"Computer Science and Information Technology (Vocational)":
 
-	[
-	"Vocational Training in Data Entry and Office Automation",
-	"Vocational Training in Computer Programming",
-	"Vocational Training in Mobile App Development",
-	"Vocational Training in Web Development",
-	"Vocational Training in Computer Hardware and Networking",
-	"Vocational Training in Mobile Phone Repair Technician"
-	],
+            [
+            "Vocational Training in Data Entry and Office Automation",
+            "Vocational Training in Computer Programming",
+            "Vocational Training in Mobile App Development",
+            "Vocational Training in Web Development",
+            "Vocational Training in Computer Hardware and Networking",
+            "Vocational Training in Mobile Phone Repair Technician"
+            ],
 
-	"Mechanical and Electrical":
-	[
-	"Vocational Training in Welding Technician",
-	"Vocational Training in Automotive Technician",
-	"Vocational Training in Electrician",
-	"Vocational Training in AutoCAD and Drafting Certification",
-	"Vocational Training in Robotics and Automation Workshop",
-	"Vocational Training in Machinist and CNC Operator",
-	" Vocational Training in HVAC Technician"
-	],
-	
-	"Construction and Design":
-	[
-	"Vocational Training in Welding Technician",
-	"Vocational Training in Plumbing and Pipefitting",
-	"Vocational Training in Carpentry and Woodworking"
-	],
+            "Mechanical and Electrical (Vocational)":
+            [
+            "Vocational Training in Welding Technician",
+            "Vocational Training in Automotive Technician",
+            "Vocational Training in Electrician",
+            "Vocational Training in AutoCAD and Drafting Certification",
+            "Vocational Training in Robotics and Automation Workshop",
+            "Vocational Training in Machinist and CNC Operator",
+            " Vocational Training in HVAC Technician"
+            ],
+            
+            "Construction and Design (Vocational)":
+            [
+            "Vocational Training in Welding Technician",
+            "Vocational Training in Plumbing and Pipefitting",
+            "Vocational Training in Carpentry and Woodworking"
+            ],
 
-	"Hospitality and Event Management":
-	[
-	"Vocational Training in Hospitality and Customer Service",
-	"Vocational Training in Healthcare Assistant Training",
-	"Vocational Training in Basic First Aid and Safety Training",
-	"Vocational Training in Retail Sales and Customer Service"
-	],
+            "Hospitality and Event Management (Vocational)":
+            [
+            "Vocational Training in Hospitality and Customer Service",
+            "Vocational Training in Healthcare Assistant Training",
+            "Vocational Training in Basic First Aid and Safety Training",
+            "Vocational Training in Retail Sales and Customer Service"
+            ],
 
-	"Arts and Media":
-	[
-	"Vocational Training in Graphic design Essentials",
-	"Vocational Training in Digital Marketing Certification",
-	"Vocational Training in Photography and Videography Course",
-	"Vocational Training in Fashion Design and Tailoring",
-	"Vocational Training in Language Proficiency Course"
-	],
-	
-	"Physical Education and Wellness":
-	[
-	"Vocational Training in Beauty and Makeup Artistry"
-	],
+            "Arts and Media (Vocational)":
+            [
+            "Vocational Training in Graphic design Essentials",
+            "Vocational Training in Digital Marketing Certification",
+            "Vocational Training in Photography and Videography Course",
+            "Vocational Training in Fashion Design and Tailoring",
+            "Vocational Training in Language Proficiency Course"
+            ],
+            
+            "Physical Education and Wellness (Vocational)":
+            
+            "Vocational Training in Beauty and Makeup Artistry"
+            ,
 
-	"Finance, Business and Marketing":
-	[
-	"Vocational Training in Digital Marketing Certification",
-	"Vocational Training in Entrepreneurship and Business Skills"
-	],
+            "Finance, Business and Marketing (Vocational)":
+            [
+            "Vocational Training in Digital Marketing Certification",
+            "Vocational Training in Entrepreneurship and Business Skills"
+            ],
 
-	"Culinary Studies and Cooking":
-	[
-	"Vocational Training in Culinary arts and Cooking",
-	"Vocational Training in Baking and Pastry Arts",
-	"Vocational Training in Food Safety and Hygiene Certification"
-	]
-             }
+            "Culinary Studies and Cooking (Vocational)":
+            [
+            "Vocational Training in Culinary arts and Cooking",
+            "Vocational Training in Baking and Pastry Arts",
+            "Vocational Training in Food Safety and Hygiene Certification"
+            ]
+                 }
 
 ITI = {
     'ITI in Computer Hardware and Networking': [
@@ -743,71 +743,71 @@ def Gencourses(english, mathematics, science, social_studies, logical_reasoning,
     recommend = Printpred(english, mathematics, science, social_studies, logical_reasoning, computer, branch)
     courses = []
     if branch == 0:
-        if recommend == "Computer Science and Information Technology":
-            for i in diploma['Computer Science and Information Technology']:
+        if recommend == "Computer Science and Information Technology (Diploma)":
+            for i in diploma['Computer Science and Information Technology (Diploma)']:
                 courses.append(i)
-        elif recommend == "Mechanical and Electrical":
-            for i in diploma['Mechanical and Electrical']:
+        elif recommend == "Mechanical and Electrical (Diploma)":
+            for i in diploma['Mechanical and Electrical (Diploma)']:
                 courses.append(i)
-        elif recommend == "Electronics and Communication":
-            courses = str(self.diploma['Electronics and Communication'])
-        elif recommend == "Construction and Design":
-            for i in diploma['Construction and Design']:
+        elif recommend == "Electronics and Communication (Diploma)":
+            courses = str(diploma['Electronics and Communication (Diploma)'])
+        elif recommend == "Construction and Design (Diploma)":
+            for i in diploma['Construction and Design (Diploma)']:
                 courses.append(i)
-        elif recommend == "Hospitality and Event Management":
-            for i in diploma['Hospitality and Event Management']:
+        elif recommend == "Hospitality and Event Management (Diploma)":
+            for i in diploma['Hospitality and Event Management (Diploma)']:
                 courses.append(i)
-        elif recommend == "Life Sciences and Environment":
-            for i in diploma['Life Sciences and Environment']:
+        elif recommend == "Life Sciences and Environment (Diploma)":
+            for i in diploma['Life Sciences and Environment (Diploma)']:
                 courses.append(i)
-        elif recommend == "Arts and Media":
-            for i in diploma['Arts and Media']:
+        elif recommend == "Arts and Media (Diploma)":
+            for i in diploma['Arts and Media (Diploma)']:
                 courses.append(i)
-        elif recommend == "Physical Education and Wellness":
-            for i in diploma['Physical Education and Wellness']:
+        elif recommend == "Physical Education and Wellness (Diploma)":
+            for i in diploma['Physical Education and Wellness (Diploma)']:
                 courses.append(i)
-        elif recommend == "Finance, Business and Marketing":
-            courses = diploma['Finance, Business and Marketing']
+        elif recommend == "Finance, Business and Marketing (Diploma)":
+            courses = diploma['Finance, Business and Marketing (Diploma)']
 
     elif branch == 1:
-        if recommend == "Computer Science and Information Technology":
-            for i in iti['Computer Science and Information Technology']:
+        if recommend == "Computer Science and Information Technology (ITI)":
+            for i in iti['Computer Science and Information Technology (ITI)']:
                 courses.append(i)
-        elif recommend == "Mechanical and Electrical":
-            for i in iti['Mechanical and Electrical']:
+        elif recommend == "Mechanical and Electrical (ITI)":
+            for i in iti['Mechanical and Electrical (ITI)']:
                 courses.append(i)
-        elif recommend == "Electronics and Communication":
-            for i in iti['Electronics and Communication']:
+        elif recommend == "Electronics and Communication (ITI)":
+            for i in iti['Electronics and Communication (ITI)']:
                 courses.append(i)
-        elif recommend == "Construction and Design":
-            for i in iti['Construction and Design']:
+        elif recommend == "Construction and Design (ITI)":
+            for i in iti['Construction and Design (ITI)']:
                 courses.append(i)
-        elif recommend == "Physical Education and Wellness":
-            courses = str(iti['Physical Education and Wellness'])
+        elif recommend == "Physical Education and Wellness (ITI)":
+            courses = str(iti['Physical Education and Wellness (ITI)'])
 
     else:
-        if recommend == "Computer Science and Information Technology":
-            for i in vocational['Computer Science and Information Technology']:
+        if recommend == "Computer Science and Information Technology (Vocational)":
+            for i in vocational['Computer Science and Information Technology (Vocational)']:
                 courses.append(i)
-        elif recommend == "Mechanical and Electrical":
-            for i in vocational['Mechanical and Electrical']:
+        elif recommend == "Mechanical and Electrical (Vocational)":
+            for i in vocational['Mechanical and Electrical (Vocational)']:
                 courses.append(i)
-        elif recommend == "Construction and Design":
-            for i in vocational['Construction and Design']:
+        elif recommend == "Construction and Design (Vocational)":
+            for i in vocational['Construction and Design (Vocational)']:
                 courses.append(i)
-        elif recommend == "Hospitality and Event Management":
-            for i in vocational['Hospitality and Event Management']:
+        elif recommend == "Hospitality and Event Management (Vocational)":
+            for i in vocational['Hospitality and Event Management (Vocational)']:
                 courses.append(i)
-        elif recommend == "Arts and Media":
-            for i in vocational['Arts and Media']:
+        elif recommend == "Arts and Media (Vocational)":
+            for i in vocational['Arts and Media (Vocational)']:
                 courses.append(i)
-        elif recommend == "Physical Education and Wellness":
-            courses = str(vocational['Physical Education and Wellness'])
-        elif recommend == "Finance, Business and Marketing":
-            for i in vocational['Finance, Business and Marketing']:
+        elif recommend == "Physical Education and Wellness (Vocational)":
+            courses = str(vocational['Physical Education and Wellness (Vocational)'])
+        elif recommend == "Finance, Business and Marketing (Vocational)":
+            for i in vocational['Finance, Business and Marketing (Vocational)']:
                 courses.append(i)
-        elif recommend == "Culinary Studies and Cooking":
-            for i in vocational['Culinary Studies and Cooking']:
+        elif recommend == "Culinary Studies and Cooking (Vocational)":
+            for i in vocational['Culinary Studies and Cooking (Vocational)']:
                 courses.append(i)
     return str(recommend), courses, branch
 rec, courses, branch = Gencourses(eng, math, sci, sst, logical, cmp)
