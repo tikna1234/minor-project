@@ -11,10 +11,10 @@ def find_file_path(file_name):
     return f"File '{file_name}' not found"
 
 def Printpred(eng, math, sci, sst, logical, cmp, branch):
-    career = pd.read_excel(find_file_path('student_marksheet_final1.xlsx'))
+    career = pd.read_excel(find_file_path('student_marksheet_final3.xlsx'))
     from sklearn.preprocessing import LabelEncoder
     label_encoder = LabelEncoder()
-    career['Courses'] = label_encoder.fit_transform(career['Courses'])
+    career['Branch'] = label_encoder.fit_transform(career['Branch'])
     x = np.array(career.iloc[:, 1:8])
     y = np.array(career.iloc[:, 8])
     from sklearn.model_selection import train_test_split 

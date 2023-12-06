@@ -51,13 +51,13 @@ plt.show()'''
 
 ## Tips for weak subjects
 
-##import pandas as pd
-##tips = pd.read_excel(r"C:\Users\HP\Documents\GitHub\minor-project\Datasets\Tips_all_subjects.xlsx")
-##tips.set_index('subject',inplace = True)
-##weak = ['Mathematics','Computer']
-##for i in weak:
-##    for j in tips.loc[i].values:
-##        print(j)'''
+import pandas as pd
+tips = pd.read_excel(r"G:\reps\minor-project\Datasets\Tips_all_subjects.xlsx")
+tips.set_index('subject',inplace = True)
+#weak = ['Mathematics','Computer']
+#for i in weak:
+#    for j in tips.loc[i].values:
+#        print(j)
 
 
 
@@ -75,6 +75,9 @@ weaksubs = ['Mathematics','Computer']
 def GenTips_websites(sites, weaksubs):
     for i in weaksubs:
         print("Tips for ",i)
+        for j in tips.loc[i].values:
+            print(j)
+        print("Websites that will be helpful in your studies")
         for j in sites[i]:
             print(j)
         print("")

@@ -507,6 +507,7 @@ class Ui_ReportWindow(object):
         }
         self.Branch = 0
         self.User_id = ""
+        self.temp = ""
         self.weaksubs = []
         ReportWindow.setObjectName("ReportWindow")
         ReportWindow.resize(1000, 550)
@@ -644,15 +645,25 @@ class Ui_ReportWindow(object):
         ReportWindow.hide()
 
     def GenTipsandwebsites(self):
+        import pandas as pd
+        tips = pd.read_excel(r"G:\reps\minor-project\Datasets\Tips_all_subjects.xlsx")
+        tips.set_index('subject',inplace = True)
         for i in self.weaksubs:
-            if i in self.sites.keys():
-                self.sites[i]
+            self.temp += f"Tips for {i}\n"
+            for j in tips.loc[i].values:
+                self.temp += f"{j}\n"
+            self.temp +=f"Websites that will be helpful in your studies:\n"
+            for j in self.sites[i]:
+                self.temp += f"{j}\n"
+            self.temp += "\n"
 
     def Tips_page(self, ReportWindow):
         from Guide_page import Ui_GuideWindow
         self.window = QtWidgets.QMainWindow()
         self.ui = Ui_GuideWindow()
         self.ui.setupUi(self.window)
+        self.GenTipsandwebsites()
+        self.ui.label.setText(self.temp)
         self.ui.User_id = self.User_id
         self.window.show()
         ReportWindow.hide()

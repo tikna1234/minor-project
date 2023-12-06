@@ -13,26 +13,6 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_GuideWindow(object):
     def setupUi(self, GuideWindow):
-        education_stylesheet = """
-            QWidget {
-                background-color: #C32148; 
-                color: white; 
-            }
-            QLabel {
-                font-family: MS Shell Dlg 2;
-                font-size: 14px;
-                font-weight: bold;
-                color: black;
-            }
-            QPushButton {
-                background-color: #4CAF50;
-                color: white;
-            }
-            
-           
-        """
-        GuideWindow.setStyleSheet(education_stylesheet)
-        self.User_id = ""
         GuideWindow.setObjectName("GuideWindow")
         GuideWindow.resize(795, 629)
         self.centralwidget = QtWidgets.QWidget(GuideWindow)
@@ -45,7 +25,6 @@ class Ui_GuideWindow(object):
         self.BackButton = QtWidgets.QPushButton(self.centralwidget)
         self.BackButton.setGeometry(QtCore.QRect(18, 540, 93, 28))
         self.BackButton.setObjectName("BackButton")
-        self.BackButton.clicked.connect(lambda: self.backtoreport(GuideWindow))
         GuideWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(GuideWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 795, 26))
@@ -63,16 +42,6 @@ class Ui_GuideWindow(object):
         GuideWindow.setWindowTitle(_translate("GuideWindow", "Tips_Page"))
         self.label.setText(_translate("GuideWindow", "TextLabel"))
         self.BackButton.setText(_translate("GuideWindow", "Back to Report"))
-
-    def backtoreport(self, GuideWindow):
-        from GenerateReport import Ui_ReportWindow
-        self.window = QtWidgets.QMainWindow()
-        self.ui = Ui_ReportWindow()
-        self.ui.setupUi(self.window)
-        self.ui.User_id = self.User_id
-        self.window.show()
-        GuideWindow.hide()
-        
 
 
 if __name__ == "__main__":
