@@ -10,6 +10,8 @@
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
+import pandas as pd
+import os
 
 class Ui_ReportWindow(object):
     def setupUi(self, ReportWindow):
@@ -644,9 +646,15 @@ class Ui_ReportWindow(object):
         self.window.show()
         ReportWindow.hide()
 
+    def find_file_path(self,file_name):
+        for root, dirs, files in os.walk(os.path.abspath(os.sep)):
+            if file_name in files:
+                return os.path.join(root, file_name)
+
+        return f"File '{file_name}' not found"
+
     def GenTipsandwebsites(self):
-        import pandas as pd
-        tips = pd.read_excel(r"G:\reps\minor-project\Datasets\Tips_all_subjects.xlsx")
+        tips = pd.read_excel(self.find_file_path("Tips_all_subjects.xlsx"))
         tips.set_index('subject',inplace = True)
         for i in self.weaksubs:
             self.temp += f"Tips for {i}\n"

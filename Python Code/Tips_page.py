@@ -23,6 +23,7 @@ class Ui_TipsWindow(object):
                 font-size: 14px;
                 font-weight: bold;
                 color: white;
+                line-height: 1.6
             }
             QPushButton {
                 background-color: #4CAF50;
