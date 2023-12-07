@@ -16,3 +16,16 @@ Updates by Ruchi Ma'am
 #Index of images: Ex - 1.1, figure_name, Page No.
 #Test Report: Write test cases as Test Case 1, Test Case 2 etc.
 #Reference : Name of website
+
+
+weakness and job at top
+
+##Diploma##
+Diploma in mechatronics
+Dipoma in Electronics and communication Engineering
+
+##ITI##
+ALL courses
+
+#Vocational##
+ALL courses
