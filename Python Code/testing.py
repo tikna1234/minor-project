@@ -51,35 +51,58 @@ plt.show()'''
 
 ## Tips for weak subjects
 
+##import pandas as pd
+##tips = pd.read_excel(r"G:\reps\minor-project\Datasets\Tips_all_subjects.xlsx")
+##tips.set_index('subject',inplace = True)
+###weak = ['Mathematics','Computer']
+###for i in weak:
+###    for j in tips.loc[i].values:
+###        print(j)
+##
+##
+##
+#### websites
+##
+##sites={"English":["British Council: Offers online courses, study materials, and resources to improve English skills.","Grammarly: Provides grammar tips, exercises, and writing enhancement tools.","BBC Learning English: Offers resources for improving English language skills."],
+##               "Mathematics":["NCERT Official Website: Provides textbooks and resources aligned with the curriculum.","Khan Academy: Offers video tutorials and practice exercises covering various math topics.","Cuemath: Provides math resources and practice material for students."],
+##               "Science":["National Science Digital Library (NSDL): Offers a wide range of educational resources related to science.","TopperLearning: Provides study materials, video lessons, and practice tests for science subjects.","Embibe: Offers study materials, practice questions, and tests for science subjects."],
+##               "Social_Studies":["NCERT Official Website: Provides textbooks and resources for social studies subjects.","BYJU'S: Offers study materials, videos, and interactive content for social studies.","Meritnation: Provides study materials and resources for social studies subjects"],
+##               "Logical_Reasoning":["TCY Online: Offers practice tests and study material for logical reasoning.","Indiabix: Provides logical reasoning questions and solutions for practice.","Gradeup: Offers practice questions and quizzes for logical reasoning."],
+##               "Computer":["Codecademy: Offers coding tutorials and exercises for beginners.","Udemy: Provides various computer-related courses at different levels.","GeeksforGeeks: Offers coding challenges, articles, and tutorials related to computer science."]}
+##
+##weaksubs = ['Mathematics','Computer']
+##
+##def GenTips_websites(sites, weaksubs):
+##    for i in weaksubs:
+##        print("Tips for ",i)
+##        for j in tips.loc[i].values:
+##            print(j)
+##        print("Websites that will be helpful in your studies")
+##        for j in sites[i]:
+##            print(j)
+##        print("")
+##
+##GenTips_websites(sites, weaksubs)'''
+
+
 import pandas as pd
-tips = pd.read_excel(r"G:\reps\minor-project\Datasets\Tips_all_subjects.xlsx")
-tips.set_index('subject',inplace = True)
-#weak = ['Mathematics','Computer']
-#for i in weak:
-#    for j in tips.loc[i].values:
-#        print(j)
+import numpy as np
+import pickle
+def Printpred(eng, math, sci, sst, logical, cmp):
+    career = pd.read_excel(r"C:\Users\HP\Documents\GitHub\minor-project\Datasets\student_marksheet_final3.xlsx")
+    from sklearn.preprocessing import LabelEncoder
+    label_encoder = LabelEncoder()
+    #career['Branch'] = label_encoder.fit_transform(career['Branch'])
+    x = np.array(career.iloc[:, 1:7])
+    y = np.array(career.iloc[:, 7])
+    from sklearn.model_selection import train_test_split 
+    x_train, x_test, y_train, y_test = train_test_split(x, y,test_size = 0.3, random_state = 1)
+    from sklearn.neighbors import KNeighborsClassifier
+    from sklearn import metrics
+    scores = {}
+    knn = KNeighborsClassifier(n_neighbors=9)
+    knn.fit(x_train, y_train)
+    y_pred = knn.predict([[eng, math, sci, sst, logical, cmp]])
+    print(y_pred)
 
-
-
-## websites
-
-sites={"English":["British Council: Offers online courses, study materials, and resources to improve English skills.","Grammarly: Provides grammar tips, exercises, and writing enhancement tools.","BBC Learning English: Offers resources for improving English language skills."],
-               "Mathematics":["NCERT Official Website: Provides textbooks and resources aligned with the curriculum.","Khan Academy: Offers video tutorials and practice exercises covering various math topics.","Cuemath: Provides math resources and practice material for students."],
-               "Science":["National Science Digital Library (NSDL): Offers a wide range of educational resources related to science.","TopperLearning: Provides study materials, video lessons, and practice tests for science subjects.","Embibe: Offers study materials, practice questions, and tests for science subjects."],
-               "Social_Studies":["NCERT Official Website: Provides textbooks and resources for social studies subjects.","BYJU'S: Offers study materials, videos, and interactive content for social studies.","Meritnation: Provides study materials and resources for social studies subjects"],
-               "Logical_Reasoning":["TCY Online: Offers practice tests and study material for logical reasoning.","Indiabix: Provides logical reasoning questions and solutions for practice.","Gradeup: Offers practice questions and quizzes for logical reasoning."],
-               "Computer":["Codecademy: Offers coding tutorials and exercises for beginners.","Udemy: Provides various computer-related courses at different levels.","GeeksforGeeks: Offers coding challenges, articles, and tutorials related to computer science."]}
-
-weaksubs = ['Mathematics','Computer']
-
-def GenTips_websites(sites, weaksubs):
-    for i in weaksubs:
-        print("Tips for ",i)
-        for j in tips.loc[i].values:
-            print(j)
-        print("Websites that will be helpful in your studies")
-        for j in sites[i]:
-            print(j)
-        print("")
-
-GenTips_websites(sites, weaksubs)
+Printpred(75,	88,	76,	40,	78,	82,)
