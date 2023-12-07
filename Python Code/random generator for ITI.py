@@ -36,11 +36,11 @@ subjects = ["English", "Mathematics", "Science","Social Studies","Logical Reason
 
 # Criteria for each set of marks
 criteria = [
-    {"English": (60, 74), "Mathematics": (65, 74), "Science": (60, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (65, 74),"Course":"ITI in Computer Science and Information Technology"},
-    {"English": (60, 74), "Mathematics": (65, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (60, 74), "Computer Awareness": (65, 74),"Course":"ITI in Mechanical and Electrical"},
-    {"English": (60, 74), "Mathematics": (65, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (56, 64), "Computer Awareness": (65, 74),"Course":"ITI in Electronics and Communication"},
-    {"English": (60, 74), "Mathematics": (65, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 64),"Course":"ITI in Construction and Design"},
-    {"English": (65, 74), "Mathematics": (60, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (65, 74), "Computer Awareness": (56, 64),"Course":"ITI in Physical Education and Wellness"}
+    {"English": (60, 74), "Mathematics": (65, 74), "Science": (60, 74), "Social Studies":(40, 74), "Logical Reasoning": (60, 74), "Computer Awareness": (65, 74),"Course":"Computer Science and Information Technology (ITI)"},
+    {"English": (60, 74), "Mathematics": (65, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (60, 74), "Computer Awareness": (60, 74),"Course":"Mechanical and Electrical (ITI)"},
+    {"English": (60, 74), "Mathematics": (65, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (56, 64), "Computer Awareness": (60, 74),"Course":"Electronics and Communication (ITI)"},
+    {"English": (60, 74), "Mathematics": (65, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (60, 74), "Computer Awareness": (56, 64),"Course":"Construction and Design (ITI)"},
+    {"English": (65, 74), "Mathematics": (60, 74), "Science": (65, 74), "Social Studies":(40, 74), "Logical Reasoning": (60, 74), "Computer Awareness": (56, 64),"Course":"Physical Education and Wellness (ITI)"}
 ]
 
 # Create and write data to the CSV file
