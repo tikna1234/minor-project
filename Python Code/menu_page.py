@@ -408,8 +408,10 @@ class Ui_MenuWindow(object):
         recommend, courses, branch = self.Gencourses()
         if branch == 0:
             weaksubs = self.CheckRequirementsDiploma(interests,Diplomasubs)
-        if branch == 1:
+        if branch == 1 and interests in self.ITIReq:
             weaksubs = self.CheckRequirementsITI(interests,ITIsubs)
+        else:
+            weaksubs = self.CheckRequirementsDiploma(interests,Diplomasubs)
         self.GenReport(MenuWindow, recommend, courses, branch, weaksubs)
         
     
