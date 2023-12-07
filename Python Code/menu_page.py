@@ -202,11 +202,11 @@ class Ui_MenuWindow(object):
             ]
                  }
         
-        self.ITIReq = {"Computer Science and Information Technology":[60,65,60,40,65,65],
-          "Mechanical and Electrical":[60,65,65,40,60,65],
-          "Electronics and Communication":[60,65,65,40,56,65],
-          "Construction and Design":[60,65,65,40,65,56],
-          "Physical Education and Wellness":[65,60,65,40,65,56]}
+        self.ITIReq = {"Computer Science and Information Technology":[60,65,60,40,60,65],
+          "Mechanical and Electrical":[60,65,65,40,60,60],
+          "Electronics and Communication":[60,65,65,40,56,60],
+          "Construction and Design":[60,65,65,40,60,56],
+          "Physical Education and Wellness":[65,60,65,40,60,56]}
         self.DiplomaReq = {"Computer Science and Information and technology":[75,81,75,40,75,81] ,
               "Mechanical and Electrical":[75,81,81,40,75,75],
               "Electronics and Communication":[75,75,81,40,75,81],
