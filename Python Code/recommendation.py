@@ -607,7 +607,7 @@ Vocational = {
         'Small Business Owner',
         'Business Consultant'
     ],
-    'Vocational Training in Culinary Arts and Cooking': [
+    'Vocational Training in Culinary arts and Cooking': [
         'Cook',
         'Chef',
         'Sous Chef'
