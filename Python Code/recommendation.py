@@ -29,7 +29,7 @@ diploma = {
 
             "Electronics and Communication (Diploma)":
 
-            "Diploma in Electronics and Communication Engineering"
+            "Diploma in Electronics and Communication"
             ,
 
             "Construction and Design (Diploma)":
@@ -733,7 +733,7 @@ elif branch == 2:
             print(Vocational[j])'''
     
 '''def Gencourses(english, mathematics, science, social_studies, logical_reasoning, computer):
-    avg = (english+mathematics+science+social_studies+logical_reasoning+computer)/6*100
+    avg = (english+mathematics+science+social_studies+logical_reasoning+computer)/6
     if avg>=75:
         branch = 0
     elif avg>=55:
@@ -742,7 +742,7 @@ elif branch == 2:
         branch = 2
     recommend = Printpred(english, mathematics, science, social_studies, logical_reasoning, computer, branch)
     courses = []
-    if branch == 0:
+    if "(Diploma)" in recommend:
         if recommend == "Computer Science and Information Technology (Diploma)":
             for i in diploma['Computer Science and Information Technology (Diploma)']:
                 courses.append(i)
@@ -769,7 +769,7 @@ elif branch == 2:
         elif recommend == "Finance, Business and Marketing (Diploma)":
             courses = diploma['Finance, Business and Marketing (Diploma)']
 
-    elif branch == 1:
+    elif "(ITI)" in recommend:
         if recommend == "Computer Science and Information Technology (ITI)":
             for i in iti['Computer Science and Information Technology (ITI)']:
                 courses.append(i)
@@ -809,8 +809,74 @@ elif branch == 2:
         elif recommend == "Culinary Studies and Cooking (Vocational)":
             for i in vocational['Culinary Studies and Cooking (Vocational)']:
                 courses.append(i)
-    return str(recommend), courses, branch
-rec, courses, branch = Gencourses(eng, math, sci, sst, logical, cmp)
+    return str(recommend), courses, branch, avg
+rec, courses, branch, avg = Gencourses(eng, math, sci, sst, logical, cmp)
+print(avg)
+print(rec)
+print(courses)
+print(branch)'''
+'''def Gencourses(english, mathematics, science, social_studies, logical_reasoning, computer):
+    avg = (english+mathematics+science+social_studies+logical_reasoning+computer)/6
+    if avg>=75:
+        branch = 0
+    elif avg>=55:
+        branch = 1
+    else:
+        branch = 2
+    recommend = Printpred(english, mathematics, science, social_studies, logical_reasoning, computer, branch)
+    courses = []
+    if "(Diploma)" in recommend:
+        if recommend == "Computer Science and Information Technology (Diploma)":
+            courses = diploma.get("Computer Science and Information Technology (Diploma)", [])
+        elif recommend == "Mechanical and Electrical (Diploma)":
+            courses = diploma.get("Mechanical and Electrical (Diploma)", [])
+        elif recommend == "Electronics and Communication (Diploma)":
+            courses = diploma.get("Electronics and Communication (Diploma)", [])
+        elif recommend == "Construction and Design (Diploma)":
+            courses = diploma.get("Construction and Design (Diploma)", [])
+        elif recommend == "Hospitality and Event Management (Diploma)":
+            courses = diploma.get("Hospitality and Event Management (Diploma)", [])
+        elif recommend == "Life Sciences and Environment (Diploma)":
+            courses = diploma.get("Life Sciences and Environment (Diploma)", [])
+        elif recommend == "Arts and Media (Diploma)":
+            courses = diploma.get("Arts and Media (Diploma)", [])
+        elif recommend == "Physical Education and Wellness (Diploma)":
+            courses = diploma.get("Physical Education and Wellness (Diploma)", [])
+        elif recommend == "Finance, Business and Marketing (Diploma)":
+            courses = diploma.get("Finance, Business and Marketing (Diploma)", [])
+        
+    elif "(ITI)" in recommend:
+        if recommend == "Computer Science and Information Technology (ITI)":
+            courses = iti.get("Computer Science and Information Technology (ITI)", [])
+        elif recommend == "Mechanical and Electrical (ITI)":
+            courses = iti.get("Mechanical and Electrical (ITI)", [])
+        elif recommend == "Electronics and Communication (ITI)":
+            courses = iti.get("Electronics and Communication (ITI)", [])
+        elif recommend == "Construction and Design (ITI)":
+            courses = iti.get("Construction and Design (ITI)", [])
+        elif recommend == "Physical Education and Wellness (ITI)":
+            courses = iti.get("Physical Education and Wellness (ITI)", [])
+        
+    else:
+        if recommend == "Computer Science and Information Technology (Vocational)":
+            courses = vocational.get("Computer Science and Information Technology (Vocational)", [])
+        elif recommend == "Mechanical and Electrical (Vocational)":
+            courses = vocational.get("Mechanical and Electrical (Vocational)", [])
+        elif recommend == "Construction and Design (Vocational)":
+            courses = vocational.get("Construction and Design (Vocational)", [])
+        elif recommend == "Hospitality and Event Management (Vocational)":
+            courses = vocational.get("Hospitality and Event Management (Vocational)", [])
+        elif recommend == "Arts and Media (Vocational)":
+            courses = vocational.get("Arts and Media (Vocational)", [])
+        elif recommend == "Physical Education and Wellness (Vocational)":
+            courses = vocational.get("Physical Education and Wellness (Vocational)", [])
+        elif recommend == "Finance, Business and Marketing (Vocational)":
+            courses = vocational.get("Finance, Business and Marketing (Vocational)", [])
+        elif recommend == "Culinary Studies and Cooking (Vocational)":
+            courses = vocational.get("Culinary Studies and Cooking (Vocational)", [])
+    return recommend, courses, branch, avg
+rec, courses, branch, avg = Gencourses(eng, math, sci, sst, logical, cmp)
+print(avg)
 print(rec)
 print(courses)
 print(branch)'''
@@ -823,62 +889,21 @@ def Gencourses(english, mathematics, science, social_studies, logical_reasoning,
     else:
         branch = 2
     recommend = Printpred(english, mathematics, science, social_studies, logical_reasoning, computer, branch)
+    recommend = str(recommend).strip("['']")
     courses = []
     if "(Diploma)" in recommend:
-        if branch == 0 or branch == 1:
-            if recommend == "Computer Science and Information Technology (Diploma)":
-                courses = diploma.get("Computer Science and Information Technology (Diploma)", [])
-            elif recommend == "Mechanical and Electrical (Diploma)":
-                courses = diploma.get("Mechanical and Electrical (Diploma)", [])
-            elif recommend == "Electronics and Communication (Diploma)":
-                courses = diploma.get("Electronics and Communication (Diploma)", [])
-            elif recommend == "Construction and Design (Diploma)":
-                courses = diploma.get("Construction and Design (Diploma)", [])
-            elif recommend == "Hospitality and Event Management (Diploma)":
-                courses = diploma.get("Hospitality and Event Management (Diploma)", [])
-            elif recommend == "Life Sciences and Environment (Diploma)":
-                courses = diploma.get("Life Sciences and Environment (Diploma)", [])
-            elif recommend == "Arts and Media (Diploma)":
-                courses = diploma.get("Arts and Media (Diploma)", [])
-            elif recommend == "Physical Education and Wellness (Diploma)":
-                courses = diploma.get("Physical Education and Wellness (Diploma)", [])
-            elif recommend == "Finance, Business and Marketing (Diploma)":
-                courses = diploma.get("Finance, Business and Marketing (Diploma)", [])
-        
+        if recommend in diploma:
+            courses = diploma[recommend]
     elif "(ITI)" in recommend:
-        if branch == 0 or branch == 1:
-            if recommend == "Computer Science and Information Technology (ITI)":
-                courses = iti.get("Computer Science and Information Technology (ITI)", [])
-            elif recommend == "Mechanical and Electrical (ITI)":
-                courses = iti.get("Mechanical and Electrical (ITI)", [])
-            elif recommend == "Electronics and Communication (ITI)":
-                courses = iti.get("Electronics and Communication (ITI)", [])
-            elif recommend == "Construction and Design (ITI)":
-                courses = iti.get("Construction and Design (ITI)", [])
-            elif recommend == "Physical Education and Wellness (ITI)":
-                courses = iti.get("Physical Education and Wellness (ITI)", [])
-        
+        if recommend in iti:
+            courses = iti[recommend]
     else:
-        if branch == 2 or branch == 1:
-            if recommend == "Computer Science and Information Technology (Vocational)":
-                courses = vocational.get("Computer Science and Information Technology (Vocational)", [])
-            elif recommend == "Mechanical and Electrical (Vocational)":
-                courses = vocational.get("Mechanical and Electrical (Vocational)", [])
-            elif recommend == "Construction and Design (Vocational)":
-                courses = vocational.get("Construction and Design (Vocational)", [])
-            elif recommend == "Hospitality and Event Management (Vocational)":
-                courses = vocational.get("Hospitality and Event Management (Vocational)", [])
-            elif recommend == "Arts and Media (Vocational)":
-                courses = vocational.get("Arts and Media (Vocational)", [])
-            elif recommend == "Physical Education and Wellness (Vocational)":
-                courses = vocational.get("Physical Education and Wellness (Vocational)", [])
-            elif recommend == "Finance, Business and Marketing (Vocational)":
-                courses = vocational.get("Finance, Business and Marketing (Vocational)", [])
-            elif recommend == "Culinary Studies and Cooking (Vocational)":
-                courses = vocational.get("Culinary Studies and Cooking (Vocational)", [])
+        if recommend in vocational:
+            courses = vocational[recommend]
     return recommend, courses, branch, avg
 rec, courses, branch, avg = Gencourses(eng, math, sci, sst, logical, cmp)
 print(avg)
 print(rec)
+print(type(rec))
 print(courses)
 print(branch)
