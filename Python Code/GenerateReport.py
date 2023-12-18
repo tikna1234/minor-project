@@ -582,7 +582,7 @@ class Ui_ReportWindow(object):
         self.WeakButton.setObjectName("WeakButton")
         self.WeakButton.clicked.connect(lambda: self.Tips_page(ReportWindow))
         self.WeakLbl = QtWidgets.QLabel(self.centralwidget)
-        self.WeakLbl.setGeometry(QtCore.QRect(260, 290, 171, 101))
+        self.WeakLbl.setGeometry(QtCore.QRect(260, 290, 171, 120))
         self.WeakLbl.setStyleSheet("background-color: rgb(255, 255, 255);")
         self.WeakLbl.setObjectName("WeakLbl")
         self.label_4 = QtWidgets.QLabel(self.centralwidget)

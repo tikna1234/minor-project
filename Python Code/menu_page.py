@@ -207,7 +207,7 @@ class Ui_MenuWindow(object):
           "Electronics and Communication":[60,65,65,40,56,60],
           "Construction and Design":[60,65,65,40,60,56],
           "Physical Education and Wellness":[65,60,65,40,60,56]}
-        self.DiplomaReq = {"Computer Science and Information and technology":[75,81,75,40,75,81] ,
+        self.DiplomaReq = {"Computer Science and Information Technology":[75,81,75,40,75,81] ,
               "Mechanical and Electrical":[75,81,81,40,75,75],
               "Electronics and Communication":[75,75,81,40,75,81],
               "Construction and Design":[75,75,75,81,81,75],
@@ -408,7 +408,7 @@ class Ui_MenuWindow(object):
         recommend, courses, branch = self.Gencourses()
         if branch == 0:
             weaksubs = self.CheckRequirementsDiploma(interests,Diplomasubs)
-        if branch == 1 and interests in self.ITIReq:
+        elif branch == 1 and interests in self.ITIReq:
             weaksubs = self.CheckRequirementsITI(interests,ITIsubs)
         else:
             weaksubs = []
