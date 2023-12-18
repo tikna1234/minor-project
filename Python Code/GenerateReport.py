@@ -585,6 +585,7 @@ class Ui_ReportWindow(object):
         self.WeakLbl.setGeometry(QtCore.QRect(260, 290, 171, 120))
         self.WeakLbl.setStyleSheet("background-color: rgb(255, 255, 255);")
         self.WeakLbl.setObjectName("WeakLbl")
+        self.WeakLbl.setWordWrap(True)
         self.label_4 = QtWidgets.QLabel(self.centralwidget)
         self.label_4.setGeometry(QtCore.QRect(10, 440, 160, 16))
         font = QtGui.QFont()
